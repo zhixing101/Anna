@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    color: white;
+    background-color: teal;
+    padding: 5px;
+}
+h2 {
+    color: white;
+    background-color: teal;
+    padding: 5px;
+    margin: 0px 0px 10px 0px;
+    box-shadow: 10px 10px 10px gray;
+    text-align: center;
+}
+body {
+    background: linear-gradient(to bottom right,lemonchiffon,white);
+    padding: 15px;
+    font-family: Verdana;
+}
+
+img {
+    max-width: 80%;
+}
+
+.column1 {
+    width: 48%;
+    float: left;
+}
+
+.column2 {
+    width: 48%;
+    float: right;
+}
+
+.photo {
+    box-shadow: 10px 10px 10px gray;
+    transform: rotate(10deg);
+}
+.item {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 6px dashed teal;
+}
+
+#robots {
+    font-size: 30px;
+    color: white;
+    background: linear-gradient(green, yellow, orange, red, purple, black);
+    padding: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
