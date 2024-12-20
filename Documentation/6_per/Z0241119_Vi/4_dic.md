@@ -1,3 +1,55 @@
+## Z024/12/20（五）
+
+
+---
+
+**词源与语义分析**  
+
+**Pier**（码头）一词源自拉丁语 *petra*，意为“岩石”，通过古法语 *pierre* 演变而来。在中世纪英语中，*pier* 的含义逐渐扩展为“延伸到水中的结构，用于船只停泊或装卸货物”，也指“支撑桥梁的柱子”。  
+
+### 基本含义  
+1. **建筑结构**：码头或突堤，通常用于船只停泊、装卸货物或供人们休憩、观赏景色。  
+2. **支撑结构**：桥梁或建筑中的承重柱，用以维持整体稳定性。  
+
+### 常见同义/相关词  
+- **Dock**：码头，但更常指封闭式或固定的船只停泊区域。  
+- **Jetty**：多指小型码头，常用于防波或私人用途。  
+- **Quay**：更倾向于指港口边的岸墙，便于货物装卸。  
+
+---
+
+### 文学作品中的典型应用  
+1. **《多佛海滩》(Dover Beach) by Matthew Arnold**  
+   - **描述**：多佛海滩旁的码头成为诗中宁静与思索的象征。Arnold 用“pier”连接个人情感与广阔自然，为内心冲突提供了一个视觉起点。  
+   - **引用**：  
+     *“The sea is calm tonight, the tide is full, the moon lies fair upon the straits; on the French coast, the light gleams and is gone; the cliffs of England stand, glimmering and vast, out in the tranquil bay.”*  
+   - **作用**：码头承载了人与自然、历史的连接，象征人类文明与自然永恒的对话。
+
+2. **《了不起的盖茨比》(The Great Gatsby) by F. Scott Fitzgerald**  
+   - **描述**：书中“绿灯”位于 Daisy 住处码头的尽头。Pier 在此象征盖茨比对梦想的追求和触不可及的希望。  
+   - **引用**：  
+     *“He stretched out his arms toward the dark water in a curious way, and far as I was from him I could have sworn he was trembling. Involuntarily I glanced seaward—and distinguished nothing except a single green light, minute and far away, that might have been the end of a dock.”*  
+   - **作用**：Pier 作为延伸到未知之地的结构，寓意主人公对过去与梦想的追寻和渴望。  
+
+---
+
+### 影视作品中的应用  
+1. **《泰坦尼克号》(Titanic, 1997)**  
+   - **场景**：码头作为影片开端，Rose 和 Jack 在登船前的分界点，象征着新起点与未知命运的开启。  
+   - **分析**：码头既是连接的空间（上船开启航程）又是分离的标志（从原有生活离开），其物理特性增强了戏剧冲突。  
+
+2. **《码头风云》(On the Waterfront, 1954)**  
+   - **情节**：影片通过纽约港口的码头描绘劳工与黑社会的斗争，Pier 是权力对抗与劳动阶级生存现实的缩影。  
+   - **作用**：码头不仅是劳动的场景，还象征主角 Terry Malloy 内心道德冲突的舞台。
+
+---
+
+### 如何记忆  
+- 关联意象：Pier 像一座伸向水中的桥梁，连接着海与陆、过去与未来、梦想与现实。  
+- 词根联想：通过 *petra*（岩石），想象码头坚固稳定的特性，便于记住其主要功能。  
+
+**总结**：Pier 不仅是实用结构，还在文学和影视作品中蕴含象征意义，常代表连接、延伸与希望。
+
 ## Z024/12/19（四）
 
 “稳妥之地”的翻译和语源分析如下：
