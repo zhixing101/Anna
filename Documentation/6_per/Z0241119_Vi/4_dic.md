@@ -1,3 +1,107 @@
+## Z025年
+
+以下是“智慧胜过愚昧，如同光明胜过黑暗”的翻译和相关语源语义分析：
+
+---
+
+### **1. 翻译**
+- **希伯来语**:  
+  *החכמה עדיפה על הכסילות, כמו שהאור עדיף על החושך.*  
+  *(HaChokhmah adifa al haksilut, kemo sheha'or adif al hachoshech.)*
+
+- **希腊语**:  
+  *Η σοφία είναι ανώτερη από την ανοησία, όπως το φως είναι ανώτερο από το σκοτάδι.*  
+  *(I sofía eínai anóteri apó tin anoisía, ópos to fos eínai anótero apó to skotádi.)*
+
+- **日语**:  
+  *知恵は愚かさに勝り、光が闇に勝るようなものだ。*  
+  *(Chie wa orokasa ni masari, hikari ga yami ni masaru yōna mono da.)*
+
+- **英语**:  
+  *Wisdom is better than folly, as light is better than darkness.*
+
+- **越南语**:  
+  *Sự khôn ngoan vượt trội hơn sự ngu ngốc, giống như ánh sáng vượt trội hơn bóng tối.*
+
+---
+
+### **2. 语源语义分析**
+#### **希伯来语 (חכמה וחושך)**:
+- **חכמה (Chokhmah)**:  
+  来源于《圣经》，意指“技能、智慧、洞察力”。它不仅指知识，还包含道德和实践智慧。  
+- **כסילות (Kesilut)**:  
+  表示“愚昧、无知”，常用于描述缺乏精神启迪的人。  
+- **אור וחושך (Or veChoshech)**:  
+  “光明”和“黑暗”在《创世记》中常见，象征善恶对比和神圣启示。
+
+#### **希腊语 (Σοφία και Σκοτάδι)**:
+- **Σοφία (Sophia)**:  
+  古希腊哲学中的核心概念，意味着“智慧、知识”，也是智慧女神雅典娜的象征。  
+- **Σκοτάδι (Skotádi)**:  
+  表示“黑暗”，源于词根 *skot-*，象征混乱和无知。
+
+#### **日语 (知恵と闇)**:
+- **知恵 (Chie)**:  
+  日本文化中的“智慧”，与禅宗哲学关联，强调直观和实践的结合。  
+- **闇 (Yami)**:  
+  表示“黑暗”，在日语文学中象征内心的挣扎或未知领域。
+
+#### **英语 (Wisdom and Darkness)**:
+- **Wisdom**:  
+  源于古英语 *wīsdōm*，意思是“明智的判断”，与希腊 *Sophia* 同义。  
+- **Darkness**:  
+  从古英语 *deorc* 演化而来，常用于比喻罪恶、无知或恐惧。
+
+#### **越南语 (Khôn ngoan và Bóng tối)**:
+- **Khôn ngoan**:  
+  与儒家思想相关，强调智慧和德行的结合。  
+- **Bóng tối**:  
+  表示“黑暗”，常与压迫和无知联系在一起。
+
+---
+
+### **3. 典型例句**
+- 希伯来语:  
+  *אדם חכם יודע שהאור ינצח את החושך.*  
+  *(Adam chacham yodea sheha'or yenatzeach et hachoshech.)*  
+  翻译：智慧的人知道光明终将战胜黑暗。
+
+- 希腊语:  
+  *Η σοφία είναι το φως που οδηγεί τον δρόμο.*  
+  *(I sofía eínai to fos pou odigeí ton drómo.)*  
+  翻译：智慧是引导道路的光明。
+
+- 日语:  
+  *知恵の光は、闇を追い払う。*  
+  *(Chie no hikari wa, yami o oiharau.)*  
+  翻译：智慧之光驱散黑暗。
+
+- 英语:  
+  *The light of wisdom drives away the darkness of ignorance.*
+
+- 越南语:  
+  *Ánh sáng của sự khôn ngoan xua tan bóng tối của sự ngu dốt.*  
+  翻译：智慧的光明驱散了无知的黑暗。
+
+---
+
+### **4. 文学与影视中的用例**
+- **《圣经·传道书》（Ecclesiastes 2:13）**:  
+  原句：“我看见智慧胜过愚昧，如同光明胜过黑暗。”这是该概念的经典出处，用于强调智慧和愚昧的本质对比。
+
+- **电影《指环王》（The Lord of the Rings）**:  
+  甘道夫（Gandalf）的一句话：“All we have to decide is what to do with the time that is given us.”  
+  象征智慧引导人们走出黑暗。
+
+- **日语动漫《火影忍者》（Naruto）**:  
+  鸣人通过学习和成长克服自己的“内心黑暗”，象征智慧战胜愚昧。
+
+- **越南文学《金云翘传》**:  
+  主人公通过智慧摆脱悲剧命运，体现光明战胜黑暗的主题。
+
+这些例子展示了该概念在不同文化中的深远影响和普遍意义。
+
+
 ## Z024年
 
 ### **“像一棵树”的翻译**  
