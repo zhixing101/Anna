@@ -1,5 +1,148 @@
 ## Z024/12/25（三）
 
+### 给父亲的圣诞祝福信  
+
+亲爱的爸爸，  
+
+圣诞快乐！  
+
+今年六月为姐姐庆祝生日的场景依然让我记忆犹新。那天我们在饭店热热闹闹地聚餐，结束后又回到弟弟家一起吃蛋糕、聊天，气氛温馨又幸福。这样的家庭时光总是让我觉得特别珍贵。  
+
+希望您在新的一年里身体健康，生活顺遂。您的平安和快乐就是我们最大的心愿。也期待有机会您能来日本，再和我们团聚，一起回忆更多的美好时光。  
+
+祝愿您圣诞节平安幸福，生活舒心如意！  
+
+您的孩子  
+[你的名字]  
+
+---
+
+### 给母亲的圣诞祝福信  
+
+亲爱的妈妈，  
+
+圣诞快乐！  
+
+回想起今年六月姐姐的生日聚会，真的特别温馨。那天我们在饭店吃了一顿热闹的生日宴，之后又回到弟弟家一起分享蛋糕、聊家常，您的笑容始终是那一天最美的风景。  
+
+希望妈妈在新的一年里健康平安，永远开心。您的辛劳和爱总是默默守护着我们，是全家的幸福源泉。也希望未来有机会您能来日本，再和我们团聚，共度更多温暖的日子。  
+
+祝愿妈妈圣诞节幸福安康，生活充满温暖和喜悦！  
+
+永远爱您的  
+[你的名字]  
+
+---
+
+### 给姐姐的圣诞祝福信  
+
+亲爱的姐姐，  
+
+圣诞快乐！  
+
+还记得今年六月我们为你庆祝生日的那一天吗？在饭店的生日聚餐特别热闹，后来回到弟弟家一起吃蛋糕、聊天的时光也让人难忘。你的笑容和幸福气氛，让那一天变得格外特别。  
+
+在这个圣诞节，我衷心祝愿你身体健康，生活幸福。更希望你的爱情和婚姻一直美满甜蜜，未来的日子充满爱和喜悦。如果有机会，希望你能来日本，我们再好好聚一聚，再一起创造更多快乐的回忆！  
+
+祝你圣诞节开心幸福，每一天都充满阳光与爱！  
+
+爱你的弟弟/妹妹  
+[你的名字]  
+
+
+### 给父亲的圣诞祝福信  
+
+**英文：**  
+Dear Dad,  
+
+Merry Christmas!  
+
+The memory of celebrating Sister’s birthday in June is still fresh in my mind. That day, we had a lively dinner at the restaurant and then went to my brother’s home to share a cake and chat. The warmth and happiness of that moment are truly precious to me.  
+
+I hope you stay healthy and have a smooth life in the coming year. Your peace and happiness mean the world to us. I also look forward to the day you can visit Japan, and we can reunite and create more wonderful memories together.  
+
+Wishing you a peaceful and joyful Christmas filled with comfort and delight!  
+
+Your child,  
+[Your Name]  
+
+**日文：**  
+お父さんへ、  
+
+メリークリスマス！  
+
+6月に姉の誕生日をお祝いしたときの思い出が、今でも鮮明に心に残っています。その日はレストランで楽しい食事をして、その後、弟の家でケーキを食べながらおしゃべりを楽しみました。あの温かく幸せなひとときがとても貴重に思えます。  
+
+来年もお父さんが健康で、穏やかな日々を過ごせますように願っています。お父さんの平和と幸せが、私たち家族にとって何より大切です。日本に来て、また一緒に素晴らしい時間を過ごせる日を楽しみにしています。  
+
+平安で幸せなクリスマスをお過ごしください！  
+
+あなたの子供より  
+[Your Name]  
+
+---
+
+### 给母亲的圣诞祝福信  
+
+**英文：**  
+Dear Mom,  
+
+Merry Christmas!  
+
+The memory of celebrating Sister’s birthday in June still feels so warm. We had a wonderful birthday dinner at the restaurant, and afterward, we went to my brother’s home to share a cake and chat. Your smile was the most beautiful scene of that day.  
+
+I hope you stay healthy and joyful in the coming year. Your hard work and love quietly protect our family and bring us endless happiness. I also hope you’ll have a chance to visit Japan someday, so we can reunite and enjoy more beautiful days together.  
+
+Wishing you a Christmas full of health, happiness, and warmth!  
+
+With love always,  
+[Your Name]  
+
+**日文：**  
+お母さんへ、  
+
+メリークリスマス！  
+
+6月に姉の誕生日をお祝いした時の思い出は、とても温かい気持ちにさせてくれます。レストランで素敵な誕生日ディナーを楽しんだ後、弟の家でケーキを分け合いながらおしゃべりしました。その日のお母さんの笑顔が一番美しい思い出です。  
+
+来年もお母さんが健康で、いつも明るく過ごせますように願っています。お母さんの努力と愛情が、私たち家族をそっと守り、無限の幸せをもたらしてくれています。いつか日本に来て、また一緒に素敵な日々を過ごせる日を楽しみにしています。  
+
+健康で温かいクリスマスをお過ごしください！  
+
+いつも愛を込めて  
+[Your Name]  
+
+---
+
+### 给姐姐的圣诞祝福信  
+
+**英文：**  
+Dear Sister,  
+
+Merry Christmas!  
+
+I still vividly remember the day we celebrated your birthday in June. We had such a lively dinner at the restaurant, and afterward, we gathered at our brother’s home to share a cake and chat. Your smile and the warm atmosphere made the day incredibly special.  
+
+This Christmas, I wish you health and happiness. I also hope your love and marriage remain sweet and fulfilling, bringing even more joy into your life. If you have the chance, I’d love for you to visit Japan, so we can create more beautiful memories together.  
+
+Wishing you a joyful and happy Christmas filled with love and sunshine every day!  
+
+With love,  
+[Your Name]  
+
+**日文：**  
+お姉さんへ、  
+
+メリークリスマス！  
+
+6月にお姉さんの誕生日をお祝いした日のことが、今でも鮮やかに思い出されます。レストランで賑やかに食事を楽しんだ後、弟の家でケーキを分け合い、楽しいおしゃべりをしました。お姉さんの笑顔と温かい雰囲気が、その日を特別なものにしてくれました。  
+
+このクリスマスに、お姉さんが健康で幸せであることを願っています。また、お姉さんの愛と結婚生活がこれからも甘く満ち足りたものでありますように。もし機会があれば、ぜひ日本に来て、一緒に素敵な思い出を作りましょう。  
+
+愛と陽光に満ちた幸せなクリスマスをお過ごしください！  
+
+愛を込めて  
+[Your Name]  
 ### 给双胞胎弟弟的圣诞祝福信  
 
 亲爱的弟弟，
