@@ -1,5 +1,58 @@
 ## Z024/12/25（三）
 
+### 给双胞胎弟弟的圣诞祝福信  
+
+亲爱的弟弟，
+
+圣诞快乐！  
+
+还记得今年6月我们一起吃饭、欢聚的时光吗？那次在你家住得非常开心，和你们家一起度过的那些日子让我感到无比温馨。特别是和侄儿一起睡、聊得很晚，谈论生活、工作和梦想的那段时光，至今我都觉得特别惬意。
+
+你在建筑行业辛勤努力，事业上取得了很多成就，我为你感到骄傲。作为三个孩子的爸爸，你不仅是孩子们的榜样，也始终为他们提供温暖的家庭和支持，真是令人钦佩。
+
+在这个圣诞节，我衷心祝愿你和家人幸福安康，工作顺利，生活充实。希望明年能够有更多机会和你们一起聚会、一起聊天，分享生活中的点滴。
+
+祝福你圣诞节愉快，和家人一起度过一个充满爱和温馨的节日，期待新的一年与你和家人有更多欢聚的时刻！
+
+你弟弟/兄弟 [你的名字]
+
+### To My Twin Brother (English)
+
+Dear Brother,
+
+Merry Christmas!
+
+I still remember the wonderful time we had together in June, enjoying a meal and spending time in your home. It was such a cozy and warm experience. Sleeping with my nephew, chatting late into the night about life, work, and dreams—it was truly relaxing and memorable.
+
+You’ve worked so hard in the construction industry and have achieved so much in your career. I’m really proud of you. As a father of three, you’ve been a great role model for your kids, always providing them with a loving home and support, which is truly admirable.
+
+This Christmas, I sincerely wish you and your family good health and happiness, a successful career, and a fulfilling life. I hope we’ll have more opportunities to gather, share conversations, and enjoy each other’s company in the coming year.
+
+Wishing you a Merry Christmas and a wonderful holiday filled with love and warmth, and looking forward to more moments of joy with you and your family in the new year!
+
+Your Brother,  
+[Your Name]
+
+---
+
+### 双胞胎の弟へのクリスマスのメッセージ（日本語）
+
+親愛なる弟へ、
+
+メリークリスマス！
+
+今年の6月、あなたの家で一緒に食事をし、楽しい時間を過ごしたことをまだ覚えていますか？あの時間は本当に温かくて、心地よいものでした。侄子と一緒に寝て、夜遅くまで人生や仕事、夢について話していた時間は、今でもとても懐かしく感じています。
+
+あなたは建設業で一生懸命働き、多くの成果を上げてきました。本当に誇りに思っています。そして、3人の子供の父親として、子供たちの良い模範となり、愛情あふれる家庭を提供しているあなたは本当に立派です。
+
+このクリスマス、あなたとご家族が健康で幸せな日々を送り、仕事が順調で充実した生活が続きますように願っています。来年はもっとたくさん集まって、楽しい時間を一緒に過ごすことができるといいですね。
+
+メリークリスマス！愛と温かさに満ちた素晴らしいホリデーを過ごし、来年もあなたとご家族ともっと楽しい時間を共有できることを楽しみにしています。
+
+あなたの弟より  
+[あなたの名前]
+
+
 ### 致堂妹的女儿圣诞祝福信  
 
 亲爱的[女儿名字]：  
