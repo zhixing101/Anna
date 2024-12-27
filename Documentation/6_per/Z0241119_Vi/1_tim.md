@@ -52,8 +52,165 @@
 **新年快乐！愿主祝福你！**  
 **X叔叔敬上**  
 
+### **翻译成英文**  
 
+#### **To the Father**  
+**Dear Brother X,**  
+Happy New Year in the Lord!  
 
+As a fellow IT engineer, I greatly admire your dedication to serving in the church, especially in handling general affairs and finances. Your devotion and hard work are a blessing to the church and an example to all of us. Your care and high expectations for your children's growth and education are truly commendable, and their achievements reflect your effort and love.  
+
+In the new year, I pray that the Lord grants you wisdom in your work, protects your health, and blesses your service even more abundantly to inspire and bless others.  
+
+**Wishing you a blessed and peaceful New Year!**  
+**Sincerely, X**  
+
+---
+
+#### **To the Mother**  
+**Dear Sister X,**  
+Happy New Year!  
+
+I am truly thankful to know you and witness your faithful service in the church. Your dedication to leading the children's Sunday school with patience and love has deeply impacted the next generation of the church and encouraged many others. Your warm hospitality in welcoming church families into your home reflects the love of Christ and brings comfort and joy to everyone around you.  
+
+In the new year, I pray that the Lord grants you strength and joy to continue your service, and that you and your family experience even greater peace and blessings in Him!  
+
+**Wishing you a joyful and blessed New Year!**  
+**Sincerely, X**  
+
+---
+
+#### **To the Elder Son**  
+**Dear Brother X,**  
+Happy New Year!  
+
+I heard you are excelling at a prestigious private junior high school and have made impressive progress in kendo—well done! Your diligence and perseverance are admirable and reflect your dedication to life and learning.  
+
+In the new year, I pray for your continued success in your studies and further progress in kendo. May you also grow in faith and become a wise and loving person who shines brightly as the salt and light in your community.  
+
+**Wishing you a blessed New Year!**  
+**Sincerely, Uncle X**  
+
+---
+
+#### **To the Younger Daughter**  
+**Dear Sister X,**  
+Happy New Year!  
+
+I heard that you love animals and are very kind to them—how wonderful! Your kindness and care must bring warmth to your family and friends, and I’m sure the Lord is pleased with your love for His creations.  
+
+In the new year, I pray for your health and happiness. May you do well in school and continue to grow in the Lord’s love, becoming a wise and gentle young girl. I can’t wait to hear more about your school life and your favorite animals when we meet again!  
+
+**Wishing you a joyful and blessed New Year!**  
+**Sincerely, Uncle X**  
+
+---
+
+### **翻译成日文**  
+
+#### **お父様へ**  
+**親愛なるX兄弟、**  
+新年明けましておめでとうございます！  
+
+同じITエンジニアとして、教会の総務や財務において主に仕えるその献身的な姿勢に心から感動しています。その奉仕は教会の大きな祝福であり、私たち全員にとって模範となるものです。また、子どもたちの成長や学業に対する深い関心と高い期待は本当に素晴らしく、その成果はあなたの努力と愛情の証です。  
+
+今年一年、主があなたの仕事に知恵を与え、健康を守り、さらに豊かな奉仕を祝福されますようにお祈りいたします。  
+
+**主の平安に満ちた新年をお過ごしください！**  
+**Xより**  
+
+---
+
+#### **お母様へ**  
+**親愛なるX姉妹、**  
+新年おめでとうございます！  
+
+あなたのことを知り、教会での忠実な奉仕を目の当たりにできることに心から感謝しています。特に子どもの主日学校での愛情深いリーダーシップは、次世代に大きな影響を与え、多くの人々を励ましています。さらに、教会の仲間たちを家庭に温かく迎え入れるあなたのもてなしは、キリストの愛そのものであり、周りの人々に喜びを与えています。  
+
+新しい一年が、主によってさらなる力と喜びで満たされ、あなたとご家族に平安と祝福が豊かにありますようにお祈りします。  
+
+**新年を心からお祝い申し上げます！**  
+**Xより**  
+
+---
+
+#### **長男へ**  
+**親愛なるX君、**  
+新年おめでとうございます！  
+
+名門の私立中学校で素晴らしい成果を上げていること、そして剣道での上達も立派ですね！その努力と忍耐力は本当に立派で、生活や学びに対する真摯な姿勢を示しています。  
+
+今年一年、学業がさらに順調で、剣道でもさらなる進歩が得られるよう祈っています。また、信仰においても成長し、知恵と愛に満ちた光の子として輝いてください。  
+
+**主の祝福豊かな新年をお過ごしください！**  
+**X叔父より**  
+
+---
+
+#### **長女へ**  
+**親愛なるXちゃん、**  
+新年おめでとうございます！  
+
+動物が好きで優しい心を持っていると聞いて、とても嬉しいです。その優しさと思いやりは、家族や友人を温かくし、主もその愛を喜ばれていることでしょう。  
+
+今年一年、健康と幸せに満ちた日々が過ごせますように。学校の勉強が順調でありますように、また主の愛の中で成長し、知恵に満ちた優しい女の子になってください。次に会うとき、学校やお気に入りの動物についてたくさん話を聞かせてくださいね！  
+
+**主の平安に満ちた新年をお祈りしています！**  
+**X叔父より**  
+
+---
+
+### **翻译成越南语**  
+
+#### **Gửi người cha**  
+**Kính gửi anh X,**  
+Chúc mừng năm mới trong Chúa!  
+
+Là một kỹ sư CNTT đồng nghiệp, tôi rất ngưỡng mộ sự tận tụy của anh trong việc phục vụ nhà thờ, đặc biệt trong công việc tổng vụ và tài chính. Sự cống hiến của anh là một phước lành cho nhà thờ và là tấm gương sáng cho tất cả chúng tôi. Sự quan tâm và yêu cầu cao của anh đối với sự trưởng thành và học tập của các con cũng rất đáng khâm phục, và thành công của các con là minh chứng cho nỗ lực và tình yêu của anh.  
+
+Năm mới này, tôi cầu xin Chúa ban cho anh sự khôn ngoan trong công việc, giữ gìn sức khỏe, và chúc phước cho sự phục vụ của anh càng thêm phong phú để trở thành nguồn cảm hứng và phước lành cho nhiều người khác.  
+
+**Chúc năm mới an lành và phước lành trong Chúa!**  
+**Trân trọng, X**  
+
+---
+
+#### **Gửi người mẹ**  
+**Kính gửi chị X,**  
+Chúc mừng năm mới!  
+
+Tôi thật biết ơn khi được biết chị và chứng kiến sự phục vụ trung tín của chị trong nhà thờ. Công việc dạy học tại trường Chúa nhật thiếu nhi với sự nhẫn nại và yêu thương đã tác động sâu sắc đến thế hệ tiếp theo và khích lệ nhiều người khác. Tấm lòng hiếu khách nồng nhiệt của chị, khi chào đón các gia đình trong hội thánh về nhà, thể hiện tình yêu của Đấng Christ và mang lại niềm vui cho mọi người xung quanh.  
+
+Năm mới này, tôi cầu nguyện Chúa ban cho chị thêm sức lực và niềm vui để tiếp tục phục vụ, và gia đình chị sẽ được trải nghiệm sự bình an và phước lành lớn lao hơn từ Ngài!  
+
+**Chúc năm mới vui vẻ và phước hạnh!**  
+**Trân trọng, X**  
+
+---
+
+#### **Gửi con trai lớn**  
+**Kính gửi em X,**  
+Chúc mừng năm mới!  
+
+Anh nghe nói em đã đạt thành tích xuất sắc tại một trường trung học tư thục danh tiếng và có những tiến bộ ấn tượng trong môn kiếm đạo. Thật tuyệt vời! Sự chăm chỉ và kiên nhẫn của em rất đáng ngưỡng mộ, thể hiện tinh thần nghiêm túc trong cuộc sống và học tập.  
+
+Trong năm mới, anh cầu chúc em học tập thành công hơn nữa và tiếp tục phát triển trong môn kiếm đạo. Đồng thời, anh cũng mong em lớn lên trong đức tin, trở thành một người khôn ngoan, đầy yêu thương, và là ánh sáng cho cộng đồng của mình.  
+
+**Chúc em năm mới đầy phước hạnh!**  
+**Thân mến, chú X**  
+
+---
+
+#### **Gửi con gái nhỏ**  
+**Kính gửi bé X,**  
+Chúc mừng năm mới!  
+
+Anh nghe nói con rất yêu động vật và rất dịu dàng với chúng, thật tuyệt vời! Sự dịu dàng và quan tâm của con chắc chắn đã mang lại sự ấm áp cho gia đình và bạn bè, và anh tin rằng Chúa cũng rất vui khi thấy con yêu những tạo vật của Ngài.  
+
+Trong năm mới, anh cầu nguyện con luôn khỏe mạnh và hạnh phúc. Mong con học tập thật tốt ở trường và tiếp tục lớn lên trong tình yêu của Chúa, trở thành một cô bé khôn ngoan và dễ thương. Anh rất mong được nghe con kể về cuộc sống ở trường và những con vật yêu thích của con khi chúng ta gặp lại!  
+
+**Chúc con năm mới vui vẻ và bình an!**  
+**Thân mến, chú X**  
 
 
 ### **写给父亲的信**  
