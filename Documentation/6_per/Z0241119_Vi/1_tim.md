@@ -63,7 +63,191 @@
 **总结：**  
 针对不同家庭成员的特点，从他们的身份、信仰及生活背景出发，分别传递祝福，同时与信仰相连，体现对他们的关心与激励。
 
+### **英文翻译**  
 
+#### **To the Father**  
+**Dear Brother X,**  
+Happy New Year and blessings to you!  
+
+As we step into this new year, I pray that the Lord will bless you and your family with peace and joy. I am grateful that we share a connection in our IT work and that we can encourage one another in life. I deeply admire your dedication to both your profession and your children's growth. Your guidance and high standards have borne fruit in their remarkable achievements.  
+
+Although you don’t visit the church frequently now, I believe the Lord is always with you, gently nurturing faith within your heart. I pray that He will continue to guide you with wisdom and strength in both your family and your work, and that you may experience more spiritual touches and responses this year.  
+
+May the Lord grant you health and grace in this new year, and may you see breakthroughs in every area of your life!  
+
+**Blessings to your family in the new year!**  
+**Sincerely, X**  
+
+---
+
+#### **To the Mother**  
+**Dear Sister X,**  
+Happy New Year and peace to you!  
+
+I am deeply grateful to know you and witness your devotion and loyalty to the church’s ministry. Your prayers are powerful and inspiring, profoundly influencing our family and demonstrating the beauty of faith. Through your testimony and intercession, we have all been blessed by the gospel.  
+
+May the Lord continue to bless your family and keep you healthy and strong in your ministry. May your children not only excel academically but also grow firmly in their faith under your guidance.  
+
+Thank you for your prayers and support. Let us walk together in the Lord and witness His abundant grace!  
+
+**Blessings in the new year!**  
+**Sincerely, X**  
+
+---
+
+#### **To the Elder Son**  
+**Dear Brother X,**  
+Happy New Year to you!  
+
+First, congratulations on your outstanding academic performance! Studying law at the University of Tokyo must be challenging, but your efforts and achievements are truly inspiring. As you prepare for graduate school, you continue to make your family proud.  
+
+With the Lord’s guidance, I believe you will shine not only in academics but also in life, becoming a person of integrity, compassion, and responsibility. May you find time amidst your busy studies to pause and feel the Lord’s love and presence, as He is our ultimate source of strength.  
+
+Wishing you even greater success in your studies and life this year!  
+
+**Blessings for the new year!**  
+**Sincerely, Uncle X**  
+
+---
+
+#### **To the Younger Son**  
+**Dear Brother X,**  
+Happy New Year and peace to you!  
+
+I was thrilled to hear about your admission to an excellent private junior high school and your progression into the second year. Your hard work and perseverance have made your family and church friends proud.  
+
+This year, I encourage you to not only excel academically but also rely on the Lord, who provides guidance and strength in every situation. May you grow to be a wise and loving person, bringing joy to your family and serving as a witness for the Lord.  
+
+I look forward to meeting you again and chatting about your school life and interests. May the Lord bless you abundantly and make your youth truly extraordinary!  
+
+**Blessings for the new year!**  
+**Sincerely, Uncle X**  
+
+---
+
+### **日文翻译**  
+
+#### **お父様へ**  
+**親愛なるX兄へ：**  
+新年おめでとうございます！  
+
+新しい一年が始まりました。主があなたとご家族に平安と喜びをお与えくださることをお祈りいたします。同じITエンジニアとして働く中で、あなたと知り合い、生活でお互いを励まし合えることを感謝しています。また、仕事とお子さんたちの成長に真剣に取り組む姿勢を心から尊敬しています。あなたの努力と高い基準が、お子さんたちの素晴らしい成果に結びついていることが明らかです。  
+
+今は教会に頻繁に通えないかもしれませんが、主は常にあなたのそばにおられ、静かに信仰を育てておられると信じています。今年も、家族や仕事で主の導きを受け、さらに多くの霊的な気づきや応答が得られることを願っています。  
+
+新しい年、主が健康と恵みを与え、あらゆる分野でのさらなる成功をお祈りいたします！  
+
+**ご家族に新年の祝福を！**  
+**敬具 X**  
+
+---
+
+#### **お母様へ**  
+**親愛なるX姉妹へ：**  
+新年おめでとうございます！  
+
+あなたを知り、教会の奉仕活動におけるあなたの献身と忠実さを目にすることができ、とても感謝しています。あなたの祈りは力強く、インスピレーションを与えてくれます。そして私たち家族にも深い影響を与え、信仰の素晴らしさを示してくれました。あなたの証しと執り成しの祈りを通して、私たちは皆福音の祝福を受けました。  
+
+新しい一年、主が引き続きあなたとご家族を祝福し、あなたの健康と奉仕活動がさらに豊かにされることを願っています。また、お子さんたちが学業だけでなく、信仰面でもしっかりと成長できるよう祈っています。  
+
+祈りとサポートをありがとうございます。今年も主のもとで共に歩み、多くの恵みを目の当たりにしましょう！  
+
+**新年の祝福をお祈りしています！**  
+**敬具 X**  
+
+---
+
+#### **長男へ**  
+**親愛なるX弟兄へ：**  
+新年おめでとうございます！  
+
+まず、学業での優れた成果をお祝いします！東京大学の法学部での学びは大変な挑戦だと思いますが、あなたの努力と成果は本当に素晴らしいです。大学院進学を控え、ご家族の誇りであり続けていることを心から嬉しく思います。  
+
+主の導きのもとで、学問だけでなく人生でも輝きを放つ人になると信じています。正直さ、思いやり、責任感を備えた人として成長されることでしょう。忙しい学業生活の中でも、時々立ち止まり、主の愛と御臨在を感じる時間を持てることを願っています。主は私たちの力の源です。  
+
+今年もさらに大きな成功と祝福があることを祈っています！  
+
+**新年おめでとうございます！**  
+**敬具 X叔父**  
+
+---
+
+#### **次男へ**  
+**親愛なるX弟兄へ：**  
+新年おめでとうございます！  
+
+素晴らしい私立中学に合格し、初二に進学したと聞いて、本当に嬉しく思います。あなたの努力と忍耐が、ご家族や教会の友人に誇りを与えました。  
+
+今年は学業面で引き続き努力するだけでなく、主に頼ることも忘れないでください。主はあらゆる状況で私たちに導きと力を与えてくださいます。知恵と愛に満ちた人として成長し、ご家族に喜びをもたらし、主の証し人として歩んでください。  
+
+また会える日を楽しみにしています。その時、学校生活や趣味について話せるのを待っています！主があなたを豊かに祝福し、若い日々をさらに輝かしいものにしてくださいますように！  
+
+**新年の祝福を！**  
+**敬具 X叔父**  
+
+---
+
+### **越南语翻译**  
+
+#### **Gửi người cha**  
+**Kính gửi anh X,**  
+Chúc mừng năm mới và cầu xin phước lành đến anh!  
+
+Bước vào năm mới, tôi cầu nguyện rằng Chúa sẽ ban phước cho anh và gia đình với sự bình an và niềm vui. Tôi rất cảm kích vì chúng ta chia sẻ cùng lĩnh vực IT và có thể động viên nhau trong cuộc sống. Tôi rất khâm phục sự cống hiến của anh trong công việc và sự chăm sóc nghiêm túc dành cho sự phát triển của các con. Những tiêu chuẩn cao mà anh đặt ra đã mang lại thành quả đáng tự hào.  
+
+Dù hiện tại anh không thường xuyên đến nhà thờ, tôi tin rằng Chúa luôn ở bên anh, nhẹ nhàng vun đắp đức tin trong lòng anh. Tôi cầu nguyện rằng trong năm nay, Chúa sẽ tiếp tục dẫn dắt anh với sự khôn ngoan và sức mạnh, để anh có thể trải nghiệm nhiều hơn về sự đụng chạm và đáp ứng thuộc linh.  
+
+Cầu xin Chúa ban sức khỏe và ân điển đến anh trong năm mới, và chúc anh gặt hái được nhiều thành công hơn nữa!  
+
+**Chúc mừng năm mới đến gia đình anh!**  
+**Thân mến, X**  
+
+---
+
+#### **Gửi người mẹ**  
+**Kính gửi chị X,**  
+Chúc mừng năm mới và bình an đến với chị!  
+
+Tôi rất biết ơn vì được biết chị và chứng kiến sự tận tâm, trung thành của chị với công việc phục vụ nhà thờ. Những lời cầu nguyện của chị mạnh mẽ và truyền cảm hứng, ảnh hưởng sâu sắc đến gia đình tôi và chứng minh vẻ đẹp của đức tin. Qua lời chứng và sự cầu thay của chị, gia đình chúng tôi đã được phước từ Tin Lành.  
+
+Trong năm mới, tôi cầu xin Chúa tiếp tục ban phước lành cho gia đình chị và giữ gìn sức khỏe cũng như công việc phục vụ của chị. Tôi cũng mong rằng các con của chị không chỉ xuất sắc trong học tập mà còn vững mạnh trong đức tin nhờ sự hướng dẫn của chị.  
+
+Cảm ơn chị vì những lời cầu nguyện và sự hỗ trợ. Hãy cùng nhau bước đi trong Chúa và chứng
+
+kiến ân điển dồi dào của Ngài!  
+
+**Chúc năm mới phước lành!**  
+**Trân trọng, X**  
+
+---
+
+#### **Gửi con trai cả**  
+**Kính gửi em X,**  
+Chúc mừng năm mới!  
+
+Trước tiên, xin chúc mừng em về thành tích học tập xuất sắc! Học luật tại Đại học Tokyo chắc hẳn rất thách thức, nhưng những nỗ lực và thành tựu của em thực sự đáng khâm phục. Khi em chuẩn bị cho bậc học cao hơn, em tiếp tục làm gia đình tự hào.  
+
+Dưới sự dẫn dắt của Chúa, anh tin rằng em sẽ không chỉ tỏa sáng trong học tập mà còn trong cuộc sống, trở thành người trung thực, đầy lòng nhân ái và trách nhiệm. Anh mong rằng giữa lịch trình bận rộn, em có thể dành thời gian tĩnh lặng để cảm nhận tình yêu và sự hiện diện của Chúa, nguồn sức mạnh đích thực của chúng ta.  
+
+Chúc em một năm mới thành công hơn nữa trong học tập và cuộc sống!  
+
+**Chúc phước lành năm mới!**  
+**Thân mến, Chú X**  
+
+---
+
+#### **Gửi con trai út**  
+**Kính gửi em X,**  
+Chúc mừng năm mới!  
+
+Anh rất vui khi biết em đã thi đỗ một trường trung học tư thục xuất sắc và hiện đang học lớp 8. Sự chăm chỉ và kiên trì của em đã khiến gia đình và những người bạn tại nhà thờ tự hào.  
+
+Trong năm nay, anh khuyến khích em không chỉ nỗ lực trong học tập mà còn đặt niềm tin vào Chúa, Đấng luôn dẫn dắt và ban sức mạnh trong mọi hoàn cảnh. Anh mong em trở thành một người khôn ngoan, đầy yêu thương, mang lại niềm vui cho gia đình và làm chứng cho Chúa.  
+
+Anh rất mong được gặp lại em để trò chuyện về cuộc sống học đường và sở thích của em. Nguyện xin Chúa ban phước dồi dào và biến tuổi trẻ của em trở nên thật đặc biệt!  
+
+**Chúc phước lành năm mới!**  
+**Thân mến, Chú X**  
 
 
 ## Z024/12/25（三）
