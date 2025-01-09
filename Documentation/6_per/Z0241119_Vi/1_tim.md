@@ -4,7 +4,25 @@
 记不清第一次看十三邀是采访谁，模模糊糊的印象，单向街，单向历，银座的书店，蔡澜的饮食味道，费翔的源泉涌流，葛兆光对心即理的哲思，坂本龙一对声音的痴迷，这次古道尔对自然的追寻和敬畏。。。置身节目中，即使身处异国他乡，仍然能感受到被历史和文化支持着，仿佛心灵在探寻一处自然的原始深林，聆听生命的低语。古道尔的故事是对希望的诠释，是对未来的召唤。面对2025，我们愿以善意和行动为种子，在这片星球上种下更多的光明与希望。智慧胜过愚昧，如同光明胜过黑暗。
 
 
+以下是翻译结果：
 
+### 英文 (English):  
+I can't quite recall who was interviewed in the first episode of *Thirteen Invitations*. My faint impressions include One Way Street Library, One Way Calendar, bookstores in Ginza, Chua Lam's culinary flavors, Fei Xiang's fountain of inspiration, Ge Zhaoguang's philosophical reflections on "the mind as principle," Ryuichi Sakamoto's obsession with sound, and now Jane Goodall's quest for and reverence toward nature. Immersing myself in this program, even when abroad, I feel supported by history and culture, as if my soul is exploring an ancient natural forest, listening to the whispers of life. Goodall's story is an interpretation of hope, a call for the future. As we face 2025, may we plant more seeds of light and hope on this planet with goodwill and action. Wisdom triumphs over ignorance, just as light triumphs over darkness.
+
+### 日语 (Japanese):  
+最初に見た『十三邀』のゲストが誰だったか、はっきり覚えていません。ぼんやりとした記憶には、一条通り図書館、一条通りカレンダー、銀座の書店、蔡瀾の味わい深い食文化、費翔の湧き出るインスピレーション、葛兆光の「心即理」に関する哲学的思索、坂本龍一の音への執念、そして今回のジェーン・グドールの自然への探求と畏敬が残っています。この番組に浸っていると、たとえ異国の地にいても、歴史と文化に支えられていると感じ、まるで心が原始の森林を探検し、生命のささやきを聴いているかのようです。グドールの物語は希望の解釈であり、未来への呼びかけです。2025年を迎えるにあたり、善意と行動でこの星にもっと多くの光と希望の種を蒔きたいと思います。知恵は無知に勝り、光は闇に勝るのです。
+
+### 希伯来语 (Hebrew):  
+אני לא זוכר בדיוק מי היה המרואיין הראשון ב"תוכנית שלוש עשרה ההזמנות". הזיכרונות המעורפלים שלי כוללים את ספריית One Way Street, לוח השנה של One Way, חנויות הספרים בגינזה, הטעמים הקולינריים של צאי לאן, מעיין ההשראה של פיי שיאנג, הרהוריו הפילוסופיים של ג'ה ז'אוגואנג על "הלב הוא העיקרון", אובססיית הצלילים של ריואיצ'י סאקאמוטו, וכעת מסעה של ג'יין גודול והיראתה כלפי הטבע. כשאני צופה בתוכנית הזו, גם כשאני נמצא בארץ זרה, אני מרגיש נתמך על ידי ההיסטוריה והתרבות, כאילו נשמתי חוקרת יער טבעי קדום ומקשיבה ללחישות החיים. סיפורה של גודול הוא פירוש לתקווה, קריאה לעתיד. בשנת 2025, נזרע עוד זרעים של אור ותקווה על כוכב הלכת הזה בעזרת טוב לב ופעולה. החוכמה מנצחת את הבורות, כמו שהאור מנצח את החושך.
+
+### 希腊语 (Greek):  
+Δεν μπορώ να θυμηθώ με βεβαιότητα ποιος ήταν ο πρώτος καλεσμένος στο *Thirteen Invitations*. Οι ασαφείς εντυπώσεις μου περιλαμβάνουν τη Βιβλιοθήκη One Way Street, το Ημερολόγιο One Way, τα βιβλιοπωλεία της Γκίνζα, τις γεύσεις του Τσάι Λαν, την πηγή έμπνευσης του Φέι Σιάνγκ, τις φιλοσοφικές αναζητήσεις του Γκε Ζαογκουάνγκ για την «καρδιά ως αρχή», την εμμονή του Ρίουιτσι Σακαμότο με τον ήχο, και τώρα την αναζήτηση και δέος της Τζέιν Γκούντολ για τη φύση. Βυθισμένος σε αυτό το πρόγραμμα, ακόμη και σε ξένη χώρα, νιώθω την υποστήριξη της ιστορίας και του πολιτισμού, σαν η ψυχή μου να εξερευνά ένα αρχέγονο φυσικό δάσος, ακούγοντας τα ψιθυρίσματα της ζωής. Η ιστορία της Γκούντολ είναι μια ερμηνεία της ελπίδας, μια έκκληση για το μέλλον. Καθώς αντικρίζουμε το 2025, ας φυτέψουμε περισσότερους σπόρους φωτός και ελπίδας σε αυτόν τον πλανήτη με καλοσύνη και δράση. Η σοφία υπερισχύει της άγνοιας, όπως το φως υπερισχύει του σκότους.
+
+### 拉丁语 (Latin):  
+Non clare memini quis primus fuerit in *Thirteen Invitations* interrogatus. Tenues mei impressionibus sunt Bibliotheca Via Una, Calendarium Via Una, tabernae librariae Ginzae, gustus culinares Cai Lan, fons inspirationis Fei Xiang, meditationes philosophicae Ge Zhaoguang de "mens principium est", obsessio sonorum Ryuichi Sakamoto, et nunc Jane Goodall investigatio et reverentia naturae. Immersus in hoc programma, etiam in terris alienis, sentio me ab historia et cultura sustineri, quasi anima mea antiquam silvam naturalem exploraret, vocem vitae auscultans. Historia Goodall interpretatio spei est, vocatio ad futurum. Anno 2025 appropinquante, semina lucis et spei his in terris magis seramus cum benignitate et actione. Sapientia ignorantiam vincit, sicut lux tenebras vincit.
+
+### 越南语 (Vietnamese):  
+Tôi không nhớ rõ ai là khách mời đầu tiên của chương trình *Thirteen Invitations*. Những ấn tượng mơ hồ của tôi bao gồm Thư viện One Way Street, Lịch One Way, các hiệu sách ở Ginza, hương vị ẩm thực của Thái Lan, nguồn cảm hứng bất tận của Fei Xiang, những suy tưởng triết học của Ge Zhaoguang về "tâm là lý", niềm đam mê âm thanh của Ryuichi Sakamoto, và giờ đây là hành trình cùng lòng kính trọng của Jane Goodall đối với thiên nhiên. Đắm chìm trong chương trình, dù ở nơi đất khách quê người, tôi vẫn cảm nhận được sự ủng hộ từ lịch sử và văn hóa, như thể tâm hồn đang khám phá một khu rừng nguyên sinh, lắng nghe những tiếng thì thầm của sự sống. Câu chuyện của Goodall là sự diễn giải về hy vọng, một lời kêu gọi hướng đến tương lai. Khi đối mặt với năm 2025, hãy cùng gieo thêm nhiều hạt giống ánh sáng và hy vọng trên hành tinh này bằng lòng tốt và hành động. Trí tuệ chiến thắng sự ngu muội, cũng như ánh sáng chiến thắng bóng tối.
 
 ## Z024/12/28（六）
 
