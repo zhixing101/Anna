@@ -1,6 +1,33 @@
-## Z025/01/20
+## Z025/01/20（一）
+
+restore America promise and we will rebuild the nation that we love — and we love it so much.
 
 
+We are one people, one family, and one glorious nation under God. So, to every parent who dreams for their child and every child who dreams for their future, I am with you, I will fight for you, and I will win for you. We’re going to win like never before. (Applause.)
+
+
+Thank you. Thank you. (Applause.)
+
+Thank you. Thank you. (Applause.)
+
+In recent years, our nation has suffered greatly. But we are going to bring it back and make it great again, greater than ever before.
+
+
+We will be a nation like no other, full of compassion, courage, and exceptionalism. Our power will stop all wars and bring a new spirit of unity to a world that has been angry, violent, and totally unpredictable.
+
+
+America will be respected again and admired again, including by people of religion, faith, and goodwill. We will be prosperous, we will be proud, we will be strong, and we will win like never before.
+
+
+We will not be conquered, we will not be intimidated, we will not be broken, and we will not fail. From this day on, the United States of America will be a free, sovereign, and independent nation.
+
+
+We will stand bravely, we will live proudly, we will dream boldly, and nothing will stand in our way because we are Americans. The future is ours, and our golden age has just begun.
+
+
+Thank you. God bless America. Thank you all. Thank you. (Applause.) Thank you very much. Thank you very much. Thank you. (Applause.)
+
+Thank you. (Applause.)
 
 最重要的是，我今天想要告诉美国人的是：现在是我们再次拿出历史上最伟大文明的勇气、活力和生命力行动起来的时候了。随着我们解放我们的国家，我们将带领她达到新的胜利和成功的高度。我们不会被吓倒。我们将共同结束慢性疾病的流行，让我们的孩子安全、健康、远离疾病。
 
