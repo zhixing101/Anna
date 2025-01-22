@@ -236,12 +236,25 @@ Americans are explorers, builders, innovators, entrepreneurs, and pioneers. The 
 
 Our American ancestors turned a small group of colonies on the edge of a vast continent into a mighty republic of the most extraordinary citizens on Earth. No one comes close.
 
+Americans pushed thousands of miles through a rugged land of untamed wilderness. They crossed deserts, scaled mountains, braved untold dangers, won the Wild West, ended slavery, rescued millions from tyranny, lifted billions from poverty, harnessed electricity, split the atom, launched mankind into the heavens, and put the universe of human knowledge into the palm of the human hand. If we work together, there is nothing we cannot do and no dream we cannot achieve.
 
 
+Many people thought it was impossible for me to stage such a historic political comeback. But as you see today, here I am. The American people have spoken. (Applause.)
 
 
+I stand before you now as proof that you should never believe that something is impossible to do. In America, the impossible is what we do best. (Applause.)
 
-restore America promise and we will rebuild the nation that we love — and we love it so much.
+
+From New York to Los Angeles, from Philadelphia to Phoenix, from Chicago to Miami, from Houston to right here in Washington, D.C., our country was forged and built by the generations of patriots who gave everything they had for our rights and for our freedom.
+
+
+They were farmers and soldiers, cowboys and factory workers, steelworkers and coal miners, police officers and pioneers who pushed onward, marched forward, and let no obstacle defeat their spirit or their pride.
+
+
+Together, they laid down the railroads, raised up the skyscrapers, built great highways, won two world wars, defeated fascism and communism, and triumphed over every single challenge that they faced.
+
+
+After all we have been through together, we stand on the verge of the four greatest years in American history. With your help, we will restore America promise and we will rebuild the nation that we love — and we love it so much.
 
 
 We are one people, one family, and one glorious nation under God. So, to every parent who dreams for their child and every child who dreams for their future, I am with you, I will fight for you, and I will win for you. We’re going to win like never before. (Applause.)
