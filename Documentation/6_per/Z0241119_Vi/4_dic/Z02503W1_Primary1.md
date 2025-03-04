@@ -164,3 +164,114 @@ Z025/03/03（一）
 
 以上共 **100个** 时间相关的日语单词，包含**时间单位、一天的时间段、星期、过去未来、季节、计时方式、表达方式等**多个分类。如果你需要某个分类的更多词汇，欢迎告诉我！
 
+Z025/03/04（二）
+
+以下是**100个与“小学一年级地点”相关的日语单词**，按分类整理，并提供**中文、英文、韩文、越南文**的对应翻译。  
+
+---
+
+### **1. 校内地点（18个）**  
+学校（がっこう） 学校 school 학교 trường học  
+教室（きょうしつ） 教室 classroom 교실 lớp học  
+職員室（しょくいんしつ） 教师办公室 teachers' room 교무실 phòng giáo viên  
+校長室（こうちょうしつ） 校长室 principal’s office 교장실 phòng hiệu trưởng  
+保健室（ほけんしつ） 保健室 nurse’s office 양호실 phòng y tế  
+図書室（としょしつ） 图书室 library 도서실 thư viện  
+音楽室（おんがくしつ） 音乐室 music room 음악실 phòng nhạc  
+美術室（びじゅつしつ） 美术教室 art room 미술실 phòng mỹ thuật  
+理科室（りかしつ） 科学实验室 science lab 과학실 phòng thí nghiệm  
+体育館（たいいくかん） 体育馆 gymnasium 체육관 nhà thi đấu  
+運動場（うんどうじょう） 操场 sports ground 운동장 sân vận động  
+校庭（こうてい） 校园 schoolyard 교정 sân trường  
+正門（せいもん） 正门 main gate 정문 cổng chính  
+裏門（うらもん） 后门 back gate 후문 cổng sau  
+廊下（ろうか） 走廊 hallway 복도 hành lang  
+階段（かいだん） 楼梯 stairs 계단 cầu thang  
+靴箱（くつばこ） 鞋柜 shoe locker 신발장 tủ giày  
+下駄箱（げたばこ） 鞋柜（传统） shoe cabinet 하게타박코 tủ đựng guốc  
+
+---
+
+### **2. 课外活动相关地点（10个）**  
+運動場（うんどうじょう） 操场 playground 운동장 sân chơi  
+プール（ぷーる） 游泳池 swimming pool 수영장 bể bơi  
+砂場（すなば） 沙坑 sandbox 모래밭 bãi cát  
+ジャングルジム（じゃんぐるじむ） 攀爬架 jungle gym 정글짐 khung leo trèo  
+ブランコ（ぶらんこ） 秋千 swing 그네 xích đu  
+すべり台（すべりだい） 滑梯 slide 미끄럼틀 cầu trượt  
+鉄棒（てつぼう） 单杠 horizontal bar 철봉 xà đơn  
+バスケットコート（ばすけっとこーと） 篮球场 basketball court 농구장 sân bóng rổ  
+サッカー場（さっかーじょう） 足球场 soccer field 축구장 sân bóng đá  
+野球場（やきゅうじょう） 棒球场 baseball field 야구장 sân bóng chày  
+
+---
+
+### **3. 交通和通学相关地点（12个）**  
+駅（えき） 车站 station 역 nhà ga  
+バス停（ばすてい） 公交站 bus stop 버스 정류장 trạm xe buýt  
+交差点（こうさてん） 十字路口 intersection 교차로 ngã tư  
+横断歩道（おうだんほどう） 斑马线 crosswalk 횡단보도 vạch sang đường  
+信号（しんごう） 红绿灯 traffic light 신호 đèn tín hiệu  
+歩道（ほどう） 人行道 sidewalk 보도 vỉa hè  
+車道（しゃどう） 车道 roadway 차도 làn đường  
+橋（はし） 桥 bridge 다리 cầu  
+トンネル（とんねる） 隧道 tunnel 터널 hầm đường bộ  
+駐輪場（ちゅうりんじょう） 自行车停车场 bicycle parking lot 자전거 주차장 bãi đỗ xe đạp  
+駐車場（ちゅうしゃじょう） 停车场 parking lot 주차장 bãi đỗ xe  
+駅前（えきまえ） 车站前 station square 역 앞 trước ga  
+
+---
+
+### **4. 家庭相关地点（12个）**  
+家（いえ） 家 home 집 nhà  
+部屋（へや） 房间 room 방 phòng  
+玄関（げんかん） 玄关 entrance 현관 lối vào  
+居間（いま） 客厅 living room 거실 phòng khách  
+寝室（しんしつ） 卧室 bedroom 침실 phòng ngủ  
+台所（だいどころ） 厨房 kitchen 주방 nhà bếp  
+浴室（よくしつ） 浴室 bathroom 욕실 phòng tắm  
+トイレ（といれ） 厕所 toilet 화장실 nhà vệ sinh  
+庭（にわ） 庭院 garden 정원 vườn  
+屋根（やね） 屋顶 roof 지붕 mái nhà  
+ベランダ（べらんだ） 阳台 balcony 베란다 ban công  
+ガレージ（がれーじ） 车库 garage 차고 gara  
+
+---
+
+### **5. 城市中的地点（14个）**  
+公園（こうえん） 公园 park 공원 công viên  
+図書館（としょかん） 图书馆 library 도서관 thư viện  
+病院（びょういん） 医院 hospital 병원 bệnh viện  
+郵便局（ゆうびんきょく） 邮局 post office 우체국 bưu điện  
+銀行（ぎんこう） 银行 bank 은행 ngân hàng  
+スーパー（すーぱー） 超市 supermarket 슈퍼마켓 siêu thị  
+デパート（でぱーと） 百货商场 department store 백화점 cửa hàng bách hóa  
+コンビニ（こんびに） 便利店 convenience store 편의점 cửa hàng tiện lợi  
+レストラン（れすとらん） 餐厅 restaurant 레스토랑 nhà hàng  
+映画館（えいがかん） 电影院 movie theater 영화관 rạp chiếu phim  
+博物館（はくぶつかん） 博物馆 museum 박물관 bảo tàng  
+警察署（けいさつしょ） 警察局 police station 경찰서 đồn cảnh sát  
+消防署（しょうぼうしょ） 消防局 fire station 소방서 trạm cứu hỏa  
+動物園（どうぶつえん） 动物园 zoo 동물원 sở thú  
+
+---
+
+### **6. 自然相关地点（14个）**  
+山（やま） 山 mountain 산 núi  
+川（かわ） 河 river 강 sông  
+湖（みずうみ） 湖 lake 호수 hồ  
+海（うみ） 大海 sea 바다 biển  
+森（もり） 森林 forest 숲 rừng  
+林（はやし） 树林 woods 숲 rừng nhỏ  
+島（しま） 岛屿 island 섬 đảo  
+砂浜（すなはま） 沙滩 sandy beach 모래사장 bãi cát  
+滝（たき） 瀑布 waterfall 폭포 thác nước  
+草原（そうげん） 草原 grassland 초원 đồng cỏ  
+洞窟（どうくつ） 洞穴 cave 동굴 hang động  
+牧場（ぼくじょう） 牧场 ranch 목장 trang trại  
+田んぼ（たんぼ） 稻田 rice field 논 ruộng lúa  
+畑（はたけ） 农田 field 밭 nương  
+
+---
+
+以上共 **100个** 关于“小学一年级地点”的日语单词，按**学校、家庭、交通、城市、自然**等分类整理。如果你需要某个特定主题的扩展词汇，欢迎告诉我！
