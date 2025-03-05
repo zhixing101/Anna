@@ -328,3 +328,135 @@ Z025/03/04（二）
 
 ### **总结**  
 “哲”作为一个古汉字，主要表达智慧、哲理、哲学等含义，在东亚和西方语言中多对应“哲学”或“智慧之人”。它在学术、思想、文学等领域有广泛的应用。
+
+以下是**100个与“小学一年级事情”相关的日语单词**，提供**中文、英文、韩文、越南文**翻译及例句，并附上**10道测试题**。  
+
+---
+
+## **1. 日常生活相关（20个）**  
+朝（あさ） 早晨 morning 아침 buổi sáng  
+例句：**朝ごはんを食べます。**（吃早餐。）  
+昼（ひる） 白天 daytime 낮 ban ngày  
+夜（よる） 夜晚 night 밤 buổi tối  
+寝る（ねる） 睡觉 sleep 자다 ngủ  
+起きる（おきる） 起床 wake up 일어나다 thức dậy  
+食べる（たべる） 吃 eat 먹다 ăn  
+飲む（のむ） 喝 drink 마시다 uống  
+遊ぶ（あそぶ） 玩 play 놀다 chơi  
+勉強する（べんきょうする） 学习 study 공부하다 học  
+掃除する（そうじする） 打扫 clean 청소하다 dọn dẹp  
+洗う（あらう） 清洗 wash 씻다 rửa  
+読む（よむ） 阅读 read 읽다 đọc  
+書く（かく） 写 write 쓰다 viết  
+話す（はなす） 说话 speak 말하다 nói  
+聞く（きく） 听 listen 듣다 nghe  
+歩く（あるく） 走路 walk 걷다 đi bộ  
+走る（はしる） 跑 run 달리다 chạy  
+買う（かう） 购买 buy 사다 mua  
+作る（つくる） 制作 make 만들다 làm  
+考える（かんがえる） 思考 think 생각하다 suy nghĩ  
+
+---
+
+## **2. 学校相关（20个）**  
+授業（じゅぎょう） 课堂 lesson 수업 bài giảng  
+例句：**授業を受けます。**（上课。）  
+先生（せんせい） 老师 teacher 선생님 giáo viên  
+生徒（せいと） 学生 student 학생 học sinh  
+黒板（こくばん） 黑板 blackboard 칠판 bảng đen  
+教科書（きょうかしょ） 课本 textbook 교과서 sách giáo khoa  
+鉛筆（えんぴつ） 铅笔 pencil 연필 bút chì  
+消しゴム（けしごむ） 橡皮擦 eraser 지우개 cục tẩy  
+ノート（のーと） 笔记本 notebook 노트 vở  
+机（つくえ） 课桌 desk 책상 bàn học  
+椅子（いす） 椅子 chair 의자 ghế  
+図書館（としょかん） 图书馆 library 도서관 thư viện  
+宿題（しゅくだい） 作业 homework 숙제 bài tập về nhà  
+テスト（てすと） 测验 test 시험 bài kiểm tra  
+発表（はっぴょう） 发表 presentation 발표 phát biểu  
+グループ（ぐるーぷ） 小组 group 그룹 nhóm  
+運動会（うんどうかい） 运动会 sports day 운동회 hội thể thao  
+遠足（えんそく） 远足 excursion 소풍 dã ngoại  
+給食（きゅうしょく） 供餐 school lunch 급식 cơm trưa trường  
+合唱（がっしょう） 合唱 chorus 합창 hợp xướng  
+成績（せいせき） 成绩 grades 성적 thành tích  
+
+---
+
+## **3. 家庭和社会（20个）**  
+家族（かぞく） 家人 family 가족 gia đình  
+例句：**家族と旅行します。**（和家人旅行。）  
+父（ちち） 父亲 father 아버지 bố  
+母（はは） 母亲 mother 어머니 mẹ  
+兄（あに） 哥哥 older brother 형 anh trai  
+姉（あね） 姐姐 older sister 누나 chị gái  
+弟（おとうと） 弟弟 younger brother 남동생 em trai  
+妹（いもうと） 妹妹 younger sister 여동생 em gái  
+友達（ともだち） 朋友 friend 친구 bạn bè  
+動物（どうぶつ） 动物 animal 동물 động vật  
+植物（しょくぶつ） 植物 plant 식물 thực vật  
+公園（こうえん） 公园 park 공원 công viên  
+病院（びょういん） 医院 hospital 병원 bệnh viện  
+警察（けいさつ） 警察 police 경찰 cảnh sát  
+消防車（しょうぼうしゃ） 消防车 fire truck 소방차 xe cứu hỏa  
+郵便局（ゆうびんきょく） 邮局 post office 우체국 bưu điện  
+銀行（ぎんこう） 银行 bank 은행 ngân hàng  
+店（みせ） 商店 store 가게 cửa hàng  
+電車（でんしゃ） 电车 train 전철 tàu điện  
+飛行機（ひこうき） 飞机 airplane 비행기 máy bay  
+駅（えき） 车站 station 역 nhà ga  
+
+---
+
+## **4. 时间相关（20个）**  
+今（いま） 现在 now 지금 bây giờ  
+例句：**今何時ですか？**（现在几点？）  
+昨日（きのう） 昨天 yesterday 어제 hôm qua  
+今日（きょう） 今天 today 오늘 hôm nay  
+明日（あした） 明天 tomorrow 내일 ngày mai  
+週（しゅう） 星期 week 주 tuần  
+月（つき） 月份 month 월 tháng  
+年（とし） 年 year 년 năm  
+春（はる） 春天 spring 봄 mùa xuân  
+夏（なつ） 夏天 summer 여름 mùa hè  
+秋（あき） 秋天 autumn 가을 mùa thu  
+冬（ふゆ） 冬天 winter 겨울 mùa đông  
+朝（あさ） 早晨 morning 아침 buổi sáng  
+昼（ひる） 中午 noon 낮 buổi trưa  
+夕方（ゆうがた） 傍晚 evening 저녁 buổi tối  
+夜（よる） 夜晚 night 밤 đêm  
+時間（じかん） 时间 time 시간 thời gian  
+時計（とけい） 时钟 clock 시계 đồng hồ  
+曜日（ようび） 星期 day of the week 요일 thứ  
+休み（やすみ） 休息 holiday 휴일 ngày nghỉ  
+
+---
+
+## **5. 事件和节日（20个）**  
+誕生日（たんじょうび） 生日 birthday 생일 sinh nhật  
+例句：**誕生日パーティーをします。**（举办生日派对。）  
+お正月（おしょうがつ） 新年 New Year 설날 tết  
+ひな祭り（ひなまつり） 女儿节 Doll’s Festival 히나마츠리 lễ hội búp bê  
+子どもの日（こどものひ） 儿童节 Children’s Day 어린이날 ngày thiếu nhi  
+クリスマス（くりすます） 圣诞节 Christmas 크리스마스 Giáng sinh  
+花火大会（はなびたいかい） 烟花大会 fireworks festival 불꽃놀이 lễ hội pháo hoa  
+卒業式（そつぎょうしき） 毕业典礼 graduation ceremony 졸업식 lễ tốt nghiệp  
+七夕（たなばた） 七夕 Tanabata Festival 칠석 Thất Tịch  
+運動会（うんどうかい） 运动会 sports festival 운동회 hội thể thao  
+
+---
+
+## **测试题（10道）**  
+1. “学校”用日语怎么说？  
+2. “吃”用日语怎么说？  
+3. “夜晚”用日语怎么说？  
+4. “火车站”用日语怎么说？  
+5. “圣诞节”用日语怎么说？  
+6. “动物”用日语怎么说？  
+7. “家人”用日语怎么说？  
+8. “黑板”用日语怎么说？  
+9. “跑步”用日语怎么说？  
+10. “星期”用日语怎么说？  
+
+**（答案可以在上面词汇中查找！）**
+
