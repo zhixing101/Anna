@@ -1,5 +1,26 @@
 ## Z025/03/06（四）自我作古
 
+### **自我作古（自ら古となる / 自我作古 / 자기 자신을 과거로 만들다 / Tự mình trở thành quá khứ / להפוך את עצמו לעבר）**  
+
+#### **中文**  
+明治维新之际，日本在风雨飘摇中抉择未来的方向。福泽谕吉以《劝学篇》唤醒民智，提出“独立自尊”之说。他主张摆脱封建束缚，吸收西方文明，以崭新的姿态立足于世界。这种思想的本质，正是“自我作古”——主动告别旧时代，以新的身份迎接未来。正如日本社会在封建制度崩塌后，毅然迈向近代化，每一次革新，都是对过去的超越，也是对未来的承诺。  
+
+#### **English**  
+During the Meiji Restoration, Japan stood at a crossroads, deciding its future path. Fukuzawa Yukichi, through his work *An Encouragement of Learning*, awakened the people's intellect and advocated for "independence and self-respect." He urged Japan to break free from feudal constraints, embrace Western civilization, and establish a new identity in the modern world. This ideology embodies the essence of *self-renewal*—consciously bidding farewell to the old era to embrace the future. Just as Japan transformed itself after the fall of feudalism, every reform was both a departure from the past and a commitment to the future.  
+
+#### **日本語**  
+明治維新の時、日本は風雨にさらされながら未来の道を模索していた。福沢諭吉は『学問のすゝめ』を通じて国民の知識を啓発し、「独立自尊」という理念を提唱した。彼は封建的な束縛を断ち切り、西洋文明を受け入れ、新たな姿で世界に立つことを主張した。この思想の本質こそ、「自ら古となる」、すなわち過去と決別し、新たな時代を迎え入れることである。封建制度の崩壊後の日本社会の近代化は、まさにその証明であり、過去を超え、未来へと進む意思の表れであった。  
+
+#### **한국어**  
+메이지 유신 당시, 일본은 변화의 갈림길에서 미래를 선택해야 했다. 후쿠자와 유키치는 *학문의 권장*을 통해 국민의 의식을 깨우고 "독립 자존" 사상을 주창했다. 그는 봉건적 속박에서 벗어나 서구 문명을 받아들이고 새로운 정체성을 확립할 것을 주장했다. 이러한 사상은 바로 *자기 자신을 과거로 만들다*—즉, 과거와 단절하고 새로운 시대를 맞이하는 것을 의미한다. 일본 사회가 봉건제를 무너뜨리고 근대화로 나아간 것처럼, 모든 개혁은 과거를 넘어 미래를 향한 약속이었다.  
+
+#### **Tiếng Việt**  
+Trong thời Minh Trị Duy Tân, Nhật Bản đứng trước ngã rẽ quyết định con đường tương lai. Fukuzawa Yukichi, thông qua *Khuyến Học Luận*, đã thức tỉnh trí tuệ nhân dân và đề xướng tư tưởng "độc lập tự tôn." Ông kêu gọi Nhật Bản thoát khỏi ràng buộc phong kiến, tiếp thu văn minh phương Tây và xây dựng một bản sắc mới trong thế giới hiện đại. Tư tưởng này chính là *tự mình trở thành quá khứ*—tức là chủ động từ bỏ thời đại cũ để đón nhận tương lai. Giống như Nhật Bản đã hiện đại hóa sau khi chế độ phong kiến sụp đổ, mỗi cuộc cải cách đều là sự vượt qua quá khứ và cam kết với tương lai.  
+
+#### **עברית**  
+בתקופת רסטורציית מייג'י, יפן עמדה בצומת דרכים והחליטה על עתידה. פוקוזאווה יוקיצ'י, באמצעות ספרו *עידוד הלמידה*, עורר את תבונת הציבור וקידם את רעיון "עצמאות וכבוד עצמי". הוא דגל בניתוק מכבלי הפיאודליזם, באימוץ התרבות המערבית ובהקמת זהות חדשה בעולם המודרני. רעיון זה מגלם את משמעות *להפוך את עצמו לעבר*—כלומר, להיפרד מהעבר באופן מודע ולצעוד לעבר העתיד. כפי שיפן התחדשה לאחר נפילת הפיאודליזם, כל רפורמה הייתה גם פרידה מן העבר וגם הבטחה לעתיד.
+
+
 ### **“自我作古”——语源与语义探析**  
 
 “自我作古”是一个较为罕见但耐人寻味的成语，意指**一个人主动将自己视为过去的人，抛弃旧有身份或思想，以全新的姿态行事**。这一表达常用于强调个体的决绝态度，意味着革新、自我超越，甚至某种精神上的断裂。  
