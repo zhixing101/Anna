@@ -22,6 +22,32 @@ Music and art are important means of expressing emotions and culture. Music move
 
 もし他に調整が必要でしたら、お知らせください！
 
+### **日本語（原文）**：  
+音楽と美術は、私たちの生活に彩りを与えてくれる存在です。好きな音楽を聴けば気分が上がり、美しい絵を見ると心が落ち着きます。辛い時には音楽が励ましてくれ、芸術が心の癒しになります。日常の中で、音楽と美術は私たちをそっと支えてくれる大切なものです。  
+
+---
+
+### **中文**：  
+音乐和美术让我们的生活更加丰富多彩。听一首喜欢的歌，心情会变好；欣赏一幅美丽的画，内心会变得平静。难过的时候，音乐能安慰我们，艺术能治愈我们的心灵。在日常生活中，音乐和美术就像温柔的朋友，默默地支持着我们。  
+
+### **英語**：  
+Music and art bring color to our lives. Listening to a favorite song can lift our mood, and looking at a beautiful painting can calm our hearts. When we feel down, music can comfort us, and art can heal our souls. In everyday life, music and art quietly support us like gentle friends.  
+
+### **韓国語**：  
+음악과 미술은 우리의 삶을 더욱 풍요롭게 만듭니다. 좋아하는 노래를 들으면 기분이 좋아지고, 아름다운 그림을 보면 마음이 편안해집니다. 힘들 때 음악은 우리를 위로해 주고, 예술은 마음을 치유해 줍니다. 일상 속에서 음악과 미술은 마치 다정한 친구처럼 우리를 조용히 응원해 줍니다.  
+
+### **ベトナム語**：  
+Âm nhạc và mỹ thuật làm cho cuộc sống của chúng ta trở nên phong phú hơn. Khi nghe một bài hát yêu thích, tâm trạng sẽ tốt hơn; khi ngắm một bức tranh đẹp, tâm hồn sẽ trở nên bình yên. Khi buồn bã, âm nhạc có thể an ủi chúng ta, và nghệ thuật có thể chữa lành tâm hồn. Trong cuộc sống hàng ngày, âm nhạc và mỹ thuật giống như những người bạn thân thiết, âm thầm ủng hộ chúng ta.  
+
+### **ヘブライ語**：  
+מוזיקה ואמנות מוסיפות צבע לחיינו. האזנה לשיר אהוב יכולה לשפר את מצב הרוח, והסתכלות על ציור יפה יכולה להרגיע את הנפש. כשאנו מרגישים עצובים, מוזיקה מנחמת אותנו, ואמנות מרפאה את הנשמה. בחיי היומיום, מוזיקה ואמנות הן כמו חברים טובים שתומכים בנו בשקט.  
+
+---
+
+这段话让音乐和美术更贴近生活，展现它们对人心的慰藉和影响。希望你喜欢这个版本！如果有任何调整需求，请告诉我。
+
+
+
 
 ## Z025/03/06（四）自我作古
 
