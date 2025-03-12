@@ -46,7 +46,49 @@ Music and art bring color to our lives. Listening to a favorite song can lift ou
 
 这段话让音乐和美术更贴近生活，展现它们对人心的慰藉和影响。希望你喜欢这个版本！如果有任何调整需求，请告诉我。
 
+### **日本語（原文）**：  
+音楽と美術は、私たちの生活に欠かせない存在です。忙しい毎日の中で、お気に入りの音楽を聴くと気分がリフレッシュされ、美しい絵や写真を眺めると心が落ち着きます。音楽は思い出と結びつきやすく、懐かしい曲を聴くと、過去の楽しい瞬間がよみがえります。一方、美術は私たちの感性を刺激し、新しい視点や想像力を育ててくれます。  
 
+また、音楽と美術は人と人をつなぐ力を持っています。コンサートで同じ音楽を楽しんだり、美術館で同じ作品を眺めたりすることで、言葉がなくても気持ちを共有できます。悲しい時には音楽が励ましてくれ、芸術が心を癒してくれます。音楽と美術があるからこそ、私たちの生活はより豊かで温かみのあるものになるのです。  
+
+---  
+
+### **中文**：  
+音乐和美术是我们生活中不可或缺的一部分。在忙碌的日常中，听一首喜欢的音乐，可以让人精神焕发；欣赏一幅美丽的画作或照片，也能让内心得到片刻的宁静。音乐往往与回忆相连，当熟悉的旋律响起，那些美好的时光便浮现在脑海中。而美术则能够激发我们的感受力，培养新的视角和想象力，让我们看到世界的不同可能性。  
+
+此外，音乐和美术也能拉近人与人之间的距离。一起欣赏一场音乐会，或是在美术馆里共同感受一件作品，即使不需要语言，也能心灵相通。当我们感到疲惫或低落时，音乐能给予鼓励，美术能带来安慰。正是因为有了音乐和美术，我们的生活才变得更加丰富、有温度，更加充满情感。  
+
+---  
+
+### **英語**：  
+Music and art are essential parts of our lives. In our busy daily routines, listening to a favorite song can refresh our minds, and looking at a beautiful painting or photograph can bring a sense of peace. Music is often tied to memories, and when we hear a familiar tune, it can bring back moments of joy from the past. On the other hand, art stimulates our senses, nurtures new perspectives, and expands our imagination, helping us see the world in different ways.  
+
+Moreover, music and art have the power to connect people. Attending a concert together or admiring an artwork in a gallery allows us to share emotions without the need for words. When we feel down, music can lift our spirits, and art can provide comfort. With music and art in our lives, our world becomes richer, warmer, and filled with deeper emotions.  
+
+---  
+
+### **韓国語**：  
+음악과 미술은 우리 삶에서 빼놓을 수 없는 존재입니다. 바쁜 일상 속에서 좋아하는 음악을 들으면 기분이 전환되고, 아름다운 그림이나 사진을 감상하면 마음이 차분해집니다. 음악은 종종 추억과 연결되어 있어, 익숙한 멜로디가 들리면 과거의 행복한 순간들이 떠오릅니다. 반면 미술은 우리의 감성을 자극하고, 새로운 시각과 상상력을 키워주어 세상을 다채롭게 바라볼 수 있도록 해 줍니다.  
+
+또한, 음악과 미술은 사람들을 연결하는 힘을 가지고 있습니다. 함께 콘서트를 즐기거나 미술관에서 같은 작품을 감상하는 것만으로도, 말없이 감정을 나눌 수 있습니다. 힘들 때 음악이 우리를 위로해 주고, 예술이 마음의 치유가 되어 줍니다. 음악과 미술이 있기에 우리의 삶은 더욱 풍요롭고 따뜻하며, 감동이 가득한 세상이 됩니다.  
+
+---  
+
+### **ベトナム語**：  
+Âm nhạc và mỹ thuật là những phần không thể thiếu trong cuộc sống của chúng ta. Trong những ngày bận rộn, nghe một bài hát yêu thích có thể giúp ta thư giãn, và ngắm một bức tranh đẹp hay một bức ảnh có thể mang lại sự bình yên trong tâm hồn. Âm nhạc thường gắn liền với kỷ niệm, khi một giai điệu quen thuộc vang lên, những khoảnh khắc vui vẻ trong quá khứ sẽ hiện lên trong tâm trí. Trong khi đó, mỹ thuật kích thích cảm xúc, giúp ta có những góc nhìn mới và mở rộng trí tưởng tượng, làm cho thế giới trở nên phong phú hơn.  
+
+Hơn nữa, âm nhạc và mỹ thuật có sức mạnh kết nối con người. Khi cùng nhau thưởng thức một buổi hòa nhạc hoặc ngắm một tác phẩm nghệ thuật trong bảo tàng, chúng ta có thể chia sẻ cảm xúc mà không cần lời nói. Khi cảm thấy buồn bã hay mệt mỏi, âm nhạc có thể cổ vũ chúng ta, và nghệ thuật có thể mang lại sự an ủi. Nhờ có âm nhạc và mỹ thuật, cuộc sống của chúng ta trở nên phong phú, ấm áp và đầy cảm xúc hơn.  
+
+---  
+
+### **ヘブライ語**：  
+מוזיקה ואמנות הן חלק בלתי נפרד מחיינו. בימים עמוסים, האזנה לשיר אהוב יכולה לרענן את מצב הרוח שלנו, והתבוננות בציור או בתצלום יפה יכולה להביא שלווה לנפש. מוזיקה קשורה לעיתים קרובות לזיכרונות, וכאשר אנו שומעים מנגינה מוכרת, רגעים שמחים מהעבר עולים מחדש. אמנות, לעומת זאת, מעוררת את חושינו, מטפחת נקודות מבט חדשות ומרחיבה את הדמיון שלנו, ועוזרת לנו לראות את העולם בדרכים שונות.  
+
+בנוסף, למוזיקה ולאמנות יש כוח לחבר בין אנשים. כאשר אנו נהנים יחד מהופעה מוזיקלית או מביטים ביצירה בגלריה, אנו יכולים לחלוק רגשות מבלי שנצטרך לדבר. כשאנו חשים עייפות או עצב, מוזיקה יכולה להרים את רוחנו, ואמנות יכולה להעניק נחמה. עם מוזיקה ואמנות בחיינו, עולמנו הופך לעשיר יותר, חם יותר ומלא רגש עמוק.  
+
+---  
+
+这个版本更加贴近生活，突出音乐和美术在情感、回忆、人际关系中的作用，并且翻译更加自然。如果有任何调整需求，请告诉我！
 
 
 ## Z025/03/06（四）自我作古
