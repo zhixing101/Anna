@@ -86,9 +86,49 @@ In conclusion, listening and speaking are not opposing forces but mutually suppo
 
 결론적으로, 듣기와 말하기는 상반되는 개념이 아니라 서로 보완하는 요소입니다. 충분한 입력과 적절한 출력 훈련을 조화롭게 병행하면, 효과적으로 언어 능력을 향상시킬 수 있습니다.  
 
+### **越南语翻译**  
+
+#### **Nghe và Nói: Cân Bằng Trong Việc Tiếp Thu Ngôn Ngữ**  
+
+Trong quá trình tiếp thu ngôn ngữ, "nghe" và "nói" là hai kỹ năng cơ bản nhất, đại diện cho đầu vào (input) và đầu ra (output). Hai kỹ năng này bổ trợ cho nhau và đều quan trọng. Tuy nhiên, làm thế nào để cân bằng chúng một cách hiệu quả là một vấn đề mà người học cần quan tâm.  
+
+**1. Nghe là nền tảng, quyết định chất lượng đầu vào**  
+Bước đầu tiên trong việc học ngôn ngữ là nghe. Trẻ sơ sinh chưa thể nói ngay từ đầu, nhưng chúng tích lũy từ vựng, nắm bắt các mẫu ngữ pháp và dần dần tiếp thu cách phát âm, ngữ điệu thông qua việc nghe liên tục. Điều này cho thấy rằng, nghe là một quá trình tiếp nhận ngôn ngữ vô cùng quan trọng.  
+
+Trong việc học ngôn ngữ thứ hai, nghe cũng giữ vai trò quan trọng. Khi tiếp xúc với cách phát âm và cách diễn đạt của người bản xứ, người học có thể hấp thụ quy tắc ngôn ngữ một cách vô thức. Ví dụ, nghe podcast hoặc xem phim giúp người học làm quen với cấu trúc ngôn ngữ, giống như một máy tính học từ dữ liệu – đầu vào càng nhiều, đầu ra càng hiệu quả.  
+
+**2. Nói là đầu ra, kiểm tra năng lực ngôn ngữ**  
+Tuy nhiên, chỉ có đầu vào là chưa đủ. Nói đóng vai trò như một quá trình đầu ra, giúp người học củng cố và ứng dụng kiến thức đã học. Điều này tương tự như việc chạy một chương trình để kiểm tra xem nó có hoạt động đúng không.  
+
+Nhiều người học gặp phải vấn đề "nghe hiểu nhưng không nói được", điều này cho thấy họ có đủ đầu vào nhưng thiếu thực hành đầu ra. Ví dụ, khi học tiếng Nhật hoặc tiếng Anh, ngay cả khi kỹ năng nghe tốt, nếu không luyện nói thường xuyên, người học vẫn có thể gặp khó khăn khi giao tiếp.  
+
+**3. Cân bằng giữa đầu vào và đầu ra**  
+Tỷ lệ giữa đầu vào và đầu ra nên được điều chỉnh theo từng giai đoạn học tập. Ở giai đoạn sơ cấp, người học nên "nghe nhiều, nói ít" để đảm bảo tích lũy đủ thông tin đầu vào. Khi đạt đến trình độ trung cấp hoặc cao cấp, người học nên tăng cường thực hành đầu ra thông qua các bài tập như lặp lại (shadowing), tóm tắt và hội thoại tự do.  
+
+Tóm lại, nghe và nói không phải là hai yếu tố đối lập mà là hai phần bổ trợ cho nhau trong quá trình học ngôn ngữ. Bằng cách đảm bảo đủ đầu vào và kết hợp luyện tập đầu ra hợp lý, người học có thể nâng cao năng lực ngôn ngữ một cách hiệu quả.  
+
 ---
 
-越南语和希伯来语翻译较长，若需要请告诉我！
+### **希伯来语翻译**  
+
+#### **האזנה ודיבור: איזון ברכישת שפה**  
+
+בתהליך רכישת שפה, "האזנה" ו"דיבור" הם שני הכישורים הבסיסיים ביותר, המהווים את עיקר תהליך הקלט (input) והפלט (output). שני היבטים אלו משלימים זה את זה ושניהם חיוניים. עם זאת, איזון נכון ביניהם הוא אתגר מרכזי עבור לומדי שפות.  
+
+**1. האזנה כבסיס: קובעת את איכות הקלט**  
+השלב הראשון בלימוד שפה הוא האזנה. תינוקות אינם מסוגלים לדבר בתחילת חייהם, אך הם צוברים אוצר מילים, לומדים מבנים תחביריים ורוכשים באופן טבעי הגייה ואינטונציה באמצעות האזנה מרובה. עובדה זו מעידה על כך שהאזנה היא שלב קריטי בתהליך רכישת השפה.  
+
+בלימוד שפה שנייה, האזנה היא לא פחות חשובה. כאשר אנו שומעים את שפת האם של הדוברים, אנו יכולים לספוג את חוקי השפה באופן בלתי מודע. לדוגמה, האזנה לפודקאסטים או צפייה בסרטים מסייעת ללומדים להפנים מבנים לשוניים, בדומה לאופן שבו מחשב לומד ממידע – ככל שהקלט עשיר יותר, כך הפלט יהיה טוב יותר.  
+
+**2. דיבור כפלט: בדיקת היכולת הלשונית**  
+עם זאת, קלט בלבד אינו מספיק. דיבור משמש כתהליך הפלט, המאפשר ללומדים להפוך את הידע שנצבר לכישור מעשי. ניתן להשוות זאת להרצת תוכנה כדי לבדוק אם היא מתפקדת כראוי.  
+
+רבים מהלומדים נתקלים בבעיה של "מבינים אבל לא יכולים לדבר", דבר המעיד על קלט מספק אך חוסר בתרגול פלט. לדוגמה, גם אם תלמידים בשפה היפנית או האנגלית מפתחים הבנה טובה של השפה דרך האזנה, חוסר תרגול בדיבור עלול לגרום לקשיים בהבעה שוטפת.  
+
+**3. איזון בין קלט לפלט**  
+חשוב להתאים את היחס בין הקלט לפלט בהתאם לרמת הלימוד. בשלב המתחילים, מומלץ "להאזין יותר ולדבר פחות" כדי להבטיח בסיס טוב של קלט. בשלבים מתקדמים יותר, יש להגדיל את תרגול הפלט באמצעות טכניקות כמו חזרה קולית (shadowing), סיכום ושיחה חופשית.  
+
+לסיכום, האזנה ודיבור אינם הפכים אלא מרכיבים משלימים בלימוד שפה. על ידי הקפדה על קלט מספיק ושילוב של תרגול פלט מתאים, ניתן לשפר את מיומנות השפה ביעילות.  
 
 
 ## Z025/03/12（三）音乐和美术
