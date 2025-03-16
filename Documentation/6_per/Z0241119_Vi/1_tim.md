@@ -1,3 +1,15 @@
+## Z025/03/16（日）
+
+私は中国人で、現在日本で働いています。また、日本語、英語、韓国語、ベトナム語の4つの言語を学習しています。最近、日本の小学校の教材に出てくる漢字を勉強しており、それらの漢字の4言語翻訳を整理しています。以下のリンクを参考にできます。
+
+I am Chinese and currently working in Japan. I am also learning four languages: Japanese, English, Korean, and Vietnamese. Recently, I have been studying kanji from Japanese elementary school textbooks and organizing their translations into these four languages.You can refer to the link below.
+
+저는 중국인이고 현재 일본에서 일하고 있습니다. 또한 일본어, 영어, 한국어, 베트남어 등 네 가지 언어를 공부하고 있습니다. 최근 일본 초등학교 교과서에 나오는 한자를 공부하면서 이 한자의 4개 언어 번역을 정리하고 있습니다.아래 링크를 참고할 수 있습니다.
+
+Tôi là người Trung Quốc và hiện đang làm việc tại Nhật Bản. Tôi cũng đang học bốn ngôn ngữ: tiếng Nhật, tiếng Anh, tiếng Hàn và tiếng Việt. Gần đây, tôi đang học chữ Hán trong sách giáo khoa tiểu học của Nhật Bản và sắp xếp bản dịch của chúng sang bốn ngôn ngữ này.Bạn có thể tham khảo liên kết dưới đây.
+
+我是中国人，目前在日本工作，也在学习日英韩越四种语言，最近学习日本小学教材的汉字，一直在整理汉字的四种语言翻译，可以参考下面链接。
+
 ## Z025/03/13（四）听和说
 
 ### **听与说：语言习得的平衡艺术**  
