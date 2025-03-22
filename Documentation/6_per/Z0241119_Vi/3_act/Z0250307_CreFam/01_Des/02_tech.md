@@ -1,3 +1,235 @@
+## Z025/03/22（六）
+
+在 Eclipse 中使用 **JBoss 服务器 + MySQL 数据库** 创建 **Spring MVC + MyBatis + JSP** 项目，详细步骤如下：
+
+---
+
+## **1. 安装和配置 JBoss**
+### **1.1 下载 JBoss**
+- 访问 [JBoss EAP 官方网站](https://www.redhat.com/en/technologies/jboss-middleware/application-platform)
+- 下载并解压到本地，例如：`C:\jboss-eap-7.4`
+
+### **1.2 在 Eclipse 中添加 JBoss**
+1. **安装 JBoss Tools 插件**
+   - 打开 Eclipse，点击 **Help → Eclipse Marketplace**
+   - 搜索 **JBoss Tools**，安装
+
+2. **添加 JBoss 服务器**
+   - **Window → Show View → Servers**
+   - **右键 → New → Server**
+   - 选择 **JBoss → JBoss EAP 7.x**
+   - 设置 JBoss Home 目录为 `C:\jboss-eap-7.4`
+   - 选择 JDK 版本（建议 JDK 11 或 17）
+
+---
+
+## **2. 创建新的 Web 项目**
+1. **文件 → 新建 → Dynamic Web Project**
+2. **项目名称**：`JBossSpringMVC`
+3. **目标运行时**：选择 **JBoss EAP 7.x**
+4. **动态 Web 模块版本**：选择 **3.1**（支持 Servlet 3.1）
+5. **默认编码**：设置为 **UTF-8**
+   - 点击 **Next → Next → Finish**
+
+### **2.1 设置编码**
+- **Window → Preferences → General → Workspace**
+  - **Text file encoding** 选择 **UTF-8**
+- **Window → Preferences → Web → JSP Files**
+  - **Encoding** 选择 **UTF-8**
+- **Window → Preferences → Java → Compiler**
+  - **JDK 编码** 选择 **UTF-8**
+
+---
+
+## **3. 添加 Maven 支持**
+1. 右键项目，选择 **Configure → Convert to Maven Project**
+2. `pom.xml` 添加依赖：
+```xml
+<dependencies>
+    <!-- Spring MVC -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-webmvc</artifactId>
+        <version>5.3.30</version>
+    </dependency>
+
+    <!-- MyBatis -->
+    <dependency>
+        <groupId>org.mybatis</groupId>
+        <artifactId>mybatis</artifactId>
+        <version>3.5.14</version>
+    </dependency>
+
+    <!-- MySQL 驱动 -->
+    <dependency>
+        <groupId>mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <version>8.0.33</version>
+    </dependency>
+
+    <!-- JSTL -->
+    <dependency>
+        <groupId>javax.servlet</groupId>
+        <artifactId>jstl</artifactId>
+        <version>1.2</version>
+    </dependency>
+</dependencies>
+```
+---
+
+## **4. 配置 Spring MVC**
+### **4.1 配置 `web.xml`**
+`src/main/webapp/WEB-INF/web.xml`
+```xml
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+         version="3.1">
+    <display-name>JBoss Spring MVC</display-name>
+
+    <servlet>
+        <servlet-name>spring</servlet-name>
+        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+        <init-param>
+            <param-name>contextConfigLocation</param-name>
+            <param-value>/WEB-INF/spring-servlet.xml</param-value>
+        </init-param>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>spring</servlet-name>
+        <url-pattern>/</url-pattern>
+    </servlet-mapping>
+
+    <welcome-file-list>
+        <welcome-file>index.jsp</welcome-file>
+    </welcome-file-list>
+</web-app>
+```
+
+### **4.2 配置 Spring**
+`src/main/webapp/WEB-INF/spring-servlet.xml`
+```xml
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="prefix" value="/WEB-INF/views/"/>
+        <property name="suffix" value=".jsp"/>
+    </bean>
+</beans>
+```
+
+---
+
+## **5. 配置 MySQL**
+### **5.1 配置 `db.properties`**
+`src/main/resources/db.properties`
+```properties
+db.driver=com.mysql.cj.jdbc.Driver
+db.url=jdbc:mysql://localhost:3306/yourdb
+db.username=root
+db.password=yourpassword
+```
+
+### **5.2 配置 MyBatis**
+`src/main/java/com/example/project/config/MyBatisConfig.java`
+```java
+@Configuration
+@MapperScan("com.example.project.mapper")
+public class MyBatisConfig {
+    @Bean
+    public DataSource dataSource() throws IOException {
+        Properties properties = new Properties();
+        properties.load(getClass().getClassLoader().getResourceAsStream("db.properties"));
+        DriverManagerDataSource dataSource = new DriverManagerDataSource();
+        dataSource.setDriverClassName(properties.getProperty("db.driver"));
+        dataSource.setUrl(properties.getProperty("db.url"));
+        dataSource.setUsername(properties.getProperty("db.username"));
+        dataSource.setPassword(properties.getProperty("db.password"));
+        return dataSource;
+    }
+
+    @Bean
+    public SqlSessionFactory sqlSessionFactory(DataSource dataSource) throws Exception {
+        SqlSessionFactoryBean sessionFactory = new SqlSessionFactoryBean();
+        sessionFactory.setDataSource(dataSource);
+        return sessionFactory.getObject();
+    }
+}
+```
+
+---
+
+## **6. 创建 Controller**
+`src/main/java/com/example/project/controller/HomeController.java`
+```java
+@Controller
+public class HomeController {
+    @RequestMapping("/")
+    public String home() {
+        return "index";
+    }
+}
+```
+
+---
+
+## **7. 创建 JSP 页面**
+### **7.1 `index.jsp`**
+`src/main/webapp/WEB-INF/views/index.jsp`
+```jsp
+<%@ page contentType="text/html; charset=UTF-8" %>
+<html>
+<head><title>主页</title></head>
+<body>
+    <h1>欢迎访问 JBoss Spring MVC</h1>
+</body>
+</html>
+```
+
+---
+
+## **8. 部署到 JBoss**
+### **8.1 启动 JBoss**
+在 Eclipse **Servers 视图**：
+- 右键 **JBoss Server**
+- 选择 **Start**
+
+### **8.2 配置 JBoss 数据源**
+1. 进入 `JBoss/bin/standalone.conf`，添加：
+   ```sh
+   JAVA_OPTS="$JAVA_OPTS -Dfile.encoding=UTF-8"
+   ```
+2. 进入 `JBoss/standalone/configuration/standalone.xml`
+   ```xml
+   <datasource jndi-name="java:/MySqlDS" pool-name="MySqlDS" enabled="true">
+       <connection-url>jdbc:mysql://localhost:3306/yourdb</connection-url>
+       <driver>mysql</driver>
+       <security>
+           <user-name>root</user-name>
+           <password>yourpassword</password>
+       </security>
+   </datasource>
+   ```
+
+### **8.3 运行 Web 应用**
+1. 右键项目 → **Run As → Run on Server**
+2. 访问 `http://localhost:8080/JBossSpringMVC/`
+
+---
+
+## **总结**
+- **Eclipse 项目编码：UTF-8**
+- **JBoss 服务器**
+- **Spring MVC + JSP**
+- **MyBatis + MySQL**
+- **静态页面 `/WEB-INF/views/*.jsp`**
+- **动态页面 `/WEB-INF/web.xml` 配置**
+
+你觉得这个方案符合你的需求吗？
+
 ## Z025/03/07（五）
 
 如果你想要一个**可以在页面上随意拖拽移动图标（或元素）**的**开源框架**，可以考虑以下几种方案：  
