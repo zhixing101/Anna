@@ -21,6 +21,9 @@
 以下是适合朗读练习的《青春》（サミュエル・ウルマン作，岡田義夫訳）日文版本，带有汉字假名标注，便于朗读和理解：
 
 ---
+### 日文朗读版本
+https://youtu.be/z9fb6wPpR9k?si=fK008dNTCLDoAtjc
+
 
 ### 青春（朗読練習用・ふりがな付き）
 
@@ -254,6 +257,13 @@ Samuel  Ullman
   Whether sixty or sixteen, there is in every human being's heart the lure of wonder, the unfailing child-like appetite of what's next, and the joy of the game of living.  In the center of your heart and my heart there is a wireless station; so long as it receives messages of beauty, hope, cheer, courage and power from men and from the Infinite, so long are you young.
 
   When the aerials are down, and your spirit is covered with snows of cynicism and the ice of pessimism, then you are grown old, even at twenty, but as long as your aerials are up, to catch the waves of optimism, there is hope you may die young at eighty.
+
+### 英文朗读版本[https://youtu.be/zHYsbdcgW08?si=EEm1x9s4fW_3cukA]
+
+https://youtu.be/zHYsbdcgW08?si=EEm1x9s4fW_3cukA
+
+[[https://youtu.be/z9fb6wPpR9k?si=fK008dNTCLDoAtjc](https://youtu.be/z9fb6wPpR9k?si=fK008dNTCLDoAtjc)](https://youtu.be/zHYsbdcgW08?si=EEm1x9s4fW_3cukA)
+
 
 ## 《 青春》中文译文
 
