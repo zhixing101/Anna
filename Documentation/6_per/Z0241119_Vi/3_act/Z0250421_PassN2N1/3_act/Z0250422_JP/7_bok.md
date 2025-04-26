@@ -258,11 +258,9 @@ Samuel  Ullman
 
   When the aerials are down, and your spirit is covered with snows of cynicism and the ice of pessimism, then you are grown old, even at twenty, but as long as your aerials are up, to catch the waves of optimism, there is hope you may die young at eighty.
 
-### 英文朗读版本[https://youtu.be/zHYsbdcgW08?si=EEm1x9s4fW_3cukA]
+### 英文朗读版本
 
 https://youtu.be/zHYsbdcgW08?si=EEm1x9s4fW_3cukA
-
-[[https://youtu.be/z9fb6wPpR9k?si=fK008dNTCLDoAtjc](https://youtu.be/z9fb6wPpR9k?si=fK008dNTCLDoAtjc)](https://youtu.be/zHYsbdcgW08?si=EEm1x9s4fW_3cukA)
 
 
 ## 《 青春》中文译文
@@ -287,80 +285,149 @@ https://youtu.be/zHYsbdcgW08?si=EEm1x9s4fW_3cukA
 ## 席慕容《青春》及3个英译本
 
 中文原诗
+
 青春
+
 席慕容 作
+
 所有的结局都已写好
+
 所有的泪水也都已启程
+
 却忽然忘了是怎样的一个开始
+
 在那个古老的不再回来的夏日
+
  
 无论我如何地去追索
+
 年轻的你只如云影掠过
+
 而你微笑的面容极浅极淡
+
 逐渐隐没在日落后的群岚
+
  
 遂翻开那发黄的扉页
+
 命运将它装订得极为拙劣
+
 含著泪我一读再读
+
 却不得不承认
+
 青春是一本太仓促的书
+
+
 英译本一
+
 Youth
+
 By Xi Murong
+
 Tr. Peter Jingcheng Xu
+
 许景城 译
+
+
 All finales have been determined
+
 All tears have for the journey departed
+
 Yet I forgot how you, my Youth started
+
 In the old summer never to return
+
  
 However hard I try to quest
+
 You, my Youth just flits away like a cloud shadow
+
 Your smiling countenance is so pale, so shallow
+
 Vanishing into the mountains after sunset
+
  
 Turning slowly the yellowed title page
+
 Stapled deadly clumsy by fate
+
 With tears reading again and again
+
 I have to admit
+
 Youth is a fleeting book
+
  
-翻译时间：2013-12-8
-于班戈大学英语文学院
+
 英译本二
+
 Youth
+
 By Xi Murong
+
 佚名 译
+
 All finale has been written out
+
 All tears have set forward
+
 But I forgot suddenly how it began
+
 In that old summer that never comes back again
+
 No matter how I go for searching
+
 You only pass by at a young age like a cloud shadow
+
 A smiling face super pale and shallow
+
 After sunset gradually faded behind a host of hills
+
 Then to the yellow fly page I turn
+
 Fate binds it up, utmost clumsy
+
 Tears in my eyes,I read again and again
+
 Having to admit that
+
 youth is a book so hastily written
-选自：《译世界》公众号，http://www.yeeworld.com/article/info/aid/4710.html
+
+
 英译本三
+
 Youth
+
 By Xi Murong
+
 佚名 译
+
 Each of the endings had been written
+
 All the tears been already on the way
+
 But how did it begin we’d forgotten
+
 On that old unrepeatable summer’s day
+
 No matter how I used to follow trace
+
 Thee young, in the flashy floating clouds lost
+
 A softest and faintest smile on thou face
+
 Which day by day disappeared amidst
+
 From hill to hill after the sun’s falling
+
 Then the yellowish title page unfolded
+
 Fortune made it with awfully binding
+
 With tears again and again had I read
+
 Being unwilling to admit the truth
+
 All is rush written in the book of youth
 
