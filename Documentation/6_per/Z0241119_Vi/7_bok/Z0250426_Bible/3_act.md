@@ -43,6 +43,10 @@ https://cmcbiblereading.com/2015/01/05/%e7%ba%a6%e7%bf%b0%e5%a3%b9%e4%b9%a6%e7%a
 
 https://bible.com/bible/48/eph.2.3.CUNPSS-%E7%A5%9E
 
+彼得前书 2:11 CUNPSS-神
+[11] 亲爱的弟兄啊，你们是客旅，是寄居的。我劝你们要禁戒肉体的私欲；这私欲是与灵魂争战的。 
+
+https://bible.com/bible/48/1pe.2.11.CUNPSS-%E7%A5%9E
 
                   2)、借眼目情欲 （创三1-6 太五27-29）
 
