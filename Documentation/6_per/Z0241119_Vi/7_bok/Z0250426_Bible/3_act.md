@@ -60,6 +60,19 @@ https://bible.com/bible/48/mat.5.27-29.CUNPSS-%E7%A5%9E
 
 
                   3)、借今生骄傲  （路十二：9,雅四 16）
+
+路加福音 12:9 CUNPSS-神
+
+[9] 在人面前不认我的，人子在　神的使者面前也必不认他。 
+
+https://bible.com/bible/48/luk.12.9.CUNPSS-%E7%A5%9E
+
+雅各书 4:16 CUNPSS-神
+
+[16] 现今你们竟以张狂夸口；凡这样夸口都是恶的。
+
+https://bible.com/bible/48/jas.4.16.CUNPSS-%E7%A5%9E
+
 2.认识世界的本相(2:16)
          (1)肉体的情欲，叫肉体舒服的
          (2)眼目的情欲，叫眼目舒服的
