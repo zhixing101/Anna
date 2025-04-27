@@ -1,4 +1,4 @@
-## Z025/04/27(日)
+## Z025/04/27(日) 雅,優雅（ゆうが）,Graceful / Melodious,우아하다,Thanh nhã,Μελωδικός (Melodikós),עֲרֵבִים (Arevim) 
 
 
 ### 约翰一书第2章 主题：基督徒相交的基础
@@ -456,9 +456,7 @@ https://www.youtube.com/watch?v=hEiQjtmqueU&list=PL1C_Nq9MMPQZphmD9XynYsbZdNU3m_
 ### **结语**  
 "幽雅的声音"在跨文化中皆指向 **一种超越世俗的和谐美**，从《诗篇》的神圣赞美到东亚的礼乐精神，人类始终通过声音追寻秩序与崇高。而"雅"字的演变，正是这种追求的汉字密码。
 
-
-
-## Z025/04/26(六) 同
+## Z025/04/26(六) 同,共にいる (tomo ni iru),be with,함께 하다 (hamkke hada),ở cùng,μετ’ αὐτοῦ (met'autou),אֶהְיֶה עִמּוֹ (ehyeh immo)
 
 ### 诗91：15 同在
 
