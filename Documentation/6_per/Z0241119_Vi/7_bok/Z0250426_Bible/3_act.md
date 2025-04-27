@@ -11,6 +11,10 @@
 
 https://www.youtube.com/watch?v=hEiQjtmqueU&list=PL1C_Nq9MMPQZphmD9XynYsbZdNU3m_awP&index=5
 
+圣经综合解读
+
+https://cmcbiblereading.com/2015/01/05/%e7%ba%a6%e7%bf%b0%e5%a3%b9%e4%b9%a6%e7%ac%ac2%e7%ab%a0%e9%80%90%e8%8a%82%e6%b3%a8%e8%a7%a3%e3%80%81%e7%a5%b7%e8%af%bb/
+
 ### 一、相交长进的程序(2:12-14)
 
 ```
