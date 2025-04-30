@@ -1,3 +1,15 @@
+## Z025/05/01(四) 湃,優雅（ゆうが）,Graceful / Melodious,우아하다,Thanh nhã,Μελωδικός (Melodikós),עֲרֵבִים (Arevim) 
+
+## Z025/04/30(三) 高,優雅（ゆうが）,Graceful / Melodious,우아하다,Thanh nhã,Μελωδικός (Melodikós),עֲרֵבִים (Arevim) 
+
+## Z025/04/29(二) 光,優雅（ゆうが）,Graceful / Melodious,우아하다,Thanh nhã,Μελωδικός (Melodikós),עֲרֵבִים (Arevim) 
+
+
+## Z025/04/28(一) 初,優雅（ゆうが）,Graceful / Melodious,우아하다,Thanh nhã,Μελωδικός (Melodikós),עֲרֵבִים (Arevim) 
+
+
+
+
 ## Z025/04/27(日) 雅,優雅（ゆうが）,Graceful / Melodious,우아하다,Thanh nhã,Μελωδικός (Melodikós),עֲרֵבִים (Arevim) 
 
 
