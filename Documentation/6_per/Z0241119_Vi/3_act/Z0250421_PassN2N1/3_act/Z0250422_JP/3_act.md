@@ -1,3 +1,216 @@
+## Z025/05/02（五）第11天
+
+### **N1满分通过计划·第11天**  
+**目标：全面提升日语听说读写能力**  
+**学习时间：早、中、晚各1小时**  
+
+---
+
+## **📚 学习内容安排**  
+
+### **🌞 早晨1小时：语法+高频单词**  
+**📌 12个N1核心语法**  
+| 语法 | 发音 | 英文解释 | 例句（日→中） |  
+|------|------|----------|--------------|  
+| 1. ～に即して | ～にそくして | in accordance with | **規則に即して判断する** (Judge according to the rules) |  
+| 2. ～を余儀なくされる | ～をよぎなくされる | be forced to | **雨で中止を余儀なくされた** (The event was forced to cancel due to rain) |  
+| 3. ～にもまして | ～にもまして | even more than | **前回にもまして好評だった** (It was even more popular than last time) |  
+| 4. ～ばこそ | ～ばこそ | precisely because | **努力すればこそ成功した** (I succeeded precisely because I worked hard) |  
+| 5. ～とあって | ～とあって | given that | **週末とあって混雑していた** (Given that it was the weekend, it was crowded) |  
+| 6. ～をかわきりに | ～をかわきりに | starting with | **この作品をかわきりに人気が出た** (Starting with this work, he gained popularity) |  
+| 7. ～てやまない | ～てやまない | never stop doing | **彼の活躍を願ってやまない** (I never stop wishing for his success) |  
+| 8. ～ならでは | ～ならでは | unique to | **日本ならではの文化** (A culture unique to Japan) |  
+| 9. ～と相まって | ～とあいまって | combined with | **努力と才能と相まって成功した** (Combined with effort and talent, he succeeded) |  
+| 10. ～を禁じ得ない | ～をきんじえない | cannot help but | **涙を禁じ得なかった** (I couldn’t help but cry) |  
+| 11. ～にたえる | ～にたえる | withstand | **批判にたえる作品** (A work that withstands criticism) |  
+| 12. ～をものともせず | ～をものともせず | undeterred by | **困難をものともせず進む** (He advanced undeterred by difficulties) |  
+
+**📌 24个高频N1单词**  
+| 单词 | 发音 | 英文 | 例句（日→中） |  
+|------|------|------|--------------|  
+| 1. 顕著（けんちょ） | ken-cho | remarkable | **効果が顕著に現れた** (The effect was remarkably visible) |  
+| 2. 促進（そくしん） | soku-shin | promotion | **経済成長を促進する** (Promote economic growth) |  
+| 3. 阻害（そがい） | so-gai | hindrance | **進歩を阻害する** (Hinder progress) |  
+| 4. 模索（もさく） | mo-saku | exploration | **解決策を模索する** (Explore solutions) |  
+| 5. 均衡（きんこう） | kin-kou | balance | **需給の均衡を保つ** (Maintain supply-demand balance) |  
+| 6. 緻密（ちみつ） | chi-mitsu | meticulous | **緻密な計画** (A meticulous plan) |  
+| 7. 過疎（かそ） | ka-so | depopulation | **過疎化が進む地域** (Areas facing depopulation) |  
+| 8. 画期的（かっきてき） | kakki-teki | groundbreaking | **画期的な発明** (A groundbreaking invention) |  
+| 9. 妥協（だきょう） | da-kyou | compromise | **妥協せずに目標を目指す** (Aim for the goal without compromise) |  
+| 10. 頻繁（ひんぱん） | hin-pan | frequent | **頻繁に会議がある** (Meetings are frequent) |  
+| 11. 模倣（もほう） | mo-hou | imitation | **模倣されやすい商品** (Products easily imitated) |  
+| 12. 顕在（けんざい） | ken-zai | apparent | **問題が顕在化した** (The problem became apparent) |  
+| 13. 衰退（すいたい） | sui-tai | decline | **産業の衰退** (Industrial decline) |  
+| 14. 持続（じぞく） | ji-zoku | sustainability | **持続可能な開発** (Sustainable development) |  
+| 15. 偏る（かたよる） | kata-yoru | biased | **栄養が偏る** (Nutrition is unbalanced) |  
+| 16. 欺く（あざむく） | aza-muku | deceive | **人を欺く行為** (An act of deception) |  
+| 17. 履行（りこう） | ri-kou | fulfillment | **契約を履行する** (Fulfill a contract) |  
+| 18. 均衡（きんこう） | kin-kou | equilibrium | **市場の均衡** (Market equilibrium) |  
+| 19. 遵守（じゅんしゅ） | jun-shu | compliance | **規則を遵守する** (Comply with regulations) |  
+| 20. 顕彰（けんしょう） | ken-shou | commendation | **功績を顕彰する** (Commend achievements) |  
+| 21. 模索（もさく） | mo-saku | groping | **新しい方法を模索する** (Search for new methods) |  
+| 22. 阻害（そがい） | so-gai | obstruction | **発展を阻害する** (Obstruct development) |  
+| 23. 緻密（ちみつ） | chi-mitsu | precision | **緻密な計算** (Precise calculation) |  
+| 24. 画期的（かっきてき） | kakki-teki | innovative | **画期的な技術** (Innovative technology) |  
+
+---
+
+### **🌞 中午1小时：听力训练**  
+**📌 训练方法：**  
+1. **NHK新闻精听**（2遍）  
+   - 第1遍：泛听，抓主旨  
+   - 第2遍：逐句听写，记录关键词  
+2. **JLPT N1真题听力**（1套）  
+   - 重点练习「即时应答」和「综合理解」  
+3. **影子跟读（Shadowing）**  
+   - 模仿新闻主播的语调、语速  
+
+---
+
+### **🌙 晚上1小时：阅读训练**  
+**📌 训练方法：**  
+1. **新闻社论精读**（朝日新闻/日本经济新闻）  
+   - 标记不熟悉的语法和单词  
+   - 总结作者观点（200字日语摘要）  
+2. **JLPT N1长篇阅读**（1篇）  
+   - 限时10分钟完成，训练速读能力  
+3. **小说/散文选读**（村上春树/川端康成）  
+   - 分析长难句结构  
+
+---
+
+### **📝 复习建议**  
+- **早晨**：语法+单词（记忆黄金期）  
+- **中午**：听力（大脑活跃期）  
+- **晚上**：阅读（专注力高峰期）  
+- **睡前**：快速回顾当天内容（强化记忆）  
+
+**坚持11天，N1满分可期！** 🚀
+
+以下是第11天的学习计划，涵盖12个N1语法点和24个高频词汇，并配有典型例句、日文发音、中文和英文翻译，帮助你全面提高听说读写能力。
+
+---
+
+### 🔹 语法（12个）
+
+| 语法点 | 意味 | 例句 | 发音 | 中文翻译 | 英文翻译 |
+|--------|------|------|------|------------|--------------|
+| 〜と思いきや | 原以为……却…… | 彼は来ると思いきや、来なかった。 | おもいきや | 原以为他会来，结果没来。 | I thought he would come, but he didn't. |
+| 〜ずじまい | 最终未…… | 映画を見に行かずじまいだった。 | ずじまい | 最终没能去看电影。 | I ended up not going to the movie. |
+| 〜をものともせず | 不顾…… | 痛みをものともせず、試合を続けた。 | をものともせず | 不顾疼痛继续比赛。 | He kept playing despite the pain. |
+| 〜かたがた | 顺便…… | 挨拶かたがたお礼に伺いました。 | かたがた | 顺便来致谢。 | I came to say hello and thank you. |
+| 〜ともあろう人が | 身为……竟然…… | 教師ともあろう人が、そんなことをするなんて。 | ともあろうひとが | 身为教师竟做那种事。 | A teacher should know better than that. |
+| 〜べく | 为了…… | 成功すべく努力している。 | べく | 为了成功在努力。 | I am working hard in order to succeed. |
+| 〜にたえる | 值得…… | 読むにたえる記事だ。 | にたえる | 值得一读的文章。 | An article worth reading. |
+| 〜てしかるべき | 理应…… | 彼は褒められてしかるべきだ。 | てしかるべき | 他理应受到表扬。 | He deserves to be praised. |
+| 〜ではあるまいし | 又不是…… | 子供ではあるまいし、泣かないで。 | ではあるまいし | 又不是小孩子，别哭了。 | You're not a child, so don't cry. |
+| 〜ようが〜まいが | 无论是否…… | 行こうが行くまいが、彼の自由だ。 | ようが〜まいが | 无论去不去都是他的自由。 | It's his choice whether to go or not. |
+| 〜の至り | 极为…… | 恐縮の至りです。 | のいたり | 非常惶恐。 | I am deeply humbled. |
+| 〜にひきかえ | 与……相比却…… | 兄にひきかえ、弟はのんびりしている。 | にひきかえ | 和哥哥相比，弟弟很悠闲。 | Compared to his brother, he is relaxed. |
+
+---
+
+### 🔹 高频词汇（24个）
+
+| 单词 | 读音 | 中文翻译 | 英文翻译 | 例句 |
+|------|------|------------|--------------|------|
+| 抑制 | よくせい | 抑制 | suppression | 感情を抑制する。|
+| 模倣 | もほう | 模仿 | imitation | 子供は親の行動を模倣する。|
+| 譲歩 | じょうほ | 让步 | concession | 双方ともに譲歩が必要だ。|
+| 是正 | ぜせい | 纠正 | correction | 不公平を是正する。|
+| 転換 | てんかん | 转换 | shift | 発想の転換が重要だ。|
+| 容認 | ようにん | 允许 | approval | ミスを容認するわけにはいかない。|
+| 緩和 | かんわ | 缓和 | relaxation | 制限が緩和された。|
+| 把握 | はあく | 掌握 | grasp | 状況を把握する。|
+| 過密 | かみつ | 过密 | overcrowding | 過密スケジュール。|
+| 逸脱 | いつだつ | 偏离 | deviation | 話題から逸脱する。|
+| 顕著 | けんちょ | 显著 | remarkable | 顕著な変化が見られる。|
+| 阻害 | そがい | 阻碍 | hindrance | 成長を阻害する要因。|
+| 即座に | そくざに | 立刻 | immediately | 即座に返事をする。|
+| 疎外 | そがい | 疏远 | alienation | 社会から疎外される。|
+| 妥協 | だきょう | 妥协 | compromise | 妥協点を探る。|
+| 中傷 | ちゅうしょう | 中伤 | slander | 他人を中傷してはいけない。|
+| 賃金 | ちんぎん | 工资 | wages | 賃金の引き上げを要求する。|
+| 追及 | ついきゅう | 追究 | pursuit | 責任の追及。|
+| 洞察 | どうさつ | 洞察力 | insight | 洞察力が鋭い。|
+| 扶養 | ふよう | 扶养 | support | 扶養家族がいる。|
+| 弁償 | べんしょう | 赔偿 | compensation | 損害を弁償する。|
+| 補充 | ほじゅう | 补充 | replenishment | 在庫を補充する。|
+| 抑圧 | よくあつ | 压迫 | oppression | 抑圧された感情。|
+| 錯覚 | さっかく | 错觉 | illusion | 錯覚に陥る。|
+
+---
+
+是否需要我帮你生成「早、中、晚」三段具体学习安排（听说读写分配）？
+
+好的，以下是针对 **第11天 JLPT N1 听说读写全面提高计划** 的 **早、中、晚三段学习安排**（每段约1小时），结合你今天的语法点、词汇和练习任务，帮助你科学提升。
+
+---
+
+## 🌅 早晨学习计划（听 + 读）
+
+🕒 时间：早上 6:30 - 7:30（可根据作息调整）
+
+### 🎧 听力训练（30分钟）
+- **素材选择**：
+  - NHKラジオ「やさしい日本語ニュース」→ 适合热身
+  - JLPT N1 官方模拟听力题或听力APP（如「日本語の森」「JLPT Hero」）
+- **训练方式**：
+  - 第一遍：听全文大意，记录关键词汇
+  - 第二遍：精听+跟读，注意语调和语速
+  - 听后整理：写出听力中的2-3个新语法点/词汇
+
+### 📖 阅读训练（30分钟）
+- **文章选择**：
+  - 新聞記事（朝日新聞、NHK）、N1级别读解练习
+- **重点练习**：
+  - 识别文中的语法结构（使用今天的12个语法点）
+  - 记下至少5个新单词，查明其用法与例句
+  - 简短写一段内容概要（日文，60字内）
+
+---
+
+## ☀️ 中午学习计划（读 + 写）
+
+🕒 时间：中午休息 12:30 - 13:30
+
+### 📖 精读练习（20分钟）
+- 精读《新完全マスター 読解 N1》一篇文章
+- 标出其中出现的本日语法或词汇
+
+### ✍️ 写作训练（40分钟）
+- **任务一（20分钟）**：自由写作
+  - 主题：使う文法・語彙で「社会的な妥協と成長」について短文（80字内）
+  - 使用：至少3个语法点 + 6个高频词汇
+
+- **任务二（20分钟）**：改写练习
+  - 将一篇文章中使用「〜にひきかえ」「〜ずじまい」等语法的句子，改写为自己的句子
+  - 目标：增强句型变换能力
+
+---
+
+## 🌙 晚上学习计划（说 + 写 + 总结）
+
+🕒 时间：晚上 20:00 - 21:00
+
+### 🗣️ 口语表达（30分钟）
+- **方法一**：与AI或朋友进行主题对话（主题：感情の抑制と妥協）
+- **方法二**：使用 Anki 卡片，开口背诵今天的语法例句（12个）
+- **任务**：
+  - 口头造句：每个词汇说一个完整句
+  - 练习“敬语 + 复杂文法”的表达方式
+
+### 📝 写作总结（30分钟）
+- **语法总结表**：
+  - 每个语法写一句新句子（不同于早中练习）
+  - 反思：今天哪个语法最难理解？写1段说明（中日双语）
+
+- **词汇卡片制作**：
+  - 手写/电子记录今日24个词汇
+  - 每个词写出1个联想记忆法（比如例句、画图、对比）
+
+---
+
 ## Z025/05/01（四）第10天
 
 好的！以下是你第十天的 N1 听说读写全面提高计划，特别为你安排了语法、词汇、听力和读解强化练习，并为周六真题模拟打基础：
