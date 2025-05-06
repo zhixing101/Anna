@@ -1,3 +1,533 @@
+## Z025/05/07（三）第16天
+
+以下是**第16天·N1听说读写全面提高计划**的详细内容，聚焦于「玄关电子门锁安装」这一生活场景，分为三个时段学习安排，并整理相关**12个语法点**与**24个高频词汇**，提供日语例句与中英文翻译。
+
+---
+
+### ✅ 学习安排
+
+#### 早上（1小时）：语法精讲 + 词汇记忆
+
+* 学习6个语法结构（理解+造句）
+* 记忆12个常用词汇，结合语境朗读练习
+
+#### 中午（1小时）：听力集中练习
+
+* 听取关于房屋设备安装、租房、使用说明的NHK简明新闻或YouTube讲解视频
+* 重点听取句型和关键词（可配合影像文字字幕）
+
+#### 晚上（1小时）：读写练习 + 情境表达
+
+* 阅读说明书或电子锁产品页面
+* 写一段说明文或安装后体验评论（100字以内）
+
+---
+
+### 📘 12个常用语法（带例句）
+
+| 语法      | 解释         | 例句（日语+中英文翻译）                                                                                                      |
+| ------- | ---------- | ----------------------------------------------------------------------------------------------------------------- |
+| ～にしては   | 虽说……却……    | この玄関は古いにしては、しっかりしています。<br>虽然门比较旧，却很坚固。<br>Although this entrance is old, it's quite solid.                        |
+| ～ように    | 表示目的或比喻    | 不審者が入らないように、電子錠を設置しました。<br>为了防止可疑人员进入，安装了电子锁。<br>We installed a smart lock so that suspicious people don't enter. |
+| ～最中に    | 正在……的时候    | 作業の最中に来客がありました。<br>安装工作进行中来了客人。<br>A guest came while we were working.                                            |
+| ～だけあって  | 不愧是……      | 高価なだけあって、性能が素晴らしい。<br>不愧是贵价产品，性能卓越。<br>As expected of an expensive item, its performance is excellent.            |
+| ～ないことには | 如果不……就……   | 説明を読まないことには、設定が難しい。<br>如果不看说明，设置很难。<br>Without reading the manual, it's difficult to set up.                      |
+| ～ものだから  | 因为……（口语解释） | 初めてだったものだから、手間取りました。<br>因为是第一次，所以耽搁了。<br>Since it was my first time, it took longer.                              |
+
+---
+
+### 📝 24个常用词汇（含解释、例句、中英文翻译）
+
+| 词汇              | 解释       | 例句（日+中+英）                                                                  |
+| --------------- | -------- | -------------------------------------------------------------------------- |
+| 玄関（げんかん）        | 门口，玄关    | 玄関にカメラを設置します。<br>在玄关安装摄像头。<br>Install a camera at the entrance.            |
+| 電子錠（でんしじょう）     | 电子门锁     | 電子錠は便利で安全です。<br>电子锁方便又安全。<br>The smart lock is convenient and safe.        |
+| 工事（こうじ）         | 工程，施工    | 工事は午前中に終わります。<br>工程上午就会结束。<br>The installation will finish in the morning. |
+| 業者（ぎょうしゃ）       | 施工单位，承包商 | 業者に連絡してください。<br>请联系施工方。<br>Contact the contractor.                         |
+| 設置（せっち）         | 安装       | センサーの設置が必要です。<br>需要安装感应器。<br>Sensors need to be installed.                 |
+| 操作（そうさ）         | 操作       | 操作が簡単です。<br>操作很简单。<br>It's easy to operate.                                |
+| 暗証番号（あんしょうばんごう） | 密码       | 暗証番号を入力してください。<br>请输入密码。<br>Please enter the passcode.                     |
+| 説明書（せつめいしょ）     | 说明书      | 説明書をよく読んでください。<br>请认真阅读说明书。<br>Please read the manual carefully.           |
+| 鍵（かぎ）           | 钥匙       | 鍵を忘れたらどうしますか？<br>忘带钥匙怎么办？<br>What if you forget the key?                   |
+| 防犯（ぼうはん）        | 防盗，防犯    | 防犯対策が必要です。<br>需要做防盗措施。<br>We need to take security measures.               |
+| 自動（じどう）         | 自动       | 自動でロックされます。<br>会自动锁上。<br>It locks automatically.                           |
+| 電源（でんげん）        | 电源       | 電源を切らないでください。<br>请勿关闭电源。<br>Please do not turn off the power.              |
+
+---
+
+如果你需要将这些内容制成打印页或复习卡片，我也可以帮你整理成 PDF 或表格格式。
+
+是否还需要加入一段小短文练习或听力素材推荐？
+
+
+## Z025/05/06（二）第15天
+
+以下是 **JLPT N1 满分通过计划 · 第15天** 听说读写全面提高内容，聚焦于「房屋检查」场景（日语：住宅点検）。每天学习安排为早、中、晚各1小时，中午重点练习听力。内容包括：
+
+---
+
+## 📅 每日学习安排（早/中/晚 各1小时）
+
+| 时间         | 内容        | 说明                          |
+| ---------- | --------- | --------------------------- |
+| 🌅 早上（1小时） | 阅读 + 语法巩固 | 阅读房屋相关说明书、合同文本，并学习今日6个语法    |
+| 🕛 中午（1小时） | 听力 + 词汇练习 | 听模拟检查对话、录音、新闻片段；背诵和应用12个关键词 |
+| 🌙 晚上（1小时） | 写作 + 口语模拟 | 书写检查报告短文 + 进行对话模拟（如与房东沟通）   |
+
+---
+
+## 📝 一、语法（6个）
+
+| 语法        | 接续             | 中文意思      | 英文含义                   | 例句（日语）           | 中文翻译          | 英文翻译                                                      |
+| --------- | -------------- | --------- | ---------------------- | ---------------- | ------------- | --------------------------------------------------------- |
+| ～にかかわる    | 名词 + にかかわる     | 关系到、影响到   | related to / affecting | 安全にかかわる問題です。     | 这是关系到安全的问题。   | This issue concerns safety.                               |
+| ～ものを      | 简体句 + ものを      | 本来…却…     | although / even though | 連絡してくれればよかったものを。 | 本来你联系我一下就好了。  | You could have just contacted me.                         |
+| ～にひきかえ    | 名词 + にひきかえ     | 与…相反      | in contrast to         | 古い家にひきかえ、新築は快適だ。 | 和旧房相反，新房非常舒适。 | In contrast to the old house, the new one is comfortable. |
+| ～ないではすまない | 动词ない形 + ではすまない | 不得不…      | can't avoid doing      | 修理費は払わないではすまない。  | 不得不支付维修费。     | I can’t avoid paying for the repair.                      |
+| ～ようでは     | 动词普通形 + ようでは   | 如果…那就…    | if (bad situation)     | 壁にひびが入るようでは危険だ。  | 如果墙有裂缝，那就危险了。 | If there are cracks in the wall, it's dangerous.          |
+| ～なりに      | 名词/简体 + なりに    | 相应地、在…程度上 | in one’s own way       | 子どもなりに考えている。     | 孩子也有自己的想法。    | Children think in their own way.                          |
+
+---
+
+## 📚 二、常用单词（12个）
+
+| 日语   | 假名       | 中文    | 英文                    | 例句（日语）             | 中文翻译          | 英文翻译                                               |
+| ---- | -------- | ----- | --------------------- | ------------------ | ------------- | -------------------------------------------------- |
+| 住宅   | じゅうたく    | 住宅    | housing               | 新しい住宅を購入しました。      | 买了新房子。        | I bought a new house.                              |
+| 点検   | てんけん     | 检查    | inspection            | 年に一度点検が必要です。       | 每年需要检查一次。     | It needs to be inspected once a year.              |
+| 配管   | はいかん     | 管道    | plumbing              | 配管に問題があります。        | 管道有问题。        | There is a problem with the plumbing.              |
+| 漏水   | ろうすい     | 漏水    | water leakage         | 台所で漏水が発生した。        | 厨房漏水了。        | There was a leak in the kitchen.                   |
+| 傾き   | かたむき     | 倾斜    | tilt                  | 家全体に傾きが見られる。       | 整个房屋都有倾斜。     | The whole house appears tilted.                    |
+| 老朽化  | ろうきゅうか   | 老化、老朽 | deterioration         | 建物が老朽化している。        | 建筑已经老化。       | The building has deteriorated.                     |
+| 改修工事 | かいしゅうこうじ | 修缮工程  | renovation work       | 改修工事のため、2週間閉鎖されます。 | 为了修缮施工，将关闭两周。 | It will be closed for two weeks due to renovation. |
+| 耐震性  | たいしんせい   | 抗震性   | earthquake resistance | 耐震性が心配です。          | 担心抗震性能。       | I’m worried about the earthquake resistance.       |
+| 壁紙   | かべがみ     | 墙纸    | wallpaper             | 壁紙がはがれてきた。         | 墙纸开始剥落了。      | The wallpaper is peeling off.                      |
+| ひび   | ひび       | 裂缝    | crack                 | 壁にひびが入っている。        | 墙上有裂缝。        | There are cracks in the wall.                      |
+| 修繕費  | しゅうぜんひ   | 维修费   | repair cost           | 修繕費が高すぎる。          | 维修费用太高了。      | The repair cost is too high.                       |
+| 住民票  | じゅうみんひょう | 居住证明  | residence certificate | 引越し後、住民票を変更した。     | 搬家后变更了居住证明。   | I changed my residence certificate after moving.   |
+
+---
+
+如需：
+
+* 🗣 听力练习资源推荐（如房屋检查相关视频/音频）
+* ✍ 写作模拟（如写房屋检查报告）
+* 🎤 口语练习模板（如和物业/房东沟通）
+
+欢迎继续告诉我！是否需要我补充房屋相关的**敬语表达**？
+
+
+
+## Z025/05/05（一）第14天
+
+以下是**JLPT N1满分通过计划 · 第14天**的听说读写全面提高内容，主题聚焦在**与朋友聊喜欢的运动**，包括6个语法点和12个常用词汇，适合日常交流和考试应对。
+
+---
+
+## 🎯 今日主题：与朋友聊喜好运动
+
+（友達と好きなスポーツについて話す）
+
+---
+
+## 📘 一、语法（6个）
+
+| 语法         | 接续                | 中文意思   | 英文意思             | 例句（日语）                 | 中文翻译                 | 英文翻译                                                            |
+| ---------- | ----------------- | ------ | ---------------- | ---------------------- | -------------------- | --------------------------------------------------------------- |
+| ～に限らず      | 名 + に限らず          | 不仅限于…  | not limited to   | スポーツに限らず、芸術にも興味があります。  | 不仅限于运动，也对艺术感兴趣。      | I'm interested not only in sports but also in art.              |
+| ～にせよ～にせよ   | 普通形／名 + にせよ       | 无论…还是… | whether... or... | サッカーにせよテニスにせよ、運動は体にいい。 | 无论是足球还是网球，运动对身体都有好处。 | Whether it's soccer or tennis, sports are good for your health. |
+| ～に越したことはない | 动词普通形 + に越したことはない | 最好…    | it's best to     | 運動は毎日するに越したことはない。      | 最好每天运动。              | It's best to exercise every day.                                |
+| ～といえども     | 普通形 + といえども       | 即使…也…  | even though      | 子どもといえども、安全には注意が必要だ。   | 即使是孩子，也要注意安全。        | Even though they are children, safety is important.             |
+| ～に至るまで     | 名词 + に至るまで        | 甚至…都…  | even including   | プロ選手に至るまで、毎日練習している。    | 甚至是职业选手每天都在练习。       | Even professional athletes practice every day.                  |
+| ～かたわら      | 动辞书形 + かたわら       | 一边…一边… | while doing...   | 会社勤めのかたわら、ジムにも通っている。   | 一边上班，一边也去健身房。        | I go to the gym while working full-time.                        |
+
+---
+
+## 📝 二、常用单词（12个）
+
+| 日语   | 假名        | 中文   | 英文               | 例句（日语）             | 中文翻译           | 英文翻译                                         |
+| ---- | --------- | ---- | ---------------- | ------------------ | -------------- | -------------------------------------------- |
+| 運動   | うんどう      | 运动   | exercise/sports  | 毎朝運動するようにしています。    | 我每天早上尽量运动。     | I try to exercise every morning.             |
+| 趣味   | しゅみ       | 兴趣   | hobby            | 趣味でバドミントンをしています。   | 我的兴趣是打羽毛球。     | I play badminton as a hobby.                 |
+| 試合   | しあい       | 比赛   | match/game       | サッカーの試合を観戦した。      | 看了场足球比赛。       | I watched a soccer match.                    |
+| 筋肉   | きんにく      | 肌肉   | muscle           | 筋肉を鍛えるためにトレーニングする。 | 为了锻炼肌肉而训练。     | I train to build muscles.                    |
+| 健康   | けんこう      | 健康   | health           | 健康のためにジョギングしています。  | 为了健康我进行慢跑。     | I jog for my health.                         |
+| 瞬発力  | しゅんぱつりょく  | 爆发力  | explosive power  | 瞬発力が必要なスポーツが好きです。  | 我喜欢需要爆发力的运动。   | I like sports that require explosive power.  |
+| 団体競技 | だんたいきょうぎ  | 团体竞技 | team sports      | 団体競技のほうが盛り上がる。     | 团体运动更有气氛。      | Team sports are more exciting.               |
+| 個人競技 | こじんきょうぎ   | 个人竞技 | individual sport | 水泳は個人競技の代表です。      | 游泳是代表性的个人运动。   | Swimming is a typical individual sport.      |
+| 運動不足 | うんどうぶそく   | 缺乏运动 | lack of exercise | 最近運動不足で体が重い。       | 最近缺乏运动，感觉身体沉重。 | I feel heavy due to lack of exercise lately. |
+| 競技場  | きょうぎじょう   | 运动场  | stadium          | 競技場で応援しました。        | 在体育场加油助威了。     | I cheered at the stadium.                    |
+| 柔軟体操 | じゅうなんたいそう | 柔软操  | stretching       | 柔軟体操をしてから運動を始める。   | 做完柔软操后开始运动。    | I stretch before starting exercise.          |
+| 汗をかく | あせをかく     | 出汗   | sweat            | 汗をかくと気持ちいい。        | 出汗很舒服。         | It feels good to sweat.                      |
+
+---
+
+如需输出：
+
+* 口语对话范例
+* 写作句型应用
+* 听力练习建议
+* 或“读写专项训练”模板
+
+欢迎告诉我，我可以为你继续规划！你今天想重点练哪个技能？
+
+
+
+以下是针对「N1满分通过计划·第14天」设计的 **朋友聊运动喜好场景** 学习内容，包含6个实用语法、12个高频单词，附中英双语解析及例句，帮助全面提升日语能力：
+
+---
+
+### **一、6个核心语法**  
+1. **～に限らず（にかぎらず）**  
+   - **意义**：不仅…（范围扩展）  
+   - **例句**：  
+     彼はサッカー**に限らず**、スポーツ全般に詳しい。  
+     He knows about not just soccer, but sports in general.  
+     他不仅懂足球，对各类运动都很了解。  
+
+2. **～ば～ほど**  
+   - **意义**：越…越…（程度递增）  
+   - **例句**：  
+     練習**すれば**する**ほど**、テニスの上達が実感できる。  
+     The more you practice, the more you'll improve at tennis.  
+     网球练习得越多，越能感受到进步。  
+
+3. **～て以来（ていらい）**  
+   - **意义**：自…以来（持续状态）  
+   - **例句**：  
+     マラソンに参加し**て以来**、毎日走るのが習慣になった。  
+     Since running the marathon, jogging daily has become a habit.  
+     自从参加马拉松后，每天跑步成了习惯。  
+
+4. **～にしたがって**  
+   - **意义**：随着…（自然变化）  
+   - **例句**：  
+     年を取る**にしたがって**、激しい運動は減らしている。  
+     As I get older, I've reduced intense workouts.  
+     随着年龄增长，我减少了剧烈运动。  
+
+5. **～からすると**  
+   - **意义**：从…来看（判断依据）  
+   - **例句**：  
+     彼の筋肉のつき方**からすると**、筋トレが趣味だとわかる。  
+     Judging from his muscle tone, you can tell he loves weight training.  
+     从他的肌肉线条来看，就知道他爱健身。  
+
+6. **～どころではない**  
+   - **意义**：根本不是…的时候（强烈否定）  
+   - **例句**：  
+     仕事が忙しくて、ジムに行く**どころではない**。  
+     I'm too busy with work to even think about the gym.  
+     工作太忙，根本顾不上健身。  
+
+---
+
+### **二、12个常用单词**  
+| **单词**       | **假名**     | **词性** | **中译**       | **英文**               | **例句（日→英→中）** |  
+|----------------|--------------|----------|----------------|------------------------|-----------------------|  
+| 筋トレ         | きんトレ     | 名       | 肌肉训练       | weight training        | 筋トレで体を引き締める。→ Tone your body with weight training. → 通过健身塑形。 |  
+| 有酸素運動     | ゆうさんそうんどう | 名       | 有氧运动       | cardio exercise        | 有酸素運動は脂肪燃焼に効果的だ。→ Cardio is effective for fat burning. → 有氧运动对燃脂很有效。 |  
+| ストレッチ     | ストレッチ   | 名/动    | 拉伸           | stretching             | 運動前後にストレッチする。→ Stretch before and after exercise. → 运动前后要做拉伸。 |  
+| マラソン       | マラソン     | 名       | 马拉松         | marathon               | フルマラソンに挑戦したい。→ I want to try a full marathon. → 我想挑战全程马拉松。 |  
+| スポーツジム   | スポーツジム | 名       | 健身房         | sports gym             | スポーツジムでパーソナルトレーニングを受ける。→ Get personal training at the gym. → 在健身房接受私教课程。 |  
+| 試合           | しあい       | 名       | 比赛           | match/game            | 試合に勝つために戦術を練る。→ Develop tactics to win the match. → 为赢得比赛研究战术。 |  
+| ウォームアップ | ウォームアップ | 名       | 热身           | warm-up                | ウォームアップを怠ると怪我の原因になる。→ Skipping warm-ups can cause injuries. → 忽视热身会导致受伤。 |  
+| 記録更新       | きろくこうしん | 名       | 刷新纪录       | break a record         | 自己ベストを記録更新した。→ I broke my personal best record. → 刷新了个人最佳纪录。 |  
+| チームワーク   | チームワーク | 名       | 团队合作       | teamwork               | バスケットボールはチームワークが重要だ。→ Basketball requires good teamwork. → 篮球很注重团队合作。 |  
+| リフレッシュ   | リフレッシュ | 名/动    | 放松           | refresh                | 運動で気分をリフレッシュする。→ Refresh your mood through exercise. → 通过运动放松心情。 |  
+| 持久力         | じきゅうりょく | 名       | 耐力           | stamina                | 持久力を高めるトレーニング。→ Training to increase stamina. → 提升耐力的训练。 |  
+| スコア         | スコア       | 名       | 比分           | score                  | スコアを追い上げる。→ Catch up in the score. → 努力追平比分。 |  
+
+---
+
+### **三、场景对话练习**  
+**朋友间的运动对话**（使用上述语法和单词）：  
+> **A**：最近ジム通い始めたんだ。筋トレ**に限らず**、有酸素運動もやってるよ。  
+> **B**：僕はマラソンに参加し**て以来**、持久力が上がった気がする。でも仕事が忙しくて、最近は練習する**どころではない**んだ…  
+> **A**：体力**からすると**、ウォームアップは欠かさない方がいいよ。  
+
+**中英翻译**：  
+> **A**: I recently started going to the gym. I do not only weight training but also cardio.  
+> **B**: Since running the marathon, I feel my stamina improved. But I'm too busy with work to practice these days...  
+> **A**: Judging from your fitness level, you shouldn't skip warm-ups.  
+
+---
+
+### **四、强化训练建议**  
+1. **听力**：听日本运动类播客（如「スポーツトーク」）并摘录表达  
+2. **口语**：用「～ば～ほど」「～からすると」描述自己喜欢的运动  
+3. **阅读**：速读日本运动杂志（如「Number」）的短篇报道  
+4. **写作**：写一篇「私の運動習慣」（使用至少3个语法+5个单词）  
+
+**例文**：  
+> 水泳を始め**て以来**、週3回プールに通っている。泳げ**ば**泳ぐ**ほど**体が軽くなるのを実感する。医師の意見**からすると**、このペースが理想的だそうだ。  
+
+通过场景化学习，轻松掌握N1运动话题高频表达！ 🏀⚽️🎾
+
+
+## Z025/05/04（日）第13天
+
+以下是「JLPT N1满分通过计划 · 第13天」的听说读写全面提高内容，围绕“小孩健康检查”场景，帮助你掌握实用表达和N1级别语法：
+
+---
+
+## 🎯 今日主题：小孩健康检查（子どもの健康診断）
+
+---
+
+## 📘 一、语法（6个）
+
+| 语法点       | 接续            | 中文意思       | 英文意思                | 例句（日语）                  | 中文翻译                  | 英文翻译                                                                     |
+| --------- | ------------- | ---------- | ------------------- | ----------------------- | --------------------- | ------------------------------------------------------------------------ |
+| ～にすぎない    | 普通形 / 名词      | 只不过是…      | nothing more than   | 軽い風邪にすぎないので、心配いりません。    | 只不过是轻微感冒，不用担心。        | It's just a light cold, so no need to worry.                             |
+| ～にかかわる    | 名词            | 关系到…（重要事项） | related to / affect | 命にかかわる病気ではありません。        | 这不是危及生命的疾病。           | It's not a life-threatening illness.                                     |
+| ～にあって     | 名 + にあって      | 在…情况下      | in the situation of | 現代の医療にあっても治せない病気がある。    | 即使在现代医疗条件下，也有无法治愈的疾病。 | Even with modern medicine, there are incurable diseases.                 |
+| ～を踏まえて    | 名 + を踏まえて     | 根据…，考虑到…   | based on            | 健康診断の結果を踏まえて、栄養指導が行われた。 | 根据体检结果进行了营养指导。        | Nutritional guidance was given based on the medical checkup results.     |
+| ～てしかるべきだ  | 動て形           | 理应… / 应该…  | should              | 熱が高いなら、すぐに病院に行ってしかるべきだ。 | 如果发高烧，就该立刻去医院。        | If there's a high fever, going to the hospital is the right thing to do. |
+| ～を余儀なくされる | 名词 + を余儀なくされる | 被迫…        | be forced to        | 高熱のため、検査入院を余儀なくされた。     | 因为高烧，被迫住院检查。          | Was forced to be hospitalized due to high fever.                         |
+
+---
+
+## 📝 二、常用单词（12个）
+
+| 日语   | 假名       | 中文   | 英文                    | 例句（日语）            | 中文翻译        | 英文翻译                                           |
+| ---- | -------- | ---- | --------------------- | ----------------- | ----------- | ---------------------------------------------- |
+| 健康診断 | けんこうしんだん | 健康检查 | health checkup        | 子どもの健康診断に行きました。   | 去给孩子做了健康检查。 | Went for the child's health checkup.           |
+| 小児科  | しょうにか    | 儿科   | pediatrics            | 小児科の先生はとても優しいです。  | 儿科医生非常亲切。   | The pediatrician is very kind.                 |
+| 成長   | せいちょう    | 成长   | growth                | 成長の様子を毎月チェックします。  | 每月检查成长情况。   | Growth is checked monthly.                     |
+| 発熱   | はつねつ     | 发烧   | fever                 | 昨晩から発熱しています。      | 昨晚开始发烧了。    | Been having a fever since last night.          |
+| 予防接種 | よぼうせっしゅ  | 预防接种 | vaccination           | 予防接種のスケジュールを確認する。 | 确认预防接种的时间表。 | Check the vaccination schedule.                |
+| 身長   | しんちょう    | 身高   | height                | 身長が5センチ伸びました。     | 身高长了5厘米。    | Gained 5 centimeters in height.                |
+| 体重   | たいじゅう    | 体重   | weight                | 体重が標準より少し軽いです。    | 体重比标准稍轻。    | Slightly under the standard weight.            |
+| 栄養   | えいよう     | 营养   | nutrition             | 栄養のバランスが大切です。     | 营养均衡很重要。    | Balanced nutrition is important.               |
+| 視力   | しりょく     | 视力   | eyesight              | 視力が少し落ちている。       | 视力稍有下降。     | Eyesight is a bit worse.                       |
+| 聴力   | ちょうりょく   | 听力   | hearing               | 聴力検査を受けました。       | 做了听力测试。     | Took a hearing test.                           |
+| 問診   | もんしん     | 问诊   | interview (by doctor) | 医師の問診を受けてください。    | 请接受医生问诊。    | Please have a doctor's interview.              |
+| 検温   | けんおん     | 量体温  | temperature check     | 朝、検温してから登校します。    | 早上量体温后上学。   | I check my temperature before going to school. |
+
+---
+
+以下是针对「N1满分通过计划·第13天」设计的 **儿童健康检查场景** 学习内容，包含6个核心语法、12个高频单词，附详细讲解及中英日对照例句，帮助全面提升听说读写能力：
+
+---
+
+### **一、6个核心语法**  
+1. **～に基づいて（にもとづいて）**  
+   - **意义**：基于…/根据…（客观依据）  
+   - **例句**：  
+     検査結果に基づいて、予防接種のスケジュールを決める。  
+     The vaccination schedule is determined based on the test results.  
+     根据检查结果决定疫苗接种计划。  
+
+2. **～にわたって**  
+   - **意义**：持续…（时间/范围）  
+   - **例句**：  
+     3歳から6歳にわたって、毎年健康診断を受ける必要がある。  
+     Children need annual health checkups from ages 3 to 6.  
+     从3岁到6岁期间，每年都需要接受健康检查。  
+
+3. **～に伴い（にともない）**  
+   - **意义**：随着…（伴随变化）  
+   - **例句**：  
+     成長に伴い、栄養バランスの調整が必要になる。  
+     Nutritional balance needs adjustment as the child grows.  
+     随着成长，需要调整营养平衡。  
+
+4. **～を踏まえて（をふまえて）**  
+   - **意义**：在…基础上考虑  
+   - **例句**：  
+     前回の診断を踏まえて、今回の検査項目を増やした。  
+     Additional tests were added this time, taking the previous diagnosis into account.  
+     在上次诊断基础上，本次增加了检查项目。  
+
+5. **～に応じて（におうじて）**  
+   - **意义**：根据…（灵活对应）  
+   - **例句**：  
+     子供の体調に応じて、検査の方法を変える。  
+     The examination method is adjusted according to the child's condition.  
+     根据孩子的身体状况调整检查方式。  
+
+6. **～にほかならない**  
+   - **意义**：正是…（强调原因）  
+   - **例句**：  
+     予防接種を勧めるのは、子供の健康を守るため**にほかならない**。  
+     Recommending vaccinations is **none other than** to protect the child's health.  
+     建议接种疫苗，正是为了保护孩子的健康。  
+
+---
+
+### **二、12个常用单词**  
+| **单词**       | **假名**     | **词性** | **中译**       | **英文**               | **例句（日→英→中）** |  
+|----------------|--------------|----------|----------------|------------------------|-----------------------|  
+| 予防接種       | よぼうせっしゅ | 名       | 疫苗接种       | vaccination            | 予防接種の副作用を確認する。→ Check for vaccination side effects. → 确认疫苗接种的副作用。 |  
+| 発達曲線       | はったつきょくせん | 名       | 发育曲线       | growth chart           | 発達曲線を記入する。→ Plot the growth chart. → 填写发育曲线。 |  
+| 聴力検査       | ちょうりょくけんさ | 名       | 听力检查       | hearing test           | 聴力検査に引っかかる。→ Fail the hearing test. → 听力检查未通过。 |  
+| アレルギー検査 | アレルギーけんさ | 名       | 过敏检测       | allergy test           | アレルギー検査で陽性反応が出た。→ The allergy test came back positive. → 过敏检测呈阳性。 |  
+| 視力           | しりょく     | 名       | 视力           | eyesight               | 視力が低下している。→ Eyesight is declining. → 视力在下降。 |  
+| 体重測定       | たいじゅうそくてい | 名       | 体重测量       | weight measurement     | 体重測定は毎月行う。→ Weight is measured monthly. → 每月测量体重。 |  
+| 問診票         | もんしんひょう | 名       | 问诊表         | medical questionnaire  | 問診票に既往歴を書く。→ Write medical history on the questionnaire. → 在问诊表填写病史。 |  
+| 乳児健診       | にゅうじけんしん | 名       | 婴儿体检       | infant checkup         | 乳児健診で発育遅延を指摘された。→ Developmental delay was noted at the infant checkup. → 婴儿体检时被指出发育迟缓。 |  
+| 抗体           | こうたい     | 名       | 抗体           | antibody               | 抗体が十分にあるか確認する。→ Check if antibodies are sufficient. → 确认抗体是否充足。 |  
+| 経過観察       | けいかかんさつ | 名       | 随访观察       | follow-up observation  | 経過観察が必要だ。→ Follow-up observation is required. → 需要随访观察。 |  
+| 栄養指導       | えいようしどう | 名       | 营养指导       | nutritional guidance   | 栄養指導を受ける。→ Receive nutritional guidance. → 接受营养指导。 |  
+| 発育障害       | はついくしょうがい | 名       | 发育障碍       | developmental disorder | 発育障害の早期発見が重要だ。→ Early detection of developmental disorders is crucial. → 发育障碍的早期发现很重要。 |  
+
+---
+
+### **三、场景对话练习**  
+**医生与家长的对话**（使用上述语法和单词）：  
+> **医師**：前回の血液検査を**踏まえて**、今回アレルギー検査を追加しました。結果は1週間**にわたって**観察が必要です。  
+> **保護者**：発達曲線が平均より低いのですが…  
+> **医師**：栄養指導**に基づいて**食事を改善すれば、成長**に伴い**追いつく可能性があります。心配は**にほかならない**健康のためですね。  
+
+**中英翻译**：  
+> **Doctor**: Based on the previous blood test, we added an allergy test this time. The results require observation over a week.  
+> **Parent**: The growth chart is below average...  
+> **Doctor**: If you improve the diet according to the nutritional guidance, the child may catch up as they grow. Your concern is **none other than** for their health.  
+
+---
+
+### **四、复习策略**  
+1. **听力**：听写医疗问诊对话（如NHK「こどもの健康」节目片段）  
+2. **口语**：角色扮演「医生 vs 家长」对话（重点使用～に応じて、～を踏まえて）  
+3. **阅读**：速读日本「母子手帳」中的检查说明文  
+4. **写作**：用6个语法写一篇「子供の健診レポート」（80字以上）  
+
+**例文**：  
+> 3歳児健診では、視力や聴力検査**にわたって**詳細な検査が行われる。発達曲線**に基づいて**評価し、必要**に応じて**専門医を紹介する。これは早期発見**にほかならない**。  
+
+坚持每日场景化学习，N1医疗健康类题型将迎刃而解！
+
+
+## Z025/05/03（六）第12天
+
+以下是「JLPT N1满分通过计划 · 第12天」听说读写全面提高中，**家庭关系场景**下的重点学习内容：
+
+---
+
+## 🎯 今日主题：家庭关系（家族・家庭の関係）
+
+---
+
+## 📘 一、语法（6个）
+
+| 语法点       | 接续             | 意味（中文/英文）                  | 例句（日文）                   | 中文翻译             | 英文翻译                                             |
+| --------- | -------------- | -------------------------- | ------------------------ | ---------------- | ------------------------------------------------ |
+| ～にして      | 名 + にして        | 既是…又是… / both … and …      | 父は医者にして作家でもある。           | 父亲既是医生也是作家。      | My father is both a doctor and a writer.         |
+| ～とあって     | 普通形            | 因为是…（特殊情况） / since it is … | 家族旅行とあって、皆がうきうきしている。     | 因为是家庭旅行，大家都很兴奋。  | Everyone is excited since it's a family trip.    |
+| ～ずにはおかない  | 動ない形 + ずにはおかない | 一定会… / cannot help but …   | 親として、息子の行動に注意を促さずにはおかない。 | 作为父母，一定会提醒儿子的行为。 | As parents, we can't help but warn our son.      |
+| ～を余儀なくされる | 名 + を余儀なくされる   | 被迫… / be forced to …       | 両親の離婚で引っ越しを余儀なくされた。      | 因为父母离婚，我被迫搬家了。   | I was forced to move due to my parents' divorce. |
+| ～かたわら     | 動辞書形 / 名 + の   | 一边…一边… / while doing …     | 母は仕事のかたわら、家事もこなしている。     | 妈妈一边工作，一边也做家务。   | My mother manages the household while working.   |
+| ～に至るまで    | 名词             | 甚至到… / even up to …        | 家族写真に至るまで整理された。          | 连家庭照片都整理好了。      | Even the family photos were organized.           |
+
+---
+
+## 📝 二、常用单词（12个）
+
+| 日语    | 假名      | 中文      | 英文              | 例句（日语）            | 翻译              |
+| ----- | ------- | ------- | --------------- | ----------------- | --------------- |
+| 家族    | かぞく     | 家庭成员    | family          | 家族全員で外食した。        | 全家人一起出去吃饭了。     |
+| 両親    | りょうしん   | 父母      | parents         | 両親の意見を尊重する。       | 尊重父母的意见。        |
+| 兄弟    | きょうだい   | 兄弟姐妹    | siblings        | 私は三人兄弟の末っ子だ。      | 我是三兄弟中的老幺。      |
+| 義理の母  | ぎりのはは   | 婆婆／岳母   | mother-in-law   | 義理の母ともうまく付き合っている。 | 和婆婆相处得很好。       |
+| 子育て   | こそだて    | 育儿      | parenting       | 子育ては大変だけどやりがいがある。 | 养育孩子虽然辛苦，但很有意义。 |
+| 夫婦    | ふうふ     | 夫妻      | married couple  | 夫婦で家事を分担している。     | 我们夫妻分担家务。       |
+| 世代    | せだい     | 世代      | generation      | 世代間の価値観の違いがある。    | 不同世代有不同的价值观。    |
+| 家事    | かじ      | 家务      | housework       | 家事は家族みんなでやるべきだ。   | 家务应该全家一起分担。     |
+| 親戚    | しんせき    | 亲戚      | relatives       | 正月に親戚が集まる。        | 正月时亲戚们聚在一起。     |
+| 絆     | きずな     | 纽带，情感联系 | bond            | 家族の絆は何よりも大切だ。     | 家庭的情感纽带最重要。     |
+| 面倒を見る | めんどうをみる | 照顾      | take care of    | 祖母の面倒を見ている。       | 照顾奶奶。           |
+| 同居    | どうきょ    | 同住      | living together | 両親と同居している。        | 和父母住在一起。        |
+
+---
+
+以下是针对「N1满分通过计划·第12天」设计的 **家庭关系场景** 学习内容，包含6个核心语法、12个高频单词，附例句及中英日对照翻译，适合系统性复习：
+
+---
+
+### **一、6个核心语法**
+1. **～につれ（て）**  
+   - **意义**：随着…（自然变化）  
+   - **例句**：  
+     子供が成長するにつれ、親の役割も変わっていく。  
+     As children grow, the role of parents also changes.  
+     随着孩子成长，父母的责任也会变化。  
+
+2. **～ばかりか**  
+   - **意义**：不仅…而且…  
+   - **例句**：  
+     彼は家賃を払わないばかりか、食費も負担しない。  
+     Not only does he not pay rent, but he also doesn’t cover food expenses.  
+     他不仅不付房租，连伙食费也不承担。  
+
+3. **～ことから**  
+   - **意义**：由于…（表示原因或判断依据）  
+   - **例句**：  
+     毎晩遅くまで話し声が聞こえることから、隣人は賑やかだとわかった。  
+     From hearing voices every night, I realized the neighbors are lively.  
+     因为每晚都能听到谈话声，可知邻居很热闹。  
+
+4. **～たところで**  
+   - **意义**：即使…也（消极结果）  
+   - **例句**：  
+     今から謝ったところで、彼女は許してくれないだろう。  
+     Even if you apologize now, she probably won’t forgive you.  
+     即使现在道歉，她也不会原谅吧。  
+
+5. **～にこたえて**  
+   - **意义**：响应…/满足…  
+   - **例句**：  
+     家族の期待にこたえて、医者になる決意をした。  
+     Responding to my family’s expectations, I decided to become a doctor.  
+     为了回应家人的期待，我决定当医生。  
+
+6. **～をめぐって**  
+   - **意义**：围绕…（争议或讨论）  
+   - **例句**：  
+     遺産分配をめぐって、兄弟で争いが起きた。  
+     A dispute arose among siblings over the inheritance distribution.  
+     围绕遗产分配，兄弟间发生了争执。  
+
+---
+
+### **二、12个常用单词**  
+| **单词**       | **假名**     | **词性** | **中译**       | **例句（日→中）** |  
+|----------------|--------------|----------|----------------|-------------------|  
+| 絆             | きずな       | 名       | 羁绊           | 家族の絆は強い。→ 家人的羁绊很深。 |  
+| 世話           | せわ         | 名/动   | 照顾           | 祖母の世話をする。→ 照顾祖母。 |  
+| 嫁             | よめ         | 名       | 儿媳           | 嫁と姑の関係。→ 婆媳关系。 |  
+| 扶養           | ふよう       | 名       | 抚养           | 扶養家族が増える。→ 需抚养的家人增加了。 |  
+| 疎遠           | そえん       | 形动     | 疏远           | 疎遠だった叔父と再会した。→ 与疏远的叔叔重逢了。 |  
+| 家計           | かけい       | 名       | 家庭收支       | 家計を圧迫する。→ 给家庭开支造成压力。 |  
+| 同居           | どうきょ     | 名/动   | 同居           | 彼氏と同居を始めた。→ 开始和男友同居。 |  
+| 縁談           | えんだん     | 名       | 亲事           | 縁談を断る。→ 拒绝相亲。 |  
+| 折り合い       | おりあい     | 名       | 妥协/相处       | 折り合いをつける。→ 达成妥协。 |  
+| 内縁           | ないえん     | 名       | 事实婚姻       | 内縁の妻。→ 事实婚姻的妻子。 |  
+| 孝行           | こうこう     | 名/形动  | 孝顺           | 親孝行な息子。→ 孝顺的儿子。 |  
+| 遺産相続       | いさんそうぞく| 名       | 遗产继承       | 遺産相続で揉める。→ 因遗产继承起纠纷。 |  
+
+---
+
+### **三、场景应用练习**  
+**任务**：用上述语法和单词，写一段关于「家族会議」的对话（60字以上）。  
+**例**：  
+> 「遺産分配をめぐって意見が対立したが、時間が経つにつれ、折り合いをつけることになった。扶養の問題ばかりか、家計の圧迫も話し合われた。」  
+> *（围绕遗产分配意见对立，但随着时间的推移最终达成妥协。不仅讨论了抚养问题，还谈及家庭开支的压力。）*  
+
+---
+
+**复习建议**：  
+1. 晨间：背诵单词+语法结构  
+2. 午后：仿写例句并录音（训练听说）  
+3. 晚间：用这些内容描述自己的家庭关系（写作输出）  
+
+坚持12天循环强化，N1家庭关系场景即可全面攻克！
+
+
+
+
+
+
 ## Z025/05/02（五）第11天
 
 ### **N1满分通过计划·第11天**  
