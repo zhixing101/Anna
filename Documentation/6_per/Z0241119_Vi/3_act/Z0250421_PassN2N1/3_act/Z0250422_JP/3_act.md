@@ -1,3 +1,61 @@
+## Z025/05/08（四）第17天
+
+以下是第17天JLPT N1听说读写全面提高计划中，精选的12个语法点与24个高频词汇，并附有中英解释：
+
+---
+
+### 一、语法（12个）
+
+| 语法表达       | 解释（中文）        | 英文解释                         | 例句（中日英）                                                                                   |
+| ---------- | ------------- | ---------------------------- | ----------------------------------------------------------------------------------------- |
+| ～あまり       | 由于过度...而...   | Because of too much...       | 緊張のあまり、声が震えた。<br>紧张过度导致声音颤抖。<br>He was so nervous that his voice trembled.                |
+| ～がち        | 容易...；经常...   | Tend to...                   | 雨の日は外出を控えがちだ。<br>下雨天容易避免外出。<br>People tend to stay indoors on rainy days.                 |
+| ～つつある      | 正在...中（变化）    | In the process of...         | 技術は進化しつつある。<br>技术正在进步。<br>Technology is evolving.                                         |
+| ～うちに       | 趁着...         | While still...               | 若いうちに旅行したい。<br>想在年轻时去旅行。<br>I want to travel while I’m young.                             |
+| ～かねる       | 难以...；不能...   | Cannot easily...             | それには賛成しかねます。<br>对此难以赞同。<br>I cannot agree with that.                                      |
+| ～ことから      | 因为...；由此      | Because...                   | 名前から女性だと分かる。<br>从名字可以看出是女性。<br>You can tell she’s female from the name.                   |
+| ～限り        | 只要...；在...范围内 | As long as... / As far as... | 見る限り問題はない。<br>就我所见没有问题。<br>As far as I can see, there's no problem.                       |
+| ～にすぎない     | 只不过是...       | Nothing more than...         | 噂にすぎない。<br>不过是传言。<br>It’s just a rumor.                                                   |
+| ～かと思えば     | 原以为...却...    | I thought..., but...         | 泣いたかと思えば笑った。<br>刚哭完就笑了。<br>She cried and then laughed.                                    |
+| ～というものではない | 并不是说...就...   | It’s not always that...      | 努力すれば成功するというものではない。<br>并不是努力就一定会成功。<br>It’s not always true that effort leads to success. |
+| ～ざるを得ない    | 不得不...        | Cannot help but...           | 出張に行かざるを得ない。<br>不得不去出差。<br>I have no choice but to go on a business trip.                 |
+| ～にあたって     | 当...之际（郑重）    | On the occasion of...        | 契約書を作成するにあたって注意が必要だ。<br>制定合同时要注意。<br>You need to be careful when drafting a contract.     |
+
+---
+
+### 二、单词（24个）
+
+| 日语         | 中文     | 英文             |
+| ---------- | ------ | -------------- |
+| 提案（ていあん）   | 提案     | proposal       |
+| 調整（ちょうせい）  | 调整     | adjustment     |
+| 通知（つうち）    | 通知     | notification   |
+| 状況（じょうきょう） | 状况     | situation      |
+| 試験（しけん）    | 考试     | test           |
+| 検討（けんとう）   | 探讨、研究  | consideration  |
+| 報告（ほうこく）   | 报告     | report         |
+| 対応（たいおう）   | 应对、处理  | response       |
+| 問題（もんだい）   | 问题     | problem        |
+| 影響（えいきょう）  | 影响     | influence      |
+| 選択（せんたく）   | 选择     | selection      |
+| 実施（じっし）    | 实施     | implementation |
+| 確認（かくにん）   | 确认     | confirmation   |
+| 回答（かいとう）   | 回答     | answer         |
+| 質問（しつもん）   | 问题（提问） | question       |
+| 残業（ざんぎょう）  | 加班     | overtime work  |
+| 必要（ひつよう）   | 必要     | necessity      |
+| 完了（かんりょう）  | 完成、完了  | completion     |
+| 優先（ゆうせん）   | 优先     | priority       |
+| 期限（きげん）    | 期限     | deadline       |
+| 作業（さぎょう）   | 工作（作业） | task/work      |
+| 記録（きろく）    | 记录     | record         |
+| 内容（ないよう）   | 内容     | content        |
+| 注意（ちゅうい）   | 注意、提醒  | caution        |
+
+---
+
+如需将其结合语法写作短文，或制定听说读写学习计划，请告诉我，我可以继续整理。是否需要继续安排本日的三段式学习内容？
+
 ## Z025/05/07（三）第16天
 
 以下是**第16天·N1听说读写全面提高计划**的详细内容，聚焦于「玄关电子门锁安装」这一生活场景，分为三个时段学习安排，并整理相关**12个语法点**与**24个高频词汇**，提供日语例句与中英文翻译。
