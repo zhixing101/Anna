@@ -386,4 +386,17 @@ pie
 
 如果需要进一步优化方向（如更年轻化/更传统），可提供具体应用场景调整！
 
+大竹肉丁面：从地方美食到全国知名品牌的崛起之路
+https://chihe.sohu.com/a/851547556_121956424
 
+李文章主持召开大竹肉丁面品牌推广建设工作座谈会
+https://www.dazhu.gov.cn/news-show-43061.html
+
+大竹肉丁面的文化底蕴与市场拓展策略
+https://baijiahao.baidu.com/s?id=1827615985807689789&wfr=spider&for=pc
+
+大竹肉丁面飘香 地标美食走向全国
+https://mp.weixin.qq.com/s?__biz=MzA3NTE1MjU3Nw==&mid=2651151280&idx=4&sn=d7a5148a89dada9c9c4fa6aacd709425&chksm=8539ea73e0ba87f606a9a094797dec84323063dab9b419127e982d4c27ead0a359a7ab7654ee&scene=27
+
+和袁坊 | 大竹肉丁面，越吃越想念
+https://mp.weixin.qq.com/s?__biz=MzA3NTE1MjU3Nw==&mid=2651144060&idx=4&sn=8d6a7802e9246f41522e05d5c605124e&chksm=8562c0033179ebba6119e1ae764af44b398770d9e11851731578fe7a74baffc8d72ca5fd59d2&scene=27
