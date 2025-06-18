@@ -85,3 +85,118 @@ HAFJ OSS 通常作为 Eclipse 项目的开发框架使用，安装方式如下�
 ---
 
 如果你有具体的操作系统（如 Windows/Linux）、目标服务器（Tomcat/JBoss）或项目类型（是否对接 COBOL）的需求，也可以告诉我，我可以提供具体配置示例。
+
+Gradle 是现代构建自动化工具之一，广泛用于 Java、Kotlin、Android 等项目。相比于传统的 Ant 和 Maven，Gradle **灵活性强、性能好、支持声明式和命令式构建脚本**，并支持并行、增量构建。
+
+---
+
+## 🧩 一、Gradle 的作用
+
+Gradle 是一个 **构建工具（Build Tool）**，它的核心作用是：
+
+### ✅ 主要功能：
+
+| 功能                | 说明                            |
+| ----------------- | ----------------------------- |
+| **依赖管理**          | 自动下载并管理 JAR 等库（类似 Maven）      |
+| **编译与打包**         | 将源码编译成 class 或 JAR、WAR 文件     |
+| **测试自动化**         | 集成 JUnit、TestNG 等测试框架         |
+| **任务自动化**         | 构建、清理、发布、上传等过程任务              |
+| **多项目构建支持**       | 适合大型企业项目的模块化管理                |
+| **支持 Kotlin DSL** | 可使用 Kotlin 脚本或 Groovy 编写构建文件  |
+| **持续集成**          | 支持 Jenkins、GitHub Actions 等工具 |
+
+---
+
+## 🛠 二、Gradle 安装步骤
+
+### 方式一：手动安装（适用于 Windows/macOS/Linux）
+
+1. 前提：安装好 JDK（推荐 JDK 8+）
+2. 下载地址：[https://gradle.org/releases/](https://gradle.org/releases/)
+3. 解压缩 Gradle 到一个目录（如 `C:\Gradle\gradle-8.5`）
+4. 配置环境变量：
+
+   * `GRADLE_HOME=C:\Gradle\gradle-8.5`
+   * 添加 `%GRADLE_HOME%\bin` 到 `Path`
+5. 验证安装：
+
+   ```bash
+   gradle -v
+   ```
+
+### 方式二：使用包管理器（更推荐）
+
+* **macOS**:
+
+  ```bash
+  brew install gradle
+  ```
+
+* **Ubuntu/Linux**:
+
+  ```bash
+  sudo apt install gradle
+  ```
+
+* **Windows**:
+  推荐使用 [Scoop](https://scoop.sh/)：
+
+  ```bash
+  scoop install gradle
+  ```
+
+---
+
+## ⚠️ 三、Gradle 安装与使用注意点
+
+| 项目           | 注意事项                                                   |
+| ------------ | ------------------------------------------------------ |
+| ✅ JDK 版本     | Gradle 本身依赖 Java 环境，JDK 需提前配置好（JAVA\_HOME）             |
+| ✅ 网络问题       | 初次运行项目会下载大量依赖，需保持网络通畅                                  |
+| ✅ 版本控制       | 项目应写明 `gradle-wrapper.properties`，避免版本不一致              |
+| ✅ 缓存路径       | Gradle 默认在用户目录下缓存依赖路径（`~/.gradle`），可清理缓存解决奇怪问题         |
+| ✅ 防火墙/代理     | 国内使用时可配置阿里云或清华镜像，加快依赖下载速度                              |
+| ✅ 语言选择       | 构建脚本可以用 Groovy（默认）或 Kotlin（DSL），注意语法差异                 |
+| ✅ 多模块管理      | 项目结构复杂时建议使用 `settings.gradle` 明确列出子模块                  |
+| ✅ Wrapper 使用 | 推荐使用 `gradlew` 和 `gradlew.bat` 启动，确保版本统一，不需本地安装 Gradle |
+
+---
+
+## 📦 示例：典型 Java 项目 `build.gradle`
+
+```groovy
+plugins {
+    id 'java'
+}
+
+group = 'com.example'
+version = '1.0.0'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.apache.commons:commons-lang3:3.12.0'
+    testImplementation 'junit:junit:4.13.2'
+}
+```
+
+---
+
+## 🔁 与 Maven 对比简要
+
+| 项目         | Maven | Gradle        |
+| ---------- | ----- | ------------- |
+| 脚本语言       | XML   | Groovy/Kotlin |
+| 性能         | 慢     | 快（支持增量构建）     |
+| 学习曲线       | 低     | 稍高            |
+| 插件支持       | 广泛    | 强大灵活          |
+| Android 支持 | 一般    | 官方构建工具        |
+
+---
+
+如果你告诉我你的具体用途（例如 Java Web 项目、Spring 项目、Android 项目、或企业框架 HAFJ OSS 项目），我还可以提供对应的 Gradle 构建脚本模板和依赖配置建议。
+
+
