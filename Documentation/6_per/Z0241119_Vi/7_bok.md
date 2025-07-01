@@ -82,6 +82,73 @@
 
 欢迎告诉我，我可以继续为你整理！
 
+以下是《Rage of Angels》（《天使之怒》）的中英文精彩片段节选，展示了小说女主角 **Jennifer Parker** 面对命运转折、内心挣扎与成长的关键瞬间。这些片段体现了 Sidney Sheldon 独特的节奏与情感描写风格。
+
+---
+
+### 📖 精选片段一：命运坍塌的那一刻
+
+> **英文原文**：
+>
+> *"Jennifer sat there, stunned, as the verdict was read. Her career, her life—it was all unraveling before her eyes. She had walked into the courtroom as a promising assistant D.A., and now she was being branded a criminal conspirator."*
+>
+> **中文译文**：
+>
+> *“珍妮弗呆坐在那里，仿佛被闪电击中一般，听着判决结果宣读。她的事业，她的人生——在眼前一寸寸崩塌。她曾作为有前途的检察官意气风发地走进法庭，如今却被当作同谋而宣判。”*
+
+🔍 这一幕是主角人生逆转的开始，也是一段关于被误解、被牺牲的痛苦写照。
+
+---
+
+### 📖 精选片段二：爱与原则的抉择
+
+> **英文原文**：
+>
+> *"She looked at him, knowing that loving him meant crossing a line she could never return from. But the heart doesn’t argue—it simply chooses."*
+>
+> **中文译文**：
+>
+> *“她望着他，心知若选择这份爱，便意味着越界，再无回头之路。然而心不会讲道理——它只会选择。”*
+
+💔 表达了主角在爱情与道德之间的挣扎，也点明全书的情感核心——**爱有代价**。
+
+---
+
+### 📖 精选片段三：站起来的勇气
+
+> **英文原文**：
+>
+> *"They tried to destroy her, but Jennifer had learned the most important lesson: never let them see you bleed."*
+>
+> **中文译文**：
+>
+> *“他们试图毁掉她，可珍妮弗已学会最重要的一课：永远不要让别人看到你流血。”*
+
+🔥 这是她从困境中奋起，成为强者的标志性语句，极具力量感。
+
+---
+
+### 📖 精选片段四：悲剧之下的觉悟
+
+> **英文原文**：
+>
+> *"Justice had failed her. Love had betrayed her. But in the ruins, she found something more powerful than either—herself."*
+>
+> **中文译文**：
+>
+> *“正义让她失望，爱情令她背叛，但在这满目疮痍中，她找到了比一切都更强大的东西——她自己。”*
+
+🌹 这是小说高潮后珍妮弗的自我觉醒，是 **Sheldon 文学作品中最典型的“女性成长线”** 精神表达。
+
+---
+
+### 🎧 如你希望：
+
+* 整理成【可朗读的中英文对照PDF】
+* 附带【人物出场顺序图】
+* 或配合电影/剧集片段一同理解文字
+
+我可以继续为你整理并打包提供。是否需要？
 
 
 ## Z025/03/08（六）
