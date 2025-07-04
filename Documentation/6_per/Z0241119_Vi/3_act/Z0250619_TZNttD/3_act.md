@@ -250,6 +250,134 @@ for (int i = 0; i < 5; i++) {
 
 我可以帮你逐个解释字段意义，并生成一张「COBOL → JavaBean字段映射图」。是否需要？
 
+在 **日立UAP/UOC框架** 中进行调试（Debug）时，要查看 Java 与 COBOL 联携的 Bean 输出数据（即 InputBean 和 OutputBean），通常使用如下几种方式：
+
+---
+
+## ✅ 一、在 Debug 模式下查看 Bean 内容
+
+### 🎯 目标：
+
+在 Java 的 `UOCImpl`、`HandlerUOCImpl` 或 `Handler` 类中，**实时查看和分析与 COBOL 联携的 Bean 内容**
+
+---
+
+### 🧭 方法一：使用 Eclipse 调试器 + 断点 + 变量查看
+
+#### 步骤：
+
+1. 打开 `UOCImpl` 类，例如 `SFka4020UOCImpl.java`
+2. 在 `execute(Object input, UOCContext context)` 方法中设置断点
+
+   ```java
+   public Object execute(Object input, UOCContext context) {
+       // ← 在此处打断点
+       ...
+   }
+   ```
+3. 启动 UOC Debug 运行环境（CT）：
+
+   * 通常是 `tomcat.bat debug` 或使用 `UAPDebug.launch` 启动
+4. 启动 JSP 页面 → 点击触发该功能
+5. Eclipse 自动进入断点 → 查看变量面板中：
+
+   * `input`（一般是从画面传入的 InputBean）
+   * `context.getOutputBean()`（COBOL返回的 OutputBean）
+
+#### 示例代码：
+
+```java
+InputBean inputBean = (InputBean) input;
+OutputBean outputBean = (OutputBean) context.getOutputBean();
+System.out.println("按钮内容：" + outputBean.geto2ca_cht_btno(0, 0));
+```
+
+#### 🔍 在 Eclipse Variables 窗格查看：
+
+* 展开 inputBean 和 outputBean
+* 查看每个字段的值（包括二维数组）
+
+---
+
+### 🧭 方法二：在代码中主动打印输出内容
+
+#### 使用 `System.out.println()`：
+
+```java
+OutputBean bean = (OutputBean) context.getOutputBean();
+
+for (int i = 0; i < 5; i++) {
+    String code = bean.geto2ca_cht_btno(i, 0);
+    String name = bean.geto2ca_cht_btno(i, 1);
+    System.out.println("Button[" + i + "] → " + code + " : " + name);
+}
+```
+
+#### 使用日志框架（推荐）：
+
+若项目已集成 Log4j / SLF4J：
+
+```java
+private static final Logger logger = LoggerFactory.getLogger(SFka4020UOCImpl.class);
+...
+logger.debug("按钮输出数据：{}", Arrays.deepToString(bean.geto2ca_cht_btno()));
+```
+
+👉 日志可输出到 `CT/logs/uoc.log` 或 `tomcat/logs/catalina.out`
+
+---
+
+## ✅ 二、在 JSP 页面上查看 COBOL 返回值（UI层验证）
+
+如果你希望在画面上验证 COBOL 返回值：
+
+```jsp
+<%= outputBean.geto2ca_cht_btno(0, 1) %>
+```
+
+但不推荐直接打印数组，要做好 null 判断。
+
+---
+
+## ✅ 三、建议调试流程图（简化）
+
+```
+[JSP 画面点击]
+        ↓
+[Handler] → [HandlerUOCImpl] → [UOCImpl] ← COBOL程序联携结果
+                                         ↑
+                                [中间表或Proxy调用]
+        ↓
+[返回 OutputBean] → JSP 输出 or Log 输出
+```
+
+* 在 **HandlerUOCImpl** 和 **UOCImpl** 中都可以插断点
+* 推荐使用 **Eclipse Debug + Variables窗口** 查看 Bean 各字段
+
+---
+
+## 🧩 补充技巧
+
+| 技巧                              | 说明                           |
+| ------------------------------- | ---------------------------- |
+| `context.getOutputBean()`       | 获取 COBOL 返回的 Bean 实例         |
+| 使用 `instanceof` 判断              | 判断是否为预期类型的 Bean              |
+| 打印数组建议用 `Arrays.deepToString()` | 多维数组内容一目了然                   |
+| 查看数据库中间表内容                      | 如果 COBOL 是通过 DB 回写的，也可直接查表验证 |
+
+---
+
+## ✅ 四、推荐断点设置位置
+
+| 类别             | 推荐断点位置                  |
+| -------------- | ----------------------- |
+| HandlerUOCImpl | `getOutputBean()` 调用前后  |
+| UOCImpl        | `execute()` 方法首行        |
+| DB联携类          | 调用 Mapper 的地方（确认是否正确查表） |
+
+---
+
+✅ 如你愿意提供你的 Bean 类结构或 JSP 使用方式，我可以帮你写出调试用打印函数模板或建议断点策略图。是否需要我为你生成一个「UOC联携调试流程图 + 输出Bean结构可视化模板」？
 
 
 ## Z025/07/02（三）
