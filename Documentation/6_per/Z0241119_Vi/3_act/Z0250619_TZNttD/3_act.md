@@ -1,4 +1,124 @@
 ## Z025/07/04（五）
+在 **日立Java框架（UAP/UOC等）** 中，Java 调用或联携 COBOL 程序，通常通过 **数据库中间表、文件联携、MQ消息队列** 或 **COBOL Wrapper/Proxy** 实现。以下是典型的 **Java→COBOL数据联携流程和方法**：
+
+---
+
+## ✅ 1. 联携方式总览（在日立框架中）
+
+| 联携方式                      | 简要说明                            | 是否常见  |
+| ------------------------- | ------------------------------- | ----- |
+| **数据库中间表**                | Java 和 COBOL 各自读写数据库中的中间表       | ★★★★★ |
+| **COBOL Proxy / Wrapper** | Java 使用 API 方式直接调用 COBOL 编译后的服务 | ★★★★☆ |
+| **文件联携（Flat file）**       | Java 输出固定格式文件，COBOL 后续批处理读取     | ★★★☆☆ |
+| **MQ（消息队列）**              | Java 发送消息到队列，COBOL 消费           | ★★★☆☆ |
+
+---
+
+## ✅ 2. 示例：Java 使用 MyBatis 访问 COBOL 写入的数据
+
+### 💡 场景：COBOL 将客户信息写入中间表 `T_CUSTOMER`，Java 读取
+
+#### 1. MyBatis Mapper 示例：
+
+```java
+// Mapper 接口
+public interface CustomerMapper {
+    CustomerEntity findByCustomerId(String customerId);
+}
+```
+
+```xml
+<!-- Mapper XML -->
+<select id="findByCustomerId" resultType="CustomerEntity">
+  SELECT * FROM T_CUSTOMER
+  WHERE CUSTOMER_ID = #{customerId}
+</select>
+```
+
+#### 2. Java HandlerUOC/UOCImpl 代码：
+
+```java
+public class CustomerSearchUOCImpl implements UOC {
+    @Override
+    public Object execute(Object input, UOCContext context) {
+        String customerId = ((Map<String, Object>) input).get("customerId").toString();
+        CustomerEntity customer = customerMapper.findByCustomerId(customerId);
+        return customer;
+    }
+}
+```
+
+📌 注意：表结构需事先与 COBOL 对接团队定义一致，字段名、格式需严格规范。
+
+---
+
+## ✅ 3. 示例：Java 调用 COBOL 的 Proxy 模块（如用 `COBOLWrapper`）
+
+### 💡 场景：Java 调用 COBOL 提供的存款余额查询服务
+
+```java
+CobolProxyRequest req = new CobolProxyRequest();
+req.setCustomerId("A0001");
+
+CobolProxyResponse res = cobolProxy.execute(req);
+
+BigDecimal balance = res.getBalance();
+```
+
+这类调用通常由日立或内部团队提供封装 JAR，如：
+
+* `CobolProxyExecutor`
+* `CobolServiceAdapter`
+* 或使用 JNI/CTC/TPBroker 方式
+
+---
+
+## ✅ 4. 文件联携方式（补充）
+
+1. Java 输出 CSV 或固定宽度文本文件
+2. 存储在指定目录（如 `/batch/input/`）
+3. COBOL 批处理程序定时扫描、解析处理
+
+```java
+FileWriter fw = new FileWriter("/data/input/customer_20240625.txt");
+fw.write("A0001|佐藤太郎|500000\n");
+fw.close();
+```
+
+---
+
+## ✅ 5. 日立UOC/UAP框架中的数据流结构
+
+```text
+JSP画面 → Handler → HandlerUOC → UOCImpl
+  ↓（MyBatis）             ↓
+DB（中间表）           COBOL Proxy/MQ/File
+```
+
+* Handler：接收画面输入
+* HandlerUOC：构造请求对象
+* UOCImpl：执行业务逻辑（含数据库、联携调用）
+
+---
+
+## ✅ 6. 联携开发建议
+
+| 项目    | 建议                     |
+| ----- | ---------------------- |
+| 表结构定义 | 与COBOL团队协作，字段对齐        |
+| 日志记录  | 在UOCImpl中详细记录入出参，便于追溯  |
+| 调试建议  | 使用CT环境调试MyBatis查询、参数映射 |
+| 异常处理  | UOC统一返回异常码，便于画面识别错误    |
+| 分层责任  | 不要在Handler做业务判断，保持清晰职责 |
+
+---
+
+如果你提供具体项目的 Handler 类名、表名或 COBOL 的接口说明，我可以帮你写出对应 HandlerUOC 与 UOCImpl 的模板代码。
+
+是否需要我：
+
+* 生成一个典型 Java → COBOL 联携 Demo 架构图？
+* 整理常见字段对照规范模板（如 CHAR(10) ↔ VARCHAR2）？
 
 
 ## Z025/07/02（三）
