@@ -1,5 +1,162 @@
 ## Z025/07/09（三）
 
+在使用**日立的Java-Cobol架构**（通常是基于**日立UAP + Cosminexus Application Server + COBOL2002** 或 **UT/Star** 等）时，想在**本地构建Java和COBOL连携的调试环境**，主要目的是为了：
+
+> ✅ 疏通程序流程
+> ✅ 快速定位 Java ↔ COBOL 的数据连协问题
+> ✅ 降低开发与测试成本
+
+---
+
+## 🧩 一、架构理解：Java ↔ COBOL 连协机制（HITACHI框架）
+
+在日立的集成框架中，Java 与 COBOL 的数据交换通常采用：
+
+| 通信机制              | 内容说明                                  |
+| ----------------- | ------------------------------------- |
+| UAP Handler       | Java端与Cobol之间的中间层组件，调用COBOL处理         |
+| JavaBean          | 用于定义 COBOL ↔ Java 的数据结构映射             |
+| UOC / UAF 等       | 用于管理事务和通信过程的框架模块                      |
+| DB ↔ COBOL ↔ Java | 数据常由 COBOL 层访问数据库，再通过 Handler 传给 Java |
+
+---
+
+## 🧰 二、本地环境构建步骤（Windows/Linux均适用）
+
+### 1️⃣ 安装开发与调试工具
+
+| 工具                    | 功能                     |
+| --------------------- | ---------------------- |
+| Eclipse + JDK 1.8+    | Java代码开发与调试            |
+| COBOL2002 for Windows | COBOL程序本地编译（Hitachi提供） |
+| Cosminexus Studio（可选） | Java/COBOL 统一管理        |
+| Hitachi UOC/UAF lib   | 项目必需 jar，支持调用 UAP      |
+| 模拟数据库（MySQL/Oracle）   | 数据调试验证用                |
+| PowerShell / bat 脚本   | 启动UAP服务或部署             |
+
+> ✅ 可从公司内部 Hitachi 提供的开发包或构建模板中提取这些组件。
+
+---
+
+### 2️⃣ 本地构建 Java ↔ COBOL 的调用测试
+
+#### ✅（A）配置 COBOL Stub for Java 访问
+
+COBOL 需事先编译为 `.mod` 或 `.dll/.so` 文件，供 Java 通过 JNI 或 handler 调用。
+
+```java
+// 示例：Java 调用 COBOL 的 Handler
+o2caHandler.execute(inputBean, outputBean);
+```
+
+#### ✅（B）设置 Bean 映射结构
+
+* COBOL 数据项定义如：
+
+```cobol
+01 CUSTOMER-INFO.
+   05 ID        PIC 9(5).
+   05 NAME      PIC X(20).
+   05 BALANCE   PIC S9(7)V99 COMP-3.
+```
+
+* JavaBean 对应结构：
+
+```java
+private String id;
+private String name;
+private BigDecimal balance;
+```
+
+通过 `o2ca_cht_btno.get...()` 方式访问数据。
+
+#### ✅（C）UOC/Handler 注册（本地测试用）
+
+若使用 uoc.properties 或类似配置文件：
+
+```properties
+handler.id=SampleHandler
+handler.class=com.hitachi.sample.SampleHandler
+handler.path=/callSample
+```
+
+---
+
+### 3️⃣ 搭建本地调试框架（推荐流程图如下）
+
+```
+[JSP/画面] 
+     ↓ Submit
+[Controller]
+     ↓ 调用
+[Service / UOC]
+     ↓ 执行
+[Handler] ←→ [COBOL]
+     ↓
+[JavaBean映射]
+```
+
+在本地将 COBOL 逻辑做成 DummyMock 或部分真实处理流程，用于调试整个流程的联动。
+
+---
+
+## 🛠 三、调试建议（快速定位故障）
+
+### ✅ 推荐断点设置
+
+| 层           | 断点位置                      | 说明 |
+| ----------- | ------------------------- | -- |
+| Controller  | 请求入口、参数接收点                |    |
+| Service/UOC | 与 COBOL handler 调用前后      |    |
+| Handler     | input/output Bean 处理处     |    |
+| Bean 映射     | setter/getter 中查看值传递      |    |
+| COBOL       | 编译日志或返回码分析（需 log 出现 code） |    |
+
+### ✅ 输出调试信息
+
+```java
+log.debug("INPUT_BEAN: " + inputBean.toString());
+log.debug("COBOL Response Code: " + outputBean.getResponseCode());
+```
+
+### ✅ 使用日志与断点配合
+
+确保日志配置使用 `log4j.xml` 或 `logback.xml` 设为 `DEBUG` 级别，输出 Bean 结构、调用路径、异常栈。
+
+---
+
+## 🔄 四、常见问题与应对
+
+| 问题         | 原因                   | 应对                                 |
+| ---------- | -------------------- | ---------------------------------- |
+| 数据为 null   | Java ↔ COBOL 映射字段不匹配 | 检查 Bean 的 getter/setter 与 COBOL 定义 |
+| COBOL 返回-9 | 参数结构有误或未调用成功         | 检查 handler 注册、参数装填                 |
+| 启动慢 / 卡住   | UAP 没连上或 socket 卡住   | 本地模拟 COBOL 层或 mock                 |
+
+---
+
+## 🧩 五、快速开发小技巧
+
+1. ✅ 用 JUnit 模拟调用 Handler，输入输出 Bean，进行接口测试。
+2. ✅ 用 MockBean 替代 COBOL handler 做调试，提高 Java 端效率。
+3. ✅ 用 Excel or JSON 建立字段对照表：COBOL字段 ↔ JavaBean 字段 ↔ 数据库字段。
+4. ✅ 可视化画流程图（用 PlantUML 或 draw\.io）辅助理解调用关系。
+5. ✅ COBOL 层若可提供日志输出（WRITE 到日志文件），也有助定位问题。
+
+---
+
+## 📘 示例资源（可另行提供）
+
+* JavaBean 与 COBOL字段映射模板
+* uoc.properties 示例配置
+* Dummy COBOL调用返回代码模拟类
+* Eclipse + UOC + Log调试模板工程
+
+---
+
+如你提供项目中用到的 Handler 名称、UOC 名称或实际画面流程图，我可以帮你定制本地调试框架或制作调试脚本。如果希望我帮你**构建一套可调试工程结构目录**，也可以告诉我。是否继续？
+
+
 对带CheckBox的多条数据选择表单，选中后，只让选中的一条数据某些项目可以编辑，并计算合计值，与画面上另一个值比较，如果大于这个值，则抛出错误提示，要如何实现，JSP，spring MVC实装
 
 这是一个常见的表单交互与业务验证需求，涉及：
