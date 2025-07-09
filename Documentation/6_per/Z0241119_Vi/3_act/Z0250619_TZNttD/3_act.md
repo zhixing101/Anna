@@ -1,5 +1,165 @@
 ## Z025/07/09（三）
 
+这是一个常见的表单交互与业务验证需求，涉及：
+
+1. **多行数据+CheckBox选择**
+2. **只允许编辑选中行的特定字段**
+3. **合计某字段的值并与基准值比较**
+4. **JSP + Spring MVC 实现 + 表单验证反馈**
+
+---
+
+## ✅ 示例功能描述
+
+**画面结构示例：**
+
+| 选择 | 项目名 | 可编辑金额   | 说明 |
+| -- | --- | ------- | -- |
+| ☑  | 商品A | \[可编辑]  | x  |
+| ☐  | 商品B | \[不可编辑] | x  |
+| ☑  | 商品C | \[可编辑]  | x  |
+
+📌 勾选的行可输入金额，点击提交后，若金额合计 > 上限（如“预算金额”），则提示错误。
+
+---
+
+## 🧩 实现思路（JSP + Spring MVC）
+
+---
+
+### ① JSP 表单结构
+
+```jsp
+<form:form modelAttribute="form" method="post">
+  <table>
+    <c:forEach var="item" items="${form.itemList}" varStatus="status">
+      <tr>
+        <td>
+          <form:checkbox path="itemList[${status.index}].selected"/>
+        </td>
+        <td>${item.name}</td>
+        <td>
+          <form:input path="itemList[${status.index}].amount"
+                      readonly="${!item.selected}" 
+                      cssClass="amount-input"/>
+        </td>
+      </tr>
+    </c:forEach>
+  </table>
+  
+  <div>
+    <span>基準値（预算）: <span id="baseValue">${form.budget}</span></span>
+  </div>
+  
+  <input type="submit" value="提交"/>
+</form:form>
+```
+
+---
+
+### ② JS 控制可编辑状态 & 实时计算合计值
+
+```html
+<script>
+function updateEditable() {
+  document.querySelectorAll('tr').forEach(row => {
+    const checkbox = row.querySelector('input[type="checkbox"]');
+    const input = row.querySelector('.amount-input');
+    if (checkbox && input) {
+      input.readOnly = !checkbox.checked;
+      if (!checkbox.checked) input.value = ''; // 清空未选中行
+    }
+  });
+}
+
+function validateTotalBeforeSubmit() {
+  let total = 0;
+  document.querySelectorAll('.amount-input').forEach(input => {
+    const val = parseFloat(input.value) || 0;
+    if (!input.readOnly) total += val;
+  });
+  const base = parseFloat(document.getElementById('baseValue').innerText) || 0;
+  if (total > base) {
+    alert("合計金額が基準値を超えています！");
+    return false;
+  }
+  return true;
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+  document.querySelectorAll('input[type="checkbox"]').forEach(cb => {
+    cb.addEventListener('change', updateEditable);
+  });
+  document.querySelector('form').addEventListener('submit', function(e) {
+    if (!validateTotalBeforeSubmit()) e.preventDefault();
+  });
+  
+  updateEditable(); // 初始设置
+});
+</script>
+```
+
+---
+
+### ③ Spring MVC 后端处理
+
+#### DTO 对象结构：
+
+```java
+public class ItemForm {
+    private List<ItemDto> itemList;
+    private BigDecimal budget;
+    // getter / setter
+}
+
+public class ItemDto {
+    private String name;
+    private boolean selected;
+    private BigDecimal amount;
+    // getter / setter
+}
+```
+
+---
+
+#### Controller 接收逻辑：
+
+```java
+@PostMapping("/submit")
+public String handleSubmit(@ModelAttribute("form") ItemForm form, Model model) {
+    BigDecimal total = form.getItemList().stream()
+        .filter(ItemDto::isSelected)
+        .map(i -> i.getAmount() != null ? i.getAmount() : BigDecimal.ZERO)
+        .reduce(BigDecimal.ZERO, BigDecimal::add);
+
+    if (total.compareTo(form.getBudget()) > 0) {
+        model.addAttribute("errorMsg", "合計金額が基準値を超えています。");
+        return "formPage"; // 返回原页面
+    }
+
+    // 处理保存逻辑...
+    return "redirect:/success";
+}
+```
+
+---
+
+## ✅ 补充建议
+
+| 项目       | 建议                                               |
+| -------- | ------------------------------------------------ |
+| 校验同步     | 建议前端 + 后端都做金额合计校验                                |
+| 校验框架     | 后端可使用 `@Valid` 搭配 `BindingResult` 做进一步校验         |
+| 表单命名     | `path="itemList[${index}].字段名"` 是 MVC 表单绑定的关键    |
+| JSP 读写控制 | `readonly="${!item.selected}"` 仅初始加载有效，需 JS 同步控制 |
+
+---
+
+如您愿意提供具体字段名和业务逻辑，我可以帮您生成完整 JSP + Controller 模板，或者转换为 JSTL-free 的纯 JSP。是否需要？
+
+
+
+
 以下是这句话的礼貌日语翻译，适用于项目沟通或测试说明中：
 
 ---
