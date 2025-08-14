@@ -155,6 +155,39 @@
 你要我帮你做这份三栏对照表吗？这样每天早晚各半小时读下来记忆效率会更高。
 
 
+好，那我帮你把这篇《笑うから楽しい》选段做成 **日语原文 + 罗马音 + 中文翻译** 的三栏对照表，方便你朗读、听写和背诵。
+
+---
+
+| **日语原文**                                                         | **罗马音**                                                                                                                                                           | **中文翻译**                                |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| 私たちの体と心は、それぞれ別々のものではなく、深く関わり合っています。                              | Watashitachi no karada to kokoro wa, sorezore betsubetsu no mono de wa naku, fukaku kakawariaっています.                                                               | 我们的身体与心灵并不是彼此独立的，而是紧密相关。                |
+| 楽しいという心の動きが、えがおという体の動きに表れるのと同様に、体の動きも心の動きに働きかけるのです。              | Tanoshii to iu kokoro no ugoki ga, egao to iu karada no ugoki ni arawareru no to dōyō ni, karada no ugoki mo kokoro no ugoki ni hatarakikakeru no desu.           | 就像“愉快的心情”会表现为“笑容”一样，身体的动作也会影响心理活动。      |
+| 何かいやなことがあったときは、このことを思い出して、鏡の前でにっこりえがおを作ってみるのもよいかもしれません。          | Nanika iya na koto ga atta toki wa, kono koto o omoidasして, kagami no mae de nikkori egao o tsukutte miru no mo yoi kamo shiremasen.                               | 当遇到不愉快的事情时，想起这一点，对着镜子试着露出笑容，也许是个好办法。    |
+| 表情によって呼吸が変化し、脳内の血液温度が変わることも、私たちの心の動きを決める大切な要素の一つです。              | Hyōjō ni yotte kokyū ga henka shi, nōnai no ketsueki ondo ga kawaru koto mo, watashitachi no kokoro no ugoki o kimeru taisetsu na yōso no hitotsu desu.           | 表情会改变呼吸，脑中血液温度的变化也是决定心理活动的重要因素之一。       |
+| 人は、脳を流れる血液の温度が低ければ、ここちよく感じることが分かっています。                           | Hito wa, nō o nagareru ketsueki no ondo ga hikukereba, kokochiyoku kanjiru koto ga wakatte imasu.                                                                 | 人类在大脑血液温度较低时，会感到舒适，这一点已被证实。             |
+| 笑ったときの表情は、笑っていないときと比べて、鼻の入り口が広くなるので、多くの空気を取りこむことができます。           | Waratta toki no hyōjō wa, waratte inai toki to kurabete, hana no iriguchi ga hiroku naru node, ōku no kūki o torikomu koto ga dekimasu.                           | 笑的时候，与不笑时相比，鼻腔入口更宽，因此能吸入更多空气。           |
+| えがおになって、たくさんの空気を吸いこむと、脳を流れる血液が冷やされて、楽しい気持ちが生じるのです。               | Egao ni natte, takusan no kūki o suikomu to, nō o nagareru ketsueki ga hiyasaれて, tanoshii kimochi ga shōjiru no desu.                                             | 露出笑容并吸入大量空气时，大脑血液会被冷却，从而产生愉快的心情。        |
+| 私たちの脳は、体の動きを読み取って、それに合わせた心の動きを呼び起こします。                           | Watashitachi no nō wa, karada no ugoki o yomitotte, sore ni awaseta kokoro no ugoki o yobiokoshimasu.                                                             | 我们的大脑会读取身体动作，并引发相应的心理活动。                |
+| ある実験で、参加者に口を横に開いて、歯が見えるようにしてもらいました。                              | Aru jikken de, sankasha ni kuchi o yoko ni hiraite, ha ga mieru yō ni shite moraimashita.                                                                         | 有个实验让参与者横向张开嘴，使牙齿露出来。                   |
+| このときの顔の動きは、笑っているときの表情と、とてもよく似ています。                               | Kono toki no kao no ugoki wa, waratte iru toki no hyōjō to, totemo yoku nite imasu.                                                                               | 这种面部动作与笑容非常相似。                          |
+| 実験の参加者は、自分たちがえがおになっていることに気づいていませんでしたが、自然と愉快な気持ちになっていました。         | Jikken no sankasha wa, jibuntachi ga egao ni natte iru koto ni kidzuいて imasendeshita ga, shizen to yukai na kimochi ni natte imashita.                            | 实验参与者没有意识到自己在做“笑脸”，但自然地产生了愉快的心情。        |
+| このとき、脳は表情から「今、自分は笑っている」と判断し、笑っているときの心の動き、つまり、楽しい気持ちを引き起こしていたのです。 | Kono toki, nō wa hyōjō kara “Ima, jibun wa waratte iru” to handan shi, waratte iru toki no kokoro no ugoki, tsumari, tanoshii kimochi o hikiokoshite ita no desu. | 这时，大脑从表情判断“我正在笑”，于是引发了笑时的心理活动，也就是愉快的心情。 |
+| 例えば、私たち悲しいときに泣く、楽しいときに笑うというように、心の動きが体の動きに表れます。                   | Tatoeba, watashitachi kanashii toki ni naku, tanoshii toki ni warau to iu yō ni, kokoro no ugoki ga karada no ugoki ni arawaremasu.                               | 例如，我们悲伤时会哭，开心时会笑，这些是心理活动表现在身体上的例子。      |
+| しかし、それと同時に、体を動かすことで、心を動かすこともできるのです。                              | Shikashi, sore to dōji ni, karada o ugokasu koto de, kokoro o ugokasu koto mo dekiru no desu.                                                                     | 但是，同时也可以通过活动身体来带动心理变化。                  |
+| 泣くと悲しくなったり、笑うと楽しくなったりするということです。                                  | Naku to kanashiku nattari, warau to tanoshiku nattari suru to iu koto desu.                                                                                       | 也就是说，哭会让人感到悲伤，笑会让人感到开心。                 |
+
+---
+
+我已经帮你完整整理成了**朗读型三栏表**，你可以早晚各花 15 分钟：
+
+* 先 **日语朗读**（配合罗马音）
+* 再 **对照中文理解**
+* 最后 **遮住中文进行默译**
+
+这样坚持下去，不光N1阅读，听力和口语都会稳步提升。
+如果你需要，我还可以帮你配一个**带平假名标注的PDF乐谱式排版**，方便打印跟读。
+你要我帮你做这个吗？这样背诵体验会更接近教材效果。
 
 
 
