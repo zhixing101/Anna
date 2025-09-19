@@ -8,6 +8,48 @@ Q：
 出处和英文原文，日文
 
 A：
+好——这段话出自 **约翰·F·肯尼迪（John F. Kennedy）** 在 **1963 年 6 月 10 日**于 **美国大学（American University, Washington）** 的毕业演讲（常称 *“American University Commencement Address”*／“A Strategy of Peace”）。这是肯尼迪呼吁重新审视美苏关系、推动缓和冷战并为核试验禁令奠定舆论基础的一篇重要讲话。([jfklibrary.org][1])
+
+---
+
+## 英文原文（节选 — 原话中与您提供句子最接近的段落）
+
+> “Let us re-examine our attitude toward the Soviet Union.”
+> “No government or social system is so evil that its people must be considered as lacking in virtue.”
+> “So, let us not be blind to our differences — but let us also direct attention to our common interests and to the means by which those differences can be resolved.”
+> “And if we cannot end now our differences, at least we can help make the world safe for diversity.”
+> “For, in the final analysis, our most basic common link is that we all inhabit this small planet. We all breathe the same air. We all cherish our children's future. And we are all mortal.” ([jfklibrary.org][1])
+
+（以上为演讲中多处相邻句子的逐句节选；完整原文请参见官方全文记录。）([jfklibrary.org][1])
+
+---
+
+## 日文訳（自然な意訳）
+
+> 「私たちはソ連に対する態度を改めて見直すべきです。」
+> 「どの政府や社会体制も、その国民が徳に欠けると見なすほど本質的に邪悪なものではありません。」
+> 「したがって、私たちは相違点を見て見ぬふりをしてはならない。しかし同時に、共通の利害や、相違を解決する手段に目を向けるべきです。」
+> 「たとえ今すぐに対立を終わらせることができなくても、少なくとも多様性が安全に共存できる世界づくりに寄与することはできるはずです。」
+> 「結局のところ、私たちの最も根源的な共通点は、皆がこの小さな地球に住み、同じ空気を吸い、子どもたちの将来を大切に思い、そして私たちが皆つまるところ有情の人間であるということです。」
+
+---
+
+## 简短背景与影响（要点）
+
+* 该演讲是肯尼迪在冷战高峰期向美国与世界提出“缓和”（*peaceful coexistence / easing of tensions*）愿景的重要文稿；他在讲话中既不回避分歧，也呼吁以人性与共同利益为出发点寻求解决之道。([jfklibrary.org][1])
+* 此演讲被视为推动后续《部分禁止核试验条约》（Partial Test Ban Treaty）与美苏减压外交氛围的重要道德/舆论基础之一。([jfklibrary.org][1])
+
+---
+
+若您需要，我可以：
+
+1. 把 **整段（或整篇）英文原文** 的链接给出并标注所在段落；或
+2. 将上面日文译文调整成更书面（严谨）或更口语（朗诵用）的版本；或
+3. 提供该讲话的 **全文英文链接与官方中文/日文译本的参考来源**。
+
+您想先看哪一种？
+
+[1]: https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/american-university-19630610?utm_source=chatgpt.com "Commencement Address at American University, ..."
 
 
 
