@@ -1,3 +1,249 @@
+## Z025/09/23（二）
+
+Q：excel2019写一个按钮，通过sheet中表名，字段名，和对应的数据，生成delete和insert的SQL文，方便导入数据库进行测试
+
+A：
+我来为您创建一个Excel按钮，用于生成DELETE和INSERT SQL语句。以下是完整的解决方案：
+
+## 步骤1：创建VBA代码
+
+按 `Alt + F11` 打开VBA编辑器，插入新模块，然后粘贴以下代码：
+
+```vba
+Sub GenerateSQL()
+    Dim ws As Worksheet
+    Dim lastRow As Long, i As Long
+    Dim tableName As String, fieldNames As String, values As String
+    Dim deleteSQL As String, insertSQL As String
+    Dim outputRow As Long
+    
+    ' 设置工作表
+    Set ws = ActiveSheet
+    
+    ' 查找最后一行数据（假设数据从第2行开始，第1行为标题）
+    lastRow = ws.Cells(ws.Rows.Count, "A").End(xlUp).Row
+    
+    ' 输出起始行（假设从第2列开始输出）
+    outputRow = 2
+    
+    ' 清除之前的输出
+    ws.Columns("E:H").ClearContents
+    
+    ' 设置输出标题
+    ws.Range("E1").Value = "表名"
+    ws.Range("F1").Value = "DELETE SQL"
+    ws.Range("G1").Value = "INSERT SQL"
+    ws.Range("H1").Value = "字段列表"
+    
+    For i = 2 To lastRow
+        If ws.Cells(i, 1).Value <> "" Then
+            ' 获取表名（假设在A列）
+            tableName = Trim(ws.Cells(i, 1).Value)
+            
+            ' 生成DELETE语句
+            deleteSQL = "DELETE FROM " & tableName & " WHERE [条件];"
+            
+            ' 获取字段名和数据（假设字段名在B列，数据在C列）
+            fieldNames = Trim(ws.Cells(i, 2).Value)
+            values = Trim(ws.Cells(i, 3).Value)
+            
+            ' 生成INSERT语句
+            If fieldNames <> "" And values <> "" Then
+                insertSQL = "INSERT INTO " & tableName & " (" & fieldNames & ") VALUES (" & values & ");"
+            Else
+                insertSQL = "INSERT INTO " & tableName & " VALUES (" & values & ");"
+            End If
+            
+            ' 输出结果
+            ws.Cells(outputRow, 5).Value = tableName
+            ws.Cells(outputRow, 6).Value = deleteSQL
+            ws.Cells(outputRow, 7).Value = insertSQL
+            ws.Cells(outputRow, 8).Value = fieldNames
+            
+            outputRow = outputRow + 1
+        End If
+    Next i
+    
+    ' 自动调整列宽
+    ws.Columns("E:H").AutoFit
+    
+    MsgBox "SQL生成完成！共生成 " & (outputRow - 2) & " 条记录。"
+End Sub
+
+' 增强版：支持多字段处理
+Sub GenerateSQLAdvanced()
+    Dim ws As Worksheet
+    Dim lastRow As Long, i As Long, j As Long
+    Dim tableName As String, fieldNames As String, values As String
+    Dim deleteSQL As String, insertSQL As String
+    Dim outputRow As Long
+    Dim fieldsArray() As String, valuesArray() As String
+    
+    Set ws = ActiveSheet
+    lastRow = ws.Cells(ws.Rows.Count, "A").End(xlUp).Row
+    outputRow = 2
+    
+    ' 清除之前的输出
+    ws.Columns("E:H").ClearContents
+    
+    ' 设置输出标题
+    ws.Range("E1").Value = "表名"
+    ws.Range("F1").Value = "DELETE SQL"
+    ws.Range("G1").Value = "INSERT SQL"
+    ws.Range("H1").Value = "字段列表"
+    
+    For i = 2 To lastRow
+        If ws.Cells(i, 1).Value <> "" Then
+            tableName = Trim(ws.Cells(i, 1).Value)
+            
+            ' 生成DELETE语句（可以根据需要添加WHERE条件）
+            deleteSQL = "DELETE FROM " & tableName & " WHERE id = [需要删除的ID];"
+            
+            ' 处理字段和数据
+            fieldNames = Trim(ws.Cells(i, 2).Value)
+            values = Trim(ws.Cells(i, 3).Value)
+            
+            ' 如果字段名为空，但数据存在，生成不带字段名的INSERT
+            If fieldNames = "" And values <> "" Then
+                insertSQL = "INSERT INTO " & tableName & " VALUES (" & values & ");"
+            ElseIf fieldNames <> "" And values <> "" Then
+                insertSQL = "INSERT INTO " & tableName & " (" & fieldNames & ") VALUES (" & values & ");"
+            Else
+                insertSQL = "无法生成INSERT语句 - 数据不完整"
+            End If
+            
+            ' 输出结果
+            ws.Cells(outputRow, 5).Value = tableName
+            ws.Cells(outputRow, 6).Value = deleteSQL
+            ws.Cells(outputRow, 7).Value = insertSQL
+            ws.Cells(outputRow, 8).Value = fieldNames
+            
+            outputRow = outputRow + 1
+        End If
+    Next i
+    
+    ws.Columns("E:H").AutoFit
+    MsgBox "SQL生成完成！共生成 " & (outputRow - 2) & " 条记录。"
+End Sub
+
+' 生成批量INSERT语句
+Sub GenerateBatchInsert()
+    Dim ws As Worksheet
+    Dim lastRow As Long, i As Long
+    Dim tableName As String, fieldNames As String
+    Dim batchSQL As String, currentTable As String
+    Dim outputRow As Long
+    
+    Set ws = ActiveSheet
+    lastRow = ws.Cells(ws.Rows.Count, "A").End(xlUp).Row
+    
+    ' 输出到新工作表
+    On Error Resume Next
+    Application.DisplayAlerts = False
+    Worksheets("SQL输出").Delete
+    Application.DisplayAlerts = True
+    On Error GoTo 0
+    
+    Dim outputSheet As Worksheet
+    Set outputSheet = Worksheets.Add
+    outputSheet.Name = "SQL输出"
+    
+    outputRow = 1
+    currentTable = ""
+    
+    For i = 2 To lastRow
+        If ws.Cells(i, 1).Value <> "" Then
+            tableName = Trim(ws.Cells(i, 1).Value)
+            fieldNames = Trim(ws.Cells(i, 2).Value)
+            values = Trim(ws.Cells(i, 3).Value)
+            
+            If tableName <> currentTable Then
+                ' 新表开始，添加DELETE语句和INSERT头
+                If currentTable <> "" Then
+                    outputSheet.Cells(outputRow, 1).Value = batchSQL
+                    outputRow = outputRow + 2
+                End If
+                
+                outputSheet.Cells(outputRow, 1).Value = "-- 处理表: " & tableName
+                outputRow = outputRow + 1
+                outputSheet.Cells(outputRow, 1).Value = "DELETE FROM " & tableName & " WHERE [条件];"
+                outputRow = outputRow + 1
+                
+                If fieldNames <> "" Then
+                    batchSQL = "INSERT INTO " & tableName & " (" & fieldNames & ") VALUES"
+                Else
+                    batchSQL = "INSERT INTO " & tableName & " VALUES"
+                End If
+                currentTable = tableName
+            End If
+            
+            ' 添加VALUES子句
+            If fieldNames <> "" Then
+                batchSQL = batchSQL & " (" & values & "),"
+            Else
+                batchSQL = batchSQL & " (" & values & "),"
+            End If
+        End If
+    Next i
+    
+    ' 处理最后一批数据
+    If batchSQL <> "" Then
+        ' 去掉最后的逗号，添加分号
+        batchSQL = Left(batchSQL, Len(batchSQL) - 1) & ";"
+        outputSheet.Cells(outputRow, 1).Value = batchSQL
+    End If
+    
+    outputSheet.Columns("A").AutoFit
+    MsgBox "批量SQL生成完成！结果已保存到'SQL输出'工作表。"
+End Sub
+```
+
+## 步骤2：创建按钮
+
+1. 在Excel中，转到「开发工具」选项卡
+2. 点击「插入」→ 选择「按钮」（表单控件）
+3. 在工作表上绘制按钮
+4. 在弹出的对话框中选择 `GenerateSQL` 宏
+5. 右键点击按钮，选择「编辑文字」，改为「生成SQL」
+
+## 步骤3：设置数据格式
+
+在Sheet1中创建以下结构：
+
+| A列(表名) | B列(字段名) | C列(数据值) |
+|-----------|-------------|-------------|
+| users | id, name, age | 1, '张三', 25 |
+| products | product_id, product_name, price | 101, '手机', 2999 |
+| orders | order_id, user_id, amount | 1001, 1, 2999 |
+
+## 步骤4：使用说明
+
+1. **基本用法**：点击按钮后，会在E-H列生成对应的SQL语句
+2. **字段名格式**：用逗号分隔，如：`id, name, age`
+3. **数据值格式**：用逗号分隔，字符串用单引号，如：`1, '张三', 25`
+4. **DELETE语句**：会自动生成，需要手动添加WHERE条件
+
+## 示例输出：
+
+**DELETE SQL:**
+```sql
+DELETE FROM users WHERE id = [需要删除的ID];
+```
+
+**INSERT SQL:**
+```sql
+INSERT INTO users (id, name, age) VALUES (1, '张三', 25);
+```
+
+## 额外功能
+
+- `GenerateSQLAdvanced`：增强版，支持更复杂的数据处理
+- `GenerateBatchInsert`：生成批量INSERT语句，提高导入效率
+
+这个工具可以大大简化测试数据的SQL生成工作，特别适合数据库测试和数据迁移场景。
+
+
+
 ## Z025/07/09（三）
 
 在使用**日立的Java-Cobol架构**（通常是基于**日立UAP + Cosminexus Application Server + COBOL2002** 或 **UT/Star** 等）时，想在**本地构建Java和COBOL连携的调试环境**，主要目的是为了：
