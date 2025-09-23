@@ -242,7 +242,331 @@ INSERT INTO users (id, name, age) VALUES (1, '张三', 25);
 
 这个工具可以大大简化测试数据的SQL生成工作，特别适合数据库测试和数据迁移场景。
 
+我来为您修改代码，支持根据多个主键生成DELETE语句。
 
+## 修改后的VBA代码
+
+```vba
+Sub GenerateSQLWithMultiPK()
+    Dim ws As Worksheet
+    Dim lastRow As Long, i As Long
+    Dim tableName As String, fieldNames As String, values As String, pkFields As String
+    Dim deleteSQL As String, insertSQL As String
+    Dim outputRow As Long
+    Dim pkArray() As String, valueArray() As String
+    Dim whereConditions As String
+    Dim j As Long
+    
+    ' 设置工作表
+    Set ws = ActiveSheet
+    
+    ' 查找最后一行数据
+    lastRow = ws.Cells(ws.Rows.Count, "A").End(xlUp).Row
+    
+    ' 输出起始行
+    outputRow = 2
+    
+    ' 清除之前的输出（扩展到I列）
+    ws.Columns("E:I").ClearContents
+    
+    ' 设置输出标题
+    ws.Range("E1").Value = "表名"
+    ws.Range("F1").Value = "主键字段"
+    ws.Range("G1").Value = "DELETE SQL"
+    ws.Range("H1").Value = "INSERT SQL"
+    ws.Range("I1").Value = "所有字段"
+    
+    For i = 2 To lastRow
+        If ws.Cells(i, 1).Value <> "" Then
+            ' 获取数据（假设A列表名，B列主键字段，C列所有字段，D列数据）
+            tableName = Trim(ws.Cells(i, 1).Value)
+            pkFields = Trim(ws.Cells(i, 2).Value)  ' 主键字段
+            fieldNames = Trim(ws.Cells(i, 3).Value) ' 所有字段
+            values = Trim(ws.Cells(i, 4).Value)     ' 数据值
+            
+            ' 生成基于多主键的DELETE语句
+            deleteSQL = GenerateDeleteSQL(tableName, pkFields, values)
+            
+            ' 生成INSERT语句
+            If fieldNames <> "" And values <> "" Then
+                insertSQL = "INSERT INTO " & tableName & " (" & fieldNames & ") VALUES (" & values & ");"
+            Else
+                insertSQL = "INSERT INTO " & tableName & " VALUES (" & values & ");"
+            End If
+            
+            ' 输出结果
+            ws.Cells(outputRow, 5).Value = tableName
+            ws.Cells(outputRow, 6).Value = pkFields
+            ws.Cells(outputRow, 7).Value = deleteSQL
+            ws.Cells(outputRow, 8).Value = insertSQL
+            ws.Cells(outputRow, 9).Value = fieldNames
+            
+            outputRow = outputRow + 1
+        End If
+    Next i
+    
+    ' 自动调整列宽
+    ws.Columns("E:I").AutoFit
+    
+    MsgBox "SQL生成完成！共生成 " & (outputRow - 2) & " 条记录。"
+End Sub
+
+' 生成基于多主键的DELETE语句函数
+Function GenerateDeleteSQL(tableName As String, pkFields As String, values As String) As String
+    Dim pkArray() As String, valueArray() As String
+    Dim whereConditions As String
+    Dim i As Long, j As Long
+    Dim pkIndex As Integer
+    Dim allFieldsArray() As String
+    
+    ' 初始化
+    whereConditions = ""
+    
+    ' 分割主键字段和所有值
+    pkArray = Split(pkFields, ",")
+    valueArray = Split(values, ",")
+    
+    ' 分割所有字段（用于确定主键值的位置）
+    ' 注意：这里假设字段顺序与值顺序一致
+    
+    ' 构建WHERE条件
+    For i = LBound(pkArray) To UBound(pkArray)
+        Dim currentPk As String
+        currentPk = Trim(pkArray(i))
+        
+        ' 在所有值中查找对应的主键值
+        For j = LBound(valueArray) To UBound(valueArray)
+            ' 这里需要根据字段顺序匹配，实际应用中可能需要更复杂的逻辑
+            ' 简化处理：按位置对应（需要确保字段顺序一致）
+            If j = i Then
+                Dim currentValue As String
+                currentValue = Trim(valueArray(j))
+                
+                ' 添加条件
+                If whereConditions <> "" Then
+                    whereConditions = whereConditions & " AND "
+                End If
+                
+                whereConditions = whereConditions & currentPk & " = " & currentValue
+                Exit For
+            End If
+        Next j
+    Next i
+    
+    GenerateDeleteSQL = "DELETE FROM " & tableName & " WHERE " & whereConditions & ";"
+End Function
+
+' 更智能的版本：根据字段名匹配值
+Sub GenerateSQLSmartPK()
+    Dim ws As Worksheet
+    Dim lastRow As Long, i As Long
+    Dim tableName As String, fieldNames As String, values As String, pkFields As String
+    Dim deleteSQL As String, insertSQL As String
+    Dim outputRow As Long
+    
+    Set ws = ActiveSheet
+    lastRow = ws.Cells(ws.Rows.Count, "A").End(xlUp).Row
+    outputRow = 2
+    
+    ' 清除输出
+    ws.Columns("E:I").ClearContents
+    
+    ' 设置标题
+    ws.Range("E1").Value = "表名"
+    ws.Range("F1").Value = "主键字段"
+    ws.Range("G1").Value = "DELETE SQL"
+    ws.Range("H1").Value = "INSERT SQL"
+    ws.Range("I1").Value = "所有字段"
+    
+    For i = 2 To lastRow
+        If ws.Cells(i, 1).Value <> "" Then
+            tableName = Trim(ws.Cells(i, 1).Value)
+            pkFields = Trim(ws.Cells(i, 2).Value)
+            fieldNames = Trim(ws.Cells(i, 3).Value)
+            values = Trim(ws.Cells(i, 4).Value)
+            
+            ' 使用智能匹配生成DELETE
+            deleteSQL = GenerateDeleteSQLSmart(tableName, pkFields, fieldNames, values)
+            
+            ' 生成INSERT
+            If fieldNames <> "" And values <> "" Then
+                insertSQL = "INSERT INTO " & tableName & " (" & fieldNames & ") VALUES (" & values & ");"
+            Else
+                insertSQL = "INSERT INTO " & tableName & " VALUES (" & values & ");"
+            End If
+            
+            ' 输出
+            ws.Cells(outputRow, 5).Value = tableName
+            ws.Cells(outputRow, 6).Value = pkFields
+            ws.Cells(outputRow, 7).Value = deleteSQL
+            ws.Cells(outputRow, 8).Value = insertSQL
+            ws.Cells(outputRow, 9).Value = fieldNames
+            
+            outputRow = outputRow + 1
+        End If
+    Next i
+    
+    ws.Columns("E:I").AutoFit
+    MsgBox "智能SQL生成完成！共生成 " & (outputRow - 2) & " 条记录。"
+End Sub
+
+' 智能匹配函数：根据字段名匹配对应的值
+Function GenerateDeleteSQLSmart(tableName As String, pkFields As String, allFields As String, allValues As String) As String
+    Dim pkArray() As String, fieldArray() As String, valueArray() As String
+    Dim whereConditions As String
+    Dim i As Long, j As Long
+    
+    whereConditions = ""
+    
+    ' 分割数组
+    pkArray = Split(pkFields, ",")
+    fieldArray = Split(allFields, ",")
+    valueArray = Split(allValues, ",")
+    
+    ' 为每个字段去除空格
+    For i = LBound(fieldArray) To UBound(fieldArray)
+        fieldArray(i) = Trim(fieldArray(i))
+    Next i
+    
+    ' 为每个主键字段查找对应的值
+    For i = LBound(pkArray) To UBound(pkArray)
+        Dim currentPk As String
+        currentPk = Trim(pkArray(i))
+        
+        ' 在字段数组中查找主键字段的位置
+        For j = LBound(fieldArray) To UBound(fieldArray)
+            If fieldArray(j) = currentPk Then
+                ' 找到对应位置的值
+                If j <= UBound(valueArray) Then
+                    Dim currentValue As String
+                    currentValue = Trim(valueArray(j))
+                    
+                    If whereConditions <> "" Then
+                        whereConditions = whereConditions & " AND "
+                    End If
+                    
+                    whereConditions = whereConditions & currentPk & " = " & currentValue
+                End If
+                Exit For
+            End If
+        Next j
+    Next i
+    
+    If whereConditions = "" Then
+        GenerateDeleteSQLSmart = "DELETE FROM " & tableName & " WHERE [请手动添加条件];"
+    Else
+        GenerateDeleteSQLSmart = "DELETE FROM " & tableName & " WHERE " & whereConditions & ";"
+    End If
+End Function
+
+' 批量生成带事务的SQL
+Sub GenerateTransactionSQL()
+    Dim ws As Worksheet
+    Dim lastRow As Long, i As Long
+    Dim tableName As String, currentTable As String
+    Dim outputRow As Long
+    Dim transactionSQL As String
+    Dim deleteSQL As String, insertSQL As String
+    
+    Set ws = ActiveSheet
+    lastRow = ws.Cells(ws.Rows.Count, "A").End(xlUp).Row
+    
+    ' 创建输出工作表
+    On Error Resume Next
+    Application.DisplayAlerts = False
+    Worksheets("事务SQL").Delete
+    Application.DisplayAlerts = True
+    On Error GoTo 0
+    
+    Dim outputSheet As Worksheet
+    Set outputSheet = Worksheets.Add
+    outputSheet.Name = "事务SQL"
+    
+    outputRow = 1
+    currentTable = ""
+    
+    ' 开始事务
+    outputSheet.Cells(outputRow, 1).Value = "BEGIN TRANSACTION;"
+    outputRow = outputRow + 1
+    outputSheet.Cells(outputRow, 1).Value = "TRY"
+    outputRow = outputRow + 1
+    
+    For i = 2 To lastRow
+        If ws.Cells(i, 1).Value <> "" Then
+            tableName = Trim(ws.Cells(i, 1).Value)
+            pkFields = Trim(ws.Cells(i, 2).Value)
+            fieldNames = Trim(ws.Cells(i, 3).Value)
+            values = Trim(ws.Cells(i, 4).Value)
+            
+            ' 生成DELETE和INSERT
+            deleteSQL = GenerateDeleteSQLSmart(tableName, pkFields, fieldNames, values)
+            insertSQL = "INSERT INTO " & tableName & " (" & fieldNames & ") VALUES (" & values & ");"
+            
+            ' 输出到事务SQL
+            outputSheet.Cells(outputRow, 1).Value = "    -- 处理表: " & tableName
+            outputRow = outputRow + 1
+            outputSheet.Cells(outputRow, 1).Value = "    " & deleteSQL
+            outputRow = outputRow + 1
+            outputSheet.Cells(outputRow, 1).Value = "    " & insertSQL
+            outputRow = outputRow + 1
+        End If
+    Next i
+    
+    ' 结束事务
+    outputSheet.Cells(outputRow, 1).Value = "    COMMIT TRANSACTION;"
+    outputRow = outputRow + 1
+    outputSheet.Cells(outputRow, 1).Value = "END TRY"
+    outputRow = outputRow + 1
+    outputSheet.Cells(outputRow, 1).Value = "BEGIN CATCH"
+    outputRow = outputRow + 1
+    outputSheet.Cells(outputRow, 1).Value = "    ROLLBACK TRANSACTION;"
+    outputRow = outputRow + 1
+    outputSheet.Cells(outputRow, 1).Value = "    THROW;"
+    outputRow = outputRow + 1
+    outputSheet.Cells(outputRow, 1).Value = "END CATCH"
+    
+    outputSheet.Columns("A").AutoFit
+    MsgBox "事务SQL生成完成！结果已保存到'事务SQL'工作表。"
+End Sub
+```
+
+## 数据格式示例
+
+在Sheet1中创建以下结构：
+
+| A列(表名) | B列(主键字段) | C列(所有字段) | D列(数据值) |
+|-----------|---------------|---------------|-------------|
+| users | id | id, name, age | 1, '张三', 25 |
+| orders | order_id,user_id | order_id, user_id, amount | 1001, 1, 2999 |
+| products | product_id | product_id, name, price | 101, '手机', 2999 |
+
+## 生成的SQL示例
+
+**多主键DELETE示例：**
+```sql
+DELETE FROM orders WHERE order_id = 1001 AND user_id = 1;
+```
+
+**单主键DELETE示例：**
+```sql
+DELETE FROM users WHERE id = 1;
+```
+
+## 使用说明
+
+1. **`GenerateSQLWithMultiPK`** - 基础多主键版本
+2. **`GenerateSQLSmartPK`** - 智能匹配版本（推荐）
+3. **`GenerateTransactionSQL`** - 生成带事务的完整SQL脚本
+
+## 特点
+
+- ✅ 支持单主键和多主键
+- ✅ 智能字段值匹配
+- ✅ 自动生成WHERE条件
+- ✅ 支持事务处理
+- ✅ 错误处理机制
+
+这样您就可以根据实际表的主键配置，自动生成准确的DELETE语句了！
 
 ## Z025/07/09（三）
 
