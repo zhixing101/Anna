@@ -197,6 +197,133 @@
 
 这份整理基于日本小学国语教育的标准，希望能为您的学习或教学提供有力的支持。
 
+---
+
+### **児童向け 食べ物語彙 20選 (中日英解説付き)**
+
+1.  **りんご**
+    *   **中文**： 苹果
+    *   **English**: apple
+    *   **例文**： 「まっかなりんごを、おばあさんにもっていきました。」（像《小红帽》里一样）
+      "I'm taking a red apple to my grandmother."
+
+2.  **みかん**
+    *   **中文**： 橘子
+    *   **English**: mandarin orange
+    *   **例文**： 「冬はこたつでみかんを食べよう。」（像《海螺小姐》中的经典场景）
+      "Let's eat mikan under the kotatsu in winter!"
+
+3.  **にんじん**
+    *   **中文**： 胡萝卜
+    *   **English**: carrot
+    *   **例文**： 「にんじん、きらい…。でも、食べれば元気が出るんだよ。」（像《好饿的毛毛虫》那样的教育口吻）
+      "I hate carrots... But they give you energy!"
+
+4.  **ほうれん草**
+    *   **中文**： 菠菜
+    *   **English**: spinach
+    *   **例文**： 「ほうれん草を食べれば、ポパイみたいに強くなれるぞ！」（引用《大力水手》）
+      "Eat your spinach and become strong like Popeye!"
+
+5.  **牛乳**
+    *   **中文**： 牛奶
+    *   **English**: milk
+    *   **例文**： 「牛乳で、背が高く伸びようね。」（像学校保健课上的话）
+      "Drink milk to grow tall!"
+
+6.  **目玉焼き**
+    *   **中文**： 煎鸡蛋（太阳蛋）
+    *   **English**: sunny-side up egg
+    *   **例文**： 「お母さんの作る目玉焼きは、黄身がとろとろだ。」
+      "The sunny-side up eggs my mom makes have a runny yolk."
+
+7.  **やきそば**
+    *   **中文**： 炒面
+    *   **English**: fried noodles
+    *   **例文**： 「祭りの屋台で、やきそばを食べるのが楽しみだ。」（像夏日祭典的场景）
+      "I look forward to eating yakisoba at the festival stall."
+
+8.  **カレーライス**
+    *   **中文**： 咖喱饭
+    *   **English**: curry rice
+    *   **例文**： 「今日の給食はカレーライスだ！みんな大好き。」
+      "Today's school lunch is curry rice! Everyone loves it."
+
+9.  **とんかつ**
+    *   **中文**： 炸猪排
+    *   **English**: pork cutlet
+    *   **例文**： 「試験の前には、勝つようにとんかつを食べよう。」（利用“カツ”与“勝つ”的谐音）
+      "Let's eat tonkatsu before the exam for good luck (to win)!"
+
+10. **おにぎり**
+    *   **中文**： 饭团
+    *   **English**: rice ball
+    *   **例文**： 「遠足で、お母さん手作りのおにぎりが一番おいしい。」（像《樱桃小丸子》中的郊游场景）
+      "On a field trip, my mom's handmade onigiri is the best!"
+
+11. **みそしる**
+    *   **中文**： 味增汤
+    *   **English**: miso soup
+    *   **例文**： 「朝ごはんに、温かいみそしるが欠かせない。」
+      "A warm bowl of miso soup is essential for breakfast."
+
+12. **サンドイッチ**
+    *   **中文**： 三明治
+    *   **English**: sandwich
+    *   **例文**： 「ピクニックに、いろどりきれいなサンドイッチを持っていこう。」
+      "Let's bring colorful sandwiches to the picnic."
+
+13. **ハンバーグ**
+    *   **中文**： 汉堡肉饼
+    *   **English**: hamburger steak
+    *   **例文**： 「今日はぼくの誕生日！レストランでハンバーグを食べるよ。」
+      "It's my birthday today! I'll have hamburger steak at the restaurant."
+
+14. **スープ**
+    *   **中文**： 汤
+    *   **English**: soup
+    *   **例文**：「かぜをひいたときは、温かいスープを飲むと気持ちがいい。」
+      "When I have a cold, a warm bowl of soup makes me feel better."
+
+15. **チーズ**
+    *   **中文**： 奶酪
+    *   **English**: cheese
+    *   **例文**： 「ピザの上に、とろけるチーズがのっている。」
+      "There's melting cheese on top of the pizza."
+
+16. **アイスクリーム**
+    *   **中文**： 冰淇淋
+    *   **English**: ice cream
+    *   **例文**： 「夏の日には、冷たいアイスクリームが一番のおやつだ。」
+      "On a summer day, cold ice cream is the best treat."
+
+17. **チョコレート**
+    *   **中文**： 巧克力
+    *   **English**: chocolate
+    *   **例文**： 「バレンタインデーに、お母さんにチョコレートをあげた。」（像日本情人节的习俗）
+      "I gave chocolate to my mom on Valentine's Day."
+
+18. **パン**
+    *   **中文**： 面包
+    *   **English**: bread
+    *   **例文**： 「朝は、パンと牛乳で簡単に済ませる。」
+      "For breakfast, I keep it simple with bread and milk."
+
+19. **ぶどう**
+    *   **中文**： 葡萄
+    *   **English**: grape
+    *   **例文**： 「秋は、ぶどうが甘くておいしい季節だ。」
+      "Autumn is the season when grapes are sweet and delicious."
+
+20. **さかな**
+    *   **中文**： 鱼
+    *   **English**: fish
+    *   **例文**： 「頭が良くなるように、さかなを食べよう。」（引用“吃鱼会变聪明”的普遍说法）
+      "Let's eat fish to become smarter!"
+
+希望这份列表能帮助孩子们在有趣的场景中快乐地学习和运用这些食物词汇！
+
+
 ## Z025/10/27（一）第5周
 
 ### Plan
