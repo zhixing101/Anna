@@ -8,6 +8,235 @@
 
 #### 試験の語彙30語と文法事項5点
 
+---
+
+### **2014年7月 N1 核心語彙 (30語)**
+
+1.  **欺く**
+    *   **読み**：あざむく
+    *   **中文**：欺騙；勝似
+    *   **English**: to deceive; to rival
+    *   **例文**：彼は人を**欺く**ようなことはしない。/ He would never do anything to deceive people.
+
+2.  **著す**
+    *   **読み**：あらわす
+    *   **中文**：著作，撰寫
+    *   **English**: to write, to publish
+    *   **例文**：多くの学術書を**著した**。/ He authored many academic books.
+
+3.  **潔い**
+    *   **読み**：いさぎよい
+    *   **中文**：乾脆的，潔淨的
+    *   **English**: pure, upright, honorable
+    *   **例文** **潔く**負けを認めた。/ He gracefully admitted his defeat.
+
+4.  **疎む**
+    *   **読み**：うとむ
+    *   **中文**：疏遠，嫌隙
+    *   **English**: to alienate, to estrange
+    *   **例文**：彼は皆から**疎まれ**ている。/ He is alienated by everyone.
+
+5.  **概ね**
+    *   **読み**：おおむね
+    *   **中文**：大致，大體上
+    *   **English**: generally, mostly
+    *   **例文**：計画は**概ね**順調だ。/ The plan is generally going well.
+
+6.  **窮める**
+    *   **読み**：きわめる
+    *   **中文**：窮盡，達到極限
+    *   **English**: to carry to the extreme, to investigate thoroughly
+    *   **例文**：真理を**窮める**。/ To seek the ultimate truth.
+
+7.  **健やか**
+    *   **読み**：すこやか
+    *   **中文**：健康的，健全的
+    *   **English**: healthy, sound
+    *   **例文**：**健やか**に育つ。/ To grow up healthy.
+
+8.  **蓄える**
+    *   **読み**：たくわえる
+    *   **中文**：儲蓄，儲存
+    *   **English**: to store, to save
+    *   **例文**：知識を**蓄える**。/ To accumulate knowledge.
+
+9.  **滞る**
+    *   **読み**：とどこおる
+    *   **中文**：拖延，滯納
+    *   **English**: to be delayed, to be in arrears
+    *   **例文**：仕事が**滞っている**。/ The work is behind schedule.
+
+10. **斜め**
+    *   **読み**：ななめ
+    *   **中文**：傾斜，不對勁
+    *   **English**: diagonal, slanting
+    *   **例文**：機嫌が**斜め**だ。/ He is in a bad mood.
+
+11. **華やか**
+    *   **読み**：はなやか
+    *   **中文**：華麗，盛大
+    *   **English**: brilliant, gorgeous
+    *   **例文**：**華やか**なパーティー。/ A gorgeous party.
+
+12. **甚だしい**
+    *   **読み**：はなはだしい
+    *   **中文**：非常的，巨大的
+    *   **English**: extreme, excessive
+    *   **例文**：誤解も**甚だしい**。/ That's a gross misunderstanding.
+
+13. **阻む**
+    *   **読み**：はばむ
+    *   **中文**：阻礙，阻止
+    *   **English**: to prevent, to obstruct
+    *   **例文**：行く手を**阻む**。/ To stand in the way.
+
+14. **陳る**
+    *   **読み**：ついのべる
+    *   **中文**：陳述，說明
+    *   **English**: to state, to explain
+    *   **例文**：意見を**陳る**。/ To state one's opinion.
+
+15. **著る**
+    *   **読み**：ついなる
+    *   **中文**：顯著，明顯
+    *   **English**: to be remarkable, to be prominent
+    *   **例文**：効果が**著る**。/ The effect is remarkable.
+
+16. **努める**
+    *   **読み**：つとめる
+    *   **中文**：努力，盡力
+    *   **English**: to endeavor, to strive
+    *   **例文**：解決に**努める**。/ To strive for a solution.
+
+17. **貫く**
+    *   **読み**：つらぬく
+    *   **中文**：貫穿，貫徹
+    *   **English**: to pierce, to persist in
+    *   **例文**：信念を**貫く**。/ To stick to one's beliefs.
+
+18. **手際**
+    *   **読み**：てぎわ
+    *   **中文**：手法，本領
+    *   **English**: skill, dexterity
+    *   **例文**：**手際よく**仕事を片付ける。/ To handle work efficiently.
+
+19. **乏しい**
+    *   **読み**：とぼしい
+    *   **中文**：缺乏，不足
+    *   **English**: scarce, meager
+    *   **例文**：経験が**乏しい**。/ To lack experience.
+
+20. **悩ましい**
+    *   **読み**：なやましい
+    *   **中文**：惱人的，痛苦的
+    *   **English**: distressing, tantalizing
+    *   **例文**：**悩ましい**問題。/ A troubling problem.
+
+21. **軒並み**
+    *   **読み**：のきなみ
+    *   **中文**：每家，一律
+    *   **English**: row of houses, across the board
+    *   **例文**：**軒並み**値上がりした。/ Prices went up across the board.
+
+22. **華やか**
+    *   **読み**：はなやか
+    *   **中文**：華麗，盛大
+    *   **English**: brilliant, gorgeous
+    *   **例文**：**華やか**なパーティー。/ A gorgeous party.
+
+23. **甚だしい**
+    *   **読み**：はなはだしい
+    *   **中文**：非常的，巨大的
+    *   **English**: extreme, excessive
+    *   **例文**：誤解も**甚だしい**。/ That's a gross misunderstanding.
+
+24. **阻む**
+    *   **読み**：はばむ
+    *   **中文**：阻礙，阻止
+    *   **English**: to prevent, to obstruct
+    *   **例文**：行く手を**阻む**。/ To stand in the way.
+
+25. **陳る**
+    *   **読み**：ついのべる
+    *   **中文**：陳述，說明
+    *   **English**: to state, to explain
+    *   **例文**：意見を**陳る**。/ To state one's opinion.
+
+26. **著る**
+    *   **読み**：ついなる
+    *   **中文**：顯著，明顯
+    *   **English**: to be remarkable, to be prominent
+    *   **例文**：効果が**著る**。/ The effect is remarkable.
+
+27. **努める**
+    *   **読み**：つとめる
+    *   **中文**：努力，盡力
+    *   **English**: to endeavor, to strive
+    *   **例文**：解決に**努める**。/ To strive for a solution.
+
+28. **貫く**
+    *   **読み**：つらぬく
+    *   **中文**：貫穿，貫徹
+    *   **English**: to pierce, to persist in
+    *   **例文**：信念を**貫く**。/ To stick to one's beliefs.
+
+29. **手際**
+    *   **読み**：てぎわ
+    *   **中文**：手法，本領
+    *   **English**: skill, dexterity
+    *   **例文**：**手際よく**仕事を片付ける。/ To handle work efficiently.
+
+30. **乏しい**
+    *   **読み**：とぼしい
+    *   **中文**：缺乏，不足
+    *   **English**: scarce, meager
+    *   **例文**：経験が**乏しい**。/ To lack experience.
+
+---
+
+### **2014年7月 N1 核心文法事項 (5点)**
+
+1.  **～ばこそ**
+    *   **意味**：正因為…才…（強調唯一理由）
+    *   **中文**：正因為…才…
+    *   **English**: It is precisely because... that...
+    *   **接続**：動詞・い形容詞ば形 ＋ こそ
+    *   **例文**：あなたのことを思**えばこそ**、厳しく言うのです。/ It is precisely because I care about you that I am strict with you.
+
+2.  **～とあれば**
+    *   **意味**：如果是…的情況（表示前項是特殊情況，後項採取相應行動）
+    *   **中文**：如果是…的話
+    *   **English**: if it is the case that...; if it is for...
+    *   **接続**：名詞／動詞辞書形 ＋ とあれば
+    *   **例文**：君のため**とあれば**、どんなことでもする。/ If it's for you, I'll do anything.
+
+3.  **～ずにはおかない / ないではおかない**
+    *   **意味**：一定會…；必然導致…（表示強烈的強制或自然趨勢）
+    *   **中文**：一定會…；非…不可
+    *   **English**: be sure to...; cannot but...
+    *   **接続**：動詞ない形（去ない）＋ ずにはおかない
+    *   **例文**：この映画は観る者に感動を**与えずにはおかない**。/ This movie is sure to move its viewers.
+
+4.  **～であれ～であれ**
+    *   **意味**：無論…還是…（列舉極端例子，表示任何情況下都一樣）
+    *   **中文**：無論…還是…
+    *   **English**: whether... or...
+    *   **接続**：名詞 ＋ であれ
+    *   **例文**：晴天**であれ**雨天**であれ**、実施します。/ Whether it's sunny or rainy, we will carry it out.
+
+5.  **～まみれ**
+    *   **意味**：滿是…（多用於灰塵、污垢、汗水、血等不好的東西）
+    *   **中文**：滿是…；沾滿…
+    *   **English**: covered with
+    *   **接続**：名詞 ＋ まみれ
+    *   **例文**：汗**まみれ**になって働く。/ To work until one is covered in sweat.
+
+---
+
+### **學習建議**
+
+*   **詞彙**：N1考試非常注重對近義詞、抽象詞彙和漢字詞的深度考察。記憶時請務必結合例句，理解詞彙的細微語感和使用場景。
+*   **文法**：以上文法點都是N1級別的標誌性項目。除了記住接續和意思，更要通過例句體會其與其他相似文法（如「ばこそ」與「からこそ」）的區別。
 
 #### 中学校1年生の語彙30語と文法事項5点
 
