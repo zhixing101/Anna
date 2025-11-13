@@ -249,6 +249,101 @@
 
 #### 中学校1年生の語彙30語と文法事項5点
 
+好的，以下是针对日本中学一年级（中学校1年生）学生需要掌握的核心学习内容，结合中日英三语讲解，并辅以文学、影视作品中的经典例句进行说明。
+
+---
+
+### **中学校1年生 核心語彙 (30語)**
+
+以下是初一学生需要掌握的代表性词汇，涵盖了抽象名词、动词、形容词等多种词性。
+
+| 番号 | 語彙 (漢字) | 読み方 | 中文意思 | English Meaning | 例文 (出处参考) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | **貢献** | こうけん | 贡献 | contribution | 「彼の発明は世界への**貢献**だ。」（《博士の愛した数式》风格）<br>"His invention is a **contribution** to the world." |
+| 2 | **持続** | じぞく | 持续 | sustainability | 「**持続**可能な社会を目指そう。」（《風の谷のナウシカ》主题）<br>"Let's aim for a **sustainable** society." |
+| 3 | **観察** | かんさつ | 观察 | observation | 「昆虫の生態を**観察**する。」（《となりのトトロ》中孩子的行为）<br>"Observe the ecology of insects." |
+| 4 | **表現** | ひょうげん | 表达 | expression | 「絵で自分の気持ちを**表現**する。」（《月色ビューティー》主题）<br>"Express your feelings through painting." |
+| 5 | **議論** | ぎろん | 议论 | discussion | 「環境問題について**議論**する。」（《天気の子》中的社会背景）<br>"Discuss environmental issues." |
+| 6 | **感動** | かんどう | 感动 | deep emotion | 「彼の勇気に**感動**した。」（《君の名は。》中的情感）<br>"I was **moved** by his courage." |
+| 7 | **証拠** | しょうこ | 证据 | evidence | 「犯行の**証拠**を探す。」（《名探偵コナン》核心剧情）<br>"Look for **evidence** of the crime." |
+| 8 | **環境** | かんきょう | 环境 | environment | 「自然**環境**を守る。」（《もののけ姫》核心主题）<br>"Protect the natural **environment**." |
+| 9 | **比較** | ひかく | 比较 | comparison | 「二つの文化を**比較**する。」（社会课学习内容）<br>"Compare two cultures." |
+| 10 | **尊重** | そんちょう | 尊重 | respect | 「相手の意見を**尊重**する。」（《3月のライオン》中的人际关系）<br>"Respect the other person's opinion." |
+| 11 | **価値** | かち | 价值 | value | 「この経験には**価値**がある。」（《魔女の宅急便》中琪琪的成长）<br>"This experience has **value**." |
+| 12 | **複雑** | ふくざつ | 复杂 | complicated | 「人間の感情は**複雑**だ。」（《心》夏目漱石）<br>"Human emotions are **complex**." |
+| 13 | **実施** | じっし | 实施 | implementation | 「アンケートを**実施**する。」（学校活动常见用语）<br>"Carry out a questionnaire." |
+| 14 | **意識** | いしき | 意识 | consciousness | 「節約を**意識**する。」（《ワンピース》中山治的厨房哲学）<br>"Be conscious of saving." |
+| 15 | **特徴** | とくちょう | 特征 | characteristic | 「日本の四季の**特徴**。」（地理课学习内容）<br>"The **characteristics** of Japan's four seasons." |
+| 16 | **節約** | せつやく | 节约 | saving | 「水を**節約**する。」（《サザエさん》中的日常生活）<br>"Save water." |
+| 17 | **矛盾** | むじゅん | 矛盾 | contradiction | 「彼の話は**矛盾**している。」（《掟上今日子の備忘録》剧情关键）<br>"His story is **contradictory**." |
+| 18 | **批評** | ひひょう | 批评 | criticism | 「映画を**批評**する。」（《下町ロケット》中的技术讨论）<br>"Criticize a movie." |
+| 19 | **優れる** | すぐれる | 优秀 | to excel | 「彼は記憶力が**優れている**。」（《約束のネバーランド》中的孩子们）<br>"He **excels** in memory." |
+| 20 | **膨大** | ぼうだい | 庞大 | huge | 「**膨大**なデータを分析する。」（《シュタインズ・ゲート》剧情要素）<br>"Analyze a **vast** amount of data." |
+| 21 | **簡潔** | かんけつ | 简洁 | concise | 「**簡潔**に説明してください。」（老师上课时的要求）<br>"Please explain **concisely**." |
+| 22 | **信頼** | しんらい | 信赖 | trust | 「互いの**信頼**が大切だ。」（《鬼滅の刃》鬼殺隊的羁绊）<br>"Mutual **trust** is important." |
+| 23 | **頻繁** | ひんぱん | 频繁 | frequent | 「彼女は**頻繁**に海外へ行く。」（《魔女の宅急便》琪琪的设定）<br>"She goes abroad **frequently**." |
+| 24 | **要約** | ようやく | 摘要 | summary | 「長い文章を**要約**する。」（国语课阅读技巧）<br>"Summarize a long passage." |
+| 25 | **謙虚** | けんきょ | 谦虚 | humble | 「もっと**謙虚**に学ぼう。」（《スラムダンク》宮城良田的成长）<br>"Let's learn more **humbly**." |
+| 26 | **持論** | じろん | 个人主张 | one's opinion | 「自分の**持論**を展開する。」（《涼宮ハルヒの憂鬱》凉宫的性格）<br>"Expand on one's **pet theory**." |
+| 27 | **納得** | なっとく | 信服 | understanding | 「説明を聞いて**納得**した。」（《君の名は。》泷了解真相后）<br>"I was **convinced** after hearing the explanation." |
+| 28 | **焦点** | しょうてん | 焦点 | focus | 「議論の**焦点**がずれている。」（《機動戦士ガンダム》中的战略会议）<br>"The **focus** of the discussion is off." |
+| 29 | **相違** | そうい | 差异 | difference | 「二人の意見には**相違**がある。」（《テニスの王子様》选手间的理念）<br>"There is a **difference** between their opinions." |
+| 30 | **養う** | やしなう | 培养 | to cultivate | 「よい習慣を**養う**。」（《バクマン。》中主角的成长）<br>"Cultivate good habits." |
+
+---
+
+### **中学校1年生 核心文法事項 (5点)**
+
+以下是初一阶段需要掌握的代表性语法点，侧重于逻辑表达和复杂句式的运用。
+
+#### **1. ～たり～たりする**
+*   **意味**：表示列举一些动作或状态的例子，“又…又…”、“时而…时而…”。
+*   **Meaning**: Do things like... and... (listing examples of actions).
+*   **接続**：動詞た形 ＋ り
+*   **例文**：
+    > 週末は、映画を**見たり**、本を**読んだりする**。（像《ちびまる子ちゃん》中的周末）
+    > On weekends, I do things like watching movies and reading books.
+
+#### **2. ～だろう / ～でしょう (推量)**
+*   **意味**：表示推测，“大概…吧”。
+*   **Meaning**: Probably, I think (expressing conjecture).
+*   **接続**：動詞/い形容詞普通形 ＋ だろう/でしょう<br>な形容詞語幹/名詞 ＋ だろう/でしょう
+*   **例文**：
+    > 明日は雨が降る**だろう**。（《天気の子》中阳菜的能力）
+    > It will probably rain tomorrow.
+
+#### **3. ～ので**
+*   **意味**：表示客观原因，“因为…”。
+*   **Meaning**: Because, since (indicating a reason).
+*   **接続**：動詞/い形容詞普通形 ＋ ので<br>な形容詞語幹/名詞 ＋ **な** ＋ ので
+*   **例文**：
+    > 試験が近い**ので**、勉強しています。（《二月の勝者》中的学生生活）
+    > Since the exam is near, I'm studying.
+
+#### **4. ～たことがある**
+*   **意味**：表示曾经有过的经历，“…过”。
+*   **Meaning**: Have done something before (indicating past experience).
+*   **接続**：動詞た形 ＋ ことがある
+*   **例文**：
+    > 彼には前に会っ**たことがある**。（《君の名は。》三叶和泷的感觉）
+    > I have met him before.
+
+#### **5. ～なければならない / ～なくてはいけない**
+*   **意味**：表示义务或必要性，“必须…”、“非…不可”。
+*   **Meaning**: Must do, have to do (expressing obligation or necessity).
+*   **接続**：動詞ない形 (去掉ない) ＋ なければならない/なくてはいけない
+*   **例文**：
+    > もっと努力し**なければならない**。（《バクマン。》中真城最高的心态）
+    > I must make more effort.
+
+---
+
+### **学習アドバイス**
+
+1.  **語彙**：初一词汇从具体事物转向**抽象概念和社会性话题**（如「貢献」「矛盾」「尊重」）。学习时最好结合具体的社会议题或自身经历来理解记忆。
+2.  **文法**：此阶段的语法更注重**逻辑关系和客观表达**（如「～ので」表示客观原因，「～だろう」表示推测）。不仅要理解意思，更要体会其在段落中承上启下的逻辑功能。
+---
+
 #### 人体の語彙20語と例文を整理
 
 #### 過誤納の語彙20語と例文を整理
