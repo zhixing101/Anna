@@ -528,6 +528,133 @@
 20. **心臓（しんぞう）**
     *   **例文**：驚（おどろ）いて**心臓（しんぞう）** がドキドキした。
 
+好的，这是为人体20个词汇添加了完整假名读音及英法双语翻译的版本。
+
+---
+
+### **人体の語彙20選と例文（完全版）**
+
+1.  **頭（あたま）**
+    *   **例文**: **頭（あたま）** が痛（いた）いので、早退（そうたい）させてください。
+    *   **中文**: 我头疼，想早点回去。
+    *   **English**: I have a headache, so please let me leave early.
+    *   **Français**: J'ai mal à la tête, alors laissez-moi rentrer plus tôt, s'il vous plaît.
+
+2.  **髪（かみ）**
+    *   **例文**: 彼女（かのじょ）は長（なが）くて美（うつく）しい**髪（かみ）** をしている。
+    *   **中文**: 她有一头美丽的长发。
+    *   **English**: She has long, beautiful hair.
+    *   **Français**: Elle a de longs et beaux cheveux.
+
+3.  **額（ひたい）**
+    *   **例文**: 熱（ねつ）があるらしく、**額（ひたい）** が熱（あつ）い。
+    *   **中文**: 好像发烧了，额头很烫。
+    *   **English**: I seem to have a fever; my forehead is hot.
+    *   **Français**: J'ai semble-t-il de la fièvre ; mon front est chaud.
+
+4.  **眉（まゆ）**
+    *   **例文**: 驚（おどろ）いて、彼（かれ）は**眉（まゆ）** を上（あ）げた。
+    *   **中文**: 他惊讶地扬起了眉毛。
+    *   **English**: He raised his eyebrows in surprise.
+    *   **Français**: Il a haussé les sourcils de surprise.
+
+5.  **瞳（ひとみ）**
+    *   **例文**: 彼（かれ）の**瞳（ひとみ）** は輝（かがや）いていた。
+    *   **中文**: 他的眼眸在闪闪发光。
+    *   **English**: His eyes were shining.
+    *   **Français**: Ses yeux brillaient.
+
+6.  **頬（ほお）**
+    *   **例文**: 恥（は）ずかしくて**頬（ほお）** が赤（あか）くなった。
+    *   **中文**: 害羞得脸红了。
+    *   **English**: I was so embarrassed that my cheeks turned red.
+    *   **Français**: J'étais si embarrassé que mes joues sont devenues rouges.
+
+7.  **唇（くちびる）**
+    *   **例文**: 寒（さむ）さで**唇（くちびる）** が紫（むらさき）色（いろ）になった。
+    *   **中文**: 因为寒冷，嘴唇都紫了。
+    *   **English**: My lips turned purple from the cold.
+    *   **Français**: Mes lèvres sont devenues violettes à cause du froid.
+
+8.  **肩（かた）**
+    *   **例文**: パソコンの使（つか）いすぎで**肩（かた）** が凝（こ）った。
+    *   **中文**: 因为过度使用电脑，肩膀酸痛。
+    *   **English**: My shoulders are stiff from using the computer too much.
+    *   **Français**: J'ai les épaules raides à force d'utiliser trop l'ordinateur.
+
+9.  **胸（むね）**
+    *   **例文**: 彼（かれ）の言葉（ことば）が**胸（むね）** に刺（さ）さった。
+    *   **中文**: 他的话刺痛了我的心。
+    *   **English**: His words struck a chord in my heart.
+    *   **Français**: Ses paroles m'ont touché droit au cœur.
+
+10. **お腹（おなか）**
+    *   **例文**: **お腹（おなか）** が空（す）いた。
+    *   **中文**: 肚子饿了。
+    *   **English**: I'm hungry.
+    *   **Français**: J'ai faim.
+
+11. **腰（こし）**
+    *   **例文**: 重（おも）いものを持（も）ち上（あ）げて、**腰（こし）** を痛（いた）めた。
+    *   **中文**: 搬重物把腰弄伤了。
+    *   **English**: I hurt my lower back lifting something heavy.
+    *   **Français**: Je me suis blessé le dos en soulevant quelque chose de lourd.
+
+12. **腕（うで）**
+    *   **例文**: 彼（かれ）は**腕（うで）** が立（た）つ大工（だいく）だ。
+    *   **中文**: 他是个手艺很好的木匠。
+    *   **English**: He is a skilled carpenter.
+    *   **Français**: C'est un charpentier compétent.
+
+13. **指（ゆび）**
+    *   **例文**: **指（ゆび）** を切（き）らないように気（き）をつけて。
+    *   **中文**: 小心别切到手指。
+    *   **English**: Be careful not to cut your finger.
+    *   **Français**: Fais attention à ne pas te couper le doigt.
+
+14. **脚（あし）**
+    *   **例文**: マラソンで**脚（あし）** が棒（ぼう）になった。
+    *   **中文**: 跑马拉松跑得腿都僵了。
+    *   **English**: My legs turned to lead after the marathon.
+    *   **Français**: Mes jambes étaient comme du plomb après le marathon.
+
+15. **膝（ひざ）**
+    *   **例文**: 転（ころ）んで**膝（ひざ）** を擦（す）りむいた。
+    *   **中文**: 摔了一跤，把膝盖擦破了。
+    *   **English**: I fell and scraped my knee.
+    *   **Français**: Je suis tombé et me suis éraflé le genou.
+
+16. **爪（つめ）**
+    *   **例文**: **爪（つme）** を切（き）るのは清潔（せいけつ）のためだ。
+    *   **中文**: 剪指甲是为了保持清洁。
+    *   **English**: Cutting your nails is for cleanliness.
+    *   **Français**: Se couper les ongles, c'est pour l'hygiène.
+
+17. **肌（はだ）**
+    *   **例文**: このクリームは**肌（はだ）** に優（やさ）しい。
+    *   **中文**: 这个面霜对皮肤很温和。
+    *   **English**: This cream is gentle on the skin.
+    *   **Français**: Cette crème est douce pour la peau.
+
+18. **骨（ほね）**
+    *   **例文**: 転（ころ）んで**骨（ほね）** にひびが入（はい）った。
+    *   **中文**: 摔了一跤，骨裂了。
+    *   **English**: I fell and got a hairline fracture in my bone.
+    *   **Français**: Je suis tombé et j'ai une fissure dans l'os.
+
+19. **筋肉（きんにく）**
+    *   **例文**: トレーニングで**筋肉（きんにく）** をつける。
+    *   **中文**: 通过锻炼来增长肌肉。
+    *   **English**: Build muscle through training.
+    *   **Français**: Se muscler grâce à l'entraînement.
+
+20. **心臓（しんぞう）**
+    *   **例文**: 驚（おどろ）いて**心臓（しんぞう）** がドキドキした。
+    *   **中文**: 吓得心怦怦直跳。
+    *   **English**: I was so surprised that my heart was pounding.
+    *   **Français**: J'étais si surpris que mon cœur battait la chamade.
+
+
 ---
 
 ### **学習のアドバイス**
