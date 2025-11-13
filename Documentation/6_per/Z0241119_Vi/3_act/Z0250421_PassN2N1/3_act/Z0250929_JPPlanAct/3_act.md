@@ -346,6 +346,121 @@
 
 #### 人体の語彙20語と例文を整理
 
+了解了。以下是人体に関する基本的かつ重要な20の語彙と、それらを使った実践的な例文を整理しました。医学的なものではなく、日常生活でよく使う表現を中心に紹介します。
+
+---
+
+### **人体の語彙20選と例文**
+
+1.  **頭**
+    *   **例文**：**頭**が痛いので、早退させてください。
+    *   **中文**：我头疼，想早点回去。
+    *   **English**: I have a headache, so please let me leave early.
+
+2.  **髪**
+    *   **例文**：彼女は長くて美しい**髪**をしている。
+    *   **中文**：她有一头美丽的长发。
+    *   **English**: She has long, beautiful hair.
+
+3.  **額**
+    *   **例文**：熱があるらしく、**額**が熱い。
+    *   **中文**：好像发烧了，额头很烫。
+    *   **English**: I seem to have a fever; my forehead is hot.
+
+4.  **眉**
+    *   **例文**：驚いて、彼は**眉**を上げた。
+    *   **中文**：他惊讶地扬起了眉毛。
+    *   **English**: He raised his eyebrows in surprise.
+
+5.  **瞳**
+    *   **例文**：彼の**瞳**は輝いていた。
+    *   **中文**：他的眼睛在闪闪发光。
+    *   **English**: His eyes were shining.
+
+6.  **頬**
+    *   **例文**：恥ずかしくて**頬**が赤くなった。
+    *   **中文**：害羞得脸红了。
+    *   **English**: I was so embarrassed that my cheeks turned red.
+
+7.  **唇**
+    *   **例文**：寒さで**唇**が紫色になった。
+    *   **中文**：因为寒冷，嘴唇都紫了。
+    *   **English**: My lips turned purple from the cold.
+
+8.  **肩**
+    *   **例文**：パソコンの使いすぎで**肩**が凝った。
+    *   **中文**：因为过度使用电脑，肩膀酸痛。
+    *   **English**: My shoulders are stiff from using the computer too much.
+
+9.  **胸**
+    *   **例文**：彼の言葉が**胸**に刺さった。
+    *   **中文**：他的话刺痛了我的心。
+    *   **English**: His words struck a chord in my heart.
+
+10. **お腹**
+    *   **例文**：お腹**が空いた。
+    *   **中文**：肚子饿了。
+    *   **English**: I'm hungry.
+
+11. **腰**
+    *   **例文**：重いものを持ち上げて、**腰**を痛めた。
+    *   **中文**：搬重物把腰弄伤了。
+    *   **English**: I hurt my lower back lifting something heavy.
+
+12. **腕**
+    *   **例文**：彼は**腕**が立つ大工だ。
+    *   **中文**：他是个手艺很好的木匠。
+    *   **English**: He is a skilled carpenter.
+
+13. **指**
+    *   **例文**：**指**を切らないように気をつけて。
+    *   **中文**：小心别切到手指。
+    *   **English**: Be careful not to cut your finger.
+
+14. **脚**
+    *   **例文**：マラソンで**脚**が棒になった。
+    *   **中文**：跑马拉松跑得腿都僵了。
+    *   **English**: My legs turned to lead after the marathon.
+
+15. **膝**
+    *   **例文**：転んで**膝**を擦りむいた。
+    *   **中文**：摔了一跤，把膝盖擦破了。
+    *   **English**: I fell and scraped my knee.
+
+16. **爪**
+    *   **例文**：**爪**を切るのは清潔のためだ。
+    *   **中文**：剪指甲是为了保持清洁。
+    *   **English**: Cutting your nails is for cleanliness.
+
+17. **肌**
+    *   **例文**：このクリームは**肌**に優しい。
+    *   **中文**：这个面霜对皮肤很温和。
+    *   **English**: This cream is gentle on the skin.
+
+18. **骨**
+    *   **例文**：転んで**骨**にひびが入った。
+    *   **中文**：摔了一跤，骨裂了。
+    *   **English**: I fell and got a hairline fracture in my bone.
+
+19. **筋肉**
+    *   **例文**：トレーニングで**筋肉**をつける。
+    *   **中文**：通过锻炼来增长肌肉。
+    *   **English**: Build muscle through training.
+
+20. **心臓**
+    *   **例文**：驚いて**心臓**がドキドキした。
+    *   **中文**：吓得心怦怦直跳。
+    *   **English**: I was so surprised that my heart was pounding.
+
+---
+
+### **学習のアドバイス**
+
+*   これらの語彙は、体の不調を伝えたり、外見を描写したりする際に非常に役立ちます。
+*   例文と一緒に覚えることで、単語の使い方や自然な表現も同時に身につけることができます。
+*   「肩が凝る」「胸が痛い」「お腹が空く」のように、体の部分を使った**慣用表現**も多くありますので、合わせて覚えると良いでしょう。
+
+
 #### 過誤納の語彙20語と例文を整理
 
 #### 仕事のシナリオ1件の設計と練習
