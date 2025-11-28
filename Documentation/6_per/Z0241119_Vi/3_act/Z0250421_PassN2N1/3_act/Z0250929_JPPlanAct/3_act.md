@@ -12,6 +12,131 @@
 ### Act
 
 
+
+
+好的，这是一份非常实用的在日本麦当劳点餐的模拟对话，包含了中英文翻译、语法讲解和重点单词。
+
+### **麦当劳点餐对话 (McDonald's Ordering Dialogue)**
+
+**场景:** 您在柜台点餐。
+
+---
+
+**店员 (Staff):**
+いらっしゃいませ。ご注文はお決まりですか？
+*   **发音:** Irasshaimase. Go-chūmon wa o-kimari desu ka?
+*   **中文:** 欢迎光临。您的餐点决定好了吗？
+*   **英文:** Welcome. Have you decided on your order?
+
+**您 (You):**
+はい、セットにしたいです。(はい、セットにしたいです。)
+*   **发音:** Hai, setto ni shitai desu.
+*   **中文:** 是的，我想要套餐。
+*   **英文:** Yes, I'd like a combo meal.
+
+**店员 (Staff):**
+かしこまりました。どのバーガーになさいますか？
+*   **发音:** Kashikomarimashita. Dono bāgā ni nasaimasu ka?
+*   **中文:** 好的。您要哪种汉堡呢？
+*   **英文:** Certainly. Which burger would you like?
+
+**您 (You):**
+ビッグマックをお願いします。(ビッグマックをおねがいします。)
+*   **发音:** Biggu Makku o onegaishimasu.
+*   **中文:** 请给我巨无霸。
+*   **英文:** A Big Mac, please.
+
+**店员 (Staff):**
+ポテトとドリンクは如何なさいますか？
+*   **发音:** Poteto to dorinku wa ikaga nasaimasu ka?
+*   **中文:** 薯条和饮料您要什么样的呢？
+*   **英文:** What would you like for your fries and drink?
+
+**您 (You):**
+ポテトはMサイズ、ドリンクはコーラのLサイズでお願いします。
+*   **发音:** Poteto wa emu saizu, dorinku wa kōra no eru saizu de onegaishimasu.
+*   **中文:** 薯条要中份，饮料要可乐的大杯。
+*   **英文:** Medium fries and a large cola, please.
+
+**店员 (Staff):**
+以上でよろしいでしょうか？
+*   **发音:** Ijō de yoroshii deshō ka?
+*   **中文:** 这些就可以了吗？/ 您的餐点就这些吗？
+*   **英文:** Will that be all?
+
+**您 (You):**
+以上で大丈夫です。(いじょうで だいじょうぶ です。)
+*   **发音:** Ijō de daijōbu desu.
+*   **中文:** 是的，这些就够了。
+*   **英文:** That's all, thank you.
+
+**店员 (Staff):**
+お会計は650円になります。こちらでお召し上がりですか、お持ち帰りですか？
+*   **发音:** O-kaikei wa roppyaku-gojū en ni narimasu. Kochira de o-meshiagari desu ka, o-mochikaeri desu ka?
+*   **中文:** 一共是650日元。您是在这里用餐，还是外带？
+*   **英文:** The total is 650 yen. Will you be eating here or taking out?
+
+**您 (You):**
+こちらで。(こちらで。)
+*   **发音:** Kochira de.
+*   **中文:** 在这里用。
+*   **英文:** Eating here.
+
+**店员 (Staff):**
+かしこまりました。少々お待ちください。
+*   **发音:** Kashikomarimashita. Shōshō o-machi kudasai.
+*   **中文:** 明白了。请稍等。
+*   **英文:** Understood. Please wait a moment.
+
+---
+
+### **语法讲解 (Grammar Notes)**
+
+1.  **~に したいです (~ni shitai desu)**
+    *   **讲解:** 这是表达“我想选择...”或“我想要...”的礼貌说法。`に` 表示选择的结果，`したい` 是“做” (`する`) 的愿望形。
+    *   **例句:** セット**にしたいです**。 (我想要套餐。)
+
+2.  **~を お願いします (~o onegaishimasu)**
+    *   **讲解:** 这是点餐时最核心、最实用的句子，意思是“请给我...”。`を` 是宾语助词，`お願いします` 表示“拜托了”。
+    *   **例句:** コーヒー**をお願いします**。(请给我咖啡。)
+
+3.  **~で (~de)**
+    *   **讲解:** 这里的 `で` 有多种用法：
+        - **表示状态或方式:** `こちらで` (在这里)。
+        - **表示限定范围:** `以上で` (就以上这些)。
+        - **连接名词:** `コーラのLサイズ` **で** `お願いします` (以...的方式，即“我要...”)。
+
+4.  **~に なります (~ni narimasu)**
+    *   **讲解:** 这是一种礼貌的表达方式，用于陈述事实，特别是价格、时间等。字面是“变成...”，在这里可以理解为“是...”。
+    *   **例句:** 650円**になります**。(是650日元。)
+
+5.  **~は 如何なさいますか？ (~wa ikaga nasaimasu ka?)**
+    *   **讲解:** 这是非常礼貌的询问方式，`如何` 意思是“如何”，`なさいます` 是“做” (`する`) 的尊敬语。
+    *   **例句:** 飲み物**は如何なさいますか**？(您要什么饮料呢？)
+
+---
+
+### **重点单词 (Key Vocabulary)**
+
+| 单词 | 发音 | 中文意思 | 英文意思 |
+| :--- | :--- | :--- | :--- |
+| **注文** | ちゅうもん (chūmon) | 点餐 | Order |
+| **セット** | setto | 套餐 | Combo meal / Set |
+| **バーガー** | bāgā | 汉堡 | Burger |
+| **ポテト** | poteto | 薯条 | French Fries |
+| **ドリンク** | dorinku | 饮料 | Drink |
+| **サイズ** | saizu | 尺寸 | Size |
+| **S/M/L** | esu/emu/eru | 小/中/大 | Small/Medium/Large |
+| **コーラ** | kōra | 可乐 | Cola |
+| **会計** | かいけい (kaikei) | 结账 | Checkout / Bill |
+| **円** | えん (en) | 日元 | Yen |
+| **こちらで** | kochira de | 在这里 | Here (in this place) |
+| **召し上がる** | めしあがる (meshiagaru) | 用餐（尊敬语） | To eat / drink (polite) |
+| **持ち帰り** | もちかえり (mochikaeri) | 外带 | Take-out |
+| **少々** | しょうしょう (shōshō) | 稍微、片刻 | A moment / A little while |
+
+希望这份详细的指南能帮助您在日本麦当劳顺利点餐！
+
 ## Z025/11/17（一）第8周
 ### Plan
 試験向け：1年以内に日本語能力試験N1に合格する、
