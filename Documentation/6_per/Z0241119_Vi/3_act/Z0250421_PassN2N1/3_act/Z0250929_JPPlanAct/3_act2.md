@@ -333,6 +333,88 @@
 
 #### 4.仕事の語彙20語と例文を整理
 
+### **過誤納業務 重要語彙20語**
+
+**1. 過誤納 (かごのう)**
+*   **中/英/希**：誤繳 / Erroneous Payment / תֶּשֶׁל (teshel)
+*   **例句**：システムの不具合により、複数件の**かごのう**が発生した。| A system malfunction caused multiple cases of **erroneous payment**. | תַּקָּלָה בַּמַּעֲרֶכֶת גָּרְמָה לְכַמָּה מִקְרֵי **תֶּשֶׁל**.
+
+**2. 還付 (かんぷ)**
+*   **中/英/希**：退稅，退還 / Refund / הֲשָׁבָה (hashava)
+*   **例句**：確定した過誤納金は、速やかに**かんぷ**手続きを開始する。| Confirmed overpaid amounts will initiate the **refund** process promptly. | סְכוּמוֹת שֶׁנִּשְׁלְמוּ בְּיֶתֶר וְאֻשְּׁרוּ תַּתְחִיל מָהֵר אֶת תַּהֲלִיךְ **הַהֲשָׁבָה**.
+
+**3. 充当 (じゅうとう)**
+*   **中/英/希**：抵充，冲抵 / Appropriation, Offset / יִעוּד (yi'ud)
+*   **例句**：還付せずに、翌月の納付額に**じゅうとう**することも可能です。| It is also possible to **offset** it against the next month's payment instead of refunding. | גַּם אֶפְשָׁר **לְיַעֵד** אוֹתוֹ לְתַשְׁלוּם הַחוֹדֶשׁ הַבָּא בִּמְקוֹם לְהַשִׁיב.
+
+**4. 精算 (せいさん)**
+*   **中/英/希**：結算，核算 / Settlement, Adjustment / תַּמְצוּעַ (tamtsua)
+*   **例句**：双方の取引記録を照合し、正確な**せいさん**を行った。| We reconciled both parties' transaction records and performed an accurate **settlement**. | הִתְאַמְּתָנוּ בְּרִשְׁמוֹת הַעֲסָקוֹת שֶׁל שְׁנֵי הַצְּדָדִים וּבִצַּעְנוּ **תַּמְצוּעַ** מְדֻיָּק.
+
+**5. 相殺 (そうさい)**
+*   **中/英/希**：抵消 / Set-off, Mutual Cancellation / פִּצּוּי (pitsui)
+*   **例句**：債権と債務を**そうさい**することで、最終的な支払額を決定する。| The final payment amount is determined by **setting off** credits and debits. | הַסְּכוּם הַסּוֹפִי שֶׁל הַתַּשְׁלוּם נִקְבָּע עַל יְדֵי **פִּצּוּי** חוֹבוֹת וְזְכֻיּוֹת.
+
+**6. 過納金 (かのうきん)**
+*   **中/英/希**：多繳款項 / Overpaid Amount / סְכוּם שָׁלֵם בְּיֶתֶר (sekhum shaleim be-yeter)
+*   **例句**：今回の**かのうきん**は、合計で10万円に上ります。| This time's **overpaid amount** totals 100,000 yen. | **הַסְּכוּם הַשָּׁלֵם בְּיֶתֶר** הַפַּעַם מַגִּיעַ בְּסַךְ הַכֹּל לְ100,000 יֵן.
+
+**7. 未納金 (みのうきん)**
+*   **中/英/希**：未繳款項 / Arrears, Unpaid Amount / סְכוּם לֹא שָׁלֵם (sekhum lo shaleim)
+*   **例句**：長期化した**みのうきん**に対しては、督促状を送付する。| We will send a reminder for long-term **unpaid amounts**. | נִשְׁלַח תְּזוּכֶרֶת עַל **סְכוּמִים לֹא שְׁלֵמִים** שֶׁהִתְמַשְׁכוּ.
+
+**8. 納付済み (のうふずみ)**
+*   **中/英/希**：已繳納 / Paid / שָׁלֵם (shaleim)
+*   **例句**：この番号の料金は、すべて**のうふずみ**です。| All charges for this number have been **paid**. | כָּל הַתַּשְׁלֻמִּים לְמִסְפָּר זֶה **שְׁלֵמִים**.
+
+**9. 口座振替 (こうざふりかえ)**
+*   **中/英/希**：銀行自動扣款 / Bank Transfer / הֲבָנָה בַּנְּקֵבוֹת (havana ba-nekavot)
+*   **例句**：毎月の公共料金は、**こうざふりかえ**で支払っている。| Monthly utility bills are paid by **bank transfer**. | תַּשְׁלֻמֵּי הַשָּׁלוּשׁ הַצִּבּוּרִי הַחוֹדְשִׁי נִשְׁלָמִים בְּ**הֲבָנָה בַּנְּקֵבוֹת**.
+
+**10. 領収証 (りょうしゅうしょう)**
+*   **中/英/希**：收據 / Receipt / תְּעוּדַת קַבָּלָה (te'udat kabala)
+*   **例句**：還付の申請には、**りょうしゅうしょう**のコピーが必要です。| A copy of the **receipt** is required for the refund application. | נִדְרֶשֶׁת עֲתֶקֶת **תְּעוּדַת קַבָּלָה** לְבַקֶּשֶׁת הַהֲשָׁבָה.
+
+**11. 申請書 (しんせいしょ)**
+*   **中/英/希**：申請書 / Application Form / טֹפֶס בַּקָּשָׁה (tofes bakasha)
+*   **例句**：**しんせいしょ**に必要事項を記入の上、窓口へ提出してください。| Please fill in the required information on the **application form** and submit it to the counter. | אַנָּא מַלֵּא אֶת הַפְּרָטִים הַנִּדְרָשִׁים בְּ**טֹפֶס הַבַּקָּשָׁה** וְהַגֵּשׁ לַחֲלוֹן.
+
+**12. 確認書 (かくにんしょ)**
+*   **中/英/希**：確認書 / Confirmation Slip / תְּעוּדַת אִישׁוּר (te'udat ishur)
+*   **例句**：処理が完了したら、お客様に**かくにんしょ**をお送りします。| Once processing is complete, we will send a **confirmation slip** to the customer. | בְּסִיּוּם הַתַּהֲלִיךְ, נִשְׁלַח **תְּעוּדַת אִישׁוּר** לַלָּקוֹחַ.
+
+**13. 訂正処理 (ていせいしょり)**
+*   **中/英/希**：更正處理 / Correction Process / תַּהֲלִיךְ תִּקּוּן (tahalikh tikun)
+*   **例句**：入力ミスを**ていせいしょり**するには、所定のフォームが必要だ。| A prescribed form is required to **process a correction** for an input error. | נִדְרָשׁ טֹפֶס מְקֻבָּל כְּדֵי **לְתַקֵּן** טָעוּת הַקְלָדָה.
+
+**14. 二重払い (にじゅうばらい)**
+*   **中/英/希**：雙重支付 / Double Payment / תַּשְׁלוּם כָּפוּל (tashlum kafool)
+*   **例句**：システムの遅延により、**にじゅうばらい**が発生するリスクがある。| System delays carry the risk of causing **double payments**. | עִכּוּבִים בַּמַּעֲרֶכֶת טְעוּנִים סַכָּנָה שֶׁל גָּרִימַת **תַּשְׁלוּם כָּפוּל**.
+
+**15. 遡及適用 (そきゅうてきよう)**
+*   **中/英/希**：追溯適用 / Retroactive Application / יִשּׁוּם רְטְרוֹאַקְטִיבִי (yishum retroaktivi)
+*   **例句**：新税率の**そきゅうてきよう**により、過誤納が生じた。| The **retroactive application** of the new tax rate resulted in an erroneous payment. | **יִשּׁוּם רְטְרוֹאַקְטִיבִי** שֶׁל שִׁעוּר הַמַּס הַחָדָשׁ גָּרַם לְתֶשֶׁל.
+
+**16. 誤表示 (ごひょうじ)**
+*   **中/英/希**：錯誤顯示 / Misdisplay / תְּצוּגָה מוּטְעֵית (tatsuga mut'eit)
+*   **例句**：画面の**ごひょうじ**が、誤った金額の入力原因となった。| The screen's **misdisplay** caused the input of an incorrect amount. | **תְּצוּגָה מוּטְעֵית** בַּמָּסָךְ גָּרְמָה לְהַקְלָדַת סְכוּם לֹא נָכוֹן.
+
+**17. 検収 (けんしゅう)**
+*   **中/英/希**：驗收 / Verification and Acceptance / בְּדִיקָה וְקַבָּלָה (bdika vekabala)
+*   **例句**：入力データの**けんしゅう**を厳格に行い、過誤を防ぐ。| Strictly perform **verification** of input data to prevent errors. | בַּצַּע בְּדִיקָה מַחְמֶרֶת שֶׁל נְתוּנֵי קֶלֶט לְמִנְעַת טָעוּיוֹת.
+
+**18. ロールバック**
+*   **中/英/希**：回滾，復原 / Rollback / הֲחָזָרָה לְאָחוֹר (hakhazara le'akhor)
+*   **例句**：過誤納トランザクションを検知し、即時**ロールバック**を実行した。| The erroneous payment transaction was detected, and an immediate **rollback** was executed. | הַעֲבָרַת הַתֶּשֶׁל זֻהָּה, וּ**הֲחָזָרָה לְאָחוֹר** מִיָּדִית בֻּצְּעָה.
+
+**19. マニュアル処理 (マニュアルしょり)**
+*   **中/英/希**：手動處理 / Manual Processing / עִבּוּד יָדָנִי (ibud yadani)
+*   **例句**：自動処理に失敗した場合、**マニュアルしょり**に切り替える。| If automated processing fails, switch to **manual processing**. | אִם הָעִבּוּד הַמְּאֻחְשָׁב כּוֹשֵׁל, עֲבוֹר לְ**עִבּוּד יָדָנִי**.
+
+**20. 根本原因 (こんぽんげんいん)**
+*   **中/英/希**：根本原因 / Root Cause / סִבָּה עִקָּרִית (siba ikarit)
+*   **例句**：再発防止のため、過誤納の**こんぽんげんいん**を特定すべきだ。| To prevent recurrence, the **root cause** of the erroneous payment should be identified. | לְמִנְעַת הִשְׁנוֹת, צָרִיךְ לְזַהוֹת אֶת **הַסִּבָּה הָעִקָּרִית** לַתֶּשֶׁל.
+
 #### 5.仕事のシナリオ1件の設計と練習
 
 #### 6.生活のシナリオ1件の設計と練習
