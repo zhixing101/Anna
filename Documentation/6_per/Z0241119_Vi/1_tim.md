@@ -23,6 +23,199 @@
 雨里灯犹在
 心中月自明
 
+下面为你提供 **12种语言版本**（在不同文字系统下已尽量保持诗意与原意）。
+
+---
+
+# 🇬🇧 English
+
+Not seeing last year’s beloved, tears soak my spring sleeves.
+
+Tonight is Lantern Festival again. Rain falls softly; the lanterns still glow. Though clouds hide the full moon this year, the moon has not disappeared — it is veiled behind the sky, and it lives within our hearts. The outer world may wax and wane; the inner light can remain whole.
+
+As written in *The Moon and Sixpence*:
+“I must paint. It is as if I were drowning and must struggle.”
+
+This is the strength of the spirit that does not waver with circumstance. Storms may obscure the sky, but they cannot alter one’s calling.
+
+Recently I revisited Ryōtarō Shiba’s *Xiang Yu and Liu Bang*. In the same turbulent age, one burned like fire, the other flowed like water. Human nature differs, yet each path has its worth. To know and cherish one’s own nature is a blessing; to have true human connections is rarer still.
+
+May we guard the moon within our hearts through wind and rain.
+May peace and quiet joy remain.
+
+In rain the lamps still shine,
+Within the heart, the moon stays bright.
+
+---
+
+# 🇯🇵 日本語
+
+去年の人は見えず、涙は春の袖を濡らす。
+
+今宵もまた元宵。雨は静かに降り、灯は変わらずともる。今年は雲に隠れて満月は見えませんが、月は消えたのではなく、空の向こうと私たちの心の中にあります。外の世界に陰晴があっても、心の月は常に円かです。
+
+『月と六ペンス』にあるように：
+「私は描かねばならない。溺れる者がもがくように。」
+
+環境に揺らがぬ精神の力です。
+
+司馬遼太郎の『項羽と劉邦』も再読しました。火のような項羽、水のような劉邦。人の天性は異なりますが、それぞれが尊い。天から授かった性を大切にし、得がたい縁を慈しみたいものです。
+
+雨の中でも灯はあり、
+心の月は常に明るい。
+
+---
+
+# 🇰🇷 한국어
+
+지난해 그 사람은 보이지 않고, 눈물이 봄 옷소매를 적십니다.
+
+오늘도 정월 대보름입니다. 비가 내려 둥근 달은 보이지 않지만, 달은 사라진 것이 아니라 우리 마음속에 있습니다. 세상은 변해도 정신은 흔들리지 않습니다.
+
+『달과 6펜스』에 쓰였듯이:
+“나는 그려야 한다. 마치 익사하는 사람이 몸부림치듯이.”
+
+환경이 바뀌어도 뜻은 바뀌지 않습니다.
+
+시바 료타로의 『항우와 유방』처럼 사람의 천성은 다르나 모두 귀합니다.
+
+비 속에도 등불은 있고,
+마음속 달은 밝습니다.
+
+---
+
+# 🇻🇳 Tiếng Việt
+
+Không còn thấy người năm trước, nước mắt ướt đẫm tay áo xuân.
+
+Lại một mùa Nguyên Tiêu. Dù mưa che khuất trăng tròn, vầng trăng vẫn ở trong tim. Hoàn cảnh đổi thay nhưng tinh thần không lay chuyển.
+
+Trong *The Moon and Sixpence*:
+“Tôi phải vẽ, như kẻ đang chìm phải vùng vẫy.”
+
+Đó là sức mạnh nội tâm.
+
+Đọc lại *Hạng Vũ và Lưu Bang* của Shiba Ryotaro, ta hiểu mỗi người có thiên tính riêng.
+
+Trong mưa đèn vẫn sáng,
+Trong tim trăng vẫn tròn.
+
+---
+
+# 🇬🇷 Ελληνικά
+
+Δεν φαίνεται ο περσινός άνθρωπος, τα δάκρυα βρέχουν το ανοιξιάτικο μανίκι.
+
+Αν και η βροχή κρύβει τη σελήνη, το φως της ζει μέσα μας. Οι συνθήκες αλλάζουν, αλλά το πνεύμα μένει σταθερό.
+
+Όπως γράφτηκε στο *Η Σελήνη και το Εξάπενσο*:
+«Πρέπει να ζωγραφίσω, όπως ο πνιγμένος πρέπει να παλέψει.»
+
+Μέσα στη βροχή το φως μένει,
+Στην καρδιά η σελήνη λάμπει.
+
+---
+
+# 🇷🇺 Русский
+
+Не видно человека прошлого года, слёзы намочили весенний рукав.
+
+Хотя дождь скрывает луну, она живёт в сердце. Обстоятельства меняются, дух остаётся.
+
+В *«Луна и грош»*:
+«Я должен писать, как утопающий должен бороться.»
+
+Под дождём огни горят,
+В сердце луна светла.
+
+---
+
+# 🇩🇪 Deutsch
+
+Den Menschen des letzten Jahres sieht man nicht, Tränen tränken den Frühlingsärmel.
+
+Auch wenn Regen den Vollmond verbirgt, bleibt er im Herzen. Die Umstände wechseln, doch der Geist bleibt fest.
+
+In *Der Mond und der Sixpence*:
+„Ich muss malen, wie ein Ertrinkender kämpfen muss.“
+
+Im Regen brennt das Licht,
+Im Herzen scheint der Mond.
+
+---
+
+# 🇫🇷 Français
+
+On ne voit plus la personne de l’an passé, les larmes mouillent la manche printanière.
+
+Même si la pluie cache la lune, elle demeure dans nos cœurs. Les circonstances changent, l’esprit demeure.
+
+Dans *La Lune et Six Pence* :
+« Je dois peindre, comme un noyé doit lutter. »
+
+Sous la pluie la lampe brille,
+Dans le cœur la lune demeure.
+
+---
+
+# 🇪🇸 Español
+
+No se ve a la persona del año pasado, las lágrimas mojan la manga primaveral.
+
+Aunque la lluvia oculte la luna llena, vive en el corazón. Las circunstancias cambian, el espíritu no.
+
+En *La luna y seis peniques*:
+« Debo pintar, como el que se ahoga debe luchar. »
+
+En la lluvia arde la luz,
+En el corazón brilla la luna.
+
+---
+
+# 🇱🇦 Latina
+
+Praeteriti anni homo non videtur, lacrimae manicam vernam madefaciunt.
+
+Etsi pluvia lunam celat, in corde manet. Fortuna mutatur, animus firmus est.
+
+In *Luna et Sex Nummi*:
+“Pingere debeo, sicut mergens luctari debet.”
+
+In pluvia lumen manet,
+In corde luna lucet.
+
+---
+
+# 🇸🇦 العربية
+
+لا يُرى إنسان العام الماضي، والدموع تُبلل كمَّ الربيع.
+
+وإن حجبت الأمطار القمر، فإنه باقٍ في القلوب. تتغير الظروف لكن الروح ثابتة.
+
+في «القمر وستة بنسات»:
+«يجب أن أرسم، كما يجب على الغريق أن يقاوم.»
+
+في المطر يبقى الضوء،
+وفي القلب يبقى القمر.
+
+---
+
+# 🇮🇱 עברית
+
+אין רואים את איש השנה שעברה, והדמעות מרטיבות את שרוול האביב.
+
+גם אם הגשם מסתיר את הירח, הוא קיים בלב. הנסיבות משתנות אך הרוח עומדת.
+
+ב״הירח ושישה פני״:
+״אני מוכרח לצייר, כמו טובע המוכרח להיאבק.״
+
+בגשם האור קיים,
+ובלֵב הירח זורח.
+
+---
+
+如果你愿意，我也可以把它们排版成“多语言元宵祝福海报版”，或者改成更偏文学正式版本。
+
 
 ### A：Deep seek
 
