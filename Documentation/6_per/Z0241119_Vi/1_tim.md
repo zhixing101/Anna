@@ -2,6 +2,8 @@
 
 ### Q：以 不见去年人，泪湿春衫袖。开头，写一段元宵问候祝福，虽然今年下着雨，看不到圆月，但心中的圆月永在，从月亮与六便士中找一句话，来表达人的精神力量，不因环境改变而动摇。推荐司马辽太郎的刘邦与项羽，表达人天性各异，珍惜恩赐的天性，还有难得的人缘。对应开头，写一句五言绝句，作为结尾
 
+把刚才的回复翻译成英，日，韩，越南，希腊，俄，德，法，西班牙，拉丁，阿拉伯，希伯来，12种语言
+
 ### A：GPT
 
 不见去年人，泪湿春衫袖。
@@ -238,6 +240,287 @@ In corde luna lucet.
 
 **以此五言为结：**
 **心月常圆满，何妨雨打灯。**
+
+以下是将您刚才的回复（元宵问候与祝福）翻译成**12种语言**的版本。因篇幅较长，每种语言我将保留核心意境与祝福结构，力求符合当地文化表达习惯。
+
+---
+
+## **1. 英语 (English)**
+
+Last year, I saw no one; tears wet the sleeves of my spring gown.
+Another Lantern Festival arrives. Rain falls like silk outside the window, hiding the full moon from view—yet it cannot hide the eternal moon that shines within our hearts.
+
+A line from *The Moon and Sixpence* comes to mind:
+> "There was a man who looked up and saw the moon, while all around him were scrambling for sixpence."
+True spiritual strength has nothing to do with external weather—it shines in its own clarity within, lighting the path ahead.
+
+People are born with different natures, just as Ryōtarō Shiba revealed in *Xiang Yu and Liu Bang*: Xiang Yu’s fierce pride, Liu Bang’s patient endurance—both achieved greatness by following their innate gifts. What matters most is to cherish the nature we were given, and to be grateful for the rare bonds we encounter in life.
+
+On this Lantern Festival, may your heart’s moon always be full,
+may you never lack sixpence beneath your feet,
+may your true nature flourish,
+and may good company always walk beside you.
+
+**Closing with a five‑character verse:**
+> **The heart’s moon ever full—**
+> **what matter rain against the lanterns?**
+
+---
+
+## **2. 日语 (日本語)**
+
+昨年は逢う人もなく、春の袂は涙に濡れた。
+また今年も元宵節が巡ってきた。窓の外は絹のような雨、月の光は隠れても、心の中の永遠の月までは隠せない。
+
+『月と六ペンス』の一節を思い出す：
+> 「足元に六ペンスが散らばる中、彼だけは空の月を見上げていた。」
+真の精神的な力は、外の天気とは無関係だ――自らの内に一片の皎潔を宿し、私たちの行く手を照らしている。
+
+人の天性はそれぞれ異なる。司馬遼太郎が『項羽と劉邦』で描いたように、項羽の剛直、劉邦の忍耐――いずれも自らの天赋に従い、偉業を成し遂げた。最も大切なのは、天から授かったその性を大切にし、人生における貴重な縁に感謝することだ。
+
+元宵節にあたり、願わくば：
+心の月は常に満ち、
+足元に六ペンスの憂いなく、
+天性は伸びやかに開かれ、
+良き人縁が長く続かんことを。
+
+**五言絶句にて結びとする：**
+> **心月常に満ちて**
+> **何ぞ妨げん、雨の灯を打つを**
+
+---
+
+## **3. 韩语 (한국어)**
+
+작년에는 그 사람을 만나지 못해 봄 웃음이 눈물에 젖었네.
+또 다시 원소절이 돌아왔다. 창밖에는 실비가 내리고, 둥근 달은 가렸지만 마음속 영원한 달까지 가릴 순 없다.
+
+『달과 6펜스』의 한 구절이 떠오른다:
+> "발밑에 6펜스가 널려 있는데, 그는 오직 하늘의 달만 바라보았다."
+진정한 정신력은 밖의 날씨와 무관하다――마음속에 스스로 밝은 빛을 간직해 우리의 길을 비춘다.
+
+사람의 천성은 저마다 다르다. 시바 료타로가 『항우와 유방』에서 그려낸 것처럼, 항우의 강직함과 유방의 인내는 모두 자신의 타고난 재능을 따랐기에 위업을 이뤘다. 가장 중요한 것은 하늘이 내린 그 성품을 소중히 여기고, 삶 속 귀한 인연에 감사하는 것이다.
+
+원소절을 맞아 바라건대:
+마음의 달은 항상 둥글고,
+발밑에는 6펜스의 근심 없으며,
+천성은 펼쳐지고,
+좋은 인연이 길이 함께하길.
+
+**오언절구로 마무리하며:**
+> **심월항원만**
+> **하방우타등**
+
+---
+
+## **4. 越南语 (Tiếng Việt)**
+
+Năm trước chẳng thấy người xưa, lệ thấm ướt tay áo xuân.
+Lại một Tết Nguyên Tiêu nữa đến. Mưa như tơ bên ngoài cửa sổ, che khuất vầng trăng tròn – nhưng chẳng thể che được vầng trăng vĩnh cửu trong lòng.
+
+Nhớ một câu trong *Mặt trăng và Đồng sáu xu*:
+> "Dưới chân đầy những đồng sáu xu, chỉ mình họ ngước lên nhìn mặt trăng."
+Sức mạnh tinh thần thật sự chẳng liên quan đến thời tiết bên ngoài – nó tự tỏa sáng trong tâm hồn, soi đường cho chúng ta.
+
+Tính trời mỗi người mỗi khác, như Ryōtarō Shiba đã khắc họa trong *Hạng Vũ và Lưu Bang*: sự cương trực của Hạng Vũ, sự nhẫn nại của Lưu Bang – cả hai đều thành tựu nhờ thuận theo thiên phú của mình. Điều quý giá nhất là biết trân trọng bản tính trời ban và cảm tạ những nhân duyên hiếm có trong đời.
+
+Nhân dịp Nguyên Tiêu, kính chúc quý vị:
+Trăng lòng luôn tròn đầy,
+Dưới chân chẳng lo đồng sáu xu,
+Tính trời được phát triển,
+Quý nhân mãi đồng hành.
+
+**Kết bằng một bài ngũ ngôn tuyệt cú:**
+> **Trăng lòng tròn mãi mãi**
+> **Mưa dội đèn nào ngại**
+
+---
+
+## **5. 希腊语 (Ελληνικά)**
+
+Πέρσι δεν είδα κανέναν· δάκρυα βρέξαν τα μανίκια της ανοιξιάτικης φορεσιάς μου.
+Έφτασε άλλη μια Γιορτή των Φαναριών. Βροχή σαν μετάξι έξω από το παράθυρο, κρύβει το ολόγιομο φεγγάρι – μα δεν μπορεί να κρύψει το αιώνιο φεγγάρι που λάμπει μέσα στις καρδιές μας.
+
+Θυμάμαι μια φράση από *Το Φεγγάρι και η Πεντάρα*:
+> "Κάτω από τα πόδια του ήταν σκορπισμένες πεντάρες, μα αυτός κοίταζε ψηλά το φεγγάρι."
+Η αληθινή πνευματική δύναμη δεν έχει καμία σχέση με τον εξωτερικό καιρό – λάμπει με τη δική της καθαρότητα μέσα μας, φωτίζοντας τον δρόμο μπροστά.
+
+Οι άνθρωποι γεννιούνται με διαφορετικές φύσεις, όπως αποκάλυψε ο Ryōtarō Shiba στο *Xiang Yu και Liu Bang*: η περήφανη ορμή του Xiang Yu, η υπομονετική αντοχή του Liu Bang – και οι δύο πέτυχαν μεγαλεία ακολουθώντας τα έμφυτα χαρίσματά τους. Το πιο σημαντικό είναι να εκτιμούμε τη φύση που μας δόθηκε και να είμαστε ευγνώμονες για τους σπάνιους δεσμούς που συναντάμε στη ζωή.
+
+Αυτή τη Γιορτή των Φαναριών, εύχομαι:
+το φεγγάρι της καρδιάς σας να είναι πάντα γεμάτο,
+να μην σας λείπουν ποτέ οι πεντάρες κάτω από τα πόδια σας,
+η αληθινή σας φύση να ανθίζει,
+και καλοί σύντροφοι να βαδίζουν πάντα δίπλα σας.
+
+**Κλείνοντας με ένα πεντάστιχο:**
+> **Το φεγγάρι της καρδιάς πάντα γεμάτο –**
+> **τι πειράζει αν η βροχή χτυπά τα φανάρια;**
+
+---
+
+## **6. 俄语 (Русский)**
+
+В прошлом году я не встретил никого; слёзы промочили рукава весеннего халата.
+Снова наступил Праздник фонарей. За окном шелковый дождь скрывает полную луну — но не может скрыть вечную луну, что сияет в наших сердцах.
+
+Вспоминается строка из *Луны и гроша*:
+> "Под ногами валялись гроши, а он смотрел на луну."
+Истинная духовная сила не зависит от внешней погоды — она сама несёт в себе ясный свет, освещая наш путь.
+
+Люди рождаются с разными натурами, как показал Рётаро Сиба в *Сян Юе и Лю Бане*: гордая мощь Сян Юя, терпеливая стойкость Лю Бана — оба достигли величия, следуя своим врождённым дарам. Самое важное — ценить данную нам природу и быть благодарными за редкие узы, что встречаются в жизни.
+
+В этот Праздник фонарей желаю вам:
+пусть луна в сердце всегда будет полной,
+пусть под ногами не переводятся гроши,
+пусть ваша природа расцветает,
+и добрые спутники всегда будут рядом.
+
+**Завершая пятистишием:**
+> **Луна в сердце полна всегда —**
+> **что нам дождь, стучащий в фонари?**
+
+---
+
+## **7. 德语 (Deutsch)**
+
+Letztes Jahr sah ich niemanden; Tränen netzten die Ärmel meines Frühlingsgewands.
+Wieder ist das Laternenfest gekommen. Regen fällt wie Seide vor dem Fenster, verdeckt den vollen Mond – doch er kann den ewigen Mond nicht verbergen, der in unseren Herzen scheint.
+
+Ein Satz aus *Der Mond und die Sechspence* fällt mir ein:
+> "Zu seinen Füßen lagen lauter Sechspence-Stücke, doch er blickte auf zum Mond."
+Wahre geistige Stärke hat nichts mit dem Wetter da draußen zu tun – sie leuchtet in uns selbst mit klarem Licht und erhellt unseren Weg.
+
+Die Naturen der Menschen sind verschieden, wie Ryōtarō Shiba in *Xiang Yu und Liu Bang* zeigt: Xiang Yus stolze Kraft, Liu Bangs geduldige Ausdauer – beide vollbrachten Großes, indem sie ihren angeborenen Gaben folgten. Das Wichtigste ist, die uns geschenkte Natur zu schätzen und für die seltenen Bande im Leben dankbar zu sein.
+
+Zum Laternenfest wünsche ich Ihnen:
+dass der Mond in Ihrem Herzen stets voll sei,
+Ihnen nie die Sechspence unter den Füßen fehlen,
+Ihre Natur sich entfalten möge
+und gute Gefährten Sie stets begleiten.
+
+**Abschließend ein Fünf-Worte-Vers:**
+> **Des Herzens Mond stets voll –**
+> **was schert Regen, der die Laternen peitscht?**
+
+---
+
+## **8. 法语 (Français)**
+
+L’an dernier, je n’ai vu personne ; les larmes ont mouillé les manches de ma tunique de printemps.
+Un autre Festival des Lanternes arrive. La pluie tombe comme de la soie devant la fenêtre, cachant la pleine lune – mais elle ne peut cacher la lune éternelle qui brille dans nos cœurs.
+
+Une phrase de *La Lune et six sous* me revient :
+> "À ses pieds traînaient des six sous, mais lui levait les yeux vers la lune."
+La vraie force spirituelle n’a rien à voir avec le temps qu’il fait dehors – elle porte en elle sa propre clarté, éclairant notre chemin.
+
+Les natures humaines sont diverses, comme Ryōtarō Shiba l’a montré dans *Xiang Yu et Liu Bang* : la fière impétuosité de Xiang Yu, la patience endurante de Liu Bang – tous deux accomplirent de grandes choses en suivant leurs dons innés. L’essentiel est de chérir la nature qui nous a été donnée et d’être reconnaissant pour les rares liens rencontrés dans la vie.
+
+En ce Festival des Lanternes, je vous souhaite :
+que la lune en votre cœur soit toujours pleine,
+que les six sous ne manquent jamais sous vos pas,
+que votre nature s’épanouisse,
+et que de bons compagnons marchent toujours à vos côtés.
+
+**Pour conclure, un vers de cinq caractères :**
+> **La lune du cœur toujours pleine –**
+> **qu’importe la pluie frappant les lanternes ?**
+
+---
+
+## **9. 西班牙语 (Español)**
+
+El año pasado no vi a nadie; las lágrimas mojaron las mangas de mi túnica primaveral.
+Llega otra Fiesta de los Faroles. La lluvia cae como seda tras la ventana, ocultando la luna llena – pero no puede ocultar la luna eterna que brilla en nuestros corazones.
+
+Recuerdo una frase de *La luna y los seis peniques*:
+> "A sus pies había seis peniques tirados, pero él miraba hacia arriba, a la luna."
+La verdadera fortaleza espiritual no tiene nada que ver con el clima exterior – brilla con luz propia dentro de nosotros, iluminando nuestro camino.
+
+Las naturalezas humanas son diversas, como Ryōtarō Shiba mostró en *Xiang Yu y Liu Bang*: la feroz impetuosidad de Xiang Yu, la paciente resistencia de Liu Bang – ambos lograron grandes hazañas siguiendo sus dones innatos. Lo importante es apreciar la naturaleza que se nos ha dado y agradecer los vínculos únicos que encontramos en la vida.
+
+En esta Fiesta de los Faroles, deseo que:
+la luna en tu corazón esté siempre llena,
+nunca te falten los seis peniques bajo tus pies,
+tu naturaleza florezca,
+y buenos compañeros caminen siempre a tu lado.
+
+**Cerrando con un verso de cinco caracteres:**
+> **Luna del corazón siempre llena –**
+> **¿qué importa la lluvia que golpea los faroles?**
+
+---
+
+## **10. 拉丁语 (Latina)**
+
+Anno praeterito neminem vidi; lacrimae maniculas tunicae vernalis madefecerunt.
+Alterum Festum Lanternarum advenit. Pluvia ceu sericum extra fenestram cadit, lunam plenam celans – sed lunam aeternam, quae in cordibus nostris lucet, celare non potest.
+
+Verba e *Luna et Sex Denariis* memini:
+> "Ad pedes eius sex denarii sparsi iacebant, sed ipse sursum ad lunam spectabat."
+Vera vis spiritualis nihil ad tempestatem externam pertinet – ipsa claritate sua in nobis lucet, viam ante nos illustrans.
+
+Naturae hominum diversae sunt, sicut Ryōtarō Shiba in *Xiang Yu et Liu Bang* ostendit: ferox impetus Xiang Yu, patiens tolerantia Liu Bang – uterque magnitudinem assecutus est dona innata sequendo. Maximi momenti est donatam nobis naturam colere et raris in vita nexibus gratos esse.
+
+Hoc Festo Lanternarum, tibi opto:
+ut lunam cordis semper plenam habeas,
+ut sex denarii sub pedibus tuis numquam desint,
+ut natura tua floreat,
+et boni comites te semper comitentur.
+
+**Claudens versu quinque characterum:**
+> **Plena est semper cordis luna –**
+> **quid refert si pluvia lanternas pulsat?**
+
+---
+
+## **11. 阿拉伯语 (العربية)**
+
+في العام الماضي لم أرَ أحدًا؛ بللت الدموع أكمام ثوب الربيع.
+جاء عيد الفوانيس من جديد. المطر يتساقط كالحرير خارج النافذة، يخفي البدر – لكنه لا يستطيع إخفاء القمر الأبدي الذي يضيء في قلوبنا.
+
+أتذكر عبارة من رواية *القمر والستة بنسات*:
+> "كانت الستة بنسات متناثرة تحت قدميه، لكنه كان يرفع بصره إلى القمر."
+القوة الروحية الحقيقية لا علاقة لها بطقس الخارج – إنها تشع بنورها الخاص داخلنا، تضيء طريقنا.
+
+طبائع البشر مختلفة، كما أظهر ريوطارو شيبا في *شيانغ يو وليو بانغ*: قوة شيانغ يو الجامحة، وصبر ليو بانغ الطويل – كلاهما حقق العظمة باتباع مواهبهما الفطرية. الأهم هو أن نعتز بالطبيعة التي وهبت لنا، وأن نكون شاكرين للروابط النادرة التي نصادفها في الحياة.
+
+في عيد الفوانيس هذا، أتمنى لكم:
+أن يكون قمر القلب بدرًا دائمًا،
+ألا تنقصكم الستة بنسات تحت أقدامكم،
+أن تزدهر طبيعتكم،
+ويرافقكم الرفقة الطيبة دائمًا.
+
+**وختمًا بخماسية:**
+> **قمر القلب بدر دائم –**
+> **ماذا يضر إن ضرب المطر الفوانيس؟**
+
+---
+
+## **12. 希伯来语 (עברית)**
+
+בשנה שעברה לא ראיתי איש; דמעות הרטיבו את שרוולי גלימת האביב שלי.
+עוד חג פנסים הגיע. גשם דמוי משי יורד מחוץ לחלון, מסתיר את הירח המלא – אך אינו יכול להסתיר את הירח הנצחי הזורח בלבנו.
+
+נזכרתי בשורה מתוך *הירח וששת הפנסים*:
+> "לרגליו היו שש פנסים מפוזרים, אך הוא הביט מעלה אל הירח."
+כוח רוחני אמיתי אינו תלוי במזג האוויר שבחוץ – הוא זוהר בבהירותו בתוכנו, מאיר את דרכנו.
+
+טבעי בני האדם שונים, כפי שהראה ריוטארו שיבה ב*שיאנג יו וליו באנג*: עוזו הגאה של שיאנג יו, סבלנותו המתמשכת של ליו באנג – שניהם השיגו גדולה בכך שהלכו אחר כשרונותיהם המולדים. החשוב מכל הוא להוקיר את הטבע שניתן לנו, ולהודות על הקשרים הנדירים שאנו פוגשים בחיים.
+
+בחג הפנסים הזה, אני מאחל לך:
+שירח לבך תמיד מלא,
+שלא יחסרו לך שש פנסים תחת רגליך,
+שטבעך יפרח,
+ושחברים טובים תמיד ילוו אותך.
+
+**וסיום בחרוז בן חמש תווים:**
+> **ירח הלב תמיד מלא –**
+> **מה אכפת אם גשם מכה בפנסים?**
+
+---
+
+以上是12种语言的翻译版本。因部分语言（如拉丁语、希伯来语、阿拉伯语）的诗歌格律与中文五言绝句差异较大，最后一句采取了**意译+保留核心意象**（心月、雨、灯）的方式处理，力求在各自文化语境中自然优美。
 
 ## Z025/11/07（五）
 
