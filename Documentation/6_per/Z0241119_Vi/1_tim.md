@@ -180,6 +180,165 @@ The decision could unleash chaos in the region.
 **为什么西方媒体特别喜欢用 “unleash chaos” 这个表达**
 以及它和 **“Pandora’s box（潘多拉魔盒）”** 的文化关系。
 
+* [South China Morning Post](https://www.scmp.com/news/china/politics/article/3345581/what-does-marco-rubios-unleash-chiang-threat-against-iran-actually-mean?utm_source=chatgpt.com)
+* [タイムズ・オブ・イスラエル](https://www.timesofisrael.com/liveblog_entry/rubio-attempts-to-clarify-claim-that-us-decided-on-iran-strike-because-it-believed-israeli-attack-was-coming/?utm_source=chatgpt.com)
+* [ニューヨーク・ポスト](https://nypost.com/2026/03/03/us-news/us-will-unleash-chang-on-iran-marco-rubio-says-a-nod-to-gift-from-mentor-jeb-bush/?utm_source=chatgpt.com)
+
+你看到的 **“unleash Chiang”** 确实是最近美国国务卿 **Marco Rubio（卢比奥）** 在谈伊朗时说的一句话，引起了很多媒体讨论。
+
+下面是这句话的 **真实语境、语源和含义**。
+
+---
+
+# 一、卢比奥原话
+
+在谈到美国和以色列对伊朗的军事行动时，卢比奥说：
+
+> “We’re going to unleash Chiang on these people in the next few hours and days.”
+> “接下来几个小时和几天，我们会对他们 **‘unleash Chiang’**。” ([Reason.com][1])
+
+他接着说，外界将会看到 **攻击范围和强度明显增加**。 ([Reason.com][1])
+
+---
+
+# 二、“unleash Chiang”是什么意思
+
+字面：
+
+**unleash Chiang**
+
+直译：
+
+> “放出蒋介石”
+
+但实际是 **政治俚语**。
+
+真正意思是：
+
+> **释放压倒性的军事力量**
+> **发动猛烈攻击**
+
+相当于：
+
+* unleash overwhelming force
+* hit with full military power
+
+---
+
+# 三、历史来源（冷战时期）
+
+这个表达来自 **1950年代冷战**。
+
+背景：
+
+1️⃣ 1949年
+中国内战结束
+**蒋介石退到台湾**
+
+2️⃣ 1950年朝鲜战争爆发
+
+美国总统 **杜鲁门**：
+
+* 派第七舰队进入台湾海峡
+* **同时阻止蒋介石反攻大陆**
+
+当时美国一些 **强硬反共派** 不满意。
+
+他们提出：
+
+> **“Unleash Chiang!”**
+
+意思是：
+
+> **让蒋介石出兵反攻中国大陆**
+
+后来这个口号逐渐变成一个政治隐喻：
+
+> **放开限制 → 使用更强军事力量**
+
+([ウィキペディア][2])
+
+---
+
+# 四、为什么卢比奥会用这个词
+
+还有一个个人背景：
+
+2005年
+
+佛州州长 **Jeb Bush**
+送给卢比奥一把象征性的剑。
+
+上面刻着：
+
+> **“Unleash Chiang”**
+
+象征：
+
+* 强硬
+* 战斗精神
+* 反专制
+
+后来卢比奥经常把它当作一种 **内部口号**。 ([ニューヨーク・ポスト][3])
+
+---
+
+# 五、今天这句话的实际意思
+
+在这次讲话中：
+
+**unleash Chiang ≈**
+
+> 发动更猛烈的军事行动
+> 对伊朗实施更强打击
+
+媒体解释为：
+
+* intensify attacks
+* escalate military operations
+
+---
+
+# 六、语言学角度（为什么很多人听不懂）
+
+这句话之所以在网上爆火，是因为：
+
+1️⃣ **极少见的冷战俚语**
+2️⃣ 与中国历史人物有关
+3️⃣ 今天几乎没人再用
+
+所以很多人第一次听到都会问：
+
+> 为什么美国官员会突然提到蒋介石？
+
+---
+
+# 七、简单总结
+
+**unleash Chiang**
+
+历史含义：
+
+> 让蒋介石反攻中国
+
+现代隐喻：
+
+> **解除限制 → 使用压倒性力量**
+
+卢比奥语境：
+
+> **美国将大幅升级对伊朗的军事打击**
+
+---
+
+如果你愿意，我可以再给你讲一个很有意思的事情：
+
+**为什么美国冷战政治语言里会出现“蒋介石”这种奇怪的隐喻**
+（其实和当年的 **“中国游说集团 China Lobby”** 有很大关系，这段历史非常有意思）。
+
+[1]: https://reason.com/volokh/2026/03/04/marco-rubio-threatens-to-unleash-chiang-on-iran-what/?utm_source=chatgpt.com "Marco Rubio Threatens to \"Unleash Chiang\" on Iran. What?"
+[2]: https://zh.wikipedia.org/wiki/%E8%AE%93%E8%94%A3%E4%BB%8B%E7%9F%B3%E5%87%BA%E5%A0%B4?utm_source=chatgpt.com "讓蔣介石出場"
+[3]: https://nypost.com/2026/03/03/us-news/us-will-unleash-chang-on-iran-marco-rubio-says-a-nod-to-gift-from-mentor-jeb-bush/?utm_source=chatgpt.com "US will 'unleash Chang' on Iran, Marco Rubio says - a nod to sword gifted by mentor Jeb Bush"
 
 
 ## Z026/03/04（三）
