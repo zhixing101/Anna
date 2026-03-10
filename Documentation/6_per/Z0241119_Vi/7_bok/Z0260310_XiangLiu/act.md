@@ -49,3 +49,85 @@ The story teaches us: kindness is stronger than muscle.
 4. **不问“听懂了吗”**，而是问“你喜欢举高高的项羽，还是笑眯眯的刘邦？”
 
 这样，即使孩子记不住名字，也能记住“笑容赢了力气”这个温暖的道理。
+
+### A：GPT
+
+给 **2岁半孩子**讲历史，重点不是细节，而是 **简单背景 + 人物关系 + 情绪感**。可以像讲童话一样，用非常短的句子。下面是一分钟版本的 **中日英三语背景介绍**。
+
+---
+
+## 中文（给孩子讲的版本）
+
+很久很久以前，在中国有一个很大的国家。
+后来这个国家乱了，很多人想当新的大王。
+
+有两个很厉害的人：
+一个叫 **项羽**，力气很大，很勇敢。
+一个叫 **刘邦**，很聪明，也很会交朋友。
+
+他们一开始一起打坏人，
+后来变成了竞争的大将军。
+
+很多很多年以后，
+刘邦当上了新的皇帝，
+建立了一个叫 **汉朝** 的国家。
+
+这就是项羽和刘邦的故事开始。
+
+---
+
+## 日本語（子ども向け）
+
+むかしむかし、中国に大きな国がありました。
+でもその国はこわれて、みんな新しい王様になりたがりました。
+
+その中に、二人の強い人がいました。
+**項羽（こうう）** と **劉邦（りゅうほう）** です。
+
+項羽はとても強くて勇敢でした。
+劉邦はやさしくて、とても頭がよかったです。
+
+はじめは一緒に戦いましたが、
+あとでライバルになりました。
+
+そして最後に、
+劉邦が皇帝になり、**漢（かん）** という国を作りました。
+
+---
+
+## English (for a small child)
+
+Long, long ago in China,
+there was a very big country.
+
+But the country became broken,
+and many people wanted to be the new king.
+
+Two famous heroes appeared:
+**Xiang Yu** and **Liu Bang**.
+
+Xiang Yu was very strong and brave.
+Liu Bang was smart and kind.
+
+At first they fought together,
+but later they became rivals.
+
+In the end,
+Liu Bang became the emperor
+and started a new country called **Han**.
+
+---
+
+✅ **给2岁孩子讲的小技巧**
+
+可以加动作：
+
+* 项羽 → “力气很大！”（举拳头）
+* 刘邦 → “很聪明！”（点脑袋）
+
+孩子会更容易记住。
+
+---
+
+如果你愿意，我可以再给你做一个 **2岁孩子版《鸿门宴》故事（1分钟）**，其实特别适合讲，因为像 **“两个将军吃饭的故事”**，孩子很容易理解。
+
