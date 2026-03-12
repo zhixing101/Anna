@@ -83,6 +83,90 @@ Sweetie, this story teaches us: **Be a good person, don't lie. Do the right thin
 
 When you grow a little bigger, Mommy will tell you more interesting history stories!
 
+### A：GPT
+##
+
+下面是一种**适合2岁半孩子听的一分钟故事版本**，简单、重复、容易理解。
+
+---
+
+# 一、给孩子讲的故事
+
+## 中文（简单故事）
+
+很久很久以前，中国有一个皇帝，叫**秦始皇**。
+他很厉害，把很多国家变成了一个大国家。
+
+他有两个大臣，一个叫**李斯**，一个叫**赵高**。
+后来秦始皇去世了。
+
+赵高让小王子**秦二世**当皇帝。
+可是秦二世不太会做皇帝，国家慢慢乱了起来。
+
+后来有很多英雄出现，中国又发生了新的故事。
+
+---
+
+## 日语（幼儿能听懂的版本）
+
+むかしむかし、中国に**秦始皇（しん しこう）**という皇帝がいました。
+とても強くて、たくさんの国を一つの国にしました。
+
+王様には**李斯（り し）**と**趙高（ちょう こう）**という人がいました。
+
+やがて秦始皇が亡くなりました。
+そして**秦二世（しん にせい）**という若い王様が皇帝になりました。
+
+でも国はだんだん大変になっていきました。
+そのあと、また新しい英雄たちの時代が始まりました。
+
+---
+
+## English (for a small child)
+
+Long, long ago in China, there was an emperor named **Qin Shi Huang**.
+He was very strong and made many small countries into one big country.
+
+He had helpers named **Li Si** and **Zhao Gao**.
+
+After Qin Shi Huang died,
+a young emperor named **Qin Er Shi** became the ruler.
+
+But he did not rule very well,
+and the country slowly became troubled.
+
+Soon new heroes appeared and new stories began.
+
+---
+
+# 二、给孩子的一句话总结（三语）
+
+**中文**
+秦始皇建立了国家，但后来皇帝太年轻，国家乱了。
+
+**日语**
+秦始皇が国を作りましたが、そのあと若い皇帝で国が大変になりました。
+
+**English**
+Qin Shi Huang built the empire, but later the young emperor could not rule it well.
+
+---
+
+💡 **给2岁半孩子讲的小技巧**
+
+可以加动作：
+
+* **秦始皇** → “很厉害的皇帝” 💪
+* **赵高** → “坏大臣” 🤫
+* **秦二世** → “小皇帝” 👶
+
+孩子通常会记住三个点：
+
+**大皇帝 → 小皇帝 → 国家乱了**
+
+---
+
+如果你愿意，我可以再给你做一个 **「2岁孩子听的中国历史10个一分钟故事」**（秦始皇、项羽、刘邦、诸葛亮、岳飞等），孩子会非常容易记住。
 
 
 ## Z026/03/11（三）
