@@ -4,6 +4,125 @@
 
 ### A：Deep seek
 
+给两岁半的孩子讲这段历史，需要把复杂的人物关系变成"好人坏人""朋友敌人"这样简单的概念。下面我用三语给孩子讲江南、楚国、项梁、项羽和殷通的故事。
+
+---
+
+## 中文
+
+**江南的故事**
+
+宝贝，妈妈给你讲一个发生在"江南"的故事。
+
+"江南"是一个很美的地方，在中国地图的下面，有很多很多的水，小河像彩带一样弯弯曲曲，还有很多漂亮的桥。那里总是下雨，雨丝细细的，像妈妈头发一样柔软。
+
+**楚国和项梁**
+
+很久很久以前，有一个国家叫"楚国"（用手指在地板上画一个大圈）。楚国有一个很厉害的将军，他有个儿子叫**项梁**（用温和的声音说"项-梁"）。项梁是个大英雄，长得很高大，力气也很大。
+
+**小项羽**
+
+项梁身边有一个小男孩，是他的侄子，叫**项羽**（用可爱的声音说"项-羽"）。小项羽从小就特别勇敢。他读书的时候说："我要学能打败一万个人的本领！"他练武的时候，能把很大很大的大鼎（像一个大锅）举起来！厉不厉害？
+
+有一次，秦始皇坐着漂亮的大车经过，小项羽看到后说："我长大了也要当那样的大英雄！"项梁赶紧捂住他的嘴巴，小声说："嘘——不能乱说！"
+
+**坏叔叔殷通**
+
+在江南有一个地方叫"会稽"，那里有一个当官的，叫**殷通**（用低低的声音说"殷-通"）。这个殷通是个坏人，对老百姓不好。
+
+有一天，殷通想造反，就对项梁说："你和我一起干吧！"项梁心里想："我才不要和你这个坏人一起呢！"
+
+于是项梁想了一个聪明的办法。他把项羽叫来，悄悄地说："等会儿进去，看到我眨眼睛，你就……"（做一个剑的手势）
+
+**项羽显神威**
+
+项羽走进屋子，项梁对他眨了一下眼睛。项羽立刻拔出宝剑，"唰"的一下，就把坏蛋殷通打败了！其他坏人看到项羽这么厉害，都吓得趴在地上不敢动。
+
+后来，项梁和项羽召集了很多勇敢的人，有**八千人**那么多！他们渡过长江，去打更多的坏人。那时候，项羽才**二十四岁**，是不是很年轻很勇敢？
+
+宝贝，这个故事告诉我们：**要像项羽一样勇敢，要像项梁一样聪明，对坏人要勇敢地说"不"！**
+
+等宝贝长大了，妈妈再给你讲更多英雄的故事！
+
+---
+
+## 日本語 (Japanese)
+
+**江南（こうなん）のおはなし**
+
+ねえ、ママが「江南（こうなん）」っていうところのお話（はなし）をしてあげるね。
+
+「江南（こうなん）」はとてもきれいな場所（ばしょ）なんだ。中国（ちゅうごく）の地図（ちず）のしたの方（ほう）にあって、たくさんのお水（みず）があるんだよ。小川（おがわ）はリボンみたいに曲（ま）がってるし、きれいな橋（はし）もたくさんあるんだ。いつも雨（あめ）が降（ふ）っていて、その雨（あめ）はママの髪（かみ）の毛（け）みたいにやわらかいんだよ。
+
+**楚国（そこく）と項梁（こうりょう）**
+
+ずーっと昔（むかし）、「楚（そ）」っていう国（くに）があったんだ（指（ゆび）で床（ゆか）に大（おお）きな丸（まる）を描（か）く）。楚（そ）にはすごく強（つよ）い将軍（しょうぐん）がいたんだ。その人（ひと）の息子（むすこ）が**項梁（こうりょう）**っていうんだ（やさしい声（こえ）で「こーうりょー」）。項梁（こうりょう）は大（おお）きな英雄（えいゆう）で、背（せ）が高（たか）くて、力（ちから）もすごく強（つよ）かったんだよ。
+
+**小（ちい）さい項羽（こうう）**
+
+項梁（こうりょう）のそばには、小（ちい）さい男（おとこ）の子（こ）がいたんだ。彼（かれ）は項梁（こうりょう）の甥（おい）で、名前（なまえ）は**項羽（こうう）**っていうんだ（かわいい声（こえ）で「こーう」）。小（ちい）さい項羽（こうう）はとても勇（いさ）ましかったんだ。
+
+本（ほん）を読（よ）むときには「私（わたし）は一万人（いちまんにん）も相手（あいて）にできる方法（ほうほう）を学（まな）びたい！」って言（い）ってたんだ。武術（ぶじゅつ）の練習（れんしゅう）では、とっても大（おお）きな鼎（かなえ／お鍋（なべ）みたいなもの）を持（も）ち上（あ）げることができたんだよ！すごいでしょ？
+
+ある日（ひ）、秦（しん）の始皇帝（しこうてい）がきれいな車（くるま）に乗（の）って通（とお）りかかったとき、小（ちい）さい項羽（こうう）は見（み）て言（い）ったんだ。「僕（ぼく）も大（おお）きくなったらあんな英雄（えいゆう）になりたい！」項梁（こうりょう）は急（いそ）いで項羽（こうう）の口（くち）を押（お）さえて、小（ちい）さな声（こえ）で言（い）った。「しーっ！そんなこと言（い）っちゃだめ！」
+
+**悪（わる）いおじさん・殷通（いんつう）**
+
+江南（こうなん）に「会稽（かいけい）」っていう場所（ばしょ）があったんだ。そこには役人（やくにん）がいて、名前（なまえ）は**殷通（いんつう）**っていったんだ（低（ひく）い声（こえ）で「いーんつー」）。この殷通（いんつう）は悪（わる）い人（ひと）で、みんなにいじわるしてたんだ。
+
+ある日（ひ）、殷通（いんつう）は反乱（はんらん）を起（お）こそうと思（おも）って、項梁（こうりょう）に言（い）ったんだ。「一緒（いっしょ）にやらないか？」項梁（こうりょう）は心（こころ）の中（なか）で思（おも）った。「こんな悪（わる）い人（ひと）とは絶対（ぜったい）に一緒（いっしょ）にやらない！」
+
+そこで項梁（こうりょう）はいい考（かんが）えを思（おも）いついたんだ。項羽（こうう）を呼（よ）んで、こっそり言（い）った。「あとで中（なか）に入（はい）ったら、私（わたし）がウインクしたら、こうしてね…」（剣（けん）のジェスチャーをする）
+
+**項羽（こうう）の大活躍（だいかつやく）**
+
+項羽（こうう）が部屋（へや）に入（はい）ると、項梁（こうりょう）がウインクした。すると項羽（こうう）はすぐに剣（けん）を抜（ぬ）いて、「しゅっ！」てやつで、悪（わる）い殷通（いんつう）をやっつけたんだ！ほかの悪（わる）い人（ひと）たちは項羽（こうう）がこんなに強（つよ）いのを見（み）て、みんなこわくて床（ゆか）に這（は）いつくばっちゃった。
+
+そのあと、項梁（こうりょう）と項羽（こうう）はたくさんの勇（いさ）ましい人（ひと）たちを集（あつ）めたんだ。なんと**八千人（はっせんにん）**も！彼（かれ）たちは長江（ちょうこう）という大（おお）きな川（かわ）を渡（わた）って、もっとたくさんの悪（わる）い人（ひと）をやっつけに行（い）ったんだ。そのとき項羽（こうう）はまだ**二十四歳（にじゅうよんさい）**だったんだよ。若（わか）いのにすごく勇（いさ）ましいね！
+
+このお話（はなし）が教（おし）えてくれることはね：**項羽（こうう）みたいに勇（いさ）ましく、項梁（こうりょう）みたいに賢（かしこ）く、悪（わる）い人（ひと）には勇気（ゆうき）をもって「ダメ！」って言（い）える人（ひと）になろうね。**
+
+大きくなったら、ママがもっとたくさん英雄（えいゆう）のお話（はなし）をしてあげるね！
+
+---
+
+## English
+
+**The Story of Jiangnan**
+
+Sweetie, let me tell you a story about a place called "Jiangnan."
+
+Jiangnan is a very beautiful place in China, down at the bottom of the map. There's lots and lots of water there—little rivers that curve like ribbons, and many pretty bridges. It rains often, with soft rain that's as gentle as Mommy's hair.
+
+**The Chu State and Xiang Liang**
+
+A long, long time ago, there was a country called "Chu" (draw a big circle on the floor with your finger). There was a very powerful general in Chu. He had a son named **Xiang Liang** (say "Shiang Lee-ang" in a gentle voice). Xiang Liang was a big hero—tall and strong.
+
+**Little Xiang Yu**
+
+Beside Xiang Liang lived a little boy. He was Xiang Liang's nephew, and his name was **Xiang Yu** (say "Shiang You" in a cute voice). Little Xiang Yu was very brave.
+
+When he studied books, he said: "I want to learn how to defeat ten thousand people!" When he practiced martial arts, he could lift a huge cauldron (like a big cooking pot)—so strong!
+
+One day, when the First Emperor of Qin passed by in his beautiful carriage, little Xiang Yu saw him and said: "When I grow up, I want to be a hero like that!" Xiang Liang quickly covered his mouth and whispered: "Shh—you can't say that!"
+
+**The Bad Uncle Yin Tong**
+
+In Jiangnan, there was a place called "Kuaiji," where an official named **Yin Tong** lived (say "Yin Tong" in a low voice). This Yin Tong was a bad man who was mean to people.
+
+One day, Yin Tong wanted to start a rebellion, so he said to Xiang Liang: "Why don't you join me?" Xiang Liang thought to himself: "I would never join a bad man like you!"
+
+So Xiang Liang came up with a clever idea. He called Xiang Yu over and whispered: "When we go inside, watch me wink my eye, and then you do this..." (make a sword gesture)
+
+**Xiang Yu Shows His Courage**
+
+Xiang Yu walked into the room, and Xiang Liang winked at him. In a flash, Xiang Yu pulled out his sword—"swish!"—and defeated the bad Yin Tong! When the other bad people saw how strong Xiang Yu was, they all got so scared they fell to the floor.
+
+After that, Xiang Liang and Xiang Yu gathered many brave people together—**eight thousand** of them! They crossed the big Yangtze River to fight more bad people. Xiang Yu was only **twenty-four years old** then. So young and so brave!
+
+Sweetie, this story teaches us: **Be brave like Xiang Yu, be clever like Xiang Liang, and always be brave enough to say "no" to bad people!**
+
+When you grow up a little more, Mommy will tell you more stories about heroes!
 
 ## Z026/03/12（四）
 
