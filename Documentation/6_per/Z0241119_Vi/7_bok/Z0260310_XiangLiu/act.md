@@ -110,7 +110,153 @@ Later, Liu Bang became a great leader.
 
 很多家长用这种方式给孩子讲中国历史，**孩子会非常爱听**。
 
+### A：Deep seek
 
+为两岁半的孩子讲刘邦的故事，要把它变成一个"好朋友和好运气"的温暖童话。下面是三语版本，用孩子能懂的语言讲述刘邦在沛县的少年时光。
+
+---
+
+## 中文
+
+**刘邦和小伙伴们的故事**
+
+宝贝，妈妈给你讲一个叫**刘邦**的小男孩的故事。他住在很久很久以前的中国，一个叫"沛县"的小城里。
+
+**两个同年同月同日生的小伙伴**
+
+刘邦有个特别特别好的朋友，叫**卢绾**（用可爱的声音说"卢-绾"）。你知道吗？他们俩是**同一天出生**的！就像你和你的好朋友如果同一天生日，是不是很神奇？
+
+小刘邦和小卢绾从小一起长大，一起玩游戏，一起吃饭，连睡觉都在一起。村里的人都笑着说："看这两个小家伙，比亲兄弟还亲呢！"
+
+**会杀狗的大力士朋友**
+
+刘邦还有一个朋友，叫**樊哙**（用有力的声音说"樊-哙"）。樊哙是个大力士，他做什么工作呢？他是**杀狗的**！每天在市场里，他都能把很大的狗举起来。刘邦最喜欢看樊哙杀狗，然后他们一起去吃肉。
+
+**聪明的萧何叔叔**
+
+在沛县，还有一个很聪明的人，叫**萧何**（用温和的声音说"萧-何"）。萧何是管事情的官员，比刘邦大一些。他总是照顾刘邦，刘邦做错事的时候，萧何就帮他说好话。刘邦觉得萧何像哥哥一样。
+
+**老实人曹参**
+
+还有一个叫**曹参**（用平静的声音说"曹-参"）的人，他是萧何的好朋友。曹参不爱说话，但是做事特别认真。刘邦也很喜欢他。
+
+**一万钱的见面礼**
+
+有一天，沛县来了一个很有钱的老爷爷，叫**吕公**（用慈祥的声音说"吕-公"）。大家都去拜访他，要送钱做见面礼。
+
+有个叫萧何的叔叔负责收钱，他说："送钱不满一千的，就坐在外面！"
+
+刘邦一分钱都没有，但是他很大声地说："我送**一万钱**！"
+
+其实他根本没有钱，但是他说话的样子太神气了，吕公老爷爷听到后，亲自到门口迎接他。吕公老爷爷还会看相，他一看刘邦，就觉得这个人以后一定会很了不起！
+
+吕公老爷爷说："我有一个女儿，叫**吕雉**，我想把她嫁给你。"后来刘邦就娶了吕雉，她后来成了皇后哦！
+
+**刘邦崇拜的大英雄**
+
+刘邦小时候最崇拜一个人，那个人已经死了很久很久，叫**信陵君**（用崇拜的声音说"信-陵-君"）。信陵君是一个国家的公子，他特别会交朋友，家里总是有很多有本事的人。刘邦听说信陵君的故事后，心里想："我长大了也要像他那样，交很多很多好朋友！"
+
+后来，刘邦真的做到了！他身边有了萧何、曹参、樊哙这些好朋友，最后还成了汉朝的第一个皇帝呢！
+
+宝贝，这个故事告诉我们：**好朋友是世界上最宝贵的财富**。刘邦虽然没有钱，但是他有真心对待他的朋友，还有相信他的吕公老爷爷，所以他能做成大事。
+
+等宝贝长大了，也要像刘邦一样，真诚地对待朋友哦！
+
+---
+
+## 日本語 (Japanese)
+
+**劉邦（りゅうほう）と仲間（なかま）たちのおはなし**
+
+ねえ、ママが**劉邦（りゅうほう）**っていう小（ちい）さい男（おとこ）の子（こ）のお話（はなし）をしてあげるね。彼（かれ）はずーっと昔（むかし）の中国（ちゅうごく）の、「沛県（はいけん）」っていう小（ちい）さい町（まち）に住（す）んでいたんだ。
+
+**同（おな）じ日（ひ）に生（う）まれた友達（ともだち）**
+
+劉邦（りゅうほう）にはとってもとっても仲（なか）のいい友達（ともだち）がいたんだ。名前（なまえ）は**盧綰（ろわん）**っていうんだ（かわいい声（こえ）で「ろーわん」）。すごいことにね、二人（ふたり）は**同（おな）じ日（ひ）に生（う）まれた**んだよ！まるで、君（きみ）と君（きみ）の大好（だいす）きな友達（ともだち）が同（おな）じ誕生日（たんじょうび）だったら、すごいでしょ？
+
+小（ちい）さい劉邦（りゅうほう）と小（ちい）さい盧綰（ろわん）は、小（ちい）さい頃（ころ）から一緒（いっしょ）に育（そだ）って、一緒（いっしょ）に遊（あそ）んで、一緒（いっしょ）にご飯（はん）を食（た）べて、寝（ね）る時（とき）も一緒（いっしょ）だったんだ。村（むら）の人（ひと）たちは笑（わら）って言（い）ったんだ。「この小（ちい）さい二人（ふたり）を見（み）てごらん、本当（ほんとう）の兄弟（きょうだい）よりも仲良（なかよ）しだよ！」
+
+**犬（いぬ）を殺（ころ）す力持（ちからも）ちの友達（ともだち）**
+
+劉邦（りゅうほう）にはもう一人（ひとり）友達（ともだち）がいたんだ。**樊噲（はんかい）**っていうんだ（力（ちから）強（づよ）い声（こえ）で「はーんかい」）。樊噲（はんかい）は力持（ちからも）ちで、どんな仕事（しごと）をしていたかというと、**犬（いぬ）を殺（ころ）すお仕事（しごと）**だったんだ！毎日（まいにち）市場（いちば）で、大（おお）きな犬（いぬ）をひょいって持（も）ち上（あ）げていたんだよ。劉邦（りゅうほう）は樊噲（はんかい）が犬（いぬ）をさばくのを見（み）るのが大好（だいす）きで、そのあと二人（ふたり）で一緒（いっしょ）にお肉（にく）を食（た）べたんだ。
+
+**賢（かしこ）い蕭何（しょうか）おじさん**
+
+沛県（はいけん）には、もう一人（ひとり）とても賢（かしこ）い人（ひと）がいたんだ。名前（なまえ）は**蕭何（しょうか）**っていうんだ（やさしい声（こえ）で「しょーか」）。蕭何（しょうか）は役人（やくにん）で、劉邦（りゅうほう）より少（すこ）し年上（としうえ）だったんだ。彼（かれ）はいつも劉邦（りゅうほう）のことを世話（せわ）していたんだよ。劉邦（りゅうほう）が間違（まちが）ったことをすると、蕭何（しょうか）がいい人（ひと）に思（おも）ってもらえるように取（と）りなしてくれたんだ。劉邦（りゅうほう）は蕭何（しょうか）をまるでお兄（にい）ちゃんみたいに思（おも）っていたんだ。
+
+**真面目（まじめ）な曹参（そうしん）さん**
+
+もう一人（ひとり）、**曹参（そうしん）**っていう人（ひと）がいたんだ（穏（おだ）やかな声（こえ）で「そーしん」）。彼（かれ）は蕭何（しょうか）の仲良（なかよ）しの友達（ともだち）だったんだ。曹参（そうしん）はあまり話（はな）さないけど、お仕事（しごと）はとっても真面目（まじめ）にやる人（ひと）だったんだよ。劉邦（りゅうほう）も彼（かれ）のことが大好（だいす）きだったんだ。
+
+**一万錢（いちまんせん）のご挨拶（あいさつ）**
+
+ある日（ひ）、沛県（はいけん）にとってもお金持（かねも）ちのおじいさんがやってきたんだ。名前（なまえ）は**呂公（りょこう）**っていうんだ（優（やさ）しい声（こえ）で「りょこー」）。みんな彼（かれ）のところに行（い）って、お金（かね）をご挨拶（あいさつ）として贈（おく）っていたんだ。
+
+蕭何（しょうか）というおじさんがお金（かね）を集（あつ）める役目（やくめ）だったんだけど、彼（かれ）は言（い）ったんだ。「お金（かね）が千（せん）に満（み）たない人（ひと）は、外（そと）に座（すわ）っていてください！」
+
+劉邦（りゅうほう）は一銭（いっせん）も持（も）っていなかったけど、大（おお）きな声（こえ）で言（い）ったんだ。「私（わたし）は**一万錢（いちまんせん）**を贈（おく）ります！」
+
+実（じつ）は彼（かれ）は全然（ぜんぜん）お金（かね）を持（も）っていなかったんだけど、彼（かれ）の言（い）い方（かた）がとても堂々（どうどう）としていたので、呂公（りょこう）のおじいさんがそれを聞（き）いて、自分（じぶん）で入口（いりぐち）まで迎（むか）えに出（で）たんだ。呂公（りょこう）のおじいさんは人（ひと）の顔（かお）を見（み）て運命（うんめい）がわかる人（ひと）だったんだけど、劉邦（りゅうほう）の顔（かお）を見（み）て、この人（ひと）はきっとすごい人（ひと）になるに違（ちが）いない！と思（おも）ったんだ。
+
+呂公（りょこう）のおじいさんは言（い）ったんだ。「私（わたし）には娘（むすめ）がいます。名前（なまえ）は**呂雉（りょち）**といいます。ぜひ彼女（かのじょ）をお嫁（よめ）さんにしてください。」その後（あと）、劉邦（りゅうほう）は呂雉（りょち）と結婚（けっこん）したんだ。彼女（かのじょ）は後（のち）に皇后（こうごう）さまになったんだよ！
+
+**劉邦（りゅうほう）が憧（あこが）れた大英雄（だいえいゆう）**
+
+劉邦（りゅうほう）が小（ちい）さい頃（ころ）、一（ひと）りの大（おお）きな英雄（えいゆう）に憧（あこが）れていたんだ。その人（ひと）はずっと昔（むかし）に生（い）きていた人（ひと）で、名前（なまえ）は**信陵君（しんりょうくん）**っていうんだ（憧（あこが）れる声（こえ）で「しーんりょーくん」）。信陵君（しんりょうくん）はある国（くに）の公子（こうし）で、友達（ともだち）を作（つく）るのがとっても上手（じょうず）だったんだ。彼（かれ）の家（いえ）にはいつもたくさんのすごい人（ひと）たちが集（あつ）まっていたんだよ。劉邦（りゅうほう）は信陵君（しんりょうくん）の話（はなし）を聞（き）いて、心（こころ）の中（なか）で思（おも）ったんだ。「僕（ぼく）も大（おお）きくなったら、あの人（ひと）みたいにたくさんの友達（ともだち）を作（つく）りたい！」
+
+その後（あと）、劉邦（りゅうほう）は本当（ほんとう）にそれを実現（じつげん）したんだ！彼（かれ）のそばには蕭何（しょうか）、曹参（そうしん）、樊噲（はんかい）といった仲良（なかよ）しがいて、最後（さいご）には漢（かん）という国（くに）の最初（さいしょ）の皇帝（こうてい）になったんだよ！
+
+このお話（はなし）が教（おし）えてくれることはね：**本当（ほんとう）の友達（ともだち）は、世界（せかい）で一番（いちばん）大切（たいせつ）な宝物（たからもの）なんだよ。**劉邦（りゅうほう）はお金（かね）はなかったけど、心（こころ）から彼（かれ）を思（おも）ってくれる友達（ともだち）と、彼（かれ）を信（しん）じてくれる呂公（りょこう）のおじいさんがいたから、大（おお）きなことを成（な）し遂（と）げることができたんだ。
+
+大きくなったら、君（きみ）も劉邦（りゅうほう）みたいに、友達（ともだち）に真心（まごころ）を込（こ）めて接（せっ）することができる人（ひと）になってね！
+
+---
+
+## English
+
+**The Story of Liu Bang and His Friends**
+
+Sweetie, let me tell you a story about a little boy named **Liu Bang**. He lived a long, long time ago in a small town in China called "Pei County."
+
+**Two Friends Born on the Same Day**
+
+Liu Bang had a very, very special best friend named **Lu Wan** (say "Loo Wan" in a cute voice). Guess what? They were born on **the very same day**! Isn't that amazing? Just imagine if you and your best friend shared the same birthday!
+
+Little Liu Bang and little Lu Wan grew up together, played together, ate together, and even slept together. People in the village would laugh and say: "Look at these two little ones—they're closer than real brothers!"
+
+**The Dog-Butcher Friend with Super Strength**
+
+Liu Bang had another friend named **Fan Kuai** (say "Fan Kwai" in a strong voice). Fan Kuai was super strong. Do you know what his job was? He was a **dog butcher**! Every day at the market, he would lift up huge dogs. Liu Bang loved watching Fan Kuai work, and afterward, they would eat meat together.
+
+**The Smart Uncle Xiao He**
+
+In Pei County, there was also a very smart man named **Xiao He** (say "Shiao Huh" in a gentle voice). Xiao He was an official, a little older than Liu Bang. He always took care of Liu Bang. When Liu Bang made mistakes, Xiao He would speak up for him. Liu Bang thought of Xiao He like an older brother.
+
+**The Quiet Cao Shen**
+
+There was another man named **Cao Shen** (say "Tsao Shen" in a calm voice). He was Xiao He's good friend. Cao Shen didn't talk much, but he was very serious about his work. Liu Bang liked him too.
+
+**The Gift of Ten Thousand Coins**
+
+One day, a very rich old man named **Lord Lü** (say "Loo" in a kind voice) came to Pei County. Everyone went to visit him and brought money as a greeting gift.
+
+Xiao He was in charge of collecting the money, and he said: "Anyone giving less than a thousand coins, please sit outside!"
+
+Liu Bang didn't have a single coin, but he said in a very loud voice: "I give **ten thousand coins**!"
+
+He didn't really have the money, but he said it with such confidence that Lord Lü heard him and came to the door to welcome him personally. Lord Lü could read people's faces and tell their future. When he saw Liu Bang's face, he thought: "This man will surely become someone great!"
+
+Lord Lü said: "I have a daughter named **Lü Zhi**. I want you to marry her." Later, Liu Bang did marry Lü Zhi, and she became an empress!
+
+**The Hero Liu Bang Admired**
+
+When Liu Bang was little, he admired a hero who had lived long, long before him. His name was **Lord Xinling** (say "Shin-ling" in an admiring voice). Lord Xinling was a prince in another kingdom, and he was really good at making friends. His house was always full of talented people. When Liu Bang heard stories about Lord Xinling, he thought: "When I grow up, I want to be like him—I want to have many, many good friends!"
+
+And later, Liu Bang really did it! He had wonderful friends like Xiao He, Cao Shen, and Fan Kuai by his side. In the end, he became the first emperor of the Han dynasty!
+
+Sweetie, this story teaches us: **Good friends are the most precious treasure in the world**. Liu Bang didn't have money, but he had friends who truly cared about him and an old man who believed in him. That's how he was able to do great things.
+
+When you grow up, remember to be sincere with your friends, just like Liu Bang!
 
 ## Z026/03/13（五）
 
