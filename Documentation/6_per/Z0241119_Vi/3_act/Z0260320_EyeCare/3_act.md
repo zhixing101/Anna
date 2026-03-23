@@ -187,7 +187,7 @@
 [3]: https://hvowww01.jikei.ac.jp/hospital/kashiwa/sinryo/26.html?utm_source=chatgpt.com "眼科｜東京慈恵会医科大学附属柏病院"
 [4]: https://ai-med.jp/hospitals/1792?utm_source=chatgpt.com "東京慈恵会医科大学附属柏病院 - 千葉県柏市の皮膚科｜アイメッド"
 
-### Q：
+### Q：给kowa公司的k911受试招募者写日语邮件，询问入组相关手续，也简单介绍自己情况，期待回复
 
 ### A：Gpt
 
