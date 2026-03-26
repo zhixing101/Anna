@@ -301,4 +301,316 @@
 
 ### A：GPT
 
+![Image](https://images.openai.com/static-rsc-4/RFpF7T6D4inIVhzkmXATgXubpGpvCRrnitQ7hpe1m-FMC4x5A7Lny-yd3kLE6ixRtK85CFAZuEiJayACqrjTHWjXAOpSTrGMBzFKF0br0HblOXdiz6LKHN6WI_0NsDop391nguWUCUE3bvN3VmLr4CHJqmLZh-c0wMM-bFDGCXMneqQPulUAkXK7NvbhokDs?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/AVlyWlaRfs3Kt0WaLbsyNWluWj8INtJmg2ZSs9rZzRiw8gD9IYGvzApelLpQV8pE2-sTtt6IS38qg4ptMFINh9s_XzFvp4GITj2qqZGyVQOESGKkWTuXH1IB0V1COmt0QcemlOZCCve9Bt9Av6np02fLe-tA-ckRVTHaynzWBzvaITRUHqqnXJBUk45c0e3M?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/QjKzDxQNti1rdLezQ_J8WnTt9vlA21N3uvq276PQZd2YobCVkXIRg3Kr4P7hyTWCjgmrpOvZcjyLFDOCAMRCXAH4zRbSNq7a1cDVAyrJ3pOt_liLdlqan8yyz8R3-Oqvr9vUSR2lzSualrzmWSQ3YN_HLjmXrQ7Bq8VIELNI0c6QIEKifGsG3nSEPJY_a3Nv?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/9TpnIXm-VOtuDQ87XifeK5xg6YT0BZ4TNf1ngUR-E040AlyCH44eg80XezbYsR86SJ5Wghhqpz7tlj9bssi1WdHIB-G-l7SwX8hOGcvwUU8vPnglNpHPRp_8kgei6FLG1oWd1ge6B17JbpUY8L-n658-UaLrrIrebwltm7UoKG4oGheh6wZ5F5i4OAM1k0al?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/b9nGzCDj0r3bzWxYYdhLGxVEReOebbL5ie89JbEgZXF3cab34kbq-2O10YzEw4MJXZ1Sj8JbmGzYdmfWl5BAtYHM6hT54aftEuyizmzR6kxCptfJ2Ax2cJPgottIF2Ztk9p1xkrq3DAWC-kCj-CU6TZv43NsAwL3QAOZUFssuhnLrYIzK7Sbr8-ALn0xJS7f?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/DrsrKHd5MlWT94976hj7Tt9ycHXB9WTJpO0QsHIlgHgsyc9n9K05OPS-PlJkRiKygLPy3wchykxWX3l6D7xTCuGnkSpUqFx7T0xGDDtoDvkZnby3Wbhvh8GNHau9q7JZKA0brqUwJ9ivCY_xHt4voWOv0DDwpkWfvTHI3AqUVbhO5qAH1W4yzLLOTAWVhO6D?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/ks2AvOhSGQFcyg4SAdFqx9jXev8MoxXN5bYfCJdN6noMsqkLhPI0pCvgWj6tc_ZUcfi2swg37hu8sEQZW56e07qlNZ_omQKksz72iacjWd_xrnbtp3NvklX6zf1t5Ipc3UthjqKT_orTxqYGcJhXXYzqWkn3wPs1jX94yzSJ5EzCScICWOu1aHROHrDGxADc?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/8eeQ37XsvQwAHK9ksN_3IJdaWi5zoqMt4eu6NXsNtzXoODjekTetiA2fKDnEtlpXlrGHjOhmFXekM2uPjCXm2F0Leuq6UbrEZ8fxb9BuwSaeAsUXVlFVhUGZy-wfUBdKoBuzm6E7m1m2KY_krk0vaWEbkKow2rIy7jaluNLY3hGf6DNLAge4CiWZxrh1G3Vm?purpose=fullsize)
+
+你说的“小白智能音箱”，通常指的是**小米生态里的“小爱同学智能音箱系列”**（有时被用户俗称“小白音箱”）。我按你关心的维度系统讲清👇
+
+---
+
+# 🧠 一、研发背景
+
+---
+
+## 📌 背后公司
+
+👉 小米集团
+
+---
+
+## 🎯 为什么做智能音箱
+
+### 1️⃣ 抢占AI入口
+
+* 类似：
+
+  * Amazon Echo
+  * Google Home
+
+👉 音箱是“家庭入口设备”
+
+---
+
+### 2️⃣ 构建IoT生态
+
+* 控制灯、空调、电视
+* 统一入口：语音
+
+---
+
+### 3️⃣ 数据与AI训练
+
+* 语音数据
+* 用户行为
+
+👉 用于提升AI能力
+
+---
+
+# 👨‍💻 二、软件 & 硬件团队
+
+---
+
+## 🧩 软件团队
+
+### ✔ 核心系统
+
+* 小爱同学（语音助手）
+* 云端AI（语音识别+语义理解）
+
+---
+
+### ✔ 技术栈（大致）
+
+* 语音识别（ASR）
+* 自然语言处理（NLP）
+* 推荐系统
+
+---
+
+## 🔧 硬件团队
+
+### ✔ 音频部分
+
+* 麦克风阵列（远场拾音）
+* 扬声器调音
+
+---
+
+### ✔ 芯片
+
+* 主控SoC（低功耗）
+* Wi-Fi / 蓝牙模块
+
+---
+
+👉 特点：
+
+## ✔ “硬件 + 云服务”强耦合
+
+---
+
+# ⭐ 三、评价（优缺点）
+
+---
+
+## 🟢 优点
+
+### ✔ 性价比极高
+
+👉 比 Amazon Echo 更便宜
+
+---
+
+### ✔ 中文语音体验好
+
+👉 中文识别领先
+
+---
+
+### ✔ IoT控制强
+
+👉 小米生态非常完善
+
+---
+
+## 🔴 缺点
+
+### ❗隐私争议
+
+👉 一直监听“唤醒词”
+
+---
+
+### ❗依赖网络
+
+👉 离线能力有限
+
+---
+
+### ❗内容生态受限
+
+👉 相比 Google / Amazon
+
+---
+
+# 🌍 四、影响
+
+---
+
+## 🎯 1️⃣ 推动中国智能家居普及
+
+👉 很多家庭第一台智能设备
+
+---
+
+## 🎯 2️⃣ 降低AI门槛
+
+👉 几百元就能体验AI
+
+---
+
+## 🎯 3️⃣ 竞争格局改变
+
+👉 压低行业价格
+
+---
+
+# ☁️ 五、本地 vs 在线资源
+
+---
+
+## 🏠 本地资源
+
+* 唤醒词识别（“小爱同学”）
+* 基础控制（部分设备）
+
+---
+
+## ☁️ 在线资源（主要）
+
+* 语音识别
+* 音乐 / 天气 / 问答
+* 智能推荐
+
+---
+
+👉 结论：
+
+## ❗主要依赖云端
+
+---
+
+# ⚙️ 六、如何设置（简单步骤）
+
+---
+
+## 📱 1️⃣ 下载APP
+
+👉 米家
+
+---
+
+## 🔌 2️⃣ 通电
+
+* 插电
+* 等待提示音
+
+---
+
+## 📡 3️⃣ 配网
+
+* 打开米家
+* 添加设备
+* 输入Wi-Fi
+
+---
+
+## 🗣 4️⃣ 绑定语音
+
+* 登录账号
+* 激活“小爱同学”
+
+---
+
+## 🎵 5️⃣ 设置内容
+
+* 音乐平台
+* 智能家居设备
+
+---
+
+# 🔐 七、信息安全策略（重点）
+
+---
+
+## 🔴 潜在风险
+
+### 1️⃣ 常时监听
+
+👉 麦克风一直开
+
+---
+
+### 2️⃣ 数据上传
+
+👉 语音上传云端
+
+---
+
+### 3️⃣ 账号绑定
+
+👉 关联家庭设备
+
+---
+
+## 🟢 官方措施
+
+* 数据加密传输
+* 账号权限控制
+* 可关闭麦克风
+
+---
+
+## 🧠 用户建议（非常重要）
+
+---
+
+### ✔ 1 关闭不必要权限
+
+* 麦克风
+* 通讯录
+
+---
+
+### ✔ 2 设置语音记录管理
+
+👉 定期删除
+
+---
+
+### ✔ 3 放置位置
+
+👉 不放卧室 / 私密空间
+
+---
+
+### ✔ 4 使用访客网络（高级）
+
+👉 IoT设备单独Wi-Fi
+
+---
+
+# 🎯 八、一句话总结
+
+👉 **小白（小爱）智能音箱 = 低成本AI入口 + IoT控制中心**
+
+但：
+
+## ❗“便利性 vs 隐私”需要你自己权衡
+
+---
+
+# 👍 如果你想更深入
+
+我可以帮你👇
+
+👉 🆚 **小爱 vs Alexa vs Google Home（谁更安全）**
+👉 🧠 **如何把它接入你自己的开发项目（API级）**
+👉 🔧 **家庭IoT安全架构设计（IT视角）**
+
+这个其实和你做IT也很相关 👍
 
