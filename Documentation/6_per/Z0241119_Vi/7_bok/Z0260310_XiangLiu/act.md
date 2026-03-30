@@ -366,7 +366,383 @@
 
 ### A3：Deep seek
 
+这是一个工作量极大的翻译请求。为了确保实用性，我将为您提供核心内容（给小孩讲的萧何故事）的**多语言翻译**，并为**非拉丁字母语言**标注**罗马字读音**（部分语言因方言差异较大，采用标准语/通用拼音标注）。
 
+---
+
+## 第一版：萧何的故事（中文普通话）
+
+> **萧何是谁？**
+>
+> 很久以前，在中国一个叫“沛县”的地方，有一位叫**萧何**的叔叔。
+>
+> 萧何工作非常认真。每天他都在昏暗的房间里，用小刀在木片和竹片上刻字，写很细的信。
+>
+> 镇上的人开玩笑说：“萧何叔叔的下巴是不是快长青苔了？”——意思是说他整天工作，都不出门。
+>
+> 但还有另一句话：“萧何叔叔听别人说话的时候，眼睛像小宝宝一样清澈。”
+>
+> 萧何不想当大官。他觉得自己生来就是为了保护这个小镇的大家。
+>
+> 所以大家都说：“只要萧何在，我们就安心。”
+>
+> 萧何总是帮助一个叫**刘邦**的人。刘邦有点不靠谱，但萧何像哥哥一样保护他。
+>
+> 萧何话不多，但他很会听别人说话，是一个非常温柔的人。
+
+---
+
+## 第二版：各语言翻译及罗马读音
+
+### 1. 客家话 (Hakka)
+**（四县腔 / Si-yen khiông）**
+
+> **Siau-hò̀ he sú-pûn-ngìn?**
+>
+> Hán-kú yî-chhièn, chûng-koet yit-ke kiêu-cho **Phî-yen** ke thi-fông, yû yit-ke kiêu-cho **Siau-hò̀** ke siuk-siuk.
+>
+> Siau-hò̀ kûng-chok fî-sòng ngin-chin. Mòi-ngit khî tû chhai ham-am ke fòng-kiên ti, yung séu-tô chhai muk-phién lâu tsuk-phién song chat-sṳ, siá fî-sè ke sin.
+>
+> Chṳ́n-song ke ngìn khôi-van-siau kóng: “Siau-hò̀ siuk-siuk ke hâ-pâ he m̀-he voi chhòng chhiâng-mò?” yi-sṳ kóng khî chang-ngit kûng-chok, tû m̀ chhut-mùn.
+>
+> Than he hái-yû líng-ngit kié-fa: “Siau-hò̀ siuk-siuk thâng ngìn kóng-voi ke sṳ̀-heu, ngia̍p-chṳ́ chhiong séu-é-é yit-yong chhiâng-chhet.”
+>
+> Siau-hò̀ m̀ sióng tông thai-kôn. Khî ngit-tet pûn-ngìn sâng chhut-lòi chhiu-he vi-é pó-fu chak séu-chṳ́n ke thai-kâ.
+>
+> Kó-yí thai-kâ tû kóng: “Chṳ́-yeu Siau-hò̀ chhai, ngà-ngìn chhiu on-sîm.”
+>
+> Siau-hò̀ chúng-he pông-chhu yit-ke kiêu-cho **Liù-Pông** ke ngìn. Liù-Pông yú-tiám put-kháu-phú, than he Siau-hò̀ chhiong â-kô yit-yong pó-fu khî.
+>
+> Siau-hò̀ voi sêu-tồn, than he khî hàn-fi thâng ngìn kóng-voi, he yit-ke fî-sòng yûn-yùng ke ngìn.
+
+---
+
+### 2. 粤语 (Cantonese)
+**（广州话 / Gwóngdōng wá）**
+
+> **Siu6 Ho4 hai6 seoi1 a3?**
+>
+> Han2 gau2 ji5 cin4, zung1 gwok3 jat1 go3 giu3 zou6 **Pui3 jyun4** ge3 dei6 fong1, jau5 jat1 go3 giu3 zou6 **Siu6 Ho4** ge3 suk1 suk1.
+>
+> Siu6 Ho4 gung1 zok3 fei1 soeng4 jing6 zan1. Mui5 jat1 keoi1 dou1 hai2 fam1 am1 ge3 fong4 gaan1 leoi5, jung5 siu2 dou1 hai2 muk6 pin2 tung4 zuk1 pin2 soeng6 haak3 zi6, se2 han2 sai3 ge3 seon3.
+>
+> Zan6 soeng5 ge3 jan4 hoi1 waan2 siu3 gong2: “Siu6 Ho4 suk1 suk1 ge3 haa6 baa1 hai6 m4 hai6 faai3 coeng4 coeng4 tai4?” ji3 si1 kui4 coeng4 jat6 gung1 zok3, dou1 m4 ceot1 mun4.
+>
+> Daan6 hai6 zung6 jau5 ling6 jat1 zyut6 waa6: “Siu6 Ho4 suk1 suk1 teng1 jan4 gong2 je5 ge3 si4 hau6, ngaan5 zuk1 zeong6 siu2 bou2 bou2 jat1 joeng6 cing1 ceot3.”
+>
+> Siu6 Ho4 m4 soeng2 dong1 daai6 gun1. Keoi5 gok3 dak1 zi6 gei2 sang1 ceot1 lai4 zau6 hai6 wai4 liu5 bou2 wu6 ze5 go3 siu2 zan3 dik1 daai6 gaa1.
+>
+> So2 ji5 daai6 gaa1 dou1 gong2: “Zi2 jiu3 Siu6 Ho4 hai2 dou6, ngo5 dei6 zau6 on1 sam1.”
+>
+> Siu6 Ho4 zung2 si6 bong1 zo3 jat1 go3 giu3 zou6 **Lau4 Bong1** ge3 jan4. Lau4 Bong1 jau5 di1 m4 haau2 pou2, daan6 hai6 Siu6 Ho4 zeong6 go1 go1 jat1 joeng6 bou2 wu6 keoi5.
+>
+> Siu6 Ho4 waa6 m4 do1, daan6 hai6 keoi5 han2 wui5 teng1 jan4 gong2 je5, hai6 jat1 go3 fei1 soeng4 jau1 jyun4 ge3 jan4.
+
+---
+
+### 3. 闽南语 (Taiwanese Hokkien)
+**（台罗拼音 / Tâi-lô）**
+
+> **Siau-hô sī siáng?**
+>
+> Hn̄g-kó͘ í-chêng, Tiong-kok chi̍t-ê kiò-chò **Phòe-koān** ê só͘-chāi, ū chi̍t-ê kiò-chò **Siau-hô** ê a-peh.
+>
+> Siau-hô khang-khòe chin jīn-chin. Ta̍k-kang i to tī àm-àm ê pâng-keng lāi, iōng sió-to tī chhâ-phiⁿ kap tek-phiⁿ-bin chhi̍t-jī, siá chin sè ê phoe.
+>
+> Chhī-tiûⁿ ê lâng thí-chhiò kóng: “Siau-hô a-peh ê ē-hâi sī m̄-sī beh seⁿ thîⁿ-khut--ah?” ì-sù sī kóng i thong-ji̍t khang-khòe, to bô chhut-mn̂g.
+>
+> M̄-koh iáu ū lēng-gōa chi̍t kù: “Siau-hô a-peh thiaⁿ lâng kóng-ōe ê sî-chūn, ba̍k-chiu chhiūⁿ gín-á chi̍t-iūⁿ chheng-chhè.”
+>
+> Siau-hô m̄ siūⁿ tòng tōa-koaⁿ. I ka-kī siūⁿ kóng i seⁿ--chhut-lâi tō sī beh pó-hō͘ chit-ê sè-koān ê ta̍k-ke.
+>
+> Só͘-í ta̍k-ke lóng kóng: “Chí-iàu Siau-hô tī, lán to̍h an-sim.”
+>
+> Siau-hô siông-siông pang-chān chi̍t-ê kiò-chò **Lâu Pang** ê lâng. Lâu Pang ū-kóa put-khó-phô, m̄-koh Siau-hô chhin-chhiūⁿ ko-ko chi̍t-iūⁿ pó-hō͘ i.
+>
+> Siau-hô ōe kóng bē chōe, m̄-koh i chin gâu thiaⁿ lâng kóng-ōe, sī chi̍t-ê chin un-jiû ê lâng.
+
+---
+
+### 4. 蒙古语 (Mongolian)
+**（西里尔字母 + 拉丁转写）**
+
+> **Шиау Хэ хэн бэ?**
+> *Šiau He hen be?*
+>
+> Эрт урьд цагт Хятад улсын **Пай Шянь** гэдэг газар **Шиау Хэ** гэдэг авга амьдардаг байжээ.
+> *Ert urid tsagt Hyatad ulsyn **Pai Šyan** gedeg gazar **Šiau He** gedeg avga am'dardag baižee.*
+>
+> Шиау Хэ ажилдаа маш нягт байсан. Өдөр бүр харанхуй өрөөнд суугаад жижиг хутгаар мод, хулсан хавтан дээр бичээд, нарийн захиа бичдэг байжээ.
+> *Šiau He ažildaa maš nyagt baisan. Ödör bür haranhuj öröönd suugaad žižig hutgaar mod, hulsan havtan deer bičeed, narijn zahia bičdeg baižee.*
+>
+> Хотын хүмүүс онигоогоор: “Шиау Хэ авгын эрүү хөвд ногоолчих вий?” гэж хошигнодог байсан. Энэ нь тэр байнга ажиллаад гадагш гардаггүй гэсэн үг.
+> *Hotyn hümüüs onigoor: “Šiau He avgyn erüü hövd nogoolčih vij?” gež hošignodog baisan. Ene n' ter bainga ažillaad gadyš gardaggüj gesen üg.*
+>
+> Харин бас нэгэн үг байсан: “Шиау Хэ авга бусдын яриаг сонсоход нь түүний нүд хүүхдийн нүд шиг цэлмэг байдаг.”
+> *Harin bas negen üg baisan: “Šiau He avga busdyn yariag sonsohod n' tüünij nüd hüühdiin nüd šig tselmeg bajdag.”*
+>
+> Шиау Хэ том албан тушаалд явахыг хүсдэггүй байв. Тэр энэ жижиг хотоороо хүмүүсээ хамгаалахаар төрсөн гэж боддог байжээ.
+> *Šiau He tom alban tušaald yavahyg hüsdeggüj bajv. Ter ene žižig hotooroo hümüüsee hamgaalahaar törsön gež boddog baižee.*
+>
+> Тиймээс хүмүүс: “Шиау Хэ байгаа цагт бид тайван” гэдэг байжээ.
+> *Tijmees hümüüs: “Šiau He bajgaa tsagt bid tajvan” gedeg baižee.*
+>
+> Шиау Хэ **Лю Бан** гэдэг хүнд байнга тусалдаг байв. Лю Бан арай жоохон найдваргүй байсан ч Шиау Хэ ах шиг нь хамгаалдаг байжээ.
+> *Šiau He **Lju Ban** gedeg hünd bajnga tusaldag bajv. Lju Ban araj joohon najdvaragüj baisan č Šiau He ah šig n' hamgaaldag baižee.*
+>
+> Шиау Хэ их ярьдаггүй ч хүмүүсийн яриаг сайн сонсдог, их эелдэг хүн байсан.
+> *Šiau He ih yar'daggüj č hümüüsiin jariag sain sonsdog, ih jeeldeg hün baisan.*
+
+---
+
+### 5. 藏语 (Tibetan)
+**（卫藏方言，藏文 + 威利转写 + 简易拉丁拼写）**
+
+> **ཤང་ཧོ་སུ་ཡིན་ན་?**
+> *shang ho su yin na?* (Shang-ho su yin na?)
+>
+> དེན་གོང་ལ, རྒྱ་ནག་གི་ **ཕེ་ཤན** ཞེས་པ་ས་ཆ་རུ་ ཤང་ཧོ་ཞེས་པ་ཨ་ཁུ་ཞིག་ཡོད་པ་རེད།
+> *den gong la, gya nag gi **phe shan** zhes pa sa cha ru, shang ho zhes pa a khu zhig yod pa red.*
+>
+> ཤང་ཧོ་ལས་ཀར་ཤིན་ཏུ་གཙང་མ་རེད། ཉིན་རེར་མུན་པའི་ཁང་པའི་ནང་དུ་སྡོད་དེ། གྲི་ཆུང་གིས་ཤིང་དང་སྨྱུག་ཤོག་སྟེང་དུ་ཡི་གེ་བྲིས་ནས་དམ་པའི་ཡི་གེ་བྲིས་ཀྱིན་ཡོད།
+> *shang ho las kar shin tu gtsang ma red. nyin rer mun pa'i khang pa'i nang du sdad de, gri chung gis shing dang smyug shog steng du yi ge bris nas dam pa'i yi ge bris kyin yod.*
+>
+> གྲོང་མི་ཚོས་རྩེད་མོར་གྱིས་ཤང་ཧོ་ཨ་ཁུའི་ཀོ་བ་ལ་རྟ་མོས་འབུ་ཐོན་གྱི་རེད་དམ་ཟེར། དོན་དུ་ཁོ་ཉིན་རེར་ལས་ཀ་ལ་བཞག་ནས་ཕྱི་ལ་མ་ཐོན་པ་རེད།
+> *drong mi tsho rtsed mor gyis shang ho a khu'i ko ba la rta mos 'bu thon gyi red dam zer. don du kho nyin rer las ka la bzhag nas phyi la ma thon pa red.*
+>
+> ཡིན་ནའང་སྐད་ཆ་གཞན་ཞིག་ཡོད་པ། ཤང་ཧོ་ཨ་ཁུ་གཞན་གྱི་སྐད་ཆར་ཉན་སྐབས་སུ། ཁོའི་མིག་ནི་པུ་གུའི་མིག་དང་འདྲ་བར་དྭངས་པོ་ཡོད།
+> *yin na'ang skad cha gzhan zhig yod pa, shang ho a khu gzhan gyi skad char nyan skabs su, kho'i mig ni pu gu'i mig dang 'dra bar dwangs po yod.*
+>
+> ཤང་ཧོ་ལས་ཆེན་པོར་འགྲོ་དོན་དུ་མི་འདོད། ཁོ་རང་གི་དམངས་སྲུང་ཆེན་པོ་རུ་སྐྱེས་པ་རེད་ལོ་སྙམ།
+> *shang ho las chen por 'gro don du mi 'dod. kho rang gi dmangs srung chen po ru skyes pa red lo snyam.*
+>
+> དེར་བརྟེན་གྲོང་མི་ཚོས་ཤང་ཧོ་ཡོད་ན་ང་ཚོ་སེམས་ཁྲལ་མེད་པར་ཟེར།
+> *der brten drong mi tshos shang ho yod na nga tsho sems khral med par zer.*
+>
+> ཤང་ཧོ་རྒྱུན་དུ་ **ལིའུ་པང** ཞེས་པ་མི་ལ་རོགས་རམ་བྱེད་ཀྱིན་ཡོད། ལིའུ་པང་ངོས་ལེན་ཅན་མ་རེད་ནའང་། ཤང་ཧོ་སྤུན་ཟླ་ལྟར་བསྐྱབ་སྐྱོང་བྱེད་ཀྱིན་ཡོད།
+> *shang ho rgyun du **li'u pang** zhes pa mi la rogs ram byed kyin yod. li'u pang ngos len can ma red na'ang, shang ho spun zla ltar bskyab skyong byed kyin yod.*
+>
+> ཤང་ཧོ་མང་པོར་སྐད་ཆ་མི་བཤད། དོན་དུ་གཞན་གྱི་སྐད་ཆར་ཉན་མཁན་ཡག་པོ་ཡོད་པ་དང་། ཧ་ཅང་སྙིང་སྟོབས་པོ་ཆེན་པོ་ཞིག་རེད།
+> *shang ho mang por skad cha mi bshad. don du gzhan gyi skad char nyan mkhan yag po yod pa dang, ha cang snying stobs po chen po zhig red.*
+
+---
+
+### 6. 维吾尔语 (Uyghur)
+**（阿拉伯字母维吾尔文 + 拉丁转写 ULY）**
+
+> **شيياۋ خې كىم؟**
+> *Shyaw Xë kim?*
+>
+> ئۇزۇن يىللار ئىلگىرى، جۇڭگونىڭ **پەي شەن** دېگەن جايىدا **شيياۋ خې** ئىسىملىك بىر تاغا ياشايتتى.
+> *Uzun yillar ilgiri, Junggoning **Pey Shen** dëgen jayida **Shyaw Xë** isimlik bir tagha yashaytti.*
+>
+> شيياۋ خې خىزمىتىگە ناھايىتى جىددىي ئىدى. ھەر كۈنى قاراڭغۇ ئۆيدە ئولتۇرۇپ، كىچىك پىچاق بىلەن ياغاچ ۋە تاغاق تاختىلارغا خەت ئويۇپ، ئىنچىكە خەتلەرنى يازاتتى.
+> *Shyaw Xë xizmitige nahayiti jiddiy idi. Hër küni qarangghu öydë olturup, kichik pichaq bilen yaghach we taghaq takhtilargha xet oyup, inchikë xetlerni yazatti.*
+>
+> شەھەر ئەھلىسى مەزە قىلىپ: «شيياۋ خې تاغىنىڭ ئىڭىكىگە مامىر ئۆسۈپ قالامدۇ؟» دېيىشەتتى. بۇ ئۇنىڭ كۈنى بويى خىزمەت قىلىپ، سىرتقا چىقمايدىغانلىقىنى بىلدۈرىدىغان گەپ ئىدى.
+> *Sheher ehli meze qilip: “Shyaw Xë taghining ingikige mamir ösüp qalamdu?” dëyishetti. Bu uning küni boyi xizmet qilip, sirta chiqmaydighanliqini bildüridighan gep idi.*
+>
+> يەنە بىر گەپ بار ئىدى: «شيياۋ خې تاغا باشقىلارنى سۆزلەۋاتقاندا ئاڭلىغان چاغدا، ئۇنىڭ كۆزلىرى بوۋاقنىڭ كۆزىدەك سۈزۈك بولاتتى.»
+> *Yene bir gep bar idi: “Shyaw Xë tagha bashqilarni sözlëwatqanda anghlighan chaghda, uning közliri buwaqning köziggek süzük bolatti.”*
+>
+> شيياۋ خې چوڭ ئورۇنغا بېرىشنى خالىمايتتى. ئۇ بۇ كىچىك شەھەردىكى ھەممىنى قوغداش ئۈچۈن تۇغۇلغاندەك ھېس قىلاتتى.
+> *Shyaw Xë chong orungha berishni xalimaytti. U bu kichik sheherdiki hemmimini qogh dash üchün tughulghandek his qilatti.*
+>
+> شۇڭا ھەممە: «شيياۋ خې بار بولسىلا، بىز خاتىرجەم» دېيىشەتتى.
+> *Shunga hemme: “Shyaw Xë bar bolsila, biz xatirjem” dëyishetti.*
+>
+> شيياۋ خې ھەمىشە **ليۇ بۇڭ** دېگەن كىشىگە ياردەم قىلاتتى. ليۇ بۇڭ بىراز ئىشەنچلىك بولمىسىمۇ، شيياۋ خې ئۇنى ئەپەندىدەك قوغدايتتى.
+> *Shyaw Xë hemishe **Lyu Bung** dëgen kishige yardem qilatti. Lyu Bung biraz ishenchlik bolmisimu, Shyaw Xë uni ependidek qoghdiytti.*
+>
+> شيياۋ خې كۆپ سۆزلىمەيتتى، ئەمما باشقىلارنى ياخشى ئاڭلايتتى ۋە ناھايىتى مېھرىبان كىشى ئىدى.
+> *Shyaw Xë köp sözlimeytti, emma bashqilarni yahshi anghliytti we nahayiti mehrban kishi idi.*
+
+---
+
+### 7. 英语 (English)
+
+> **Who is Xiao He?**
+>
+> A long time ago, in a place in China called **Pei County**, there lived an uncle named **Xiao He**.
+>
+> Xiao He was very serious about his work. Every day, he sat in a dark room, carving words onto pieces of wood and bamboo with a small knife, writing very detailed letters.
+>
+> The townspeople joked: “Is moss going to grow on Uncle Xiao He’s chin?” — meaning he worked all day and never went outside.
+>
+> But there was another saying: “When Uncle Xiao He listens to people speak, his eyes are as clear as a baby’s.”
+>
+> Xiao He didn’t want to become a big official. He felt he was born to protect the people of this small town.
+>
+> So everyone said: “As long as Xiao He is here, we feel safe.”
+>
+> Xiao He always helped a man named **Liu Bang**. Liu Bang was a bit unreliable, but Xiao He protected him like an older brother.
+>
+> Xiao He didn’t talk much, but he was a very good listener and a very gentle person.
+
+---
+
+### 8. 韩语 (Korean)
+
+> **소하는 누구인가요?**
+>
+> 아주 오랜 옛날, 중국의 **패현**이라는 곳에 **소하**라는 아저씨가 살았습니다.
+>
+> 소하는 일을 아주 성실하게 했습니다. 매일 어두운 방에 앉아서, 작은 칼로 나무와 대나무 조각에 글자를 새기며 아주 자세한 편지를 썼습니다.
+>
+> 동네 사람들은 농담으로 “소하 아저씨의 턱에 이끼가 끼는 거 아니야?”라고 말했습니다. 즉, 그가 하루 종일 일만 하고 밖에 나오지 않는다는 뜻이었습니다.
+>
+> 그런데 또 다른 말도 있었습니다. “소하 아저씨가 사람들의 말을 들을 때면, 그의 눈은 아기처럼 맑아요.”
+>
+> 소하는 큰 관직에 나가는 것을 원하지 않았습니다. 그는 이 작은 마을 사람들을 지키기 위해 태어났다고 느꼈습니다.
+>
+> 그래서 모두가 말했습니다. “소하만 여기에 있어 주면, 우리는 안심이야.”
+>
+> 소하는 항상 **유방**이라는 사람을 도와주었습니다. 유방은 좀 불안정했지만, 소하는 친형처럼 그를 보호해주었습니다.
+>
+> 소하는 말이 많지 않았지만, 남의 말을 잘 들어주는 아주 다정한 사람이었습니다.
+
+**罗马音参考：**
+> *Soha nugu-ingayo?*
+>
+> Aju oren yetnal, Jungguk-ui **Paehyeon**-iran gos-e **Soha**-raneun ajeossi-ga saratseumnida.
+>
+> Soha-neun ir-eul aju seongsilhage haetseumnida. Maeil eoduun bang-e anja-seo, jageun kallo namu-wa daenamu jogak-e geulja-reul saegimyeo aju jasehan pyeonji-reul sseotseumnida.
+>
+> Dongne saram-deul-eun nongdam-euro “Soha ajeossi-ui teog-e ikki-ga kkeuneun geo aniya?”-rago malhaetseumnida. Jeuk, geuga haru jongil il-man hago bakk-e naoji aneundaneun tteus-ieotseumnida.
+>
+> Geureonde tto dareun mal-do isseotseumnida. “Soha ajeossi-ga saram-deul-ui mal-eul deureul ttaemyeon, geu-ui nun-eun agi-cheoleom malgayo.”
+>
+> Soha-neun keun gwanjig-e naganun geoseul wonhaji anhatseumnida. Geuneun i jageun ma-eul saram-deul-eul jikigi wihae taeeonatdago neukkyeotseumnida.
+>
+> Geuraeseo modu-ga malhaetseumnida. “Soha-man yeogi isseo ju-myeon, uri-neun ansim-iya.”
+>
+> Soha-neun hangsang **Yubang**-iraneun saram-eul dowajueotseumnida. Yubang-eun jom bul-anjeonghaetjiman, Soha-neun chin-hyeong-cheoleom geureul bohohaejueotseumnida.
+>
+> Soha-neun mari manji anhatjiman, nam-ui mal-eul jal deureojuneun aju dajeonghan saram-ieotseumnida.
+
+---
+
+### 9. 越南语 (Vietnamese)
+
+> **Tiêu Hà là ai?**
+>
+> Rất lâu về trước, ở một nơi tên là **Huyện Bái** bên Trung Quốc, có một người chú tên là **Tiêu Hà** sống ở đó.
+>
+> Tiêu Hà làm việc rất nghiêm túc. Ngày nào ông cũng ngồi trong căn phòng tối, dùng một con dao nhỏ khắc chữ lên những miếng gỗ và tre, viết những bức thư rất tỉ mỉ.
+>
+> Người trong thường trêu rằng: “Cằm của chú Tiêu Hà chắc sắp mọc rêu rồi nhỉ?” – ý nói ông ấy làm việc suốt ngày, chẳng bao giờ ra ngoài cả.
+>
+> Nhưng còn có một câu nói khác: “Khi chú Tiêu Hà lắng nghe người khác nói, mắt chú ấy sáng long lanh như mắt trẻ con vậy.”
+>
+> Tiêu Hà không muốn làm quan to. Ông cảm thấy mình sinh ra là để bảo vệ mọi người ở thị trấn nhỏ này.
+>
+> Vì thế ai cũng nói: “Chỉ cần có Tiêu Hà ở đây, chúng tôi đều an tâm.”
+>
+> Tiêu Hà luôn giúp đỡ một người tên là **Lưu Bang**. Lưu Bang hơi đáng tin cậy một chút, nhưng Tiêu Hà vẫn bảo vệ anh ấy như một người anh trai.
+>
+> Tiêu Hà không nói nhiều, nhưng ông rất biết lắng nghe người khác, và là một người vô cùng dịu dàng.
+
+---
+
+### 10. 希伯来语 (Hebrew)
+
+> **מִי הוּא שְׂיָאוֹ חֶה?**
+> *Mi hu Syao He?*
+>
+> לִפְנֵי זְמַן רָב, בְּמָקוֹם בְּסִין שֶׁנִּקְרָא **מָחוֹז פֵּיי**, גָּר דּוֹד אֶחָד שֶׁשְּׁמוֹ **שְׂיָאוֹ חֶה**.
+> *Lifnei zman rav, b'makom b'Sin she'nikra **Makhoz Pei**, gar dod echad she'shmo **Syao He**. *
+>
+> שְׂיָאוֹ חֶה הָיָה רְצִינִי מְאֹד בַּעֲבוֹדָתוֹ. כָּל יוֹם הוּא יָשַׁב בַּחֶדֶר הָאָפֵל, וְחָרַט אוֹתִיּוֹת עַל חֲתִיכוֹת עֵץ וּבָמְבּוּק בְּסַכִּין קְטַנָּה, וְכָתַב מִכְתָּבִים מְפֹרָטִים מְאֹד.
+> *Syao He haya retsini me'od ba'avodato. Kol yom hu yashav ba'cheder ha'afel, ve'charat otiyot al chatichot etz u'bambuk b'sakin ktana, ve'katav mikhtavim meforatim me'od.*
+>
+> אַנְשֵׁי הָעִיר הִתְבַּדְּחוּ וְאָמְרוּ: "הַאִם יִצְמַח אֵזוֹב עַל סַנְטֵרוֹ שֶׁל הַדּוֹד שְׂיָאוֹ חֶה?" – כְּלוֹמַר, הוּא עוֹבֵד כָּל הַיּוֹם וְכִמְעַט לֹא יוֹצֵא הַחוּצָה.
+> *Anshei ha'ir hitbadchu ve'amru: "Ha'im yitzmach ezov al santero shel ha'dod Syao He?" – klomar, hu oved kol ha'yom ve'kim'at lo yotze ha'chutza.*
+>
+> אֲבָל הָיְתָה אֹמֶר אַחֶרֶת: "כְּשֶׁהַדּוֹד שְׂיָאוֹ חֶה מַקְשִׁיב לַאֲנָשִׁים, עֵינָיו צְלוּלוֹת כְּמוֹ שֶׁל תִּינוֹק."
+> *Aval hayta omeret acheret: "K'she'ha'dod Syao He makshiv la'anashim, einav tzelulot kmo shel tinok."*
+>
+> שְׂיָאוֹ חֶה לֹא רָצָה לִהְיוֹת פְּקִיד גָּדוֹל. הוּא הִרְגִּישׁ שֶׁהוּא נוֹלַד כְּדֵי לְהָגֵן עַל אַנְשֵׁי הָעִיר הַקְּטַנָּה הַזֹּאת.
+> *Syao He lo ratza lihyot pakid gadol. Hu hirgish she'hu nolad k'dei le'hagen al anshei ha'ir ha'ktana ha'zot.*
+>
+> לָכֵן כֻּלָּם אָמְרוּ: "כָּל עוֹד שְׂיָאוֹ חֶה כָּאן, אֲנַחְנוּ רְגוּעִים."
+> *Lachen kulam amru: "Kol od Syao He kan, anachnu regu'im."*
+>
+> שְׂיָאוֹ חֶה תָּמִיד עָזַר לְאִישׁ שֶׁשְּׁמוֹ **לְיוּ בָּאנְג**. לְיוּ בָּאנְג הָיָה קְצָת לֹא אָמִין, אֲבָל שְׂיָאוֹ חֶה הֵגֵן עָלָיו כְּמוֹ אָח גָּדוֹל.
+> *Syao He tamid azar l'ish she'shmo **Lyu Bang**. Lyu Bang haya ktzat lo amin, aval Syao He hegen alav kmo ach gadol.*
+>
+> שְׂיָאוֹ חֶה לֹא דִּבֵּר הַרְבֵּה, אֲבָל הוּא הִקְשִׁיב טוֹב לַאֲנָשִׁים וְהָיָה אָדָם עָדִין מְאֹד.
+> *Syao He lo diber harbe, aval hu hikshiv tov la'anashim ve'haya adam adin me'od.*
+
+---
+
+### 11. 希腊语 (Greek)
+
+> **Ποιος είναι ο Σιάο Χε;**
+> *Pios eínai o Siáo He?*
+>
+> Πριν από πολύ καιρό, σε ένα μέρος της Κίνας που λεγόταν **Νομός Πέι**, ζούσε ένας θείος που τον έλεγαν **Σιάο Χε**.
+> *Prin apó polý kairó, se éna méros tis Kínas pou legótan **Nomós Péi**, zoúse énas theíos pou ton élegan **Siáo He**.*
+>
+> Ο Σιάο Χε ήταν πολύ σοβαρός στη δουλειά του. Κάθε μέρα καθόταν σε ένα σκοτεινό δωμάτιο, χαράζοντας γράμματα σε ξύλα και μπαμπού με ένα μικρό μαχαίρι, γράφοντας πολύ λεπτομερείς επιστολές.
+> *O Siáo He ítan polý sovarós sti douleiá tou. Káthe méra kathótan se éna skoteinó domátio, charázontas grámmata se xýla kai bampoú me éna mikró machaíri, gráfontas polý leptomereís epistolés.*
+>
+> Οι κάτοικοι της πόλης αστειεύονταν: “Θα φυτρώσει βρύα στο πηγούνι του θείου Σιάο Χε;” – που σήμαινε ότι δούλευε όλη μέρα και δεν έβγαινε ποτέ έξω.
+> *Oi kátoikoi tis pólis asteiévontan: “Tha fytrósei vría sto pigoúni tou theíou Siáo He?” – pou símaine óti doúleve óli méra kai den évgenie poté éxo.*
+>
+> Αλλά υπήρχε και μια άλλη φράση: “Όταν ο θείος Σιάο Χε ακούει τους άλλους να μιλάνε, τα μάτια του είναι καθαρά σαν μωρού.”
+> *Allá ypírche kai mia álli frási: “Ótan o theíos Siáo He akoúei tous állous na miláne, ta mátia tou eínai kathará san moroú.”*
+>
+> Ο Σιάο Χε δεν ήθελε να γίνει μεγάλος αξιωματούχος. Ένιωθε ότι είχε γεννηθεί για να προστατεύει τους ανθρώπους αυτής της μικρής πόλης.
+> *O Siáo He den íthele na gínei megálos axiomatoúchos. Éniothe óti eíche gennitheí gia na prostateúei tous anthrópous aftís tis mikrís pólis.*
+>
+> Γι’ αυτό όλοι έλεγαν: “Όσο ο Σιάο Χε είναι εδώ, είμαστε ήρεμοι.”
+> *Gi’ aftó óloi élegan: “Óso o Siáo He eínai edó, eímaste íremoi.”*
+>
+> Ο Σιάο Χε πάντα βοηθούσε έναν άνθρωπο που τον έλεγαν **Λιου Μπανγκ**. Ο Λιου Μπανγκ ήταν λίγο αναξιόπιστος, αλλά ο Σιάο Χε τον προστάτευε σαν μεγάλος αδελφός.
+> *O Siáo He pánta voithoúse énan ánthropo pou ton élegan **Liou Bangk**. O Liou Bangk était lígo anaxiópistos, allá o Siáo He ton prostáteve san megálos adelfós.*
+>
+> Ο Σιάο Χε δεν μιλούσε πολύ, αλλά ήταν πολύ καλός ακροατής και πολύ ευγενικός άνθρωπος.
+> *O Siáo He den miloúse polý, allá ítan polý kalós akroatís kai polý evgenikós ánthropos.*
+
+---
+
+### 12. 德语 (German)
+
+> **Wer ist Xiao He?**
+>
+> Vor langer Zeit lebte an einem Ort in China namens **Pei County** ein Onkel namens **Xiao He**.
+>
+> Xiao He war sehr gewissenhaft bei der Arbeit. Jeden Tag saß er in einem dunklen Raum, ritzte mit einem kleinen Messer Zeichen in Holz- und Bambusstücke und schrieb sehr detaillierte Briefe.
+>
+> Die Leute in der Stadt scherzten: „Wächst auf dem Kinn von Onkel Xiao He vielleicht schon Moos?“ – das bedeutete, dass er den ganzen Tag arbeitete und nie nach draußen ging.
+>
+> Aber es gab noch einen anderen Spruch: „Wenn Onkel Xiao He den Leuten zuhört, sind seine Augen klar wie die eines Babys.“
+>
+> Xiao He wollte kein großer Beamter werden. Er fühlte, dass er geboren war, um die Menschen dieser kleinen Stadt zu beschützen.
+>
+> Deshalb sagten alle: „Solange Xiao He hier ist, sind wir ruhig.“
+>
+> Xiao He half immer einem Mann namens **Liu Bang**. Liu Bang war etwas unzuverlässig, aber Xiao He beschützte ihn wie ein großer Bruder.
+>
+> Xiao He sprach nicht viel, aber er war ein sehr guter Zuhörer und ein sehr sanfter Mensch.
+
+---
+
+### 13. 法语 (French)
+
+> **Qui est Xiao He ?**
+>
+> Il y a très longtemps, dans un endroit de la Chine appelé **Xian de Pei**, vivait un oncle nommé **Xiao He**.
+>
+> Xiao He était très consciencieux dans son travail. Chaque jour, il s’asseyait dans une pièce sombre, gravant des caractères sur des morceaux de bois et de bambou avec un petit couteau, écrivant des lettres très détaillées.
+>
+> Les habitants plaisantaient : « Est-ce que de la mousse va pousser sur le menton d’Oncle Xiao He ? » – ce qui signifiait qu’il travaillait toute la journée et ne sortait jamais.
+>
+> Mais il y avait une autre phrase : « Quand oncle Xiao He écoute les gens parler, ses yeux sont aussi clairs que ceux d’un bébé. »
+>
+> Xiao He ne voulait pas devenir un grand fonctionnaire. Il sentait qu’il était né pour protéger les gens de cette petite ville.
+>
+> Alors tout le monde disait : « Tant que Xiao H
 
 
 
