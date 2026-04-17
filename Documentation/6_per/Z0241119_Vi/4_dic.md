@@ -356,6 +356,82 @@
 
 ## Z026/04/18（六）
 
+根据您的要求，将“史诗之怒”及其背后的军事行动名称（美方 Operation Epic Fury、以方 Operation Roaring Lion）翻译为**日语、韩语、越南语、希伯来语、希腊语、法语、德语**七种语言。
+
+---
+
+### 一、核心词：史诗之怒
+
+| 语言 | 翻译 | 拉丁转写 / 发音提示 |
+|------|------|---------------------|
+| **日本語** | 叙事詩の怒り | じょじしの いかり (Jojishi no Ikari) |
+| **한국어** | 서사시의 분노 | Seosasi-ui Bunno |
+| **Tiếng Việt** | Cơn Thịnh Nộ Sử Thi | (Con Thinh No Su Thi) |
+| **עברית** | זעם אפי | Za'am Afi |
+| **Ελληνικά** | Έπος Οργής | Epos Orgis |
+| **Français** | La Colère Épique | (La Colère Épique) |
+| **Deutsch** | Epische Wut | (Epische Vut) |
+
+---
+
+### 二、美军行动代号：史诗之怒行动
+
+| 语言 | 翻译 | 拉丁转写 |
+|------|------|----------|
+| **日本語** | オペレーション・エピック・フューリー | Operēshon Epikku Fyūrī |
+| **한국어** | 작전명 에픽 퓨리 | Jakjeonmyeong Epik Pyuri |
+| **Tiếng Việt** | Chiến dịch Epic Fury | Chiến dịch Epic Fury |
+| **עברית** | מבצע זעם אפי | Mivtza Za'am Afi |
+| **Ελληνικά** | Επιχείρηση Έπος Οργής | Epicheírisi Epos Orgis |
+| **Français** | Opération Fureur Épique | Opération Fureur Épique |
+| **Deutsch** | Operation Epischer Zorn | Operation Epischer Zorn |
+
+---
+
+### 三、以军行动代号：雄狮之吼行动
+
+| 语言 | 翻译 | 拉丁转写 |
+|------|------|----------|
+| **日本語** | オペレーション・ロアリング・ライオン | Operēshon Roaringu Raion |
+| **한국어** | 작전명 포효하는 사자 | Jakjeonmyeong Pohohaneun Saja |
+| **Tiếng Việt** | Chiến dịch Sư Tử Gầm Vang | Chiến dịch Sư Tử Gầm Vang |
+| **עברית** | מבצע אריה שואג | Mivtza Aryeh Shoeg |
+| **Ελληνικά** | Επιχείρηση Βρυχώμενος Λέων | Epicheírisi Vrychómenos Léon |
+| **Français** | Opération Lion Rugissant | Opération Lion Rugissant |
+| **Deutsch** | Operation Brüllender Löwe | Operation Brüllender Löwe |
+
+---
+
+### 四、伊朗行动代号：征服海巴尔行动
+
+| 语言 | 翻译 | 拉丁转写 |
+|------|------|----------|
+| **日本語** | オペレーション・ファテフ・ハイバル | Operēshon Fatefu Haibaru |
+| **한국어** | 작전명 파테흐 카이바르 | Jakjeonmyeong Pateheu Kaibareu |
+| **Tiếng Việt** | Chiến dịch Fateh Khyber | Chiến dịch Fateh Khyber |
+| **עברית** | מבצע פתח ח'ייבר | Mivtza Fatah Khaibar |
+| **Ελληνικά** | Επιχείρηση Φάταχ Χάιμπαρ | Epicheírisi Fátach Cháibar |
+| **Français** | Opération Fateh Khaïbar | Opération Fateh Khaïbar |
+| **Deutsch** | Operation Fateh Chaibar | Operation Fateh Chaibar |
+
+---
+
+### 五、关键词解析（供参考）
+
+| 语言 | 史诗 (Epic) | 愤怒 (Fury/Rage) | 雄狮 (Roaring Lion) | 征服 (Fateh) |
+|------|-------------|------------------|---------------------|--------------|
+| 日语 | 叙事詩 (じょじし) | 怒り (いかり) | 咆哮する獅子 | ファテフ |
+| 韩语 | 서사시 | 분노 | 포효하는 사자 | 파테흐 |
+| 越南语 | Sử Thi | Thịnh Nộ | Sư Tử Gầm Vang | Fateh |
+| 希伯来语 | אפי | זעם | אריה שואג | פתח |
+| 希腊语 | Έπος | Οργή | Βρυχώμενος Λέων | Φάταχ |
+| 法语 | Épique | Colère / Fureur | Lion Rugissant | Fateh |
+| 德语 | Episch | Wut / Zorn | Brüllender Löwe | Fateh |
+
+---
+
+以上翻译综合了直译与军事术语的常用表达习惯。如需在正式文件中使用，建议进一步咨询对应语种的专业翻译人员确认。
+
 关于美以在伊朗的联合军事行动，即美国所称的“Operation Epic Fury”（史诗之怒）和以色列所称的“Operation Roaring Lion”（雄狮之吼），这是一场始于2026年2月28日的重大冲突。
 
 以下是针对您询问的**最新信息**、**评价影响**，以及**英语语源分析**的详细梳理。
