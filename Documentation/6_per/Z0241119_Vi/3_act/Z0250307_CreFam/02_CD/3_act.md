@@ -364,3 +364,258 @@ if ($2 !~ /^[0-9]{8}$/) {
 ---
 
 这个方案将校验和导入解耦，便于调试和监控。根据你的实际表结构和业务规则，可以灵活调整校验逻辑。
+
+
+### A：GPT
+
+下面给你一套**可直接落地的 Shell + SQL*Loader 方案**，实现你要的流程：
+👉 **CSV校验（非空 / 单项目 / 重复） → 错误分流 → 正确入库（Oracle）**
+
+我会按“生产可用”的思路来写，包含脚本、控制文件、说明👇
+
+---
+
+# 🧭 一、整体流程设计
+
+```text
+CSV原始文件
+   ↓
+数据检查（awk）
+   ↓
+├── good.csv（合格数据）
+└── bad.csv（不合格数据）
+   ↓
+SQL*Loader导入Oracle
+```
+
+---
+
+# 📁 二、示例CSV（假设结构）
+
+```csv
+id,name,age
+1,Tom,20
+2,,25
+3,Alice,
+3,Alice,22
+4,Bob,30
+```
+
+---
+
+# ⚙️ 三、Shell校验脚本（核心）
+
+👉 文件：`process_csv.sh`
+
+```bash
+#!/bin/bash
+
+INPUT="input.csv"
+GOOD="good.csv"
+BAD="bad.csv"
+
+# 清空输出文件
+> $GOOD
+> $BAD
+
+# 跳过表头处理
+header=$(head -n 1 $INPUT)
+echo "$header" > $GOOD
+echo "$header,error" > $BAD
+
+# 去重用
+declare -A seen
+
+# 从第2行开始处理
+tail -n +2 $INPUT | while IFS=',' read -r id name age
+do
+    error=""
+
+    # 非空检查
+    if [[ -z "$id" || -z "$name" || -z "$age" ]]; then
+        error="NULL_VALUE"
+    fi
+
+    # 单项目检查（数字）
+    if ! [[ "$age" =~ ^[0-9]+$ ]]; then
+        error="INVALID_AGE"
+    fi
+
+    # 重复检查（id）
+    if [[ -n "${seen[$id]}" ]]; then
+        error="DUPLICATE_ID"
+    else
+        seen[$id]=1
+    fi
+
+    if [[ -z "$error" ]]; then
+        echo "$id,$name,$age" >> $GOOD
+    else
+        echo "$id,$name,$age,$error" >> $BAD
+    fi
+
+done
+```
+
+---
+
+# 🧠 四、说明（校验逻辑）
+
+👉 已实现：
+
+* ✔ 非空校验
+* ✔ 数值校验（age）
+* ✔ 主键重复（id）
+
+👉 可扩展：
+
+* 日期格式
+* 长度限制
+* 枚举值检查
+
+---
+
+# 📦 五、Oracle导入（SQL*Loader）
+
+## 1️⃣ 创建表
+
+```sql
+CREATE TABLE test_table (
+    id NUMBER,
+    name VARCHAR2(50),
+    age NUMBER
+);
+```
+
+---
+
+## 2️⃣ 控制文件（control.ctl）
+
+```text
+LOAD DATA
+INFILE 'good.csv'
+INTO TABLE test_table
+APPEND
+FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '"'
+SKIP 1
+(
+  id,
+  name,
+  age
+)
+```
+
+---
+
+## 3️⃣ 执行导入
+
+```bash
+sqlldr userid=user/password control=control.ctl log=load.log bad=load.bad
+```
+
+---
+
+# 📊 六、结果说明
+
+## ✔ good.csv
+
+👉 全部合法 → 导入成功
+
+---
+
+## ❌ bad.csv
+
+👉 包含：
+
+```csv
+id,name,age,error
+2,,25,NULL_VALUE
+3,Alice,,NULL_VALUE
+3,Alice,22,DUPLICATE_ID
+```
+
+---
+
+# 🚀 七、增强版（更专业）
+
+如果你要“企业级”，可以加👇
+
+---
+
+## 🟡 1️⃣ 使用临时表 + SQL校验
+
+👉 流程：
+
+```text
+CSV → 临时表 → SQL校验 → 正式表
+```
+
+---
+
+## 🟡 2️⃣ 用 awk 提升性能（大文件）
+
+替换 while：
+
+```bash
+awk -F',' '
+NR==1 {print > "good.csv"; print $0",error" > "bad.csv"; next}
+{
+    if ($1=="" || $2=="" || $3=="") {
+        print $0",NULL" >> "bad.csv"
+    } else {
+        print $0 >> "good.csv"
+    }
+}
+' input.csv
+```
+
+---
+
+## 🟡 3️⃣ 并发处理（大数据量）
+
+👉 split + 并行处理
+
+---
+
+# ⚠️ 八、常见坑（非常重要）
+
+## ❗ 1️⃣ CSV编码
+
+👉 确保：
+
+```bash
+iconv -f UTF-8 -t UTF-8 input.csv > clean.csv
+```
+
+---
+
+## ❗ 2️⃣ Oracle字符集
+
+👉 和CSV一致（UTF-8）
+
+---
+
+## ❗ 3️⃣ 空格问题
+
+👉 建议trim：
+
+```bash
+name=$(echo "$name" | xargs)
+```
+
+---
+
+# 🌈 九、一句话总结
+
+👉
+**用Shell做前置校验分流，用SQL*Loader做高效入库，是最稳定的CSV→Oracle方案。**
+
+---
+
+# 👍 如果你愿意（可以再升级一层）
+
+我可以帮你👇
+
+🧠 做一个：
+👉 **“Eclipse + Spring MVC + Oracle 批量导入完整系统（带前端上传）”**
+👉 非常适合你现在的项目架构 👍
