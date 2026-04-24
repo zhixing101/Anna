@@ -1158,6 +1158,380 @@ WHERE NOT EXISTS (
 
 如果你需要，我可以把这份设计**转成可直接运行的一整套脚本模板（含awk高性能版 + SQL*Loader + 监控脚本）**，或者按你现有的 **Eclipse / Spring MVC 项目**做成**可视化上传+校验页面**。
 
+### Q3：详细说明项目检查部分的设计
+
+### A3：
+
+下面把**“项目检查（字段级校验）”**这一块做成一份**可直接落地的详细设计**。重点是：**规则如何定义、如何实现（高性能）、如何扩展、如何产出可审计结果**。
+
+---
+
+# 🧭 一、目标与设计原则
+
+**目标**：对每一行数据做**结构化、可扩展、可审计**的校验，输出
+👉 合格数据（good）
+👉 不合格数据（bad + 错误码）
+
+**原则**：
+
+```text id="rulep1"
+规则可配置（可变更）
+流式处理（支持大文件）
+错误可定位（到字段/到规则）
+结果可追溯（日志+统计）
+```
+
+---
+
+# 🧱 二、规则模型设计（核心）
+
+把“项目检查”抽象成**规则表（或配置文件）**，避免写死在脚本里。
+
+## 1️⃣ 规则定义（示例 JSON）
+
+```json id="rulejson"
+{
+  "fields": [
+    {
+      "name": "id",
+      "required": true,
+      "type": "number",
+      "length": [1,10],
+      "unique": true
+    },
+    {
+      "name": "name",
+      "required": true,
+      "type": "string",
+      "maxLength": 50
+    },
+    {
+      "name": "age",
+      "required": true,
+      "type": "number",
+      "range": [0,120]
+    },
+    {
+      "name": "date",
+      "required": true,
+      "type": "date",
+      "format": "YYYY-MM-DD"
+    }
+  ]
+}
+```
+
+---
+
+## 2️⃣ 规则分类
+
+```text id="rulecat"
+① 非空（required）
+② 类型（number/string/date）
+③ 位数/长度（length/maxLength）
+④ 范围（range）
+⑤ 格式（regex/date format）
+⑥ 唯一性（unique）
+⑦ 跨字段（扩展）
+```
+
+---
+
+# ⚙️ 三、实现方案（推荐：AWK流式校验）
+
+👉 原因：
+
+* 性能高（百万级OK）
+* 一行一行处理（不占内存）
+* 易输出错误信息
+
+---
+
+## 1️⃣ 主校验脚本（核心）
+
+```bash
+awk -F',' '
+BEGIN {
+    OFS=","
+}
+
+NR==1 { next }      # 跳过HDR
+/^TRL/ { next }     # 跳过尾
+
+{
+    id=$1; name=$2; age=$3; date=$4;
+    err=""
+
+    # ① 非空
+    if (id=="" || name=="" || age=="" || date=="") {
+        err=err "|NULL"
+    }
+
+    # ② 类型 & 位数（id）
+    if (id !~ /^[0-9]{1,10}$/) {
+        err=err "|ID_FORMAT"
+    }
+
+    # ③ 数值范围
+    if (age !~ /^[0-9]+$/ || age>120) {
+        err=err "|AGE_INVALID"
+    }
+
+    # ④ 日期格式（简单校验）
+    if (date !~ /^[0-9]{4}-[0-9]{2}-[0-9]{2}$/) {
+        err=err "|DATE_FORMAT"
+    }
+
+    # ⑤ 唯一性（文件内）
+    if (seen[id]++) {
+        err=err "|DUPLICATE"
+    }
+
+    # 输出
+    if (err=="") {
+        print $0 >> "good.csv"
+    } else {
+        print $0,substr(err,2) >> "bad.csv"
+    }
+}
+' input.csv
+```
+
+---
+
+# 🧠 四、日期校验（加强版，避免假日期）
+
+👉 上面只是格式校验，不够严谨
+👉 推荐用系统校验：
+
+```bash
+if (!system("date -d \"" date "\" +%Y-%m-%d >/dev/null 2>&1")) {
+    # valid
+} else {
+    err=err "|DATE_INVALID"
+}
+```
+
+👉 在 awk 中可这样写：
+
+```awk
+cmd="date -d \"" date "\" +%Y-%m-%d >/dev/null 2>&1"
+if (system(cmd)!=0) {
+    err=err "|DATE_INVALID"
+}
+```
+
+---
+
+# 🧪 五、错误码设计（必须规范）
+
+| 错误码          | 含义     |
+| ------------ | ------ |
+| NULL         | 空值     |
+| ID_FORMAT    | id格式错误 |
+| AGE_INVALID  | 年龄非法   |
+| DATE_FORMAT  | 日期格式错误 |
+| DATE_INVALID | 日期不存在  |
+| DUPLICATE    | 重复     |
+
+👉 支持**多错误叠加**：
+
+```text id="errmulti"
+AGE_INVALID|DATE_INVALID
+```
+
+---
+
+# 📊 六、统计设计（非常重要）
+
+在 awk 中增加统计：
+
+```awk
+BEGIN {
+    total=0; good=0; bad=0;
+}
+
+{
+    total++
+    ...
+    if (err=="") {
+        good++
+    } else {
+        bad++
+        errCount[err]++
+    }
+}
+
+END {
+    print "TOTAL=" total >> "audit.log"
+    print "GOOD=" good >> "audit.log"
+    print "BAD=" bad >> "audit.log"
+
+    for (e in errCount) {
+        print e "=" errCount[e] >> "audit.log"
+    }
+}
+```
+
+---
+
+# 🧩 七、扩展设计（企业级）
+
+---
+
+## 🟡 1️⃣ 支持配置驱动（推荐升级）
+
+👉 把规则从 awk 中抽离：
+
+* JSON → shell解析 → 生成 awk 规则
+* 或直接用 Python（更灵活）
+
+---
+
+## 🟡 2️⃣ 跨字段校验
+
+例如：
+
+```text id="cross"
+start_date <= end_date
+```
+
+👉 awk：
+
+```awk
+if (start_date > end_date) {
+    err=err "|DATE_ORDER"
+}
+```
+
+---
+
+## 🟡 3️⃣ 代码表校验（枚举）
+
+```text id="enum"
+gender ∈ {M,F}
+```
+
+```awk
+if (gender!="M" && gender!="F") {
+    err=err "|GENDER_INVALID"
+}
+```
+
+---
+
+## 🟡 4️⃣ 数据库校验（增强）
+
+👉 在入库前或后：
+
+* 外键存在性
+* 主键冲突
+
+---
+
+# ⚠️ 八、注意点（非常关键）
+
+---
+
+## ❗ 1️⃣ CSV复杂情况
+
+👉 如果存在：
+
+* 引号
+* 逗号
+
+👉 必须使用：
+
+```bash
+awk -F','   ❌ 不够
+```
+
+👉 推荐：
+
+* 使用 `csvkit` 或 Python
+
+---
+
+---
+
+## ❗ 2️⃣ 大文件内存问题
+
+👉 不要：
+
+```bash
+declare -A seen   # 大文件会爆内存
+```
+
+👉 用：
+
+* awk（更省）
+* 或数据库去重
+
+---
+
+---
+
+## ❗ 3️⃣ 错误覆盖问题
+
+👉 错误不要这样写：
+
+```bash
+error="XXX"
+```
+
+👉 应该：
+
+```bash
+error="$error|XXX"
+```
+
+---
+
+---
+
+## ❗ 4️⃣ 性能
+
+👉 优先级：
+
+```text id="perf"
+awk > shell while > python（未优化）
+```
+
+---
+
+---
+
+## ❗ 5️⃣ 可追溯性
+
+👉 每条 bad 数据必须包含：
+
+* 原始数据
+* 错误码
+* 时间戳（可选）
+
+---
+
+# 🌈 九、一句话总结
+
+👉
+**项目检查的本质是：用规则驱动的流式校验，把“脏数据”在入口就分离出来，并且能解释“为什么错”。**
+
+---
+
+# 👍 如果你要再提升一层（推荐）
+
+我可以帮你👇
+
+🧠 做一个：
+👉 **“规则引擎版本”（类似小型ETL工具）**
+👉 支持：
+
+* 配置驱动
+* 多表规则
+* Web界面查看错误
+
+这个就接近企业数据平台级别了 👍
+
 
 
 ## Z025/03/22（六）
