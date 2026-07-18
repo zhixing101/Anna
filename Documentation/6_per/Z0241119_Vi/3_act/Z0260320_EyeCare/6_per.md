@@ -353,3 +353,294 @@
 [1]: https://info.csmu.edu.tw/p/406-1008-31660%2Cr1.php?Lang=zh-tw&utm_source=chatgpt.com "六、私立學校董事會相關資訊"
 [2]: https://info.csmu.edu.tw/p/405-1008-31660%2Cc917.php?Lang=zh-tw&utm_source=chatgpt.com "六、私立學校董事會相關資訊"
 [3]: https://history.csmu.edu.tw/p/406-1065-75631%2Cr1174.php?Lang=zh-tw&utm_source=chatgpt.com "周汝川董事長"
+
+
+### Q：黄仁勋，介绍评价影响，目前最新动态，最近到日本的活动介绍和影响
+
+### A：GPT
+
+![Image](https://images.openai.com/static-rsc-4/ZEr-jXvX2y240pdcUkpuegEmpY1XAVL_XL8jGMnvW5QbFo4TIxmlE64DBRGhis7PcreIzSQLBlIE3NHee2G1-ri1cruWc8vb47nEHTsZMdZ6OA6XObmriGGBBcfB7KhSVarLEhbugaNMxgEBEG33cDqnZNfp_QSeua7EsH1lP5snkNQbi97abTfkr5gL9mJh?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/kd1pSVvF2wc1yIWRsA36MqrXt6Q2SLOWA-9xxkkimZW8e7TxmbI9ahnAOsHx3gJS6Bz6tl166yeATCYNpYOx3yA6QAybMiviPh5ZEkoqDS8brGbRJkZNtTXiaS3Cm7ldaK_n-5Cibexn6obyKxKJ59YMRW3l4oDHxHCty4lUea67GidcEAMPUwek3x9FZtGa?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/dBsvHtAsjQ3cqZAOz0pmJBeW3qgw7BgJNl2OO35LGEJ3AVfGt1a9zFrBriZtTnFr6nvAu7rtC1H6pcOLCvwTwHzxHvGrZ4INgjxGkrxr-HlwOlKUtIwAqcfeplgAbOQfKSWw7jMpGsvPwCAjuUo_i-W_j_d-QRpHX-ezYiuRuF3eFAabpAm_mPvfq8MIa41k?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EkHGI5Mh-eHmIy-Kr_Rs3_X3aPugFUKO7fFjWzN1IOH0R6yOPOxNMHVbudW9n36whDtO__wKwABH3hGnczYxf1j66ugzwXZEPaL8mHHFp6Xa18u2qvUMo8YYpXXtvkNVdiEOPq30wg5OYQ3vrPfgiyyI2tCI9cogWG5QQ92ZFONS7XQJOJHEHGc88In7e6Qa?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/PT0w0Y0E6VyZu0HWQNvuYIpQj8ox1MIE8Cskcqt6gK7nA91WYQRcLenCVqpKryp9BR1nYck0TY77tZeY8uiVdrCJTy30V5JCk_pAZy064NtjalaK-yMoGLpMAPfklFUt2LKN_YOsFNL52hcrOpQGLV8GEIOfnTBMGaRjmJwOZ8oOjCecTd6Db-J-od3mMKqb?purpose=fullsize)
+
+**黄仁勋（Jensen Huang，1963—）**是全球AI时代最具影响力的企业家之一，也是NVIDIA创始人、总裁兼CEO。他不仅改变了GPU产业，更推动了AI、大模型、机器人和自动驾驶的发展，被许多人称为"AI时代的代表人物"。
+
+---
+
+# 一、个人简介
+
+* **中文名**：黄仁勋
+* **英文名**：Jensen Huang
+* **出生**：1963年，台湾台南市
+* **3岁**：随父母迁居泰国
+* **约9岁**：赴美国求学
+* **大学**：Oregon State University（电子工程学士）
+* **硕士**：Stanford University（电子工程硕士）
+
+1993年，他与两位工程师共同创立NVIDIA，最初专注于3D图形芯片。如今，NVIDIA已发展为全球AI计算平台的领导者。
+
+---
+
+# 二、主要成就
+
+他的影响可以分为几个阶段：
+
+**第一阶段（1993–2006）**
+
+* 推动GPU进入PC游戏市场。
+* 推出GeForce系列，改变游戏产业。
+
+**第二阶段（2006–2016）**
+
+* 推出CUDA平台，使GPU成为科学计算和深度学习的重要工具。
+
+**第三阶段（2016年至今）**
+
+* 推动AI训练和推理基础设施的发展。
+* 布局机器人（Physical AI）、数字孪生、自动驾驶和AI工厂。
+
+今天，全球大量AI模型训练都依赖NVIDIA GPU及其软件生态。
+
+---
+
+# 三、2026年最新动态（日本访问）
+
+黄仁勋于**2026年7月中旬访问日本东京**，此次访问不仅是商业活动，也被视为日本AI产业的重要事件。
+
+## 1. 推动日本"AI工厂（AI Factory）"
+
+他宣布支持日本建设大型AI基础设施。
+
+其中，日本支持的联盟**Noetra**（成员包括SoftBank、Sony、Honda等）计划采购约**27,500颗下一代NVIDIA AI芯片**，建设面向"Physical AI（物理AI）"的大规模AI计算平台。([The Wall Street Journal][1])
+
+这意味着日本希望建立本土AI算力和模型能力，而不仅依赖海外云服务。
+
+---
+
+## 2. 推动机器人产业合作
+
+黄仁勋宣布与多家日本机器人企业深化合作，包括：
+
+* FANUC
+* Yaskawa Electric（安川电机）
+
+并强调：
+
+> **未来AI不仅存在于电脑中，更会进入机器人和现实世界（Physical AI）。**
+
+合作重点包括：
+
+* 工厂自动化
+* 服务机器人
+* 医疗机器人
+* 零售机器人
+
+([Reuters][2])
+
+---
+
+## 3. 出席日本AI政策活动
+
+他与日本政府官员及产业界共同出席东京举行的Physical AI政策活动。
+
+参与者包括：
+
+* 日本经济产业省负责人
+* Sony高层
+* SoftBank高层
+* 日本产业技术综合研究所（AIST）负责人
+
+显示日本政府希望加强AI与制造业、机器人产业的结合。([Reuters Connect][3])
+
+---
+
+## 4. 与SEGA共同纪念30年合作
+
+黄仁勋专程前往东京秋叶原，参加NVIDIA与SEGA合作30周年活动。
+
+这背后有一段重要历史：
+
+1996年，在NVIDIA资金困难时期，SEGA曾给予关键投资和合作机会，对NVIDIA早期发展起到了重要作用。因此，黄仁勋此次到访也被视为一次"感谢之旅"。([Tom's Hardware][4])
+
+---
+
+## 5. 日本民众关注度
+
+除了商务活动，黄仁勋还在东京体验当地文化，例如与民众互动、品尝街头美食，引起不少媒体报道。([Business Insider][5])
+
+---
+
+# 四、为什么日本如此重视黄仁勋？
+
+原因主要有四点：
+
+1. **AI算力需求增长**
+
+   * 日本希望建立自主AI基础设施。
+
+2. **机器人产业优势**
+
+   * 日本拥有全球领先的工业机器人企业，而NVIDIA拥有AI计算平台，双方优势互补。
+
+3. **半导体产业复兴**
+
+   * 日本希望重振半导体生态，与国际AI企业加强合作。
+
+4. **老龄化社会需求**
+
+   * 日本希望借助AI和机器人缓解劳动力不足，提高医疗、制造和物流效率。
+
+---
+
+# 五、评价与影响
+
+黄仁勋的影响主要体现在三个层面：
+
+**技术层面**
+
+* 推动GPU从图形芯片发展为AI计算核心。
+* CUDA生态成为AI研究的重要基础。
+
+**产业层面**
+
+* 加速AI、大模型、机器人、自动驾驶等产业发展。
+* 促进AI与制造业深度融合。
+
+**全球合作层面**
+
+* 与美国、台湾、日本、欧洲等产业链保持密切合作。
+* 近期日本之行进一步加强了AI、机器人和先进制造领域的国际合作。([Reuters][2])
+
+---
+
+## 结合你关注的方向
+
+你之前一直关注**青光眼、视觉神经科学、脑机接口（BCI）和AI**。黄仁勋这次在日本反复提到的**Physical AI**，与这些领域有不少交集。
+
+未来的视觉脑机接口、智能医疗设备和手术机器人，都需要强大的AI计算平台。NVIDIA近年来持续投入机器人、医学AI和神经计算技术，因此其平台很可能成为未来视觉恢复、脑机接口等研究的重要底层基础设施之一。
+
+[1]: https://www.wsj.com/tech/ai/nvidia-noetra-to-build-ai-factory-to-power-japans-ai-ambitions-95e74210?utm_source=chatgpt.com "Japan to Buy Nvidia Chips to Power Its AI Push"
+[2]: https://www.reuters.com/business/media-telecom/nvidia-partners-with-japan-robotics-firms-ai-development-2026-07-16/?utm_source=chatgpt.com "Nvidia partners with Japan robotics firms on AI development"
+[3]: https://www.reutersconnect.com/item/nvidia-ceo-jensen-huang-attends-event-on-japans-ai-policy/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMlZFTUFPUU9CUg?utm_source=chatgpt.com "Licensable picture: Nvidia CEO Jensen Huang attends event on Japan's AI policy"
+[4]: https://www.tomshardware.com/video-games/retro-gaming/segas-usd5m-investment-saved-nvidia-in-1996-now-jensen-huang-is-heading-to-tokyo-to-mark-30-years-of-partnership-akihabara-event-will-include-a-geforce-rtx-5090-fe-lottery-an-rtx-spark-presentation-and-more?utm_source=chatgpt.com "Sega's $5M investment saved Nvidia in 1996, now Jensen Huang is heading to Tokyo to mark 30 years of partnership - Akihabara event will include a GeForce RTX 5090 FE lottery, an RTX Spark presentation, and more"
+[5]: https://www.businessinsider.com/jensen-huang-tokyo-street-food-red-bean-buns-japan-nvidia-2026-7?utm_source=chatgpt.com "Jensen Huang hands out red bean buns to Tokyo crowd in his latest culinary adventure"
+
+
+### A：Deep seek
+
+# 黄仁勋：AI时代的“军火商”与孤独的造梦者
+
+## 一、个人简介
+
+黄仁勋（Jensen Huang），美籍华人，1963年2月17日出生于台湾省台南市，祖籍浙江青田。他是NVIDIA（英伟达）创始人兼首席执行官，美国工程院院士，被外界称为“AI教父”。
+
+### 早年经历
+
+黄仁勋的成长经历颇具传奇色彩。1972年，9岁的他与哥哥被送到美国肯塔基州的一所乡村寄宿学校就读，那是一所不良少年众多的学校，室友浑身刺青。为了谋生，他放学后负责清扫男生宿舍，常躲起来独自看书。这段经历让他学会了独立与坚强。
+
+1974年，父母移民美国俄勒冈州，他开始进入正规学校就读。16岁时考上俄勒冈州立大学，主修电子工程，1984年取得学士学位。1990年获得斯坦福大学电子工程硕士学位。**有趣的是，他15岁时还在美国乒乓球公开赛上获得过双打第三名**。
+
+### 职业生涯
+
+1983年，黄仁勋在AMD任职芯片设计工程师，1985年跳槽至LSI Logic，从工程师主动转岗销售，以出色业绩晋升高级职位。
+
+1993年2月17日，在他30岁生日当天，黄仁勋与两位友人在丹尼餐厅（Denny‘s）创立了NVIDIA，初始资金仅220万美元。创业初期，公司第一款产品NV1销量惨淡，几乎破产。危急时刻，世嘉委托其开发土星主机图形芯片，预付的700万美元让NVIDIA得以续命。
+
+1999年，NVIDIA上市，同年推出GeForce 256，**首次提出GPU（图形处理器）概念**，开创了显示芯片的新时代。
+
+2006年，NVIDIA推出并行计算平台CUDA，让GPU从游戏芯片转型为通用计算引擎。这一决策为后来的人工智能爆发奠定了算力基础。
+
+2024年，英伟达市值一度突破5万亿美元，成为全球市值最高的公司之一。截至2026年，黄仁勋个人身价超过1200亿美元，位列全球富豪榜前列。
+
+
+## 二、评价与影响
+
+### 正面评价：AI时代的“电力公司”
+
+英国《金融时报》将黄仁勋评为2025年度“影响力人物”，称他“站在史上最大规模民间投资浪潮的正中央，推动的技术具备重塑所有产业的力量”。
+
+OpenAI首席执行官奥特曼评价：“**黄仁勋多年来一直为如今全球才开始意识到的人工智能时刻作准备。他愿意将整家公司押注在一个全新的运算架构上，为数字智能奠定了基础**。”
+
+外界将黄仁勋比作“AI时代的军火商”，更准确的说法是“**全球AI的能源公司**”——今天的GPU之于AI，就像电力之于工业革命。
+
+### 争议与困境：夹缝中的孤独
+
+2026年5月，特朗普访华的随行企业家名单中，苹果库克、马斯克等悉数在列，**唯独黄仁勋不在正式名单上，最后一刻才被“加上去”**。这一细节揭示了他的尴尬处境：**所有人都需要他，但没有人真正名正言顺把他带上桌**。
+
+| 矛盾层面 | 具体情况 |
+|---------|---------|
+| **美国方面** | 华盛顿将AI定义为国家竞争力，芯片出口限制不断升级，H100、A800被禁，连H20也一度被禁 |
+| **中国方面** | 英伟达中国区营收曾达171亿美元，但市场份额从95%降至0%；华为昇腾等国产替代加速追赶 |
+| **华尔街方面** | 只关心增长，英伟达估值建立在“AI需求无限增长”的前提上 |
+
+黄仁勋曾说“公司距离破产永远只有30天”——以前怕公司活不下去，**今天怕整个行业格局正在分裂，而英伟达站在裂缝中央**。
+
+他正在华盛顿、北京、华尔街之间维持一种几乎不可能完成的平衡。
+
+
+## 三、最新动态（2026年）
+
+### 1. 否认Vera Rubin平台延期传闻
+
+2026年7月15日，黄仁勋在日本接受采访时明确表示，关于下一代AI服务器架构Vera Rubin延期的报道**不实**。**该平台已投入生产，正朝着大规模生产稳步推进**。
+
+### 2. GTC 2026：提出“AI五层蛋糕”
+
+2026年3月GTC大会上，黄仁勋将英伟达重新定义为“AI基础设施与AI工厂公司”，提出了涵盖**能源→芯片→基础设施→模型→应用**的五层全栈架构。他宣布Blackwell和Rubin平台2025-2027年累计营收有望达**1万亿美元**。
+
+### 3. 卡内基梅隆大学荣誉博士
+
+2026年5月10日，黄仁勋获颁卡内基梅隆大学科学与技术荣誉博士学位，英特尔CEO陈立武亲自为他授袍，这是他的第六个荣誉博士学位。
+
+
+## 四、最近到日本的活动介绍与影响
+
+2026年7月15日至16日，黄仁勋访问日本，进行了一系列密集布局，**核心目标是将日本打造成“实体AI”全球枢纽**。这是继2025年10月访日后时隔9个月再次到访。
+
+### 1. 国家级AI基础设施：Noetra项目
+
+7月16日，黄仁勋出席日本经济产业省主办的活动，宣布与日本新成立的AI开发公司**Noetra**（软银等出资，获日本政府支持）合作，**提供约2.75万颗最新GPU，为日本打造首座国家级AI基础设施**，专攻“物理AI”基础模型开发。
+
+经济产业大臣**赤泽亮正特意穿上黑色皮衣出席活动，向黄仁勋致敬**。赤泽表示：“我穿皮夹克来到现场，是想表达深深的尊敬，发展领先世界的物理AI生态系非常重要。”黄仁勋则幽默回应：“我们品味相似。”
+
+他在演讲中强调：“**经过15年的努力，物理AI总算来了，这是下次工业革命的根基，应该由日本达成。**”
+
+### 2. 机器人领域：结盟日本四大工业巨头
+
+黄仁勋宣布与**富士通、发那科、川崎重工、安川电机**四大日本工业自动化企业深化合作，共同推动机器人及“实体AI”技术发展。**四家企业将加入由英伟达主导的Cosmos Coalition**，日立、NEC、小松制作所及久保田也将加入。
+
+同期，英伟达推出精简版世界基础模型**Cosmos 3-H**及**Jetson T3000、T2000**机器人电脑，进一步降低机器人开发门槛。
+
+### 3. 自动驾驶：扩大与丰田合作
+
+英伟达宣布扩大与丰田在自动驾驶、工厂模拟等领域的合作，共同开发丰田的“Woven City”（新一代技术试验城市）。
+
+### 4. 供应链深耕：居酒屋“千亿晚宴”
+
+7月15日晚，黄仁勋现身东京神田区一家居酒屋，宴请日本半导体供应链大厂高层，包括**铠侠、信越化学、东京威力科创、味之素、住友电工、太阳诱电**等企业CEO。
+
+菜单包括烤猪肉串、牛杂火锅和“超大份”薯条。黄仁勋在席间谈笑风生，**结束后还在店外向等候的民众发放红豆饼**，展现亲民形象。
+
+东京威力科创CEO被问及黄仁勋对日本供应链有何期待时回答：“**期待很多，非常多。**”黄仁勋稍早也表示：“**半导体制造的基础，从高纯度材料、设备到封装系统，都来自日本。**”
+
+### 5. 与世嘉前社长重逢
+
+访日期间，黄仁勋出席SEGA活动，与30年前曾支持英伟达度过创业困境的SEGA前社长入交昭一郎重逢。他动情表示：“**若没有当年SEGA的支持，英伟达不会有今天的发展。**”
+
+### 6. 日本行的影响
+
+此次日本行的影响可从三个层面解读：
+
+| 层面 | 影响分析 |
+|------|----------|
+| **产业层面** | 英伟达将日本定位为“实体AI”核心据点，通过与四大工业巨头合作、国家级AI设施建设，帮助日本在全球AI竞赛中加速追赶 |
+| **供应链层面** | 居酒屋晚宴强化了与日本半导体材料、设备供应链的绑定关系。日本在高纯度材料、设备、封装系统等领域的优势，是英伟达下一代AI芯片不可或缺的基础 |
+| **地缘政治层面** | 通过在日本的大规模投资与合作，黄仁勋正在构建一个**超越中美博弈的“第三极”**，既对冲中国市场的不确定性，又呼应美国“友岸外包”战略 |
+
+日本媒体分析认为，黄仁勋此次访日之所以引发广泛关注，**不仅因为商业合作的分量，更因为他在“地缘政治裂缝”中找到了一条通过技术合作与产业生态来平衡各方压力的路径**。这或许也是当前局势下，英伟达维持全球扩张的最优解。
