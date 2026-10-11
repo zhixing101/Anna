@@ -1,3 +1,1182 @@
+## Z026/10/11(日)
+
+下面将内容重新整理为适合打印的版本，英文、中文、日文分别成篇，保留角色名称、对话顺序和段落编号，便于分别打印、朗读和角色扮演。对原始机器转录中不确定的地方保留说明，不把推测当作原话。
+
+# 第一部分：英文原文（English Transcript）
+
+Topic: AI, Future Jobs, the Age of Abundance, and Data Centers
+
+AI, Future Jobs, and the Age of Abundance
+
+# AI, Future Jobs, and the Age of Abundance
+
+## Press Conference Transcript
+
+### 1. Concerns About Future Jobs
+
+**QUESTION (Reporter):**
+
+Across the world, \(people are\) worried about their own job when it comes to AI.
+
+**DONALD TRUMP:**
+
+Yeah.
+
+**QUESTION (Reporter):**
+
+And Mr. Musk has spoken about an age of abundance, which sounds lovely. But what about when people wake—
+
+**DONALD TRUMP:**
+
+\(Inaudible\) — I didn't see you back there. What are you doing?
+
+**QUESTION (Reporter):**
+
+— in the morning and they have no purpose?
+
+**QUESTION (Reporter):**
+
+May we hear from them?
+
+**QUESTION (Reporter):**
+
+What are the jobs in the future?
+
+**DONALD TRUMP:**
+
+Elon, go ahead. You can answer that question.
+
+**ELON MUSK:**
+
+Sorry, question was about age of abundance?
+
+**QUESTION (Reporter):**
+
+What are the jobs of the future? And people looking at this will be worried, particularly laptop jobs. What, what are they gonna do in the future, Mr. Musk?
+
+### 2. Musk on the Benefits of AI
+
+**ELON MUSK:**
+
+Well, I think it is worth, uh, highlighting the positive benefits of AI, uh, which will... SI, pardon me.
+
+**DONALD TRUMP:**
+
+Thank you.
+
+**ELON MUSK:**
+
+\(Laughs\) Super intelligence. Um, I, I think by far the most likely outcome is an age of abundance, uh, where we don't have just a universal basic income, we have universal high income. Um, and—
+
+**DONALD TRUMP:**
+
+That's good.
+
+**ELON MUSK:**
+
+Uh, you know, people speak about medical benefits. I think the, uh, but, but maybe it's worth talking bit more about that. Um, when you have, uh, robots and you have super intelligence, it means that everyone in the world can have better medical care than anyone here, including me. Um, and wouldn't that be wonderful?
+
+### 3. The Question of Employment
+
+**QUESTION (Reporter):**
+
+Not if they haven't got a job.
+
+**ELON MUSK:**
+
+Well, jobs are going to change. Jobs have always changed. Uh, but, uh, being a computer used to be a job. There used to be buildings full of people doing calculations. Uh, but now, uh, computers, you know, digital computers do, do those tasks.
+
+I don't think anyone is, uh, pining to go back and do calculations all day, uh, to do bank interest rates, which is what they used to do. So I think we'll see an evolution of, of robots.
+
+### 4. The Future Outlook
+
+**ELON MUSK:**
+
+Um, and, uh, and as the president has mentioned, the, uh, as, as long as the, uh, unemployment has increased, in fact, there's a tremendous demand for people.
+
+Um, so I, I think the most likely outcome, and it's probably worth looking at the most likely outcome, uh, is one which is incredibly beneficial and it's a future that you, if you could, if you could look into the future, it is the future you would want.
+
+### 5. Data Centers and China
+
+**DONALD TRUMP:**
+
+Uh, Elon and I sat with President Xi the other day, and he will take every data center that we don't want. Do you agree with that?
+
+**ELON MUSK:**
+
+Yes.
+
+**DONALD TRUMP:**
+
+He's done, he would love to have every single one, because you know why? They're smart. They want every data center. They want it because that's great for China.
+
+Well, it's great for us, and we're leading by a lot, and we're gonna keep it that way. It's going to be also—
+
+### 6. Safety and Self-Regulation
+
+**DONALD TRUMP:**
+
+It's gonna be very, very safe and there's a self-policing, and there's also a group policing and it's gonna be great.
+
+---
+
+### Editorial Notes
+
+1. The opening sentence appears to be missing words in the machine transcript. “\(people are\)” is supplied for readability.
+
+2. “SI” may be a transcription error for “AI” or “super intelligence.” The exact audio should be checked.
+
+3. “as long as the unemployment has increased” is grammatically unusual in context and may contain recognition errors.
+
+4. “He's done” in the data-center section is unclear and has been retained without guessing its intended meaning.
+
+5. Punctuation and paragraph breaks have been standardized for printing; filler words and repetitions are retained where practical.
+
+# 第二部分：中文翻译
+
+人工智能、未来工作与物质极大丰富的时代
+
+# 人工智能、未来工作与物质极大丰富的时代
+
+## 记者会对话中文译文
+
+### 一、对未来工作的担忧
+
+**记者：**
+
+世界各地的人们都在担心，随着人工智能的发展，自己的工作会受到怎样的影响。
+
+**特朗普：**
+
+是的。
+
+**记者：**
+
+马斯克先生曾谈到一个物质极大丰富的时代，听起来很美好。但是，当人们早晨醒来时……
+
+**特朗普：**
+
+\(有一部分听不清\)——我没看到你在后面。你在做什么？
+
+**记者：**
+
+……当他们早晨醒来，却发现自己没有人生目标时，该怎么办？
+
+**记者：**
+
+我们可以听听他们的看法吗？
+
+**记者：**
+
+未来会有哪些工作？
+
+**特朗普：**
+
+埃隆，你来回答吧。这个问题你可以回答。
+
+**马斯克：**
+
+抱歉，你的问题是关于物质极大丰富的时代吗？
+
+**记者：**
+
+未来会有哪些工作？看到这番讨论的人们可能会感到担忧，尤其是那些主要通过电脑完成工作的岗位。马斯克先生，他们未来究竟该怎么办？
+
+### 二、马斯克谈人工智能的益处
+
+**马斯克：**
+
+嗯，我认为，值得强调一下人工智能所带来的积极益处。它将会……AI，抱歉。
+
+**特朗普：**
+
+谢谢。
+
+**马斯克：**
+
+（笑）超级智能。
+
+嗯，我认为，可能性大得多的结果，是我们将迎来一个物质极大丰富的时代。届时，我们拥有的不仅仅是全民基本收入，而是全民高收入。嗯，而且……
+
+**特朗普：**
+
+那很好。
+
+**马斯克：**
+
+你知道，人们会谈到医疗方面的好处。我想……不过，也许值得再多谈谈这一点。
+
+当我们拥有机器人和超级智能时，这意味着全世界每个人都可能获得比在场任何人——包括我本人——更好的医疗服务。
+
+这难道不是一件很美好的事吗？
+
+### 三、就业问题
+
+**记者：**
+
+如果他们连工作都没有，那可就未必了。
+
+**马斯克：**
+
+工作会发生变化。工作一直以来都在变化。
+
+过去，甚至“计算员”本身就是一种职业。以前有整栋大楼里的人专门做计算。
+
+但现在，这些任务已经由数字计算机完成了。
+
+我不认为有人特别怀念过去那种整天做计算、计算银行利率的工作——那就是他们以前做的事情。
+
+因此，我认为我们将会看到机器人不断演进。
+
+### 四、对未来的展望
+
+**马斯克：**
+
+正如总统刚才提到的……\(这部分转录可能存在错误\)。事实上，对人才的需求非常大。
+
+因此，我认为最有可能出现的结果——而且我们值得关注最有可能的结果——将会是一个极其有益的结果。
+
+如果你能够看到未来，那么这很可能就是你所希望看到的未来。
+
+### 五、数据中心与中国
+
+**特朗普：**
+
+前几天，埃隆和我与习近平主席坐在一起交流。他会接收所有我们不想要的数据中心。你同意这个说法吗？
+
+**马斯克：**
+
+是的。
+
+**特朗普：**
+
+\(开头部分含义不清。\)
+
+他会非常乐意拥有每一个数据中心。你知道为什么吗？因为他们很聪明。
+
+他们想要所有的数据中心，因为这对中国来说非常有利。
+
+当然，这对我们美国也很有利。我们目前领先很多，而且我们会继续保持这种领先优势。它还将会……
+
+### 六、安全与自我监管
+
+**特朗普：**
+
+这将会非常、非常安全，而且会有自我监管，也会有集体监管。这会很不错。
+
+---
+
+### 翻译说明
+
+1. 原文中的口语重复、停顿和语气词，在不影响理解的情况下适当调整了中文表达。
+
+2. 涉及人工智能、全民收入、就业趋势的内容，均按照发言人的观点翻译，并不代表这些预测已经得到证实。
+
+3. 对无法确认的机器识别内容保留说明，避免擅自补写。
+
+# 第三部分：日文译文
+
+AI、将来の仕事、豊かさに満ちた時代
+
+# AI、将来の仕事、豊かさに満ちた時代
+
+## 記者会見の対話・日本語訳
+
+### 一、将来の仕事に対する不安
+
+**記者：**
+
+世界中の人々が、AIに関して、自分の仕事がどうなるのかを心配しています。
+
+**ドナルド・トランプ：**
+
+そうですね。
+
+**記者：**
+
+マスク氏は、あらゆるものが豊かにある時代について語っていました。それはとても素晴らしいことのように聞こえます。しかし、人々が朝目を覚ましたときは、どうなるのでしょうか……。
+
+**ドナルド・トランプ：**
+
+\(聞き取れない部分\) 後ろにいるのが見えませんでした。何をしているんですか？
+
+**記者：**
+
+……朝起きたときに、自分には何の目的もないとしたら、どうなるのでしょうか。
+
+**記者：**
+
+彼らの意見も聞かせていただけますか？
+
+**記者：**
+
+将来、どのような仕事があるのでしょうか？
+
+**ドナルド・トランプ：**
+
+イーロン、どうぞ。この質問に答えてください。
+
+**イーロン・マスク：**
+
+すみません、質問は豊かさに満ちた時代についてでしたか？
+
+**記者：**
+
+将来、どのような仕事が生まれるのでしょうか。この議論を見ている人々は不安に感じるでしょう。特に、パソコンを使って行う仕事に就いている人たちです。
+
+マスクさん、彼らは将来、いったいどうすればよいのでしょうか？
+
+### 二、AIがもたらすメリット
+
+**イーロン・マスク：**
+
+そうですね、AIがもたらすプラスの効果を強調する価値があると思います。AIが……失礼、スーパーインテリジェンスが……。
+
+**ドナルド・トランプ：**
+
+ありがとう。
+
+**イーロン・マスク：**
+
+（笑）スーパーインテリジェンスです。
+
+最も可能性が高いのは、豊かさに満ちた時代が訪れることだと思います。
+
+その時代には、単にユニバーサル・ベーシックインカム（全国民への最低限の所得保障）があるだけでなく、全国民が高い所得を得られるようになるでしょう。
+
+**ドナルド・トランプ：**
+
+それはいいですね。
+
+**イーロン・マスク：**
+
+医療面でのメリットについて、人々はよく話しますね。この点について、もう少し詳しく話す価値があるかもしれません。
+
+ロボットとスーパーインテリジェンスがあれば、世界中の誰もが、ここにいる誰よりも、私自身も含めて、より優れた医療を受けられるようになるということです。
+
+それは素晴らしいことではないでしょうか。
+
+### 三、雇用の問題
+
+**記者：**
+
+仕事がなければ、そうとは限りません。
+
+**イーロン・マスク：**
+
+仕事はこれから変わっていくでしょう。仕事は昔からずっと変化してきました。
+
+かつては、人間の「計算係」という仕事もありました。計算をする人たちでいっぱいのビルもあったのです。
+
+しかし今では、デジタルコンピューターがその仕事を担っています。
+
+一日中計算をしたり、銀行の利率を計算したりする仕事に、わざわざ戻りたいと思う人はいないでしょう。それが昔、人々がしていた仕事です。
+
+ですから、これからロボットが進化していくのを目にすることになると思います。
+
+### 四、未来への見通し
+
+**イーロン・マスク：**
+
+大統領がおっしゃったように……\(この部分は文字起こしに誤りがある可能性があります\)。実際には、人材に対する需要は非常に大きいのです。
+
+ですから、最も可能性の高い結果に注目する価値があると思います。
+
+それは、非常に大きな恩恵をもたらす未来です。
+
+もし未来をのぞき見ることができるなら、きっとあなたが望むような未来でしょう。
+
+### 五、データセンターと中国
+
+**ドナルド・トランプ：**
+
+先日、イーロンと私は習近平国家主席と会談しました。
+
+そして、私たちが必要としないデータセンターは、彼がすべて引き受けるでしょう。そう思いませんか？
+
+**イーロン・マスク：**
+
+はい。
+
+**ドナルド・トランプ：**
+
+\(冒頭部分は正確な意味を特定できません。\)
+
+彼はデータセンターを一つ残らず欲しがるでしょう。なぜだか分かりますか。彼らは賢いからです。
+
+中国はすべてのデータセンターを欲しがっています。それが中国にとって大きな利益になるからです。
+
+もちろん、アメリカにとっても大きな利益になります。私たちは大きくリードしており、その優位性をこれからも維持していきます。そして、それはさらに……。
+
+### 六、安全性と自主規制
+
+**ドナルド・トランプ：**
+
+それは非常に安全なものになるでしょう。自主規制の仕組みもあり、集団による監視の仕組みもあります。きっとうまくいくでしょう。
+
+---
+
+### 翻訳上の注意
+
+1. 日本語は、発言の意味を保ちながら自然な会話表現に整えています。
+
+2. 「全民高收入」などの表現は、発言者の将来予測として訳しています。
+
+3. 音声を確認できない部分については、推測による補完を避けています。
+
+## 打印建议
+
+* 英文版： 用于跟读、英语听力训练和角色扮演。
+
+* 中文版： 用于核对内容、理解论点和讨论问题。
+
+* 日文版： 用于日语朗读、敬语表达和新闻会话练习。
+
+建议使用 A4 纸、纵向、普通页边距，正文 11–12 pt，角色名称加粗。若需要节省纸张，可以关闭段落间距，保留章节标题和角色之间的空行。
+
+
+
+# 特朗普与马斯克谈 AI 时代的未来工作、全民高收入与数据中心
+
+这段对话围绕一个重要问题展开：如果 AI 和超级智能取代大量工作，人类将如何生活？工作还有什么意义？
+
+我会按原始发言顺序整理，保留角色、修复明显的机器识别问题，并提供英语原文、中文翻译、日语翻译、单词语法分析、发音训练和记忆方法。由于原文来自机器转录，部分内容存在听不清或疑似识别错误的地方，我会明确标注，不擅自补出无法确认的原话。
+
+## 一、背景与核心词汇
+
+* Donald Trump — 唐纳德·特朗普（美国总统）
+
+* Elon Musk — 埃隆·马斯克
+
+* Question / Reporter — 记者（提问者）
+
+* AI — Artificial Intelligence，人工智能，日语：人工知能（じんこうちのう）
+
+* SI — 原文多次出现的缩写，很可能是记者所说的 AI 被识别错误；马斯克随后明确说的是 super intelligence（超级智能）。因此以下保留可确认的原文，并对疑似错误作注。
+
+## 二、分角色对话：英文、中文、日文
+
+### 1. 记者：人们担心自己的工作
+
+### 记者（Question）
+
+English
+
+Across the world, \(people are\) worried about their own job when it comes to AI.
+
+中文
+
+世界各地的人们都在担心，随着人工智能的发展，自己的工作会受到怎样的影响。
+
+日本語
+
+世界中の人々が、AIに関して、自分の仕事がどうなるのかを心配しています。
+
+日语读音
+
+せかいじゅう の ひとびと が、エーアイ に かんして、じぶん の しごと が どうなる のか を しんぱい しています。
+
+说明： 原始转录开头是 “-- across the world worried ...”，句首似乎缺失了一部分，因此 \(people are\) 是帮助理解的补充，不是已确认的原话。
+
+### 2. 特朗普：简短回应
+
+### 特朗普（Donald Trump）
+
+English: Yeah.
+
+中文： 是的。
+
+日本語： そうですね。／ええ。
+
+读音： そうですね（sō desu ne）。
+
+### 3. 记者：全民富足之后，人们早晨醒来该做什么？
+
+### 记者（Question）
+
+English
+
+And Mr. Musk has spoken about an age of abundance, which sounds lovely. But what about when people wake—
+
+中文
+
+马斯克先生曾谈到一个物质极大丰富的时代，听起来很美好。但是，当人们早晨醒来时……
+
+日本語
+
+マスク氏は、あらゆるものが豊かにある時代について語っていました。それはとても素晴らしいことのように聞こえます。しかし、人々が朝目を覚ましたときは、どうなるのでしょうか……。
+
+### 特朗普（Donald Trump）
+
+English: \(Inaudible\) — I didn't see you back there. What are you doing?
+
+中文： \(前半部分听不清\)——我没看到你在后面。你在做什么？
+
+日本語： \(聞き取れない部分\)——後ろにいるのが見えませんでした。何をしているんですか？
+
+### 记者（Question）
+
+English: — in the morning and they have no purpose?
+
+中文： ——早晨醒来，却发现自己没有人生目标，那该怎么办？
+
+日本語： 朝起きたときに、自分には何の目的もないとしたら、どうなるのでしょうか？
+
+记者（Question）
+
+* English: May we hear from them?
+
+* 中文： 我们可以听听他们的看法吗？
+
+* 日本語： 彼らの意見も聞かせていただけますか？
+
+记者（Question）
+
+* English: What are the jobs in the future?
+
+* 中文： 未来的工作会是什么样的？
+
+* 日本語： 将来、どのような仕事があるのでしょうか？
+
+### 4. 特朗普请马斯克回答
+
+### 特朗普（Donald Trump）
+
+English: Elon, go ahead. You can answer that question.
+
+中文： 埃隆，你来回答吧。这个问题你可以回答。
+
+日本語： イーロン、どうぞ。この質問に答えてください。
+
+### 5. 马斯克确认记者的问题
+
+### 马斯克（Elon Musk）
+
+English: Sorry, question was about age of abundance?
+
+中文： 抱歉，你的问题是关于物质极大丰富的时代吗？
+
+日本語： すみません、質問は、豊かさに満ちた時代についてでしたか？
+
+### 6. 记者再次提问：未来的工作是什么？
+
+### 记者（Question）
+
+English
+
+What are the jobs of the future? And people looking at this will be worried, particularly laptop jobs. What, what are they gonna do in the future, Mr. Musk?
+
+中文
+
+未来会有哪些工作？看到这番讨论的人们可能会感到担忧，尤其是那些主要通过电脑完成工作的岗位。马斯克先生，他们未来究竟该怎么办？
+
+日本語
+
+将来、どのような仕事が生まれるのでしょうか。この議論を見ている人々は不安に感じるでしょう。特に、パソコンを使って行う仕事に就いている人たちです。マスクさん、彼らは将来、いったいどうすればよいのでしょうか？
+
+这里的 laptop jobs 不是指“笔记本电脑制造业”，而是指可以主要通过电脑完成的工作，例如编程、文书处理、数据分析、部分办公室工作等。
+
+### 7. 马斯克：应该强调 AI 的积极作用
+
+### 马斯克（Elon Musk）
+
+English
+
+Well, I think it is worth, uh, highlighting the positive benefits of AI, uh, which will... SI, pardon me.
+
+中文
+
+嗯，我认为，值得强调一下人工智能所带来的积极益处，它将会……AI——抱歉，我是说超级智能。
+
+日本語
+
+そうですね、AIがもたらすプラスの効果を強調する価値があると思います。AIが……失礼、スーパーインテリジェンスが……。
+
+发音训练
+
+* I think it is worth…：/aɪ θɪŋk ɪt ɪz wɜːrθ/
+
+* highlighting：/ˈhaɪlaɪtɪŋ/，重音在第一音节。
+
+* positive benefits：/ˈpɑːzətɪv ˈbenɪfɪts/
+
+* pardon me：/ˈpɑːrdən miː/，意思是“抱歉、请原谅”。
+
+重点语法：
+
+It is worth doing something.
+
+意思是“做某事是值得的”。
+
+* It is worth learning. 值得学习。
+
+* It is worth discussing. 值得讨论。
+
+* It is worth highlighting the benefits. 值得强调这些益处。
+
+记忆口诀：worth 后面接动词时，通常使用 -ing 形式。
+
+### 8. 特朗普：谢谢
+
+### 特朗普（Donald Trump）
+
+English: Thank you.
+
+中文： 谢谢。
+
+日本語： ありがとうございます。
+
+记忆： 正式场合中，Thank you 是最通用的感谢表达。
+
+### 9. 马斯克：从全民基本收入到全民高收入
+
+### 马斯克（Elon Musk）
+
+English
+
+\(Laughs\) Super intelligence. Um, I, I think by far the most likely outcome is an age of abundance, uh, where we don't have just a universal basic income, we have universal high income. Um, and—
+
+中文
+
+\(笑\) 超级智能。嗯，我认为，可能性大得多的结果，是我们将迎来一个物质极大丰富的时代。届时，我们拥有的不仅仅是全民基本收入，而是全民高收入。嗯，而且……
+
+日本語
+
+\(笑い\) スーパーインテリジェンスです。ええ、最も可能性が高いのは、豊かさに満ちた時代が訪れることだと思います。その時代には、単にユニバーサル・ベーシックインカム（全国民への最低限の所得保障）があるだけでなく、全国民が高い所得を得られるようになるでしょう。
+
+### 特朗普（Donald Trump）
+
+English: That's good.
+
+中文： 那很好。
+
+日本語： それはいいですね。
+
+核心词汇
+
+| 英语           | 音标参考             | 中文      | 日语          |
+| ------------ | ---------------- | ------- | ----------- |
+| abundance    | /əˈbʌndəns/      | 丰富、充裕   | 豊かさ         |
+| by far       | /baɪ fɑːr/       | 远远地、大大地 | 断然、はるかに     |
+| outcome      | /ˈaʊtkʌm/        | 结果      | 結果（けっか）     |
+| universal    | /ˌjuːnɪˈvɜːrsəl/ | 全民的、普遍的 | 全員に共通する     |
+| basic income | /ˈbeɪsɪk ˈɪnkʌm/ | 基本收入    | ベーシックインカム   |
+| high income  | /haɪ ˈɪnkʌm/     | 高收入     | 高所得（こうしょとく） |
+
+重点语法 1：by far the most likely
+
+这是强调最高级的表达，意思是“可能性大得多的”“最有可能的”。
+
+* This is by far the best option. 这是好得多的最佳选择。
+
+* It is by far the most likely outcome. 这是可能性大得多的结果。
+
+重点语法 2：not just A, but B
+
+马斯克这里说：
+
+We don't have just a universal basic income, we have universal high income.
+
+更规范地整理成：
+
+We will have not just a universal basic income, but universal high income.
+
+意思是“不仅有全民基本收入，还会有全民高收入”。
+
+记忆方法： 把这句话当作一个递进模板：
+
+* Not just a job, but a meaningful career. 不仅是一份工作，还是一份有意义的职业。
+
+* Not just basic income, but high income. 不仅是基本收入，还有高收入。
+
+* Not just intelligence, but super intelligence. 不仅是智能，还有超级智能。
+
+注意：全民高收入是马斯克对未来的预测，不是已经得到证实的经济结论。
+
+### 10. 马斯克：机器人和超级智能可以改善医疗
+
+### 马斯克（Elon Musk）
+
+English
+
+Uh, you know, people speak about medical benefits. I think the, uh, but, but maybe it's worth talking bit more about that. Um, when you have, uh, robots and you have super intelligence, it means that everyone in the world can have better medical care than anyone here, including me. Um, and wouldn't that be wonderful?
+
+中文
+
+嗯，你知道，人们会谈到医疗方面的好处。我想……不过，也许值得再多谈谈这一点。当我们拥有机器人和超级智能时，这意味着全世界每个人都可能获得比在场任何人——包括我本人——更好的医疗服务。这难道不是一件很美好的事吗？
+
+日本語
+
+医療面でのメリットについて、人々はよく話しますね。でも、この点についてもう少し詳しく話す価値があるかもしれません。ロボットとスーパーインテリジェンスがあれば、世界中の誰もが、ここにいる誰よりも、私自身も含めて、より優れた医療を受けられるようになるということです。それは素晴らしいことではないでしょうか。
+
+重点词汇
+
+* medical benefits — 医疗方面的好处；医療上のメリット
+
+* medical care — 医疗服务；医療
+
+* including me — 包括我；私を含めて
+
+* wouldn't that be wonderful? — 那难道不是很美好吗？；それは素晴らしいことではないでしょうか。
+
+重点语法：wouldn't that be wonderful?
+
+这是一个否定疑问句，用来表达说话人的期待或强调。
+
+* Wouldn't it be great? 那不是很好吗？
+
+* Wouldn't that be amazing? 那不是很令人惊叹吗？
+
+* Wouldn't it be better? 那样不是更好吗？
+
+这里不是在消极地提问，而是在期待对方认同自己的看法。
+
+发音提示：
+
+medical care：/ˈmedɪkəl ker/
+
+including me：/ɪnˈkluːdɪŋ miː/
+
+wouldn't that be wonderful?：注意 wouldn't 的 /d/ 与 /n/ 连读时，不要把每个音节都读得很重。
+
+### 11. 记者反驳：如果没有工作呢？
+
+### 记者（Question）
+
+English
+
+Not if they haven't got a job.
+
+中文
+
+如果他们连工作都没有，那可就未必了。
+
+日本語
+
+仕事がなければ、そうとは限りません。
+
+这句非常适合记忆。
+
+Not if… 表示“如果……，那就不一定了”。
+
+* Not if we don't have enough time. 如果时间不够，那就不一定了。
+
+* Not if people lose their jobs. 如果人们失去工作，那可未必。
+
+* Not if they can't afford it. 如果他们负担不起，那就不行。
+
+haven't got a job 是英式英语中常见的说法，意思是“没有工作”。美式英语也常说 don't have a job。
+
+### 12. 马斯克：工作一直在变化
+
+### 马斯克（Elon Musk）
+
+English
+
+Well, jobs are going to change. Jo- — jobs have always changed. Uh, but, uh, being a computer used to be a job. There used to be buildings full of people doing calculations. Uh, but now, uh, computers, you know, digital computers do, do those tasks. I don't think anyone is, uh, pining to go back and do calculations all day, uh, to do bank interest rates, which is what they used to do. So I think we'll see an evolution of, of robots.
+
+中文
+
+嗯，工作会发生变化。工作一直以来都在变化。过去，甚至“计算员”本身就是一种职业。以前有整栋大楼里的人专门做计算。但现在，这些任务已经由数字计算机完成了。我不认为有人特别怀念过去那种整天做计算、计算银行利率的工作——那就是他们以前做的事情。因此，我认为我们将会看到机器人不断演进。
+
+日本語
+
+仕事はこれから変わっていくでしょう。仕事は昔からずっと変化してきました。かつては、人間の「計算係」という仕事もありました。計算をする人たちでいっぱいのビルもあったのです。しかし今では、デジタルコンピューターがその仕事を担っています。一日中計算をしたり、銀行の利率を計算したりする仕事に、わざわざ戻りたいと思う人はいないでしょう。ですから、これからロボットが進化していくのを目にすることになると思います。
+
+单词与表达
+
+| 英语                | 中文    | 日语           |
+| ----------------- | ----- | ------------ |
+| used to be        | 过去曾经是 | 以前は～だった      |
+| calculations      | 计算    | 計算（けいさん）     |
+| digital computers | 数字计算机 | デジタルコンピューター  |
+| tasks             | 任务    | 作業（さぎょう）     |
+| pine for          | 怀念、渴望 | ～を懐かしむ       |
+| all day           | 一整天   | 一日中（いちにちじゅう） |
+| evolution         | 演进、进化 | 進化（しんか）      |
+
+重点语法 1：used to + 动词原形
+
+表示过去曾经存在、经常发生，但现在通常已经不是这样了。
+
+* I used to work in Tokyo. 我以前在东京工作。
+
+* Being a computer used to be a job. 过去“计算员”曾是一种职业。
+
+* There used to be a bookstore here. 这里以前有一家书店。
+
+注意区分：
+
+* used to do：过去常常做、过去曾经是。
+
+* be used to doing：习惯于做某事。
+
+* be used to do：被用来做某事。
+
+重点语法 2：There used to be…
+
+表示“过去曾经有……”。
+
+There used to be buildings full of people doing calculations.
+
+句子可以拆成：
+
+* There used to be buildings：过去曾有一些大楼。
+
+* full of people：里面挤满了人。
+
+* doing calculations：这些人在做计算。
+
+其中 doing calculations 是现在分词短语，用来说明这些人在做什么。
+
+重点表达：I don't think anyone is pining to…
+
+意思是“我不认为有人特别渴望……”。
+
+* I don't think anyone is pining to return to that job. 我不认为有人特别渴望回到那份工作。
+
+* I don't think anyone wants to do that all day. 我不认为有人想整天做那个。
+
+记忆方法： 把“过去的职业—技术取代—工作转型”串起来记：
+
+Calculators → Digital computers → AI and robots
+
+计算员 → 数字计算机 → AI 与机器人。
+
+这正是马斯克用来说明“职业会随技术发展而变化”的历史类比。不过，过去某些职业被取代，并不能单独证明未来 AI 造成的就业变化一定会同样顺利。
+
+### 13. 马斯克：未来可能出现巨大的人才需求
+
+### 马斯克（Elon Musk）
+
+English
+
+Um, and, uh, and as the president has mentioned, the, uh, as, as long as the, uh, unemployment has increased, in fact, there's a tremendous demand for people. Um, so I, I think the most likely outcome, and it's probably worth looking at the most likely outcome, uh, is one which is incredibly beneficial and it's a future that you, if you could, if you could look into the future, it is the future you would want.
+
+中文
+
+嗯，正如总统刚才提到的……\(这一部分的转录似乎存在错误\)。事实上，对人才的需求非常大。因此，我认为最有可能出现的结果——而且我们值得关注最有可能的结果——将会是一个极其有益的结果。如果你能够看到未来，那么这很可能就是你所希望看到的未来。
+
+日本語
+
+大統領がおっしゃったように……\(この部分は文字起こしに誤りがある可能性があります\)。実際には、人材に対する需要は非常に大きいのです。ですから、最も可能性の高い結果に注目する価値があると思います。それは、非常に大きな恩恵をもたらす未来です。もし未来をのぞき見ることができるなら、きっとあなたが望むような未来でしょう。
+
+重点单词
+
+* unemployment /ˌʌnɪmˈplɔɪmənt/：失业；失業（しつぎょう）
+
+* tremendous /trəˈmendəs/：巨大的、惊人的；ものすごい
+
+* demand for people：对人才的需求；人材への需要
+
+* incredibly beneficial：极其有益的；非常に有益な
+
+* look into the future：展望未来；未来を見通す
+
+重点语法：there is a demand for…
+
+表示“对……存在需求”。
+
+* There is a demand for engineers. 市场需要工程师。
+
+* There is a tremendous demand for skilled workers. 市场对熟练工人的需求很大。
+
+* Demand for AI engineers is growing. 对 AI 工程师的需求正在增长。
+
+值得模仿的表达：
+
+It's probably worth looking at…
+
+大概值得研究一下……
+
+这句话既适合工作会议，也适合讨论技术趋势。
+
+关于原文的注意事项： as long as the unemployment has increased 在当前上下文中不够自然，可能有漏词或误识别。as long as 通常表示“只要”，也可以表示“与……一样长”；这里不能仅凭现有文字确定马斯克的准确原意。
+
+### 14. 特朗普：习近平会接收我们不想要的数据中心
+
+### 特朗普（Donald Trump）
+
+English
+
+Uh, Elon and I sat with President Xi the other day, and he will take every data center that we don't want. Do you agree with that?
+
+中文
+
+嗯，前几天，埃隆和我与习近平主席坐在一起交流。他会接收所有我们不想要的数据中心。你同意这个说法吗？
+
+日本語
+
+先日、イーロンと私は習近平国家主席と会談しました。そして、私たちが必要としないデータセンターは、彼がすべて引き受けるでしょう。そう思いませんか？
+
+重点词汇
+
+| 英语               | 中文        | 日语       |
+| ---------------- | --------- | -------- |
+| the other day    | 前几天       | 先日（せんじつ） |
+| sit with someone | 与某人坐在一起交流 | ～と同席する   |
+| data center      | 数据中心      | データセンター  |
+| every            | 每一个、所有    | すべての     |
+| agree with       | 同意某人或某观点  | ～に賛成する   |
+
+重点语法：every + 单数名词
+
+* every data center：每一个数据中心
+
+* every person：每一个人
+
+* every country：每一个国家
+
+虽然 every 表示“每一个”，后面仍然使用单数名词。
+
+重点句型：Do you agree with that?
+
+意思是“你同意这个说法吗？”
+
+* Do you agree with me? 你同意我的看法吗？
+
+* Do you agree with this idea? 你赞同这个想法吗？
+
+* I agree with you. 我同意你的看法。
+
+### 15. 马斯克：是的
+
+### 马斯克（Elon Musk）
+
+English: Yes.
+
+中文： 是的。
+
+日本語： はい、そうです。
+
+发音： /jes/，短促、清晰。
+
+### 16. 特朗普：数据中心对中国有利，对美国也有利
+
+### 特朗普（Donald Trump）
+
+English
+
+He's done, he would love to have every single one, because you know why? They're smart. They want every data center. They want it because that's great for China. Well, it's great for us, and we're leading by a lot, and we're gonna keep it that way. It's going to be also—
+
+中文
+
+\(开头这几个词的语义不够清楚。\) 他会非常乐意拥有每一个数据中心。你知道为什么吗？因为他们很聪明。他们想要所有的数据中心，因为这对中国来说非常有利。当然，这对我们美国也很有利。我们目前领先很多，而且我们会继续保持这种领先优势。它还将会……
+
+日本語
+
+\(冒頭部分は正確な意味を特定できません。\) 彼はデータセンターを一つ残らず欲しがるでしょう。なぜだか分かりますか。彼らは賢いからです。中国はすべてのデータセンターを欲しがっています。それが中国にとって大きな利益になるからです。もちろん、アメリカにとっても大きな利益になります。私たちは大きくリードしており、その優位性をこれからも維持していきます。そして、それはさらに……。
+
+重点表达
+
+* every single one：每一个，一个不落；一つ残らず
+
+* You know why?：你知道为什么吗？；なぜだか分かりますか。
+
+* great for China：对中国非常有利；中国にとって非常に有益
+
+* lead by a lot：领先很多；大きくリードする
+
+* keep it that way：让这种状况继续保持下去；その状態を維持する
+
+重点语法：keep + 宾语 + 补语
+
+在 we're gonna keep it that way 中：
+
+* keep：保持
+
+* it：这种状况
+
+* that way：以那种方式、保持那种状态
+
+整体意思是“我们会让这种领先状态继续保持下去”。
+
+类似表达：
+
+* Keep it simple. 保持简单。
+
+* Keep the door open. 让门保持打开。
+
+* Keep it that way. 就保持这样。
+
+发音训练
+
+We're gonna keep it that way.
+
+* 连读参考：/wɪr ˈɡʌnə kiːp ɪt ðæt weɪ/
+
+* gonna 是 going to 在口语中的常见形式。
+
+* 朗读节奏：We're gonna KEEP it that WAY.
+
+### 17. 特朗普：安全与自我监管
+
+### 特朗普（Donald Trump）
+
+English
+
+It's gonna be very, very safe and there's a self-policing, and there's also a group policing and it's gonna be great.
+
+中文
+
+这将会非常、非常安全，而且会有自我监管，也会有集体监管。这会很不错。
+
+日本語
+
+それは非常に安全なものになるでしょう。自主規制の仕組みもあり、集団による監視の仕組みもあります。きっとうまくいくでしょう。
+
+重点词汇
+
+* safe /seɪf/：安全的；安全な（あんぜんな）
+
+* self-policing /ˌself pəˈliːsɪŋ/：自我监管、自律管理；自主規制（じしゅきせい）
+
+* group policing：集体监管；集団による監視
+
+* gonna：口语中的 going to，表示将来。
+
+重点语法：there's… and there's also…
+
+这是口语中列举两种事物的表达。
+
+* There's self-policing, and there's also group policing.
+
+* 有自我监管，也有集体监管。
+
+正式书面语可以写作：
+
+There will be self-regulation as well as collective oversight.
+
+即“将同时存在自我监管与集体监督”。
+
+## 三、这段对话最值得掌握的 12 个英语表达
+
+点击任意词条，显示例句。适合每天复习 3–4 个。
+
+1. when it comes to
+
+谈到……时；涉及……时 · ～に関して言えば
+
+2. an age of abundance
+
+物质极大丰富的时代 · 豊かさに満ちた時代
+
+3. have no purpose
+
+没有目标或人生意义 · 目的がない
+
+4. It is worth doing
+
+做某事值得 · ～する価値がある
+
+5. by far the most likely
+
+可能性大得多的；最有可能的 · 断然、最も可能性が高い
+
+6. universal basic income
+
+全民基本收入 · ベーシックインカム
+
+7. medical care
+
+医疗服务 · 医療
+
+8. Not if…
+
+如果……，那就未必 · ～なら、そうとは限らない
+
+9. used to do
+
+过去常常做；过去曾经 · 以前はよく～した
+
+10. a tremendous demand for
+
+对……有巨大需求 · ～への非常に大きな需要
+
+11. Do you agree with that?
+
+你同意这个说法吗？ · それに賛成ですか。
+
+12. keep it that way
+
+保持这种状态 · その状態を維持する
+
+## 四、如何记忆和练习：从理解到角色扮演
+
+建议不要一开始就背下整篇记者会。可以把内容分成四个主题，每次练习一个主题。
+
+第 1 组：记者的担忧
+
+关键词：jobs, purpose, future, worried
+
+记住核心问题：What are the jobs of the future?
+
+中文：未来会有哪些工作？
+
+第 2 组：马斯克的乐观预测
+
+关键词：AI, abundance, universal high income, medical care
+
+记住核心句：I think the most likely outcome is an age of abundance.
+
+中文：我认为最有可能的结果是迎来一个物质极大丰富的时代。
+
+第 3 组：工作转型
+
+关键词：used to, calculations, computers, robots
+
+记住核心句：Jobs have always changed.
+
+中文：工作一直都在变化。
+
+第 4 组：数据中心与监管
+
+关键词：data center, lead, safe, self-policing
+
+记住核心句：We're gonna keep it that way.
+
+中文：我们会继续保持这种状态。
+
+### 五、发音练习：先从这 5 句话开始
+
+跟读练习
+
+1 / 5
+
+## What are the jobs of the future?
+
+未来会有哪些工作？
+
+将来、どのような仕事があるのでしょうか。
+
+发音提示：重点读清 jobs、future；不要把 future 读成类似中文的“富彻”。
+
+上一句下一句
+
+复制英文练习句
+
+## 六、角色扮演：记者与马斯克
+
+下面可以直接用来练习。你扮演记者，我扮演马斯克。先不看中文，尝试自己提出问题。
+
+记者（你）
+
+What are the jobs of the future? People are worried, particularly those who work on computers. What are they going to do?
+
+中文提示：未来会有哪些工作？人们很担心，尤其是那些使用电脑工作的人。他们该怎么办？
+
+马斯克（我）
+
+I think jobs are going to change. Jobs have always changed. The most likely outcome may be an age of abundance.
+
+中文提示：我认为工作会发生变化。工作一直都在变化。最有可能的结果也许是迎来一个物质极大丰富的时代。
+
+开始互动角色扮演
+
+最后，理解这段记者会时要区分两件事：马斯克提出的是对 AI 未来的乐观预测，而记者提出的是就业、人生目标和社会保障方面的现实担忧。 两者并不完全矛盾：即使 AI 能提高生产力、改善医疗，也仍然需要回答收入如何分配、人们如何获得生活意义，以及哪些工作会消失、哪些新工作会产生等问题。
+
+
+
 ## Z026/10/10(六)
 
 ### Q：将下面机器识别和翻译的9/29在白宫外关于AI的记者会整理清楚，标出记者，特朗普，马斯克，将英文，中外，日文分开，找出其中单词，语法，做中日英解析。
