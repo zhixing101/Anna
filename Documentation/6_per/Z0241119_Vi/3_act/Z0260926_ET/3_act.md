@@ -1,3 +1,261 @@
+## Z026/10/17(六)
+### Q：phedo溜哲学，创立者和名字意义，设立背景和现状，活动地点，内容和评价影响
+
+### A：GPT
+
+你说的 “phedo溜哲学”，应该是台湾的 PHEDO「遛哲学」。它不是某一位哲学家的学说，而是台湾高中哲学教育推广学会推动的哲学普及活动，目标是让哲学走出大学课堂，通过讲座、营队和公共讨论，帮助年轻人练习独立思考。
+
+![](https://www.google.com/s2/favicons?domain=https://www.phedotw.org\&sz=32)
+
+PHEDO台灣高中哲學教育推廣學會
+
++1
+
+## 一、PHEDO是什么？名字有什么意义？
+
+![台灣高中哲學教育推廣協會商標設計 ｜ Logo design for Philosophical Education Devel::蛋造設計danzo studio | 品牌官網Official Website](https://images.openai.com/static-rsc-4/UEfQGYDwNekAm7bR_oUGBuTZAtAqv5CZvt4DrawwUQKwaVJt8WRNMjmXwuJdc3ItFKbFtrB0Gqwg254ko9xuXpBdhiFQ0r3tVK6CuQOK1PQO1zzH_Xm3OC6pACZq8HKF_O6tAFCLlnlkZFHwgdN3ImhNO-8tcGEyToBT9leeyrM?purpose=inline)
+
+お気に入りに追加
+
+## PHEDO 台湾高中哲学教育推广学会
+
+英文全称：Philosophical Education Development Organization
+
+成立于2013年，由关心台湾高中哲学教育的学者、高中教师及社会人士共同组成。它既推广高中哲学教育，也希望让哲学进入更广泛的公共生活。
+
+![](https://www.google.com/s2/favicons?domain=https://www.phedotw.org\&sz=32)
+
+PHEDO台灣高中哲學教育推廣學會
+
++1
+
+PHEDO这个名字是英文组织名称的缩写：
+
+* Philosophical：哲学的
+
+* Education：教育
+
+* Development：发展、推广
+
+* Organization：组织
+
+中文名称是“台湾高中哲学教育推广学会”。
+
+“遛哲学”则是它的一个活动名称。“遛”字有带着走、走出去的意味，可以理解为：把哲学从书本、教室和专业学术圈里带出来，让它在日常生活和公共空间中与人相遇。 这是对活动名称的通俗解释，不是英文缩写本身的字面含义。
+
+要注意区分三个层次：
+
+1. PHEDO：组织。
+
+2. 遛哲学：组织开展的哲学普及讲座等活动品牌。
+
+3. 哲学营、哲学奖、哲学教育讲座：组织开展的其他教育推广项目。
+
+   ![](https://www.google.com/s2/favicons?domain=https://www.phedotw.org\&sz=32)
+
+   PHEDO台灣高中哲學教育推廣學會
+
+   +2
+
+## 二、创立者是谁？组织如何成立？
+
+PHEDO不是由一位哲学家独自创办的，而是由关心高中哲学教育的学者、教师和社会人士共同发起。
+
+![哲學應該普及化嗎？ —— PHEDO講座報導 | 哲學新媒體](https://images.openai.com/static-rsc-4/PD4MIsixM0vS93XOHg8xxVCpYfifHXLixcLplPBr4uUlN1F4aQ9yQmEcMD69NWlrv7SPnzfUyXhA9uLc-I95bfVohORBYIRH6Q_pgos4A8G9Mlu81g2a9sViwPEm_flNIM_FQlT7JEVALh8CZX1Y43emScVZDP2i6Xz5wxZaJPI?purpose=inline)
+
+お気に入りに追加
+
+叶浩（Yeh Hao）
+
+PHEDO第一届理事长，曾在爱丁堡大学学习哲学，并在伦敦政治经济学院取得科学哲学硕士、政治理论博士学位。早期推动工作的重要人物之一。
+
+![吳豐維 | Openbook閱讀通](https://images.openai.com/static-rsc-4/JvexVBz2x3qGk71IhJaap9KSwb3MTp2_U64f9701UFEUeSoy4Yx1aFM2-IzePsbOKnV5d_siQENui4omUu2NZQfLlfISSN8EWZISACOj6HcYNPrpS4t-W-qTsW9OIs0ewGjmB9N0NLbFSGRBQFznZjtESDcTANFmSl8POH2c5Q8?purpose=inline)
+
+お気に入りに追加
+
+吴丰维（Wu Feng-wei）
+
+曾任PHEDO理事长，研究领域包括伦理学、道德哲学、政治哲学和康德哲学。他强调哲学应培养认真思考、提出异议的能力，而不是一味附和他人。
+
+![](https://www.google.com/s2/favicons?domain=https://www.phedotw.org\&sz=32)
+
+PHEDO台灣高中哲學教育推廣學會
+
++2
+
+### 为什么要成立这个组织？
+
+根据早期相关报道，发起者注意到香港年轻人自主组织读书会、公共讨论等活动，也受到欧洲哲学教育经验的启发。他们希望台湾年轻人不只是学习考试所需的知识，也能学习如何独立判断公共问题。
+
+![](https://www.google.com/s2/favicons?domain=https://philomedium.com\&sz=32)
+
+哲學新媒體
+
+其主要目标可以归纳为：
+
+* 推动高中哲学教育及相关师资培训。
+
+* 通过营队、讲座和讨论，培养批判性思考。
+
+* 为高中生提供写作、论证和表达独立观点的机会。
+
+* 将哲学延伸到公共议题，而不局限于哲学系的专业训练。
+
+  ![](https://www.google.com/s2/favicons?domain=https://www.phedotw.org\&sz=32)
+
+  PHEDO台灣高中哲學教育推廣學會
+
+  +1
+
+## 三、活动在哪里举行？现在还能参加吗？
+
+PHEDO的活动并不局限于一个固定场所。它曾与大学哲学系合作，也通过网络讲座、直播和线上视频扩大受众。
+
+![中國文化大學數位校史典藏平台](https://images.openai.com/static-rsc-4/Wt2YeZ8KgGewQY9q9-bNCy-d9OItmf3vWBhcufhgIOD7wiAtTEiIPB-w62dA6YFE9of3peZwYrnjFS3Qp5ghIPJEcnRDuUWorgjpfCH3xW0CTda8OKjOanwnzQziEhWQvSwhjpYIiTIce8gKtgudeyGiGI9v3sw20abGmYiVMmY?purpose=inline)
+
+お気に入りに追加
+
+大学校园与合作场地
+
+中国文化大学哲学系曾协助介绍、推广多场PHEDO讲座。其校址位于台北市阳明山华冈路55号，但这不代表每场活动都在该校举行。
+
+![](https://www.google.com/s2/favicons?domain=https://philo.pccu.edu.tw\&sz=32)
+
+philo.pccu.edu.tw
+
++1
+
+![ZEIT Akademie-Seminar »Philosophie« | ZEIT Shop](https://images.openai.com/static-rsc-4/V4knc-XYRHVMgeXLGI3Qm79RpJydzeNcEx32zuOlQSfV07YUvDxfbYE35bkkLpK8Ygecnz88DrCmvF4KuziXwZY9maxR6JIXYC857ucEq_agCb6KEDbuFRc5-kyDSu4taLDUC0ehkdWCvz4VBdhACDyWN_IZAl72PquqOwUvSLE?purpose=inline)
+
+お気に入りに追加
+
+线上讲座与视频
+
+许多“遛哲学”讲座可通过网络观看。例如“柏拉图理想城邦2.0”“当哲学遇上咨询”“阿多诺对启蒙的批判”“康德的美学”“死亡的哲学”等。
+
+![](https://www.google.com/s2/favicons?domain=https://philo.pccu.edu.tw\&sz=32)
+
+philo.pccu.edu.tw
+
++1
+
+![Winter & Summer Camp | Lead For Taiwan](https://images.openai.com/static-rsc-4/kGJwePTPKzjt9F4QkOPdbMSadVj0NA_Q9SF8DTK0JJdPonSFtFUBWwdEd6T6eg69wo6wB1fbfGsvEraDNTVeKQ1i_O46yrM_geou5ER0KdY69NWm9Or0nb4dULoL0MHy929VR2SiHzFb_Qb1AJKNvCWh2GgItkmJwi2kUEisYEo?purpose=inline)
+
+お気に入りに追加
+
+高中生哲学营与写作活动
+
+学会自2014年起举办面向高中生的哲学营，并推出PHEDO哲学奖，鼓励中学生围绕真实、美等主题进行独立论证和写作。
+
+![](https://www.google.com/s2/favicons?domain=https://www.phedotw.org\&sz=32)
+
+PHEDO台灣高中哲學教育推廣學會
+
++2
+
+### 推荐的官方入口
+
+![](https://www.google.com/s2/favicons?domain=https://www.phedotw.org\&sz=32)
+
+PHEDO官方网站
+
+查看学会介绍、哲学营、哲学奖及相关公告。
+
+[访问 phedotw.org](https://www.phedotw.org/?utm_source=chatgpt.com)
+
+![](https://www.google.com/s2/favicons?domain=https://philo.pccu.edu.tw\&sz=32)
+
+中国文化大学哲学系的“哲学肥皂箱”
+
+可找到多期PHEDO遛哲学视频与活动介绍。
+
+[查看讲座与视频介绍](https://philo.pccu.edu.tw/p/404-1096-72900.php?Lang=zh-tw&utm_source=chatgpt.com)
+
+关于现状的说明： 我查到的资料能确认学会官网列有第六届（2024—2025年）理监事资料，也能确认部分往期讲座的视频入口；但这些资料不足以确认2026年最新一场实体活动的日期、地点或报名是否开放。建议以官网最新公告为准，不要把往期活动误认为近期活动。
+
+## 四、“遛哲学”究竟讲什么？
+
+它的特点不是按哲学史从苏格拉底讲到海德格尔，而是经常从一个具体问题出发，带领听众分析概念、论证和不同立场。
+
+以下是一些可供入门的主题：
+
+1. 柏拉图与理想城邦
+
+什么是正义？一个社会应该追求效率、自由，还是公平？个人与国家之间应当是什么关系？
+
+![Sutori](https://images.openai.com/static-rsc-4/ERp4z0VE44zNXo1TLzVjRMbY2KonCVC3O5CWTeaGP1RpmeenCA1hi7EMwvrOQHv9oTwfy2JK3uOXqkVMeVSQVapSRDzWuVTQdzOpJ9j0IOPDy9oEEqAQ7-89FzCPfVGyRArpGqEpgStafC05rhI069s3E2C8QsfWjGIznKEewDg?purpose=inline)
+
+お気に入りに追加
+
+2. 阿多诺与启蒙批判
+
+理性与科学本来是为了帮助人摆脱迷信，但为什么理性也可能被权力和技术系统利用？
+
+![Theodor W. Adorno und Rudolf Kolisch im Briefwechsel](https://images.openai.com/static-rsc-4/XHQENiDJ5t7BA7-KCQ3WfZv5IYlof3SZW82s9YJDReoyVp5z78j830Ge3CoszZmVZvFiFQ_NoVcFS01lomUVpYmWKpV7rvOgxiM4sMY61i4mBR6hTroDqcpS0Q11Hkbv1xnuRGHw5P29K731DISakSsu6XQPaTpOsVTabaf4Xww?purpose=inline)
+
+お気に入りに追加
+
+3. 死亡的哲学
+
+如果生命有限，我们应该怎样理解人生意义？死亡是否会使生命失去价值，还是让选择变得更重要？
+
+![Maturing Beyond “Forever”. Finding Meaning in Life’s Impermanence | by Alejandro Betancourt | Bottomline Talks | Medium](https://images.openai.com/static-rsc-4/MQ-DC8F3zV9e2SbH3_ZhJ5oKYjqUiZpFs5WAFx1j1NhhK0X_4urYYDKK-6aEB0WoUheueBXhdxOxLI2OGbNIyASydwVPlPaIVJWsw1e1iS8is2fzZqTE1mIfx07PlHJO70Dl0kzAxNPPpRx1JECKer5UO5Yee_TJrL3_Zj3oWrs?purpose=inline)
+
+お気に入りに追加
+
+4. 哲学与心理咨询
+
+理解自己的情绪，是否只是寻找心理原因？我们是否还需要追问自己的判断、价值和生活目标？
+
+![Young couple having a conversation while relaxing on the sofa.](https://images.openai.com/static-rsc-4/YbJyqdpFAIxZyxbaxNFhay1eFeg49Ue5BZoh7RHpJLMIUT4F0_S7dxdgC-qr3tGJ_oVU9yB4ktgqCOBnDrsFRg02PPl5Le4ozhuorN1lvJ9EAPPdyuHXs2HvxEn55Qz74Njfe0luz38A0TrnWJTzxmjdbwhCJcIy0ktZD0DLcbkzKGDRj9tvMjf20aj1mIsg?purpose=inline)
+
+お気に入りに追加
+
+![](https://www.google.com/s2/favicons?domain=https://philo.pccu.edu.tw\&sz=32)
+
+philo.pccu.edu.tw
+
++4
+
+这些主题说明，PHEDO并不把哲学局限于形而上学或哲学家的生平，而是让哲学进入政治、艺术、伦理、心理和日常生活。
+
+## 五、PHEDO的教育理念与评价
+
+我认为理解它的价值，关键在于区分“传播哲学知识”和“培养哲学思考”。
+
+| 维度   | 主要做法             | 价值与局限                         |
+| ---- | ---------------- | ----------------------------- |
+| 教学方法 | 从问题出发，鼓励讨论       | 容易引发兴趣，但需要教师帮助学生避免只发表直觉意见     |
+| 思考能力 | 重视论证、反驳和独立判断     | 能培养批判性思维，但真正的论证需要证据、概念定义和逻辑训练 |
+| 参与人群 | 特别关注高中生，也面向一般公众  | 降低了哲学入门门槛，但深度学习仍需要系统阅读        |
+| 公共影响 | 将哲学带入政治、社会、艺术等议题 | 有助于公共讨论，但活动影响范围和长期学习成效仍需数据评估  |
+
+PHEDO哲学奖就是一个具体例子。2020年，该活动以“真实”为主题，要求中学生讨论自然科学能否穷尽真实、网络时代新闻真实性的意义，以及国家是否具有某种真实等问题。评审标准包括切题与可读性、观点创见和论证严谨度。
+
+![](https://www.google.com/s2/favicons?domain=https://www.phedotw.org\&sz=32)
+
+PHEDO台灣高中哲學教育推廣學會
+
+这种活动的价值在于：学生不是简单复述康德、柏拉图或其他哲学家的结论，而是尝试形成自己的论点，并接受他人的质疑。
+
+但也不能只凭讲座数量或活动热度，就断定参与者一定提高了思考能力。更可靠的评估还应看学生能否提出清楚的问题、辨认隐藏假设、使用证据、回应反对意见，以及在发现错误时修正观点。
+
+## 六、如果你想开始学习，我建议这样安排
+
+结合你最近阅读海德格尔、谢林、克尔凯郭尔等思想家的兴趣，可以把PHEDO当作辅助学习的入口，而不是用它代替原著阅读。
+
+1. 先选一场“死亡的哲学”或“康德的美学”讲座，观察讲者怎样从问题引入哲学概念。
+
+2. 看完后写下三个问题：讲者的核心主张是什么？依据是什么？最有力的反对意见是什么？
+
+3. 再阅读对应哲学家的原文或可靠导读，比较讲座的简化解释与原著的实际论证。
+
+4. 最后尝试写一篇500—800字的短文，明确提出自己的主张，给出理由，并回应一个反对观点。
+
+这也正是PHEDO这类哲学推广活动值得关注的地方：它的目标不只是让人“听过多少哲学家”，而是让人逐渐掌握一种能力——遇到重要问题时，不急于接受现成答案，而是先把问题弄清楚，再用理由支持自己的判断。
+
+
+
 ## Z026/09/26(六)
 
 ### Q: 游学，英文日文准确翻译，面向初高中生，跨国文化学习交流，分析组织游学这个行业的利弊，投入的注意点和时机如何把握
