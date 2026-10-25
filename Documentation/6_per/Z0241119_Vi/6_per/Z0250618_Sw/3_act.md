@@ -51,6 +51,321 @@ Let’s sit up nice and straight and hold your book a little further away, so we
 
 如果是发朋友圈，我更推荐这段：既有英国老师的温柔和鼓励，也不会让孩子觉得自己被批评了。
 
+美国英语和英国英语的差异，不只是发音和拼写，更重要的是表达习惯、语气、礼貌方式，以及人与人之间的距离感。尤其是你刚才想写的“表扬孩子爱读书，同时提醒他注意坐姿和保护眼睛”，两种英语都很自然，但给人的感觉略有不同。
+
+## 一、同一个意思，美英老师会怎么说？
+
+![Northeast D.C.’s Educare a preschool model for the nation - The Washington Post](https://images.openai.com/static-rsc-4/_MnZawZ8WnmblvsrEuiMsIDz2vTqW_LOfITYzPJ_16RWzXoznm11Hno8ffRpqQ3ralJoQGSGHStI_mYFU27mvlawiimJW_GQYBMF2QQeEFSKCZPk_ZckeJBfrwVswJ8RNuXxNwpxAcvpjkS-Po7I2AboFpiNNeilXaUgtMYQakY?purpose=inline)
+
+お気に入りに追加
+
+### 🇺🇸 美国英语
+
+热情、直接、鼓励感强
+
+表扬孩子
+
+You're such a great little reader!
+
+你真是个爱读书、会读书的小宝贝！
+
+提醒坐姿
+
+Sit up nice and tall!
+
+把小身板坐直哦！
+
+鼓励继续
+
+Keep it up! You're doing great!
+
+继续加油！你做得真棒！
+
+![Little Chepstow Nursery School - Nursery school in London](https://images.openai.com/static-rsc-4/LA6OwkYTWGvEPQGHzoFXjif3fXuU6dTImUFr5nSkRX7IN-4rL0T6OPVVYI4GP69uG5f8PCTpO1oF9uuYe1TfAymmHTOXp0YQnFBk4LfE7KdsF6GHD_Qgvb9w6YJ1B0_bU0FEADT7lTnpJxiqFz57_tbGgKi9Xg7XVaq2FvlkJ7E?purpose=inline)
+
+お気に入りに追加
+
+### 🇬🇧 英国英语
+
+温和、亲切、自然克制
+
+表扬孩子
+
+What a lovely little bookworm!
+
+真是个可爱的小书虫！
+
+提醒坐姿
+
+Let's sit up nice and straight.
+
+我们把身子坐直一点，好不好？
+
+鼓励继续
+
+Well done, little one!
+
+做得真棒呀，小朋友！
+
+这里说的是常见的表达倾向，不是所有美国人或英国人都按照同一种方式说话。两国幼儿园老师都会热情、温柔，也都会根据孩子的年龄和性格调整语气。
+
+## 二、六个值得掌握的差异
+
+| 表达场景    | 🇺🇸 美国英语             | 🇬🇧 英国英语                               |
+| ------- | --------------------- | --------------------------------------- |
+| 表扬孩子    | Awesome! / Great job! | Well done! / Brilliant!                 |
+| 表达喜爱    | I love it!            | I really like it!                       |
+| 温柔地提出建议 | Let's try this!       | Shall we try this?                      |
+| 表达请求    | Can you help me?      | Could you give me a hand?               |
+| 表达歉意    | Sorry about that.     | Sorry about that. / I'm terribly sorry. |
+| 表达非常好   | That's amazing!       | That's brilliant!                       |
+
+注意，表格中的说法在两国都可能出现，区别主要在于使用频率、语境和语气，而不是绝对的地域界限。
+
+## 三、最有意思的差异：怎样提醒孩子？
+
+假设孩子趴在床上看书。
+
+### 🇺🇸 美国老师：积极引导
+
+“Hey, buddy! Let's sit up and give those eyes a little break!”
+
+嘿，小家伙！我们坐起来，让眼睛也休息一下吧！
+
+美国英语中常见 buddy、Let's... 这样的亲切表达，配合积极的语气，让孩子知道下一步可以怎么做。
+
+### 🇬🇧 英国老师：温和提醒
+
+“Come on, little one. Let's sit up properly and look after those lovely eyes.”
+
+来吧，小朋友。我们好好坐起来，保护好可爱的小眼睛。
+
+little one、look after 和 Let's... 都很自然，语气亲切，不需要责备孩子。
+
+两种表达的共同点是：先建立亲近感，再提出具体的行动建议，而不是只说“你这样不对”。
+
+## 四、拼写、词汇和发音也有区别
+
+### 常见拼写差异
+
+| 🇺🇸 美国  | 🇬🇧 英国   | 中文    |
+| -------- | --------- | ----- |
+| color    | colour    | 颜色    |
+| favorite | favourite | 最喜欢的  |
+| center   | centre    | 中心    |
+| organize | organise  | 组织、安排 |
+| traveled | travelled | 旅行了   |
+
+### 常见词汇差异
+
+| 🇺🇸 美国   | 🇬🇧 英国   | 中文   |
+| --------- | --------- | ---- |
+| vacation  | holiday   | 假期   |
+| apartment | flat      | 公寓   |
+| elevator  | lift      | 电梯   |
+| diaper    | nappy     | 尿布   |
+| stroller  | pushchair | 婴儿推车 |
+
+发音方面，英国英语中许多口音不读词尾的 r，例如 car；美国英语通常会读出来。但英国和美国都有多种口音，不能简单地把某一种发音当成全国统一标准。
+
+## 五、如果你是为了孩子的英语启蒙，我建议怎么选？
+
+你可以把两种风格都教给孩子，但在日常交流中保持稳定、自然的表达。
+
+* 日常表扬： Great job!、Well done!
+
+* 温柔提醒： Let's sit up straight.
+
+* 保护眼睛： Let's look after our eyes.
+
+* 鼓励阅读： What a lovely little bookworm!
+
+* 表达好奇： I wonder what's going to happen next!
+
+最后这一句特别适合亲子阅读：
+
+I wonder what's going to happen next!
+
+“你猜接下来会发生什么呢？”
+
+它不是直接考孩子问题的答案，而是邀请孩子一起想象、预测和探索。美国和英国的幼儿园老师都很可能这样引导孩子。
+
+我的建议： 如果你想让孩子熟悉英国幼儿园的语言环境，可以多接触 Well done!、Shall we...?、I wonder...；如果希望孩子更容易接触美国儿童节目和日常口语，可以多练习 Great job!、Let's...、What do you think?。最重要的仍然是温暖、自然的交流，而不是刻意模仿某个国家的每一种习惯。
+
+# Buddy：从“伙伴”到“熟人之间的亲昵称呼”
+
+Buddy 是一个很有意思的英语词。它既可以表示“伙伴、搭档、朋友”，也可以直接用来称呼一个人，相当于中文里的“小伙伴”“哥们儿”“老兄”，有时也像长辈对小朋友说的“小家伙”。
+
+理解它的关键是：buddy 不一定表示关系特别亲密，而是用一种相对轻松、友好的方式拉近彼此距离。
+
+## 一、语源：buddy 最初是什么意思？
+
+英语中的 buddy 通常被认为是从 bud 发展而来的口语词，早期与“伙伴、同伴”有关。它在美国英语中逐渐普及，尤其常见于 19 世纪以来的口语。
+
+关于 bud 的更早来源，词源学上存在不同解释，不宜把某一种说法当成完全确定的结论。
+
+从语义发展来看，可以这样理解：
+
+## Buddy
+
+同伴、伙伴
+
+熟悉的伙伴
+
+一起工作、玩耍、经历事情的人
+
+直接称呼对方
+
+Hey, buddy! —— 嘿，老兄！／嘿，小家伙！
+
+注意，buddy 并不总意味着两人已经是好朋友。陌生人之间也可能用它来营造轻松的气氛，但具体效果取决于语气、年龄、关系和场合。
+
+## 二、Work buddy：到底是什么意思？
+
+Work buddy = 工作伙伴、职场搭档、工作上的好伙伴。
+
+它不是一个严格的职位名称，也不一定是正式的同事关系分类，而是比较口语化的说法。
+
+![Did you see this?](https://images.openai.com/static-rsc-4/yfHMHmn80OAOSe4_m5pTBvcDEpp8T41oHivBBTOsTFqKQ6uiGRmB_1x1802Cj36usT4umq9kaqDuBfaaiWLNyM-kcS9xVH6ALlhLnUDSXMK676Ai0njPuf2v_FqdxH6qx_orDGPAs3rjdkLrsLHep6cB7mAiVmD8ynFAprEXCjohykhFqS_fhFUiA3IhqE2J?purpose=inline)
+
+お気に入りに追加
+
+1. 一起工作的伙伴
+
+He's my work buddy.
+
+他是我的工作伙伴。
+
+可能是经常一起处理任务、讨论问题、互相帮助的同事。
+
+![90 days: The golden point of onboarding - HR Leader](https://images.openai.com/static-rsc-4/nR0ktZN7tzjVzgHIXVHWA5bz1fn68hh-HnA9wBFGgimCxHRVqkv8mv2a0RxczQXzcxyL-SlHql8nYkMtEAbrfD2UlitqFOyRBHVpdblxyQiq2wJis6A71FFaogAzIo9g94ap6ci-X72fC-pcroIf-vmCGzv_kk9KChWk1_7jPpE?purpose=inline)
+
+お気に入りに追加
+
+2. 帮助新人适应工作的搭档
+
+You'll be paired with a work buddy during your first week.
+
+入职第一周，会安排一位工作伙伴和你搭档。
+
+这里的 buddy 可能承担带新人熟悉流程、回答日常问题、介绍团队成员等任务。
+
+![Cheerful Coworkers Talking During Work Break](https://images.openai.com/static-rsc-4/wGAJrxJjuMkeDray_PAM0evpsZ863JvXDw_CjPCO1ZL1Zcv2Ey-rPuoVZW1Hyi_e8WGC49IqQDTNwDHIU1DQcAVcpbgIyDz6-OfQnai8z0IpWfHxEqgmrMmIIxCjJMuXld_raZXZYMWOp_0h2VWoJ2dvrJQtTVQToLTnajONxL7QFJsAZd6_Dz9JZJEMpeVW?purpose=inline)
+
+お気に入りに追加
+
+3. 职场中比较聊得来的朋友
+
+She's my work buddy. We always have lunch together.
+
+她是我在工作上的好伙伴，我们总是一起吃午饭。
+
+重点不在工作分工，而在相处融洽、互相陪伴。
+
+## 三、Work buddy 和其他表达有什么区别？
+
+| 表达                   | 主要含义      | 语感          |
+| -------------------- | --------- | ----------- |
+| work buddy           | 工作上的伙伴    | 轻松、亲切       |
+| coworker / colleague | 同事        | 中性、通用       |
+| workmate             | 一起工作的同事   | 英式英语中较常见    |
+| work partner         | 工作搭档或合作伙伴 | 可能涉及具体合作关系  |
+| mentor               | 导师、指导者    | 有指导和经验传授的意味 |
+| teammate             | 团队成员、队友   | 强调属于同一个团队   |
+
+例如，在日本的 IT 项目里：
+
+- He's my colleague on the project. 他是我在这个项目里的同事。
+
+- He's my work buddy. We often help each other with bugs. 他是我的工作伙伴，我们经常互相协助分析 Bug。
+
+- He's my mentor. He helps me develop my technical skills. 他是我的导师，帮助我提升技术能力。
+
+这三个句子分别强调同事关系、日常互助、指导关系。
+
+## 四、Buddy system：理解 buddy 的一个关键用法
+
+英语里有一个很有代表性的表达：buddy system（伙伴互助制、结对制度）。
+
+它的核心不是单纯的友谊，而是两个人结成搭档，互相照应、帮助和保障安全。这个用法尤其能体现 buddy 的意义如何从“伙伴”发展为“承担相互照应责任的人”。
+
+![](https://www.google.com/s2/favicons?domain=https://blog.oup.com\&sz=32)
+
+OUPblog
+
++1
+
+常见例子：
+
+* school buddy：学校里的伙伴，可能帮助新同学融入环境。
+
+* work buddy：职场伙伴，可能帮助新员工熟悉工作。
+
+* study buddy：学习搭档，互相督促学习。
+
+* gym buddy：健身伙伴，一起锻炼。
+
+* travel buddy：旅行伙伴，一起旅行、互相照应。
+
+这些词的共同结构是：
+
+活动或场景+buddy\text{活动或场景}+\text{buddy}活动或场景+buddy
+
+表示“在某种场景下与你结伴、互相帮助的人”。
+
+## 五、为什么美国老师喜欢说 Hey, buddy?
+
+比如美国幼儿园老师对孩子说：
+
+Hey, buddy! Let's sit up nice and straight.
+
+“嘿，小家伙！我们把身子坐直一点，好不好？”
+
+这里的 buddy 并不是在强调“你是我的朋友”，而是一种亲切的称呼。老师借此建立轻松、友好的交流氛围。
+
+不过，buddy 也不是任何场合都适用。在美国，陌生成年人之间说 Listen, buddy!，如果语气生硬，就可能有“喂，老兄，你听着”的不耐烦甚至挑衅意味。
+
+![](https://www.google.com/s2/favicons?domain=https://blog.oup.com\&sz=32)
+
+OUPblog
+
++1
+
+因此，判断 buddy 的实际含义，需要看三个因素：
+
+* 关系：朋友、同事、师生，还是陌生人？
+
+* 场景：日常聊天、职场协作，还是争执？
+
+* 语气：温柔、随意，还是不耐烦？
+
+## 六、用一个简单的例子记住它
+
+想象两个新入职的 IT 工程师。
+
+A 问：
+
+Who's your buddy on this project?
+
+“你在这个项目里的搭档是谁？”
+
+B 回答：
+
+Ken is my work buddy. We help each other out.
+
+“Ken 是我的工作伙伴，我们互相帮助。”
+
+这里的 buddy 有一种很朴素的含义：我不必独自面对工作中的问题，有个人可以和我一起解决。
+
+这也是它与单纯的 colleague 的微妙区别：colleague 说明你们是同事，buddy 则往往进一步表达了结伴、互助或亲近的意味，但不保证两人一定是私交好友。
+
+最后补充一个词源上的细节：buddy 的确可能与 brother 有关，但它的历史来源仍存在争议，也有与英国方言词 butty（伙伴、工友）相关的解释。牛津大学出版社的词源学文章也指出，这个词的来源并没有完全定论。
+
+![](https://www.google.com/s2/favicons?domain=https://blog.oup.com\&sz=32)
+
+OUPblog
+
++1
 
 
 
