@@ -1,0 +1,179 @@
+// 应用逻辑：时间轴、动画、3D 场景、课程、反馈与导览
+
+let plans=[];try{plans=JSON.parse(localStorage.getItem('tsplans')||'[]')}catch(e){}
+const all=()=>E.concat(plans,COURSES.map(c=>({y:c.y,p:c.p,l:c.l,la:c.la,lo:c.lo,t:'📚 '+c.t,d:c.sum+'(点击下方按钮进入课程)',course:c.id}))).sort((a,b)=>a.y-b.y);
+const y2u=y=>{const d=y-NOW;return d<0?-Math.min(1,Math.log10(-d+1)/8.4):Math.min(1,Math.log10(d+1)/4)};
+const u2y=u=>NOW+(u<0?-(Math.pow(10,-u*8.4)-1):Math.pow(10,u*4)-1);
+const sl=document.getElementById('sl'),$=id=>document.getElementById(id);
+function fy(y){const d=y-NOW;if(d<-1e8)return(-d/1e8).toFixed(1)+' 亿年前';if(d<-1e4)return Math.round(-d/1e4)+' 万年前';
+ if(y<=0)return '公元前 '+Math.round(-y)+' 年';return '公元 '+Math.round(y)+' 年'}
+const PN={earth:'地球',moon:'月球',mars:'火星',venus:'金星',jupiter:'木星',mercury:'水星',saturn:'土星'};
+let cur=null;
+function show(){const u=sl.value/1000,y=u2y(u);let best=null,bd=9;
+ all().forEach(e=>{const dd=Math.abs(y2u(e.y)-u);if(dd<bd){bd=dd;best=e}});cur=best;
+ $('when').textContent=fy(y)+(best&&bd<.004?'':'(附近最近事件如下)');clk(y,best,bd);
+ if(best){$('where').textContent='📍 '+PN[best.p]+' · '+best.l+'  |  '+fy(best.y);
+ $('what').innerHTML='';const b=document.createElement('b');b.textContent=best.t+(best.plan?'(我的计划)':'');
+ $('what').append(b,document.createElement('br'),best.d);setGlobe(best);renderInfo(best);if(best.course){const lk=document.createElement('button');lk.textContent='进入课程 →';lk.onclick=()=>openCourse(best.course);$('what').append(document.createElement('br'),lk)}}}
+sl.oninput=()=>{stop();show()};
+function renderTicks(){$('track').innerHTML='';$('chips').innerHTML='';const a=all();
+ a.forEach(e=>{const t=document.createElement('div');t.className='tk'+(e.plan?' plan':'')+(e.course?' crs':'');t.style.left=((y2u(e.y)+1)/2*100)+'%';$('track').append(t);
+ const c=document.createElement('button');c.className='chip'+(e.plan?' plan-c':'')+(e.course?' crs':'');c.textContent=e.t;c.onclick=()=>{stop();go(e)};$('chips').append(c)});
+ $('ps').innerHTML='';plans.forEach((p,i)=>{const o=document.createElement('option');o.value=i;o.textContent=p.date+' '+PN[p.p]+' '+p.t;$('ps').append(o)})}
+let tw=null;
+function go(e,cb){LIVE=false;clearInterval(tw);const from=+sl.value,to=Math.round(y2u(e.y)*1000),s=performance.now(),dur=1400;
+ tw=setInterval(()=>{const k=Math.min(1,(performance.now()-s)/dur),q=k*k*(3-2*k);sl.value=from+(to-from)*q;show();if(k>=1){clearInterval(tw);cb&&cb()}},30)}
+let auto=false,at=null;
+function stop(){auto=false;clearTimeout(at);$('play').textContent='▶ 电影模式'}
+function step(d){const a=all();let i=a.indexOf(cur);i=(i+d+a.length)%a.length;go(a[i])}
+$('prev').onclick=()=>{stop();step(-1)};$('next').onclick=()=>{stop();step(1)};
+$('now').onclick=()=>{stop();go({y:YNOW()},()=>{LIVE=true;liveTick()})};
+$('play').onclick=()=>{if(auto){stop();return}auto=true;$('play').textContent='⏸ 暂停';const a=all();let i=0;
+ const run=()=>{if(!auto)return;if(i>=a.length)i=0;go(a[i],()=>{i++;at=setTimeout(run,4200)})};
+ const near=a.findIndex(e=>e.y>=u2y(sl.value/1000));i=near<0?0:near;run()};
+$('add').onclick=()=>{const d=$('pd').value,x=$('px').value.trim();if(!d||!x){alert('请填写日期和内容');return}
+ const dt=new Date(d);plans.push({y:dt.getFullYear()+dt.getMonth()/12,date:d,p:$('pp').value,l:$('pc').selectedOptions[0].text,la:+$('pc').value.split(',')[0],lo:+$('pc').value.split(',')[1],t:x,d:$('pt').value+'计划:'+x,plan:true,kind:$('pt').value});
+ try{localStorage.setItem('tsplans',JSON.stringify(plans))}catch(e){}renderTicks();go(plans[plans.length-1])};
+const TR={earth:1,moon:3,mars:210,venus:150,jupiter:600};
+$('simbtn').onclick=()=>{const p=plans[$('ps').value],box=$('sim');box.innerHTML='';if(!p){box.textContent='请先添加并选择一个计划';return}
+ stop();go(p);const t0=new Date(),t1=new Date(p.date),days=Math.round((t1-t0)/864e5),tr=TR[p.p]||1;const lines=[];
+ if(days<=0)lines.push(['计划日期已过,无法向前推演。',1]);else{
+ lines.push(['起点:今天 → 目标:'+p.date+',共 '+days+' 天',0]);
+ if(p.p!=='earth'&&days<tr)lines.push(['⚠ 单程约需 '+tr+' 天,时间不足,建议推迟或改地点。',1]);
+ const st=p.kind==='课程'?['选定教材与目标','前 25%:打基础','中期 50%:练习与小测','75%:模拟考核/复盘','完成:总结成果']:
+ ['确定预算与路线','25%:订交通与住宿','50%:办证件/保险/装备','出发(提前 '+tr+' 天,含旅途)','抵达并记录:'+p.t];
+ st.forEach((s,i)=>{const k=i/(st.length-1);let when=new Date(t0.getTime()+k*(t1-t0));
+ if(p.kind!=='课程'&&i===3)when=new Date(t1.getTime()-tr*864e5);if(p.kind!=='课程'&&i===4)when=t1;
+ lines.push([when.toISOString().slice(0,10)+'  '+s,0])});
+ lines.push([days>=tr*2||p.kind==='课程'?'✅ 推演结果:时间充足,按节点推进即可。':'⚠ 推演结果:时间偏紧,需压缩准备期。',days>=tr*2||p.kind==='课程'?0:1])}
+ lines.forEach((l,i)=>setTimeout(()=>{const d=document.createElement('div');d.textContent=l[0];if(l[1])d.className='w';box.append(d)},1500+i*600))};
+// 太阳系
+const B=[['sun','太阳',0,0,'#ffcc44',9],['mercury','水星',28,4.1,'#aaa',2],['venus','金星',46,1.6,'#e9c28a',3.5],['earth','地球',66,1,'#4a9eff',4],['mars','火星',88,.53,'#e5603c',3.2],['jupiter','木星',118,.084,'#d9a066',7],['saturn','土星',142,.034,'#e8d08a',6],['uranus','天王星',164,.012,'#8ff',4.5],['neptune','海王星',184,.006,'#58f',4.5]];
+const cv=$('cv'),g=cv.getContext('2d'),CX=360,CY=200,stars=Array.from({length:90},()=>[Math.random()*720,Math.random()*400,Math.random()*1.4]);
+function pos(k,t){const i=B.findIndex(b=>b[0]===k);if(i<1)return[CX,CY];const a=t*B[i][3]*.0004+i*1.7;return[CX+Math.cos(a)*B[i][2]*1.55,CY+Math.sin(a)*B[i][2]*.98]}
+function draw(t){g.clearRect(0,0,720,400);g.fillStyle='#fff';stars.forEach(s=>{g.globalAlpha=.4+.4*Math.sin(t*.002+s[0]);g.fillRect(s[0],s[1],s[2],s[2])});g.globalAlpha=1;
+ B.forEach((b,i)=>{if(i){g.strokeStyle='#1c2748';g.beginPath();g.ellipse(CX,CY,b[2]*1.55,b[2]*.98,0,0,7);g.stroke()}});
+ const hp=cur&&cur.p;
+ B.forEach(b=>{const[x,y]=pos(b[0],t);g.fillStyle=b[4];g.beginPath();g.arc(x,y,b[5],0,7);g.fill();
+ g.fillStyle='#8b97b8';g.font='11px sans-serif';g.fillText(b[1],x+b[5]+3,y+4)});
+ const[ex,ey]=pos('earth',t),ma=t*.004,mx=ex+Math.cos(ma)*13,my=ey+Math.sin(ma)*9;g.fillStyle='#ddd';g.beginPath();g.arc(mx,my,1.8,0,7);g.fill();
+ if(hp){let[x,y]=hp==='moon'?[mx,my]:pos(hp,t);const r=10+4*Math.sin(t*.006);g.strokeStyle='#ffb454';g.lineWidth=2;g.beginPath();g.arc(x,y,r,0,7);g.stroke();g.lineWidth=1}
+ requestAnimationFrame(draw)}
+const LAND=[[[-168,66],[-140,70],[-95,72],[-80,70],[-62,58],[-55,50],[-67,44],[-76,35],[-81,25],[-97,26],[-105,20],[-95,16],[-83,9],[-90,14],[-105,23],[-115,32],[-125,42],[-125,50],[-140,59],[-165,60]],[[-80,8],[-60,10],[-50,0],[-35,-6],[-40,-22],[-58,-38],[-66,-55],[-74,-50],[-72,-30],[-81,-5]],[[-10,36],[-9,43],[0,50],[10,55],[28,70],[60,70],[100,78],[140,72],[180,68],[170,60],[140,52],[130,40],[122,30],[110,20],[105,10],[98,8],[100,15],[90,22],[80,10],[72,20],[58,24],[48,30],[35,35],[28,41],[20,40],[12,38],[3,40],[-5,36]],[[35,30],[43,13],[55,17],[58,24],[48,30]],[[-17,21],[-10,35],[10,37],[32,31],[43,12],[51,12],[40,-5],[40,-15],[33,-26],[20,-35],[12,-18],[9,-1],[-8,5],[-17,14]],[[114,-22],[130,-12],[142,-11],[153,-27],[146,-39],[135,-34],[115,-34]],[[-55,60],[-20,70],[-20,82],[-60,82],[-70,76]],[[130,32],[135,34],[141,38],[142,45],[140,41],[131,34]]];
+function mkTex(b){const c=document.createElement('canvas');c.width=1024;c.height=512;const x=c.getContext('2d'),X=l=>(l+180)/360*1024,Y=l=>(90-l)/180*512;
+ if(b==='earth'){x.fillStyle='#14407a';x.fillRect(0,0,1024,512);x.fillStyle='#3f8f4a';LAND.forEach(p=>{x.beginPath();p.forEach((q,i)=>x[i?'lineTo':'moveTo'](X(q[0]),Y(q[1])));x.closePath();x.fill()});x.fillStyle='#eef';x.fillRect(0,455,1024,57);x.fillRect(0,0,1024,25)}
+ else if(b==='moon'||b==='mars'){x.fillStyle=b==='moon'?'#8d8d8d':'#b4532e';x.fillRect(0,0,1024,512);for(let i=0;i<450;i++){x.fillStyle=Math.random()<.6?'rgba(0,0,0,.13)':'rgba(255,255,255,.08)';x.beginPath();x.arc(Math.random()*1024,Math.random()*512,2+Math.random()*14,0,7);x.fill()}if(b==='mars'){x.fillStyle='#fff';x.fillRect(0,0,1024,14);x.fillRect(0,498,1024,14)}}
+ else{const cs=['#d9a066','#c58a50','#e8c690','#b87a45'];for(let i=0;i<12;i++){x.fillStyle=cs[i%4];x.fillRect(0,i*43,1024,43)}}
+ x.strokeStyle='rgba(255,255,255,.16)';for(let l=-180;l<=180;l+=30){x.beginPath();x.moveTo(X(l),0);x.lineTo(X(l),512);x.stroke()}for(let l=-60;l<=60;l+=30){x.beginPath();x.moveTo(0,Y(l));x.lineTo(1024,Y(l));x.stroke()}
+ return new THREE.CanvasTexture(c)}
+const gd=$('g3'),RN=new THREE.WebGLRenderer({antialias:true,alpha:true});RN.setPixelRatio(Math.min(2,devicePixelRatio));gd.append(RN.domElement);
+const sc=new THREE.Scene(),cam=new THREE.PerspectiveCamera(40,1,.1,50);cam.position.z=3.6;
+sc.add(new THREE.AmbientLight(0xffffff,.8));const dl=new THREE.DirectionalLight(0xffffff,.8);dl.position.set(3,2,4);sc.add(dl);
+const grp=new THREE.Group(),gm=new THREE.MeshLambertMaterial(),mk=new THREE.Mesh(new THREE.SphereGeometry(.03,12,12),new THREE.MeshBasicMaterial({color:0xff4040})),ring=new THREE.Mesh(new THREE.RingGeometry(.05,.065,32),new THREE.MeshBasicMaterial({color:0xffb454,side:THREE.DoubleSide}));
+grp.add(new THREE.Mesh(new THREE.SphereGeometry(1,64,48),gm),mk,ring);sc.add(grp);
+const TX={},GN={earth:'🌍 地球',moon:'🌙 月球',mars:'🔴 火星'};let gb='',tx=0,ty=0,oX=0,oY=0;
+function fit(){const w=gd.clientWidth,h=gd.clientHeight;RN.setSize(w,h);cam.aspect=w/h;cam.updateProjectionMatrix()}addEventListener('resize',fit);fit();
+function setGlobe(e){const b=e.p;if(b!==gb){gb=b;gm.map=TX[b]||(TX[b]=mkTex(b));gm.needsUpdate=true}
+ const la=e.la||0,lo=e.lo||0,th=(90-la)*Math.PI/180,ph=(lo+180)*Math.PI/180,v=new THREE.Vector3(-Math.cos(ph)*Math.sin(th),Math.cos(th),Math.sin(ph)*Math.sin(th));
+ mk.position.copy(v).multiplyScalar(1.01);ring.position.copy(v).multiplyScalar(1.012);ring.quaternion.setFromUnitVectors(new THREE.Vector3(0,0,1),v);
+ tx=la*Math.PI/180;ty=Math.atan2(-v.x,v.z);oX=0;oY=0;
+ $('gl').textContent=(GN[b]||'🪐 '+(PN[b]||b))+' · '+e.l+' ('+la.toFixed(1)+', '+lo.toFixed(1)+')'+(b==='earth'&&e.y<-1e6?' · 古大陆已漂移,此处为今日对应坐标':'')+' · 可拖动旋转'}
+let dr=null;RN.domElement.onpointerdown=ev=>{dr=[ev.clientX,ev.clientY];gd.style.cursor='grabbing'};addEventListener('pointerup',()=>{dr=null;gd.style.cursor='grab'});
+RN.domElement.onpointermove=ev=>{if(!dr)return;oY+=(ev.clientX-dr[0])*.008;oX+=(ev.clientY-dr[1])*.008;dr=[ev.clientX,ev.clientY]};
+const nm=d=>((d+Math.PI)%(2*Math.PI)+2*Math.PI)%(2*Math.PI)-Math.PI;
+function rl(t){grp.rotation.x+=(tx+oX-grp.rotation.x)*.08;grp.rotation.y+=nm(ty+oY-grp.rotation.y)*.08;ring.scale.setScalar(1+.35*Math.sin(t*.006));RN.render(sc,cam);requestAnimationFrame(rl)}
+$('pp').onchange=()=>{const m={moon:6,mars:7};if(m[$('pp').value]!=null)$('pc').selectedIndex=m[$('pp').value]};
+requestAnimationFrame(rl);
+
+let CS={res:{},fb:[],lk:{}};try{CS=Object.assign(CS,JSON.parse(localStorage.getItem('tscs')||'{}'))}catch(e){}
+const sv=()=>{try{localStorage.setItem('tscs',JSON.stringify(CS))}catch(e){alert('存储空间不足,录音可能未保存')}};
+const cm=document.createElement('div');cm.id='cm';document.body.append(cm);
+const el=(t,c,...k)=>{const e=document.createElement(t);if(c)e.className=c;k.flat().forEach(x=>e.append(x));return e};
+const bt=(t,f,c)=>{const b=el('button',c||'',t);b.onclick=f;return b};
+let cid=null,tb='out',rec=null,chunks=[],aurl='';
+const best=id=>(CS.res[id]||[]).slice(-1)[0];
+function openCourse(id){cid=id||null;tb='out';cm.style.display='block';rc()}
+function adv(c,r){const a=[],p=r.p,hs=CS.res[c.id];a.push(p>=85?['ok','✅ 掌握良好。进阶:'+c.next]:p>=60?['w','🟡 基本理解,请巩固下列错题,隔天重测。']:['bad','🔴 理解不足,建议重读内容再测。']);r.wrong.forEach(i=>a.push(['bad','• '+c.qs[i].q+' → '+c.qs[i].tip]));if(hs.length>1){const d=p-hs[hs.length-2].p;a.push(['mut',d>0?'📈 较上次 +'+d:d<0?'📉 较上次 '+d:'与上次持平'])}return a}
+function rc(){cm.innerHTML='';cm.scrollTop=0;const w=el('div','cw');cm.append(w);const c=COURSES.find(x=>x.id===cid);
+ w.append(el('div','row',bt('✕ 返回时空漫游',()=>{cm.style.display='none'}),cid?bt('课程列表',()=>{cid=null;rc()}):'',el('b','',c?c.t:'📚 课程中心')));
+ if(!c){COURSES.forEach(k=>{const b=best(k.id);w.append(el('div','card',el('b','',k.t),el('div','mut',k.sum),el('div','row',el('span','mut',b?'最近 '+b.p+'%':'未测验'),bt('进入课程 →',()=>{cid=k.id;tb='out';rc()}),bt('📍 在时空中定位',()=>{cm.style.display='none';stop();go(all().find(e=>e.course===k.id))}))))});return}
+ const T=[['out','大纲'],['body','内容'],['test','测试'],['eval','评估建议'],['live','直播·回放·总结'],['fb','学员反馈']];
+ w.append(el('div','row',T.map(t=>bt(t[1],()=>{tb=t[0];rc()},tb===t[0]?'on':''))));const p=el('div','card');w.append(p);({out:vo,body:vb,test:vt,eval:ve,live:vl,fb:vf}[tb])(c,p)}
+const vo=(c,p)=>p.append(el('h3','',c.sum),el('ol','',c.out.map(x=>el('li','',x))),el('div','mut','关键点 '+c.key.length+' 条 · 测验 '+c.qs.length+' 题'));
+const vb=(c,p)=>{c.body.forEach(x=>p.append(el('p','',x)));p.append(el('b','','关键点'),el('ul','',c.key.map(x=>el('li','',x))),bt('📝 去测试',()=>{tb='test';rc()},'on'))};
+function vt(c,p){const ans={},out=el('div');c.qs.forEach((q,i)=>{const b=el('div','',el('p','',el('b','',(i+1)+'. '+q.q)));q.o.forEach((o,j)=>{const lb=el('label','o'),r=el('input');r.type='radio';r.name='q'+i;r.onchange=()=>ans[i]=j;lb.append(r,' '+o);b.append(lb)});p.append(b)});
+ p.append(bt('提交答案',()=>{if(Object.keys(ans).length<c.qs.length){alert('还有题目未作答');return}const wrong=[];p.querySelectorAll('input').forEach(x=>x.disabled=true);
+ c.qs.forEach((q,i)=>{if(ans[i]!==q.a)wrong.push(i);p.querySelectorAll('input[name=q'+i+']').forEach((x,j)=>{if(j===q.a)x.parentElement.classList.add('right');else if(j===ans[i])x.parentElement.classList.add('wrong')})});
+ const n=c.qs.length,s=n-wrong.length,r={p:Math.round(s/n*100),s,n,wrong,d:new Date().toISOString().slice(0,10)};(CS.res[c.id]=CS.res[c.id]||[]).push(r);sv();out.append(el('h3','',s+' / '+n+'('+r.p+'%)'));adv(c,r).forEach(x=>out.append(el('div',x[0],x[1])));out.append(bt('查看评估',()=>{tb='eval';rc()},'on'))},'on'),out)}
+function ve(c,p){const hs=CS.res[c.id];if(!hs){p.append('请先完成测试。');return}p.append(el('h3','','学习评估'));hs.forEach((r,i)=>p.append(el('div','mut','第 '+(i+1)+' 次 · '+r.d+' · '+r.s+'/'+r.n+'('+r.p+'%)')));p.append(el('h3','','学习建议'));adv(c,hs[hs.length-1]).forEach(x=>p.append(el('div',x[0],x[1])));
+ const t=COURSES.filter(k=>best(k.id));p.append(el('div','mut','全部课程已测 '+t.length+'/'+COURSES.length+',平均 '+Math.round(t.reduce((s,k)=>s+best(k.id).p,0)/t.length)+'%'))}
+function vl(c,p){const L=CS.lk[c.id]=CS.lk[c.id]||{},F=[['live','🔴 直播链接'],['replay','🎞 回放链接'],['sum','📄 课程总结链接']];
+ F.forEach(f=>{const v=L[f[0]];const a=el('div','',f[1]+':');if(/^https?:\/\//.test(v||'')){const k=el('a','',v);k.href=v;k.target='_blank';k.rel='noopener';a.append(k)}else a.append(el('span','mut','讲师暂未设置'));p.append(a)});
+ p.append(el('h3','','课程总结'),el('ul','',c.key.map(x=>el('li','',x))));const d=el('details','',el('summary','mut','讲师设置链接'));const ins={};F.forEach(f=>{const i=el('input');i.placeholder='https://…';i.value=L[f[0]]||'';i.style.cssText='width:100%;margin-top:6px';ins[f[0]]=i;d.append(f[1],i)});
+ d.append(bt('保存',()=>{F.forEach(f=>L[f[0]]=ins[f[0]].value.trim());sv();rc()}));p.append(d)}
+function vf(c,p){const ta=el('textarea'),st=el('div','mut'),au=el('audio');au.controls=true;au.style.display='none';aurl='';ta.placeholder='写下学习感受和建议…';const rt=el('select');[5,4,3,2,1].forEach(n=>{const o=el('option','','★'.repeat(n));o.value=n;rt.append(o)});
+ const rb=bt('⏺ 录音',()=>record(rb,st,au)),sb=bt('🎤 语音转文字',()=>speech(ta,st));
+ p.append(el('h3','','学员反馈'),'评分 ',rt,ta,el('div','row',sb,rb,bt('提交反馈',()=>{if(!ta.value.trim()&&!aurl){alert('请输入文字或录音');return}CS.fb.push({c:c.id,r:+rt.value,t:ta.value.trim(),a:aurl,d:new Date().toLocaleString()});sv();rc()},'on')),st,au,el('h3','','已提交的反馈'));
+ const m=CS.fb.filter(f=>f.c===c.id);if(!m.length)p.append(el('div','mut','暂无。'));m.slice().reverse().forEach(f=>{const b=el('div','card',el('div','mut',f.d+' · '+'★'.repeat(f.r)),f.t||'(仅语音)');if(f.a){const a=el('audio');a.controls=true;a.src=f.a;b.append(a)}p.append(b)});p.append(el('div','mut','反馈仅保存在你的浏览器中,尚未同步给讲师。'))}
+function speech(ta,st){const R=window.SpeechRecognition||window.webkitSpeechRecognition;if(!R){st.textContent='此浏览器不支持语音转文字,请用录音';return}const r=new R();r.lang='zh-CN';r.onresult=e=>{ta.value+=e.results[0][0].transcript};r.onerror=e=>st.textContent='识别失败:'+e.error;r.onend=()=>{if(st.textContent.startsWith('🎤'))st.textContent=''};r.start();st.textContent='🎤 请说话…'}
+async function record(b,st,au){if(rec&&rec.state==='recording'){rec.stop();return}try{const s=await navigator.mediaDevices.getUserMedia({audio:true});rec=new MediaRecorder(s,{audioBitsPerSecond:16000});chunks=[];rec.ondataavailable=e=>chunks.push(e.data);rec.onstop=()=>{s.getTracks().forEach(t=>t.stop());const f=new FileReader();f.onload=()=>{aurl=f.result;au.src=aurl;au.style.display='block'};f.readAsDataURL(new Blob(chunks,{type:rec.mimeType}));b.textContent='⏺ 重新录音';st.textContent='录音完成'};rec.start();b.textContent='⏹ 停止';st.textContent='录音中(最长 60 秒)';setTimeout(()=>{if(rec.state==='recording')rec.stop()},60000)}catch(e){st.textContent='无法使用麦克风:'+(e.name||e)}}
+$('cc').onclick=()=>openCourse();
+const FB=(()=>{try{return JSON.parse(localStorage.getItem('tsfb')||'null')}catch(e){return null}})()||{items:[],votes:[],mail:''};
+const svf=()=>{try{localStorage.setItem('tsfb',JSON.stringify(FB))}catch(e){}};
+const fp=document.createElement('div');fp.style.cssText='display:none;position:fixed;inset:0;z-index:60;background:var(--bg);overflow:auto;padding:env(safe-area-inset-top,0px) 0 env(safe-area-inset-bottom,0px)';document.body.append(fp);
+const fbb=el('button','','💡 需求反馈');fbb.id='fbb';fbb.style.cssText='position:fixed;right:12px;bottom:calc(14px + env(safe-area-inset-bottom,0px));z-index:40;background:var(--acc);color:#04101f;font-weight:600';fbb.onclick=()=>openFb();document.body.append(fbb);
+const IDEAS=['真实地球贴图','古大陆位置还原','更多历史事件','多人直播课堂','手机体验优化','英文界面'];
+function openFb(){fp.style.display='block';fp.innerHTML='';const w=el('div','cw');fp.append(w);w.append(el('div','row',bt('✕ 关闭',()=>{fp.style.display='none'}),el('b','','💡 需求与反馈')));
+ const ty=el('select');['新功能需求','体验问题','内容错误','课程建议','其他'].forEach(x=>ty.append(el('option','',x)));const ta=el('textarea'),ct=el('input'),st=el('div','mut');ct.placeholder='联系方式(选填)';ct.style.cssText='width:100%;margin-top:6px';ta.placeholder='你希望游戏增加或改进什么?';
+ w.append(el('div','card',ty,ta,ct,el('div','row',bt('🎤 语音转文字',()=>speech(ta,st)),bt('提交',()=>{if(!ta.value.trim()){alert('请先写下内容');return}FB.items.push({t:ty.value,x:ta.value.trim(),c:ct.value.trim(),d:new Date().toLocaleString()});svf();openFb()},'on')),st));
+ w.append(el('div','card',el('b','','我最想要的功能(点击投票)'),el('div','row',IDEAS.map(x=>{const on=FB.votes.includes(x);return bt((on?'👍 ':'')+x,()=>{FB.votes=on?FB.votes.filter(v=>v!==x):FB.votes.concat(x);svf();openFb()},on?'on':'')}))));
+ const L=el('div','card',el('b','','已提交('+FB.items.length+')'));FB.items.slice().reverse().forEach(f=>L.append(el('div','mut',f.d+' · '+f.t+':'+f.x)));
+ const dump=()=>'【时空漫游反馈】\n'+FB.items.map(f=>f.t+' | '+f.x+' | '+f.c+' | '+f.d).join('\n')+'\n想要:'+FB.votes.join('、');
+ L.append(el('div','row',bt('📋 复制全部反馈',()=>{try{navigator.clipboard.writeText(dump()).then(()=>alert('已复制,可发给开发者'),()=>prompt('请复制',dump()))}catch(e){prompt('请复制',dump())}}),bt('✉ 邮件发送',()=>{const m=FB.mail||prompt('开发者邮箱:');if(!m)return;FB.mail=m;svf();location.href='mailto:'+m+'?subject='+encodeURIComponent('时空漫游反馈')+'&body='+encodeURIComponent(dump())})));w.append(L)}
+const TS=[['#cv','欢迎来到时空漫游','太阳系俯视图,高亮圈标出当前事件所在的天体。'],['#sl','拖动时间轴','对数刻度:左侧至 2.5 亿年前,右侧至 1 万年后。绿色刻度是课程,橙色是你的计划。'],['#g3','3D 天体','事件落在具体经纬度,可拖动旋转球体。'],['#play','电影模式','点击后自动依次播放所有事件。'],['#pd','添加计划并推演','填写日期和地点,生成准备节点并检查可行性。'],['#cc','课程中心','大纲、内容、测试、评估建议、直播回放与学员反馈。'],['#fbb','需求反馈','你的想法会让游戏更好,欢迎文字或语音提交。']];
+const tr=el('div','card');tr.style.cssText='display:none;position:fixed;left:10px;right:10px;bottom:calc(64px + env(safe-area-inset-bottom,0px));z-index:70;max-width:520px;margin:0 auto;border:1px solid var(--acc)';document.body.append(tr);
+function tour(i){document.querySelectorAll('.tg').forEach(e=>e.classList.remove('tg'));if(i>=TS.length){tr.style.display='none';try{localStorage.setItem('tsdemo','1')}catch(e){}return}
+ const s=TS[i],t=document.querySelector(s[0]);t.classList.add('tg');t.scrollIntoView({block:'center',behavior:'smooth'});tr.style.display='block';tr.innerHTML='';
+ tr.append(el('b','',(i+1)+'/'+TS.length+' '+s[1]),el('div','',s[2]),el('div','row',bt('跳过',()=>tour(99)),i?bt('上一步',()=>tour(i-1)):'',bt(i<TS.length-1?'下一步':'完成',()=>tour(i+1),'on')))}
+try{if(!localStorage.getItem('tsdemo'))setTimeout(()=>tour(0),900)}catch(e){}
+let LIVE=false,lastInfo=null;
+const P2=n=>String(n).padStart(2,'0');
+const ys=Y=>{const a=new Date(0);a.setUTCFullYear(Y,0,1);a.setUTCHours(0,0,0,0);return a};
+const y2d=y=>{const Y=Math.floor(y),a=ys(Y),b=ys(Y+1);return new Date(a.getTime()+(y-Y)*(b-a))};
+const d2y=d=>{const Y=d.getUTCFullYear(),a=ys(Y),b=ys(Y+1);return Y+(d-a)/(b-a)};
+const YNOW=()=>d2y(new Date());
+function fmt(d,loc){const g=loc?['getFullYear','getMonth','getDate','getHours','getMinutes','getSeconds']:['getUTCFullYear','getUTCMonth','getUTCDate','getUTCHours','getUTCMinutes','getUTCSeconds'],v=g.map(k=>d[k]()),Y=v[0];
+ return [(Y<=0?'公元前 '+(1-Y):Y)+' 年 '+P2(v[1]+1)+' 月 '+P2(v[2])+' 日',P2(v[3])+':'+P2(v[4])+':'+P2(v[5])]}
+function clk(y,e,bd){let a,b,tg='';
+ if(Math.abs(y-1970)>2.6e5){a='约 '+fy(y);b='--:--:--';tg='远古:只能精确到“约多少年”'}
+ else if(e&&bd<.004){if(e.dt){[a,b]=fmt(new Date(e.dt),false);if(e.dt.length<=10)b='--:--:--';tg=e.dt.length>10?'UTC · 事件发生时刻':'事件日期'}else{a='约 '+fy(e.y);b='--:--:--';tg='事件年份(无精确时刻)'}}
+ else{[a,b]=fmt(y2d(y),false);tg='UTC · 滑块位置(公历推算)'}
+ $('clk').textContent=a+'  '+b;$('clkt').textContent=tg}
+function liveTick(){const [a,b]=fmt(new Date(),true);$('clk').textContent=a+'  '+b;$('clkt').textContent='本地时间 · 实时走时'}
+setInterval(()=>{if(LIVE)liveTick()},1000);
+const SL=(d,a,b)=>{const r=[];for(let i=a;i<=b;i++)r.push('media/'+d+'/'+(d==='deck'?'s':'p')+'-'+P2(i)+'.jpg');return r};
+const DK='media/deck.pptx';
+const ex=(t,dt,pr)=>{const e=E.find(x=>x.t===t);if(e)e.dt=dt};
+ex('阿波罗 11 号登月','1969-07-20T20:17:40Z');ex('海盗 1 号着陆火星','1976-07-20T11:53:06Z');
+E.push({dt:'1906-11-03',p:'earth',l:'线上课堂 · 柏林(SOS 公约)',la:52.5,lo:13.4,t:'📖 蒋老师的编程课 2-10 复利 · 1Q061103',d:'过去:认识复利、编程和 AI 中的复利、回顾百种百物 HKHT(诗歌/人体/金句)、复利的身心分析。1906 年 11 月 3 日,柏林签订《国际无线电报公约》,SOS 成为国际求救信号。',media:[{type:'slides',t:'课件 · 过去(点 ◀ ▶ 翻页)',files:SL('deck',2,8),dl:DK},{type:'slides',t:'附件 · 百首诗背诵小册',files:SL('poem',1,12),dl:'media/poem.pptx'}]},
+{dt:'2026-10-31',p:'earth',l:'线上课堂',la:0,lo:0,t:'📖 蒋老师的编程课 2-11 方法和工具 · Z0261031',d:'现在:复利公式、回顾 GitHub、介绍 Claude,分享最近的书、电影、音乐、人。',media:[{type:'slides',t:'课件 · 现在',files:SL('deck',9,12),dl:DK}]},
+{dt:'2086-11-02',p:'mars',l:'未来课堂(想象)',la:18.4,lo:77.5,t:'📖 蒋老师的编程课 2-12 作品 · Z0861102',d:'未来:用复利理论完成作品、回顾时空漫游、讨论还能增加的需求;编程、语言、音乐学习的共通点;根据反馈持续改进。',media:[{type:'slides',t:'课件 · 未来与持续改进',files:SL('deck',13,18),dl:DK}]});
+E.forEach(e=>{if(e.dt)e.y=d2y(new Date(e.dt))});
+function mview(m){const w=el('div','',m.t?el('div','mut',m.t):'');const bad=(n,x)=>n.replaceWith(el('div','mut','未找到:'+x+'(需与 media 文件夹一起部署)'));
+ if(m.type==='img'){const i=el('img');i.src=m.src;i.style.cssText='max-width:100%;border-radius:8px;margin-top:6px';i.onerror=()=>bad(i,m.src);w.append(i)}
+ else if(m.type==='video'){const v=el('video');v.src=m.src;v.controls=true;v.style.cssText='max-width:100%;border-radius:8px;margin-top:6px';v.onerror=()=>bad(v,m.src);w.append(v)}
+ else if(m.type==='pdf'){const f=el('iframe');f.src=m.src;f.style.cssText='width:100%;height:380px;border:0;border-radius:8px;margin-top:6px';w.append(f)}
+ else if(m.type==='link'){const a=el('a','',m.src);a.href=m.src;a.target='_blank';a.rel='noopener';w.append(a)}
+ else if(m.type==='slides'){const im=el('img'),ct=el('span','mut');let k=0;const n=m.files.length,ss=()=>{im.src=m.files[k];ct.textContent=(k+1)+' / '+n};
+  im.style.cssText='width:100%;border-radius:8px;margin-top:6px;border:1px solid #2b3a6e';im.onerror=()=>{ct.textContent='幻灯片图片未找到(需与 media 文件夹一起部署)'};
+  w.append(im,el('div','row',bt('◀',()=>{k=(k+n-1)%n;ss()}),ct,bt('▶',()=>{k=(k+1)%n;ss()}),bt('⛶ 全屏',()=>{if(im.requestFullscreen)im.requestFullscreen()})));ss()}
+ if(m.dl){const a=el('a','','⬇ 下载 PPT 原文件');a.href=m.dl;a.setAttribute('download','');w.append(el('div','row',a))}return w}
+function renderInfo(e){if(e===lastInfo)return;lastInfo=e;const n=$('info');n.innerHTML='';
+ n.append(el('div','',el('b','',e.t),el('span','mut','  '+(PN[e.p]||e.p)+' · '+e.l)),el('div','',e.d||''));
+ (e.media||[]).forEach(m=>n.append(mview(m)));if(!(e.media||[]).length)n.append(el('div','mut','暂无图片/视频,可在该事件的 media 中添加。'))}
+renderTicks();show();requestAnimationFrame(draw);
+
+
+// 页面入口事件（替代 HTML 内联 onclick）
+$('startTour').onclick = () => tour(0);
+$('openFeedback').onclick = () => openFb();

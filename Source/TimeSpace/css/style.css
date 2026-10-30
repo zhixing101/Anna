@@ -1,0 +1,12 @@
+:root{color-scheme:dark;--bg:#070b18;--card:#111a33;--fg:#e8ecf8;--mut:#8b97b8;--acc:#5bc0ff;--warn:#ffb454;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.6 system-ui,"PingFang SC","Microsoft YaHei",sans-serif}
+main{max-width:860px;margin:0 auto;padding:12px}h1{font-size:20px;margin:4px 0 8px}
+canvas{width:100%;border-radius:12px;background:#03050d;display:block}
+.card{background:var(--card);border-radius:12px;padding:12px;margin-top:10px}
+.big{font-size:22px;color:var(--acc);font-weight:600}.mut{color:var(--mut);font-size:13px}
+input[type=range]{width:100%}button,select,input,textarea{background:#1b2750;color:var(--fg);border:1px solid #2b3a6e;border-radius:8px;padding:6px 10px;font:inherit}
+button{cursor:pointer}button:hover{background:#25357a}.row{display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin-top:6px}
+#track{position:relative;height:14px;margin-top:4px}.tk{position:absolute;top:0;width:3px;height:14px;border-radius:2px;background:var(--acc);opacity:.7}.tk.plan{background:var(--warn)}
+.chip{font-size:12px;padding:3px 8px}.plan-c{border-color:var(--warn)}
+#sim div{padding:4px 0;border-bottom:1px dashed #2b3a6e}.w{color:var(--warn)}
+#cm{display:none;position:fixed;inset:0;z-index:50;background:var(--bg);overflow:auto;padding:env(safe-area-inset-top,0px) 0 env(safe-area-inset-bottom,0px)}.cw{max-width:800px;margin:0 auto;padding:12px}.cw button.on{background:var(--acc);color:#04101f}.tk.crs{background:#6f6}.chip.crs{border-color:#6f6}.ok{color:#4ddc8f}.bad{color:#ff7a7a}.cw label.o{display:block;padding:6px 10px;border:1px solid #2b3a6e;border-radius:8px;margin-top:6px}.cw label.right{border-color:#4ddc8f}.cw label.wrong{border-color:#ff7a7a}.cw textarea{width:100%;height:90px}.cw a{color:var(--acc)}.tg{outline:3px solid #ffb454;outline-offset:3px;border-radius:8px}#clk{font:600 22px/1.4 ui-monospace,Menlo,Consolas,monospace;color:var(--acc)}#info img,#info video{display:block}#info a{color:var(--acc)}
