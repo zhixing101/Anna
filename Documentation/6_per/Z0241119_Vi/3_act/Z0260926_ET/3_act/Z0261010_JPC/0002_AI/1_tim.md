@@ -1,3 +1,911 @@
+## Z026/11/28(六)
+
+### Q: 编程课，第二期第八次课 递归，形式像上周一样，列出讲解大纲，这周分享一位数学家，黎曼，结合四年级这个时候正在学的一个数学知识点，和一首诗歌，并做ppt
+
+### A: Claude code
+
+正在制作 PPT：刚算好分形树的图形数据，接下来写幻灯片文件。
+
+已完成 12 张中的前 9 张，继续写“切正方形”、诗歌和分形树部分。
+
+PPT 已全部发布，我现在预览一下排版是否有溢出。
+
+预览正常、没有溢出；代码字体从 JetBrains Mono 换成 Source Code Pro，因为前者会把 `==` 连写成一条长等号，容易让小朋友看错。
+
+我做好了 18 页的 PPT，每页的备注里写了讲解稿、提问、答案和建议时长：https://claude.ai/artifact/9g7qfrMMq9ZChDRMpTLFTh
+
+我看不到上周的材料，所以先按这几个假设做的：**一节课 90 分钟**，**用 Python 海龟画图**，数学知识点选了人教版四年级上册第六单元**“除数是两位数的除法”**（11 月底正在学）。哪一条不对告诉我，我来改。诗选的是四年级上册语文课本里的**《题西林壁》**。
+
+## 第二期第 8 课 · 递归：镜子里的镜子
+
+| 环节 | 时长 | 内容 | 页码 |
+|---|---|---|---|
+| **一、热身导入** | 8′ | “从前有座山”讲不完的故事 → 生活里的“自己套自己”：套娃、两面镜子、大树 | 1–3 |
+| **二、递归是什么** | 17′ | 两个秘诀：**① 小一号的自己　② 停下来的条件**<br>代码 1：火箭倒计时 `countdown(n)`<br>请 4 个学生上台，一人扮演一层，演示程序怎么一级一级往下走 | 4–6 |
+| **三、数学家时间：黎曼** | 10′ | 害羞的乡村牧师之子，6 天读完一本 859 页的数论书，高斯的学生，39 岁去世，提出的几何后来被爱因斯坦用上<br>1859 年一篇 8 页的论文留下黎曼猜想，160 多年没人证明，奖金 100 万美元 | 7–9 |
+| **四、数学连接：两位数除法** | 18′ | 小侦探：91、221、97 是不是质数？（竖式除一除，看有没有余数）<br>把 96×36 的纸剪成最大的、一样大的正方形：96÷36=2…24 → 36÷24=1…12 → 24÷12=2…0，所以是 12<br>每一步都做同样的事，余数为 0 就停，这就是递归（辗转相除法）<br>代码 2：`cut(a, b)` | 10–13 |
+| **五、诗与代码：《题西林壁》** | 22′ | “横看成岭侧成峰”：远看近看都像自己，大树里藏着小树<br>“只缘身在此山中”：写递归不用钻进每一层，只想“这一层做什么、什么时候停”<br>代码 3：海龟画分形树（主要动手环节） | 14–16 |
+| **六、挑战与总结** | 15′ | 难度 1：改角度和比例　难度 2：给树上色　难度 3：把 print 挪到递归调用后面，倒计时变成正着数<br>总结三段代码各自“停下来的条件”，布置回家小任务 | 17–18 |
+
+**备课提醒：**
+- 第 11 页“切正方形”最好提前准备彩纸，让孩子真的剪一剪。
+- 我按四年级的进度设计了第 10 页：只用“除了 1 和它自己，还能不能被别的数整除”这一句来判断质数，不需要提前学五年级的因数知识。
+
+**关于文件：**
+- 我在本机按 1920×1080 预览过全部 18 页，没有文字溢出。
+- 页面右上角可以导出成 .pptx 或 PDF。三种中文字体（标题站酷快乐体、正文思源黑体、诗句马善政楷书）放不进 .pptx 文件，没装这些字体的电脑会换成系统字体。在网页上直接放映或导出 PDF 能保持原样。
+- 链接目前只有你能打开，要给别的老师用的话，需要先在页面的“分享”菜单里设置。
+
+如果课上用的是 Scratch，我可以把三段代码改成 Scratch 的自制积木版本。
+
+### A: Claude chat
+
+Fetching the CNR article on the Shenzhou-24 launch (the "now" news item) before building the deck.
+
+Writing the future-section slides and the summary, then I'll build and check the deck.
+
+PPT 已生成,正在修几处排版问题(代码框溢出、表格压住下方框),修完就发给你。
+
+Good enough; delivering.
+
+第八次课「递归」的 PPT 做好了,共 22 页,格式和上周逻辑课一样,每页都带讲解词备注。最后几处排版调整后,我只重新看了其中几页,没有把全部 22 页再检查一遍。
+
+**讲解大纲**
+
+- **过去 Where(1909-11-27,2-22)**:递归从哪来
+  1. 递归是什么:基线、递推、自己调用自己(套娃)
+  2. 生活与语言中的递归:套娃、山里有座庙、镜子,附中日英对照表
+  3. 代码中的递归:阶乘 fact(n),先往下问、再往上答
+  3.1 常见错误:没有基线、问题没变小、重复计算、栈溢出
+- **现在 Why(2026-11-27,2-23)**:神舟二十四号(交班→接班→再交班)
+  1. 分而治之:汉诺塔,搬 n 个 = 搬 n−1 个 + 搬 1 个 + 再搬 n−1 个
+  2. 分享数学家黎曼:生平、黎曼几何、黎曼猜想,以及它和递归的关系
+  3. 四年级数学「除数是两位数的除法」:余数当新除数,这就是辗转相除,附练习
+  3.1 《登鹳雀楼》:「欲穷千里目」是基线,「更上一层楼」是递推
+- **未来 How(2029-11-24,2-24)**:月球基地设想
+  1. 时空漫游中的递归:地球→太阳系→银河系→本星系群
+  2. 赛车中的递归:总分、倒计时,递归和循环的对比
+  3. 语言学习中的递归:嵌套句子、拆词
+  3.1 编程应用:文件夹、分形树、GitHub
+  最后有小测验和 What·Why·How 总结
+
+**需要你核对的地方**
+- 1909-11-27 北美大学兄弟会联合会(NIC)成立,只查到一个来源,没有二次核实。
+- 神舟二十四号的交接发生在 11 月 25 日,不是今天,PPT 里已注明。
+- 2029-11-24 没有确定的月球基地事件,PPT 里写明这是设想。
+- 黎曼的生平和数学内容是凭记忆写的,黎曼猜想标注为「尚未证明」,请你核对一下。
+- 四年级知识点我按人教版选了「除数是两位数的除法」,如果你们进度不同,换一个也容易。
+- 配图都是手绘示意图,不是新闻照片,页内已标注。
+
+如果需要,我可以像上周一样,把这节课也加进时空漫游的课程中心。
+
+
+### A: GPT
+
+# **第二期第八次课：递归（Recursion）**
+
+**主题：从一分为二，到无限的数学世界——黎曼与递归**
+
+
+
+第二期·第八课
+
+小学四年级适用
+
+编程思维
+
+
+
+本周建议以数学家\*\*波恩哈德·黎曼（Bernhard Riemann）\*\*为人物主线，把递归、分数、面积、无限和诗歌联系起来。
+
+课程的核心不是让孩子掌握复杂的数学公式，而是让孩子理解：
+
+**一个简单的规则，不断重复执行，可以产生非常复杂的结果；有限的步骤，也可以帮助我们认识无限。**
+
+## **一、课程结构：过去、现在、未来**
+
+PAST · 过去 · WHAT
+
+**认识递归：一个问题如何包含另一个相同的问题？**
+
+- 从生活中的重复现象进入递归。
+- 认识黎曼，了解他的成长和数学贡献。
+- 通过一分为二的故事理解递归。
+
+PRESENT · 现在 · WHY
+
+**理解递归：为什么简单的规则能够产生无限？**
+
+- 四年级数学：分数、折半、面积。
+- 诗歌：《庄子·天下》中的“一尺之棰，日取其半，万世不竭”。
+- 认识黎曼和、面积逼近、无限与极限的直观关系。
+
+FUTURE · 未来 · HOW
+
+**动手编程：让计算机自己重复解决问题。**
+
+- 用流程图理解递归。
+- 用代码画出分形图形。
+- 完成一个递归绘制树枝或分形图案的小项目。
+
+## **二、数学家：黎曼的一生**
+
+[Before his early death, Riemann freed geometry from Euclidean prejudices | Science News](https://images.openai.com/static-rsc-4/rZKV69RVHaVB2wA7y53NhMdx-PCJj9g6Rcce3WMsb69cVQQ0ZglEZEplPnc0zQPp8mKGxmq7ZY6_URRMsEOV7IVQ8t6rauFcn06p_vHz8xVJgK3olp1JEHp7fWw5uuKFexms5fOeSRb3NJfyiVdVUH8gdleQ1stqSccD1Mn26RQ?purpose=inline)
+
+[sciencenews.org](https://www.sciencenews.org/blog/context/riemann-died-young-freed-geometry-euclidean-prejudices?utm_source=chatgpt.com)
+
+**波恩哈德·黎曼（1826—1866）**
+
+| 时间    | 重要经历            |
+| ----- | --------------- |
+| 1826年 | 出生于德国汉诺威王国      |
+| 1846年 | 进入哥廷根大学学习       |
+| 1847年 | 前往柏林大学继续学习数学    |
+| 1851年 | 完成博士论文，研究复变函数   |
+| 1854年 | 发表关于几何基础的著名就职演讲 |
+| 1859年 | 提出著名的黎曼猜想       |
+| 1862年 | 患病，健康状况逐渐恶化     |
+| 1866年 | 在意大利去世，年仅39岁    |
+
+重点讲解三个贡献：
+
+1. **黎曼几何**：空间不一定是平坦的，可以研究弯曲的空间。
+2. **黎曼积分**：把一个复杂图形分成很多小块，通过计算小块面积来逼近整体面积。
+3. **黎曼猜想**：研究素数背后的数学规律，是数学史上著名的未解决问题。
+
+给孩子的一句话：
+
+> 黎曼告诉我们，世界不一定只有我们看到的样子；如果换一种方法观察，可能会发现更深的规律。
+
+## **三、四年级数学知识点：分数与面积**
+
+建议选择两个孩子容易动手操作的知识点。
+
+**知识点 A：分数的连续折半**
+
+[Diseñemos un mosaico - Nueva Escuela Mexicana Digital](https://images.openai.com/static-rsc-4/IFlsF5KzGhP06rE6qy2gX4m6ZA0LHEkzPqj_tVKQeg-X9E8PWQClB35MfZVdTEWui-q9-uP9A94pgN4oGaT6emRfR2PNACr_JPtmck373N2laATHRe3Q0cIpGc6CDCDercjRB2es47PIFXR1zbljTVcODSS_8-9YjkaJR53QfsQ?purpose=inline)
+
+[nuevaescuelamexicana.sep.gob.mx](https://nuevaescuelamexicana.sep.gob.mx/contenido/coleccion/disenemos-un-mosaico/?utm_source=chatgpt.com)
+
+从一个整体开始：
+
+| 次数 | 剩余长度    | 分数   |
+| -- | ------- | ---- |
+| 0  | 1       | 1    |
+| 1  | 0.5     | 1/2  |
+| 2  | 0.25    | 1/4  |
+| 3  | 0.125   | 1/8  |
+| 4  | 0.0625  | 1/16 |
+| 5  | 0.03125 | 1/32 |
+
+让孩子回答：
+
+- 为什么分母越来越大？
+- 为什么每一份越来越小？
+- 如果一直折半，会不会有一天变成零？
+
+**知识点 B：长方形面积与黎曼积分**
+
+[Lesson #93 Area Under A Curve](https://images.openai.com/static-rsc-4/j-Y2TPjhaE_OWSuFfFAaN6xhVuhdmFc9jYhfVzYeAtIhwCmxfJwLCElAFV_PoPfgRt7IdPahRg0GQPyIoKZfTcgcvu2UlOP_Hdsg39EfXOPX-oX-gzRgaAcLqVoLKzxV0LtMmviAnCHdZ9Wl-SnoabqSIql1i9dBzovqcuJprhg?purpose=inline)
+
+[pleacher.com](https://www.pleacher.com/mp/mlessons/calc2006/moday93.html?utm_source=chatgpt.com)
+
+先回忆四年级熟悉的公式：
+
+\\[ 长方形面积=长\times宽 \\]
+
+然后提出问题：
+
+如果一块草地的边缘不是直线，而是一条弯曲的曲线，怎么计算它的面积？
+
+引导孩子：
+
+1. 把草地分成很多小长方形。
+2. 分别计算每个长方形的面积。
+3. 把这些面积加起来。
+4. 分得越细，通常就能得到越精细的估算。
+
+这就是黎曼积分思想的直观入口。
+
+注意：这里讲的是黎曼积分的启蒙，不是让四年级孩子学习高等数学公式。
+
+## **四、诗歌：从《庄子》看递归**
+
+# **一尺之棰，日取其半，万世不竭。**
+
+——《庄子·天下》
+
+[Chinese Bamboo Ruler, 'bamboo' And 'poem', 'zhang Shen' Mark](https://images.openai.com/static-rsc-4/gEGiDt80rtZYIzujGIce1ekAUgIdt1dhiG-ErUOGZ9XbPFRjsW2VDA1sxLybj71BOHaFanFBxI947iS7pGZPN0gzW27CuEhD5G8_m-ExIG-dWmWtDlnXzNCzMH2YvOleKfOq9phjvbySyO56LBwWgojCKqleYsjzxKz06dhI_1Q?purpose=inline)
+
+[liveauctioneers.com](https://www.liveauctioneers.com/item/159872316_chinese-bamboo-ruler-bamboo-and-poem-zhang-shen-mark?utm_source=chatgpt.com)
+
+这句古文非常适合本周课程。
+
+讲解方法：
+
+- 一尺长的木棒，每天取走剩余长度的一半。
+- 第一天剩下半尺。
+- 第二天剩下四分之一尺。
+- 第三天剩下八分之一尺。
+- 第四天剩下十六分之一尺。
+
+**让孩子思考：**
+
+如果一直这样取下去，木棒什么时候会完全消失？
+
+这里可以引出一个非常有意思的数学问题：无限次折半，与有限的长度有什么关系？
+
+教师需要补充一个严谨的区别：
+
+- 每天折半，是重复执行规则，也可以用递推关系描述。
+- 递归编程，则是一个过程调用自己，并且必须有停止条件。
+
+二者思维相通，但并不完全相同。
+
+## **五、课程中的编程实践**
+
+[Fractal tree - Rosetta Code](https://images.openai.com/static-rsc-4/Ut6ItnikkJSFivMaf8MSXO-IJBeabwHk0RD_FPANA6yMzR5oLuDmPYhKJahqJm564OzwhqJo5zsC_WUKvH-N_z1bwO94xesOMuW6rd50kkVd2_7ObyA-_gLqNoihBRnpsmdT7GdjkoQ1b5EES-QjPN5lN-mqF-1jzPPEvvPWaEg?purpose=inline)
+
+[rosettacode.org](https://rosettacode.org/wiki/Fractal_tree?utm_source=chatgpt.com)
+
+建议做一个递归树。
+
+基本规则：
+
+1. 画一条树干。
+2. 从树干顶端分出两根树枝。
+3. 每根树枝继续分出两根更小的树枝。
+4. 每次树枝长度缩短为原来的 70%。
+5. 树枝短于设定长度时停止。
+
+伪代码：
+
+```
+画树(长度, 层数):
+
+    如果 层数 = 0:
+        停止
+
+    画一条树枝(长度)
+
+    左转30度
+    画树(长度 × 0.7, 层数 - 1)
+
+    右转60度
+    画树(长度 × 0.7, 层数 - 1)
+
+    左转30度
+```
+
+让孩子理解三个概念：
+
+| 编程概念   | 生活中的理解        |
+| ------ | ------------- |
+| 函数调用自己 | 树枝继续长出树枝      |
+| 参数变化   | 每一根树枝变短       |
+| 停止条件   | 树枝短到一定程度，不再生长 |
+
+## **六、完整课堂安排（45分钟）**
+
+| 时间      | 教学内容       | 教学方法     |
+| ------- | ---------- | -------- |
+| 0–5分钟   | 纸张连续对折     | 观察、猜想    |
+| 5–13分钟  | 认识递归       | 套娃、树枝例子  |
+| 13–21分钟 | 黎曼的一生      | 人物故事、时间线 |
+| 21–31分钟 | 分数、面积与庄子诗句 | 动手计算、提问  |
+| 31–41分钟 | 递归树编程      | 规则拆解、实践  |
+| 41–45分钟 | 总结与分享      | 孩子复述     |
+
+### **七、本周课程的三个核心问题**
+
+建议整节课围绕这三个问题展开：
+
+1. **WHAT：什么是递归？**
+
+   一个过程调用自己，把复杂问题变成更小的同类问题。
+2. **WHY：为什么需要递归？**
+
+   因为有些复杂问题，可以通过重复简单规则逐步解决。
+3. **HOW：怎样使用递归？**
+
+   找到重复规则，改变参数，设置停止条件。
+
+### **八、课后延伸**
+
+给孩子三个小任务：
+
+- 用纸折出 1/2、1/4、1/8、1/16。
+- 画一棵至少有三层分支的递归树。
+- 找出生活中三个具有递归特点的例子，例如树枝、河流分支、俄罗斯套娃。
+
+最后可以这样结束课程：
+
+> 一颗种子长成一棵树，一根树枝长出更多树枝；一个简单的数学规则，能够产生无穷的变化。数学和编程，就是帮助我们发现这些规律。
+
+## **九、PPT课件**
+
+**第二期第八次课：递归与黎曼**
+
+PowerPoint · 15页 · 可编辑
+
+已制作
+
+内容包括：
+
+- 过去、现在、未来三部分。
+- 黎曼人物生平与数学贡献。
+- 四年级分数、面积知识。
+- 《庄子·天下》诗句。
+- 黎曼积分直观解释。
+- 递归流程图和编程实践。
+
+  &#x20;下载PPT课件
+
+**参考资料：**
+
+- [汉诺威大学黎曼几何与物理研究中心：黎曼介绍](https://www.rc.uni-hannover.de/en/center/profile-and-history/bernhard-riemann?utm_source=chatgpt.com)
+- [圣安德鲁斯大学数学史：黎曼生平与贡献](https://mathshistory.st-andrews.ac.uk/Biographies/Riemann/?utm_source=chatgpt.com)
+
+我的教学建议：本周不要把重点放在黎曼猜想的复杂公式上，而是让孩子真正理解「一条规则不断重复，能够产生复杂的世界」。这才是递归课程最值得留下的东西。
+
+### Q2: 按照下面的概要，调整过去，现在，未来的事件，把课程更聚焦，用递归思想，解决编程中的问题，列一个星际旅行中的js代码部分，比如音乐的生成，使孩子们愿意动手，结合学习中的数学知识，和递归，改成喜欢的声音，重新列一下大纲，做成ppt,最后一页，用诗歌《花牛歌》，ppt风格也改成花牛歌风格，有动感和情趣
+
+**过去(革命与立宪):1Q101126 蒋老师的编程课(2-22 递归从哪来)**
+
+**现在(台北选举):Z0261128 蒋老师的编程课(2-23 递归工具)**
+
+**未来(百年世界杯):Z0301130 蒋老师的编程课(2-24 递归应用)**
+
+### A2: Claude code
+
+资料查完了(台北选举、世界杯 2030 已核实;《花牛歌》作者和全文没查到可靠来源,我不会整首照搬)。现在开始做:递归音乐盒代码 + 花牛歌风格 PPT。
+
+递归音乐盒(网页,可听可改代码)已测通,花牛吉祥物和动画也画好了,正在排版 PPT。
+
+22 页 PPT 已生成,正在渲染检查排版、加页面切换动效。
+
+PPT 和递归音乐盒网页都做好了,PPT 共 22 页,每页带讲解备注。网页我只在浏览器里测过功能(能点、没报错),没有真正听过声音。PPT 是用 LibreOffice 转成 PDF 看的版面,没有在 PowerPoint 里放映过;切换动效我没试放,吉祥物的跳动动画也要在 PowerPoint 放映时才会动。
+
+## 新大纲(聚焦:用递归解决编程问题,边做边改声音)
+
+**过去 · 递归从哪来(1Q101126,1910-11-26,革命与立宪)**
+1. 递归是什么:基线 + 递推
+2. 层层找依据:从校规、法律一路往上问到宪法,和时空漫游的 `path()` 是同一个模板
+3. 我的第一个声音:`tone()`,用「商和余数」决定音高(i÷5,商是第几个八度,余数是哪个音)
+3.1 递归弹一首:`play(notes)`
+
+**现在 · 递归工具(Z0261128,2026-11-28,台北选举)**
+1. 分解 + 合并:开票按票所→区→全市层层汇总 `total(node)`
+2. 分而治之:汉诺塔旋律 `ruler(n)`
+3. 往下传参数:回声 `echo`(音量÷2)、泛音 `rich`(频率×2),再讲怎么换成你喜欢的声音
+3.1 避坑指南(音乐版),另有一页递归工具箱
+
+**未来 · 递归应用(Z0301130,2030-11-30,百年世界杯)**
+1. 淘汰赛是一棵递归的树:`winner()`,n 支球队要打 n−1 场
+2. 欧几里得鼓点:和上周的辗转相除是同一个想法
+3. 星际旅行音乐盒:每放大一层升一个八度,地球→本星系群的频率是 220、440、880、1760
+3.1 动手挑战卡(三个星级),最后是小测验和总结
+
+**最后一页**:花牛歌页,草地配会动的花牛。
+
+## 需要你注意
+
+- **《花牛歌》原文没放**:我没查到可靠的作者和全文,不想放错,也不整首照搬。页上是我写的一段原创小韵,标注为献给《花牛歌》;原诗的位置留在这页的备注里,你可以直接粘贴。
+- **花牛歌风格**:牛斑底纹、波浪标题条、粉色鼻子编号、贴纸式阴影,每页右上角有戴耳机的花牛。
+- **音乐盒网页**:双击打开,可以换音色、调速度,点按钮听汉诺塔旋律、欧几里得鼓点和星际旅行音乐,底部代码框里能自己写递归旋律。PPT 里的代码都来自这个网页。
+- **没有放进时空漫游站点**:星际旅行那段代码目前只在音乐盒里运行,需要的话我可以接进时空漫游。
+- **黎曼和《登鹳雀楼》已撤下**:为了更聚焦,这版没有再讲。
+- **1910-11-26 当天**:没有查到确定的大事,幻灯片里用的是同期事件:10 月 22 日资政院通过速开国会议案;11 月 20 日墨西哥革命爆发(这条是通行史实,我没有另查来源)。页内已注明。
+- **台北选举**:投票 8:00–16:00,16:00 起开票,市长有 6 位候选人登记。本课不谈谁赢,只学「汇总」。选票的数字是虚构的,结果请以中选会为准。
+- **2030-11-30 当天没有比赛**:页内写明这是想象的未来日期。2030 世界杯的信息来自 Al Jazeera 7 月的报道:48 队,决赛预计 7 月 21 日,具体赛程以 FIFA 公布为准。
+
+文件在 /mnt/user-data/outputs/:
+- 递归音乐盒-花牛歌版.pptx
+- 递归音乐盒.html
+
+
+### Q3: 按下面提纲，生成蒋老师的编程课 第二期第八次课 递归的ppt，按徐志摩《花牛歌》的风格用配色，过去是脚下草地剪秋罗，现在是花牛尾巴，未来是天空做梦，再生成7分钟的讲解视频
+
+**过去(革命与立宪):1Q101126 蒋老师的编程课(2-22 递归从哪来)**
+1. 递归是什么:基线、递推、自己调用自己(套娃)
+2. 生活与语言中的递归:套娃、山里有座庙、镜子,附中日英对照表
+3. 代码中的递归:阶乘 fact(n),先往下问、再往上答
+
+   3.1 常见错误:没有基线、问题没变小、重复计算、栈溢出
+
+**现在(台北选举):Z0261128 蒋老师的编程课(2-23 递归工具)**
+1. 分而治之:汉诺塔,搬 n 个 = 搬 n−1 个 + 搬 1 个 + 再搬 n−1 
+2. 四年级数学「除数是两位数的除法」:余数当新除数,这就是辗转相除,附练习
+3. 《登鹳雀楼》:「欲穷千里目」是基线,「更上一层楼」是递推
+
+   3.1 分享数学家黎曼:生平、黎曼几何、黎曼猜想,以及它和递归的关系
+
+**未来(百年世界杯):Z0301130 蒋老师的编程课(2-24 递归应用)**
+1. 时空漫游中的递归:地球→太阳系→银河系→本星系群
+2. 赛车中的逻辑:游戏循环、碰撞判断、撞单词加分、圈数计数、难度选择
+3. 语言学习中的递归:嵌套句子、拆词
+
+   3.1 编程应用:文件夹、分形树、GitHub
+
+### A3: Claude chat
+
+按《花牛歌》三色(草地剪秋罗/花牛尾巴/天空做梦)重做配色和页头,正在写 24 页内容;视频这边环境里没有语音合成,我会做成带字幕+配乐的 7 分钟版并附讲稿。
+
+G path points to hn; fix.
+
+PPT 24 页已完成并检查过版面。现在合成 7 分钟视频(字幕 + 动画花牛 + 递归配乐),大约需要几分钟。
+
+PPT 和 7 分钟视频都做好了,但视频没有人声。我这里没有语音合成功能,所以视频是字幕加配乐,时长正好 7:00。
+
+**PPT(24 页)**
+- 按你的提纲重做:过去 1910-11-26(革命与立宪)、现在 2026-11-28(台北选举)、未来 2030-11-30(百年世界杯),三段各自的知识点都按你给的编号排。
+- 赛车这部分改成了「游戏循环、碰撞判断、撞单词加分、圈数计数、难度选择」,另外加了一页讲游戏循环和总分里的递归。
+- 配色按《花牛歌》三段走:
+  - 过去:草地绿,页头有剪秋罗红花。
+  - 现在:花牛的黑白米色,页头右侧挂着一截牛尾巴。
+  - 未来:天空蓝紫,页头有云朵和星星。
+- 页头右上角是戴耳机的小花牛,放映时会动,页面有切换动效。每页备注就是讲稿,最后一页是「下课啦 · 哞——」。
+- 《登鹳雀楼》只放了你提纲里的「欲穷千里目」「更上一层楼」两句,没有整首放。
+
+**视频**
+- 每页下方是字幕条,小花牛会动,背景音乐是用「汉诺塔旋律」生成的递归配乐,每进入新的一段音调抬高一级。
+- 字幕和每页时长是按讲稿字数分配的,没有按真人语速校对。
+- `讲稿.txt` 里有按页的讲稿和起始时间,`讲稿.srt` 是字幕文件。想要有声版,用任何朗读软件读讲稿,或者你自己录音,再配上视频就行。
+- 我只抽看了开头、中段和结尾的几帧,没有从头到尾看完整段视频。
+
+**需要你核对的**
+- 《花牛歌》的原文我没放。我没找到可靠的全文,也不想放错,页上用的是我写的原创小韵,并注明色彩灵感来自徐志摩《花牛歌》。如果你要放原诗,告诉我文本,我加进最后一页。
+- 1910-11-26 当天没有查到确定的大事,幻灯片里用的是同期的事件(资政院通过速开国会议案、墨西哥革命爆发),页内已注明。
+- 台北选举页只讲「层层汇总」,没谈谁赢。投票和开票时间、台北市长有 6 位候选人登记,来自上一轮查的报道,结果以中选会为准。
+- 2030 世界杯的信息来自 Al Jazeera 的报道,具体赛程以 FIFA 公布为准。2030-11-30 当天没有比赛,页内已写明是想象的日期。
+- 黎曼的生平和数学部分是凭记忆写的,黎曼猜想标注为「尚未证明」,请你再核对一下。
+
+文件在 /mnt/user-data/outputs/:
+- 递归-蒋老师编程课-花牛歌配色版.pptx
+- 递归-蒋老师编程课-7分钟讲解视频.mp4
+- 讲稿.txt
+- 讲稿.srt
+
+### A3: Claude code
+
+先查一下这个环境里能不能做视频（配音和合成工具），再动手做 PPT。
+
+我需要访问 huggingface.co 下载中文语音模型，但网络拦截了它，所以请求把它加入允许访问的网站列表，课程文字不会发到外部。
+
+已获批准。先在后台装语音合成工具，同时开始做 PPT。
+
+PPT 部分先做。下载语音模型的那一步被权限检查拦下了，等 PPT 做完我再说明这件事和视频怎么处理。
+
+PPT 已完成 11/24 张，正在写“现在”这一段（汉诺塔、辗转相除、登鹳雀楼、黎曼）。
+
+PPT 24 张都已发布，正在检查排版，“宇宙”那一页超出了版面，需要修。
+
+PPT 排版已修好。现在开始做视频：先写 7 分钟的讲解稿，再用真实字体逐页渲染画面。
+
+字体和字幕效果正常。开始合成视频。
+
+7 分钟讲解视频（字幕版，暂无配音）+ 带时间轴的讲解稿 + 字幕文件
+
+PPT 做好了，一共 24 页，按你的提纲分成过去、现在、未来三段。视频也做好了，7 分钟整，但**现在只有画面和字幕，没有配音**，原因在下面。
+
+**PPT**：https://claude.ai/artifact/F3sbFwf2mwdLuyRPjRzNCN
+
+| 段落 | 《花牛歌》配色 | 页数 | 内容 |
+|---|---|---|---|
+| 封面 | 三段颜色并排 | 1 | 三张诗句卡片 |
+| **过去**（革命与立宪）1Q101126 · 2-22 递归从哪来 | 草地深绿，配剪秋罗的朱红 | 2–8 | 基线、递推、自己调用自己；套娃、山里有座庙、镜子；中日英对照表；`fact(n)` 先往下问、再往上答；四个常见错误 |
+| **现在**（台北选举）Z0261128 · 2-23 递归工具 | 花牛的黑、白、棕 | 9–17 | 汉诺塔（图解和代码）；辗转相除和 4 道练习，答案点击后出现；《登鹳雀楼》的基线和递推；黎曼的生平、黎曼几何、黎曼猜想，以及他和递归的关系 |
+| **未来**（百年世界杯）Z0301130 · 2-24 递归应用 | 夜空深蓝，配梦里的金色和紫色 | 18–23 | 地球→太阳系→银河系→本星系群；赛车的 5 个逻辑；嵌套句子和拆词（中英日）；文件夹、GitHub；分形树代码 |
+| 总结 | 三段颜色收尾 | 24 | 回家小任务 |
+
+- 每页备注里都写了讲解要点。
+- 我在本机渲染检查过全部 24 页，没有超出版面。
+- 有一处需要你确认：《花牛歌》原诗里没有直接写“天空”，所以“未来”那段的“梦见了整片天空”“梦里是整片天空”是我写的引申句，备注里已经注明不是原诗。不合适的话我换掉。
+
+**视频（已发给你的 3 个文件）**
+- `蒋老师编程课_2-8_递归_讲解视频_字幕版.mp4`：1080p，7 分 00 秒，24 页按讲解稿的节奏切换，字幕烧在画面底部，用的是 PPT 同款字体。
+- `蒋老师编程课_2-8_递归_讲解稿.md`：每页一段讲稿，标好了起止时间，可以照着录音。
+- `蒋老师编程课_2-8_递归_字幕.srt`：字幕文件，可以导入剪映等软件。
+
+**为什么没有配音**：这个环境里没有能用的中文语音合成。我做了两步：
+1. 你已经批准云环境访问 Hugging Face，这一步完成了。
+2. 但下载开源中文语音模型（vits-melo-tts-zh_en，约 170MB）时，被自动权限检查拦下了，所以我停在这里，没有绕过它。
+
+接下来有两个办法：
+- **你同意下载这个模型**：回复我一句，我再试一次。如果还是被拦，需要你在设置里放行这类下载命令。模型下载下来之后，我就能在本机合成配音，讲稿不会发给任何外部服务。
+- **你自己录音**：照着讲稿录，再用剪映把录音和这个视频合在一起，时间轴已经对好了。
+
+两个链接目前都只有你能打开，要给别人看的话，需要先在页面的“分享”菜单里设置。上一版的递归 PPT 还在原来的链接，没有改动。
+
+
+### A3: GPT
+
+我已经确定了这次课件的整体设计方向：采用徐志摩《花牛歌》的田园水彩风格，以草地绿、花朵粉、奶油白和天空蓝为主色。
+
+不过，文件制作过程中遇到了数据分析功能的使用限制，目前无法完成并验证这次新版 PPT 和视频的生成。
+
+本次交付状态：
+- PPT：尚未完成新版文件。
+- 7分钟讲解视频：尚未生成。
+- 讲解稿：已经设计了按18页PPT分段的内容，但尚未完成文件交付。
+预计数据分析功能约8小时48分钟后可能恢复，但这不是保证时间。
+
+另外，视频我会按以下标准制作：
+- 16:9 横屏，适合课堂播放。
+- 普通话中文讲解，配合PPT逐页切换。
+- 约7分钟，带字幕和背景音乐。
+- PPT和视频内容严格对应。
+不会把前面旧版的递归课件冒充成这次的新版本。
+
+
+from pptx import Presentation
+from pptx.util import Inches, Pt
+from pptx.dml.color import RGBColor
+from pptx.enum.shapes import MSO_SHAPE, MSO_CONNECTOR
+from pptx.enum.text import PP_ALIGN, MSO_ANCHOR
+from PIL import Image, ImageEnhance
+import os, subprocess, textwrap, math, json, glob
+
+OUTDIR="/mnt/data"
+pptx_path=os.path.join(OUTDIR,"蒋老师的编程课_第二期第八次课_递归.pptx")
+video_path=os.path.join(OUTDIR,"蒋老师的编程课_第二期第八次课_递归_7分钟讲解.mp4")
+script_path=os.path.join(OUTDIR,"递归_7分钟讲解稿.txt")
+
+# Crop clean illustrations from generated watercolor image (exclude generated lettering).
+source_img="/mnt/data/a_wide_pastel_watercolor_ink_style_educational_p.png"
+img=Image.open(source_img).convert("RGB")
+W,H=img.size
+# Art-only crops: left meadow/cow, central cow tail, right sky. Crop away most overlaid typography.
+crops={
+    "meadow": img.crop((0, 0, int(W*0.34), int(H*0.39))),
+    "tail": img.crop((int(W*0.16), 0, int(W*0.40), int(H*0.30))),
+    "sky": img.crop((int(W*0.72), 0, W, int(H*0.38))),
+}
+for k,v in crops.items():
+    v.save(os.path.join(OUTDIR,f"recursion_{k}.jpg"),quality=92)
+
+# Palette inspired by the soft green meadow, flowers, cow and sky in Xu Zhimo's pastoral poem.
+NAVY=RGBColor(43,67,79)
+INK=RGBColor(53,69,67)
+GREEN=RGBColor(104,145,93)
+LEAF=RGBColor(156,183,123)
+CORAL=RGBColor(215,130,111)
+PINK=RGBColor(231,170,163)
+SKY=RGBColor(117,166,194)
+PALE=RGBColor(250,247,235)
+CREAM=RGBColor(255,253,246)
+GOLD=RGBColor(225,183,91)
+GREY=RGBColor(112,122,116)
+WHITE=RGBColor(255,255,255)
+MINT=RGBColor(232,240,222)
+BLUSH=RGBColor(250,234,224)
+BLUEPALE=RGBColor(230,240,246)
+
+prs=Presentation()
+prs.slide_width=Inches(13.333)
+prs.slide_height=Inches(7.5)
+
+def set_bg(slide, color=PALE):
+    shape=slide.shapes.add_shape(MSO_SHAPE.RECTANGLE,0,0,prs.slide_width,prs.slide_height)
+    shape.fill.solid(); shape.fill.fore_color.rgb=color
+    shape.line.fill.background()
+    slide.shapes._spTree.remove(shape._element)
+    slide.shapes._spTree.insert(2,shape._element)
+
+def add_text(slide,x,y,w,h,text,size=18,color=INK,bold=False,align=None,
+             font="Noto Sans CJK SC",valign=MSO_ANCHOR.TOP,margin=0.08):
+    tb=slide.shapes.add_textbox(Inches(x), Inches(y), Inches(w), Inches(h))
+    tf=tb.text_frame; tf.clear(); tf.word_wrap=True
+    tf.margin_left=Inches(margin); tf.margin_right=Inches(margin)
+    tf.margin_top=Inches(margin); tf.margin_bottom=Inches(margin)
+    tf.vertical_anchor=valign
+    p=tf.paragraphs[0]
+    p.text=text
+    if align is not None: p.alignment=align
+    p.font.name=font; p.font.size=Pt(size); p.font.bold=bold; p.font.color.rgb=color
+    return tb
+
+def add_paras(slide,x,y,w,h,items,size=16,color=INK,bullet=True,spacing=8):
+    tb=slide.shapes.add_textbox(Inches(x), Inches(y), Inches(w), Inches(h))
+    tf=tb.text_frame; tf.clear(); tf.word_wrap=True
+    tf.margin_left=Inches(.12); tf.margin_right=Inches(.1)
+    tf.margin_top=Inches(.08); tf.margin_bottom=Inches(.05)
+    for i,item in enumerate(items):
+        p=tf.paragraphs[0] if i==0 else tf.add_paragraph()
+        p.text=("• " if bullet else "")+item
+        p.font.name="Noto Sans CJK SC"; p.font.size=Pt(size); p.font.color.rgb=color
+        p.space_after=Pt(spacing)
+    return tb
+
+def rounded(slide,x,y,w,h,fill=CREAM,line=RGBColor(231,224,207),radius=True):
+    sh=slide.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE if radius else MSO_SHAPE.RECTANGLE,
+                              Inches(x), Inches(y), Inches(w), Inches(h))
+    sh.fill.solid(); sh.fill.fore_color.rgb=fill
+    sh.line.color.rgb=line
+    return sh
+
+def header(slide,section,title,subtitle=None,accent=GREEN,num=None):
+    add_text(slide,.62,.25,11.8,.25,section,10,accent,True)
+    add_text(slide,.62,.62,12.0,.58,title,26,NAVY,True)
+    if subtitle: add_text(slide,.68,1.22,11.8,.38,subtitle,13,GREY)
+    add_text(slide,12.25,7.12,.45,.18,f"{num:02d}" if num else "",9,GREY,False,PP_ALIGN.RIGHT)
+    # tiny flower motif
+    for dx,dy,c in [(0,0,CORAL),(.10,0,PINK),(0,.10,GOLD),(.10,.10,LEAF)]:
+        sh=slide.shapes.add_shape(MSO_SHAPE.OVAL, Inches(12.3+dx), Inches(.27+dy), Inches(.08), Inches(.08))
+        sh.fill.solid(); sh.fill.fore_color.rgb=c; sh.line.fill.background()
+
+def footer(slide,txt="蒋老师的编程课 · 第二期第八次课"):
+    add_text(slide,.65,7.1,7,.18,txt,8,GREY)
+
+def new_slide(section,title,subtitle=None,accent=GREEN,bg=PALE):
+    s=prs.slides.add_slide(prs.slide_layouts[6]); set_bg(s,bg)
+    header(s,section,title,subtitle,accent,len(prs.slides)); footer(s)
+    return s
+
+def card(slide,x,y,w,h,title,body,accent=GREEN,fill=CREAM,body_size=16):
+    rounded(slide,x,y,w,h,fill)
+    add_text(slide,x+.2,y+.16,w-.4,.35,title,17,accent,True)
+    if isinstance(body,str): body=[body]
+    add_paras(slide,x+.2,y+.65,w-.4,h-.78,body,body_size,INK,True,7)
+
+def arrow(slide,x1,y1,x2,y2,color=SKY,width=2):
+    c=slide.shapes.add_connector(MSO_CONNECTOR.STRAIGHT, Inches(x1), Inches(y1), Inches(x2), Inches(y2))
+    c.line.color.rgb=color; c.line.width=Pt(width)
+
+def add_image_crop(slide,path,x,y,w,h):
+    im=Image.open(path)
+    # save as image crop matching aspect ratio
+    target=w/h; ratio=im.width/im.height
+    if ratio>target:
+        nw=int(im.height*target); left=(im.width-nw)//2; im=im.crop((left,0,left+nw,im.height))
+    else:
+        nh=int(im.width/target); top=(im.height-nh)//2; im=im.crop((0,top,im.width,top+nh))
+    tmp=os.path.join(OUTDIR,"_crop_tmp.jpg"); im.save(tmp,quality=90)
+    slide.shapes.add_picture(tmp, Inches(x), Inches(y), width=Inches(w), height=Inches(h))
+
+# Slide 1 cover
+s=prs.slides.add_slide(prs.slide_layouts[6]); set_bg(s,PALE)
+add_image_crop(s,os.path.join(OUTDIR,"recursion_meadow.jpg"),0,0,4.4,7.5)
+add_image_crop(s,os.path.join(OUTDIR,"recursion_sky.jpg"),9.4,0,3.93,7.5)
+# soft central panel
+rounded(s,3.55,.75,6.25,5.95,CREAM,RGBColor(237,225,201))
+add_text(s,4.0,1.15,5.35,.35,"蒋老师的编程课 · 第二期第八次课",14,GREEN,True,PP_ALIGN.CENTER)
+add_text(s,4.0,2.0,5.35,1.0,"递归",46,NAVY,True,PP_ALIGN.CENTER)
+add_text(s,4.0,3.08,5.35,.55,"一条规则，走向无限的世界",22,CORAL,True,PP_ALIGN.CENTER)
+add_text(s,4.05,4.1,5.25,.85,"过去：脚下草地剪秋罗\n现在：花牛尾巴轻轻摇\n未来：抬头望天空做梦",17,INK,False,PP_ALIGN.CENTER)
+add_text(s,4.0,5.55,5.35,.35,"PAST  ·  PRESENT  ·  FUTURE",12,SKY,True,PP_ALIGN.CENTER)
+footer(s)
+
+# Slide 2 roadmap
+s=new_slide("课程地图 · PAST / PRESENT / FUTURE","今天，我们沿着一条规则出发","从生活里的重复，到数学里的工具，再到未来世界的应用",GREEN)
+card(s,.7,1.9,3.85,4.5,"过去｜递归从哪来",["1Q101126 · 2-22","基线、递推、自己调用自己","套娃、语言、阶乘 fact(n)","常见错误：没有基线、没变小、重复计算、栈溢出"],GREEN,MINT,15)
+card(s,4.75,1.9,3.85,4.5,"现在｜递归工具",["Z0261128 · 2-23","分而治之：汉诺塔","四年级：两位数除法与辗转相除","《登鹳雀楼》与黎曼"],CORAL,BLUSH,15)
+card(s,8.8,1.9,3.85,4.5,"未来｜递归应用",["Z0301130 · 2-24","时空层级与赛车逻辑","语言学习：嵌套句子、拆词","文件夹、分形树、GitHub"],SKY,BLUEPALE,15)
+
+# Slide 3 recursion definition
+s=new_slide("过去｜递归从哪来","递归的三个关键词：基线、递推、自己调用自己","递归不是“无限重复”，而是带着停止条件的自我调用。",GREEN)
+card(s,.7,1.85,3.75,4.7,"① 基线 Base case",["最小、最简单的情况","到这里就可以直接回答","没有基线，程序可能停不下来"],GREEN,MINT,17)
+card(s,4.8,1.85,3.75,4.7,"② 递推 Recurrence",["把大问题变成更小的问题","每一步都朝基线靠近","例如：n! = n × (n−1)!"],CORAL,BLUSH,17)
+card(s,8.9,1.85,3.75,4.7,"③ 自己调用自己",["函数在内部再次调用自己","像大套娃里还有小套娃","每次参数都要变小或更接近结束"],SKY,BLUEPALE,17)
+
+# Slide 4 everyday recursive examples and bilingual table
+s=new_slide("过去｜生活与语言中的递归","我们早就见过递归：一个里面还有一个","看见“相同结构再次出现”，就看见了递归的影子。",GREEN)
+card(s,.7,1.75,3.65,2.1,"俄罗斯套娃",["打开大娃娃，里面还有小娃娃；继续打开，直到最小的那个。"],GREEN,MINT,15)
+card(s,4.85,1.75,3.65,2.1,"山里有座庙",["庙里有个老和尚，老和尚讲故事；故事里又说山里有座庙……"],CORAL,BLUSH,15)
+card(s,8.95,1.75,3.65,2.1,"镜子里的镜子",["两面镜子相对，画面里出现越来越小的镜像。"],SKY,BLUEPALE,15)
+# language table
+rounded(s,.85,4.15,11.65,2.05,CREAM)
+add_text(s,1.05,4.28,2.1,.3,"中文",13,GREEN,True)
+add_text(s,4.0,4.28,2.2,.3,"日本語",13,GREEN,True)
+add_text(s,7.05,4.28,2.1,.3,"English",13,GREEN,True)
+add_text(s,10.0,4.28,2.2,.3,"意思",13,GREEN,True)
+rows=[
+    ("递归","再帰（さいき）","recursion","自己调用自己"),
+    ("套娃","入れ子人形","nesting dolls","层层包含"),
+    ("重复","繰り返し","repetition","再次执行"),
+    ("停止条件","終了条件","base case","递归的出口")
+]
+for i,row in enumerate(rows):
+    yy=4.68+i*.34
+    add_text(s,1.05,yy,2.2,.28,row[0],12,INK)
+    add_text(s,4.0,yy,2.3,.28,row[1],12,INK)
+    add_text(s,7.05,yy,2.3,.28,row[2],12,INK)
+    add_text(s,10.0,yy,2.3,.28,row[3],12,INK)
+
+# Slide 5 factorial
+s=new_slide("过去｜代码中的递归：阶乘 fact(n)","先往下问，再往上答","5! = 5 × 4 × 3 × 2 × 1；递归把它写成一个小规则。",GREEN)
+card(s,.7,1.8,5.2,4.7,"递归定义",["fact(1) = 1   ← 基线","fact(n) = n × fact(n−1)","fact(5) = 5 × fact(4)","fact(4) = 4 × fact(3)","……一直问到 fact(1)，再逐层返回。"],GREEN,MINT,16)
+# stack flow right
+rounded(s,6.25,1.8,6.25,4.7,CREAM)
+add_text(s,6.55,2.05,5.6,.35,"向下：不断提出更小的问题",17,CORAL,True,PP_ALIGN.CENTER)
+levels=[("fact(5)","5 × fact(4)"),("fact(4)","4 × fact(3)"),("fact(3)","3 × fact(2)"),("fact(2)","2 × fact(1)"),("fact(1)","1  ← 基线")]
+for i,(a,b) in enumerate(levels):
+    yy=2.55+i*.58
+    rounded(s,6.75,yy,2.15,.42,BLUSH,RGBColor(239,210,197))
+    add_text(s,6.85,yy+.06,1.95,.26,a,13,NAVY,True,PP_ALIGN.CENTER)
+    add_text(s,9.05,yy+.06,3.0,.26,b,13,INK,False)
+add_text(s,6.7,5.65,5.5,.35,"向上：1 → 2 → 6 → 24 → 120",18,GREEN,True,PP_ALIGN.CENTER)
+
+# Slide 6 code
+s=new_slide("过去｜阶乘代码：先下潜，再返回","递归函数的两部分：停止条件 + 递归调用","课堂重点：读懂每一行在做什么，而不是背代码。",GREEN)
+rounded(s,.85,1.8,7.0,4.8,RGBColor(245,243,232),RGBColor(222,217,201))
+code="""def fact(n):
+    if n <= 1:          # 基线：到 1 就停
+        return 1
+    return n * fact(n-1)  # 递归：问题缩小"""
+add_text(s,1.15,2.15,6.45,3.3,code,18,NAVY,False,font="DejaVu Sans Mono")
+card(s,8.2,1.8,4.2,4.8,"口头追踪 fact(4)",["fact(4) 等于 4 × fact(3)","fact(3) 等于 3 × fact(2)","fact(2) 等于 2 × fact(1)","fact(1) 返回 1","向上算：2、6、24"],CORAL,BLUSH,15)
+
+# Slide 7 errors
+s=new_slide("过去｜递归常见错误","四个坑：没出口、没变小、做重复、堆太深","让孩子判断：下面哪一种写法会出问题？",GREEN)
+card(s,.7,1.8,2.9,4.7,"没有基线",["永远调用自己","结果：停不下来"],CORAL,BLUSH,16)
+card(s,3.75,1.8,2.9,4.7,"问题没变小",["fact(n) 又调用 fact(n)","结果：无限递归"],CORAL,BLUSH,16)
+card(s,6.8,1.8,2.9,4.7,"重复计算",["同一子问题算很多次","结果：浪费时间"],GOLD,CREAM,16)
+card(s,9.85,1.8,2.9,4.7,"栈溢出",["调用层数太深","结果：内存/调用栈不够"],SKY,BLUEPALE,16)
+
+# Slide 8 divide and conquer / towers
+s=new_slide("现在｜递归工具：分而治之","把一个大任务，拆成几个更小的同类任务","汉诺塔：一次只能移动一个圆盘；大盘不能放在小盘上。",CORAL,bg=BLUSH)
+card(s,.7,1.8,4.0,4.8,"搬 n 个圆盘",["① 先把上面 n−1 个移到辅助柱","② 把最大的第 n 个移到目标柱","③ 再把 n−1 个移到目标柱","总步骤：T(n)=2T(n−1)+1"],CORAL,CREAM,16)
+# three pegs + discs schematic
+for x,label in [(6.1,"起点 A"),(8.55,"辅助 B"),(11.0,"目标 C")]:
+    arrow(s,x+.45,5.6,x+.45,3.2,NAVY,2)
+    add_text(s,x,5.75,.95,.3,label,12,NAVY,True,PP_ALIGN.CENTER)
+# discs stack on A
+for j,w in enumerate([1.75,1.35,.95]):
+    r=s.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(5.65+(1.75-w)/2), Inches(5.35-j*.42), Inches(w), Inches(.32))
+    r.fill.solid(); r.fill.fore_color.rgb=[GREEN,CORAL,GOLD][j]; r.line.fill.background()
+add_text(s,6.0,2.05,5.8,.55,"n = 3：先移 2 个 → 移最大盘 → 再移 2 个",16,NAVY,True,PP_ALIGN.CENTER)
+
+# Slide 9 Euclidean algorithm
+s=new_slide("现在｜四年级数学：两位数除法","余数不只是“剩下的数”，它还能成为下一步的新除数","辗转相除法：用余数继续除，直到余数为 0。",CORAL)
+card(s,.7,1.8,4.0,4.7,"例题：求 252 和 105 的最大公因数",["252 ÷ 105 = 2 …… 42","105 ÷ 42 = 2 …… 21","42 ÷ 21 = 2 …… 0","最后一个非零余数 21，就是最大公因数。"],CORAL,BLUSH,15)
+rounded(s,5.05,1.8,7.45,4.7,CREAM)
+add_text(s,5.4,2.1,6.7,.35,"余数接力：把“除数、余数”带到下一轮",17,GREEN,True,PP_ALIGN.CENTER)
+steps=[("252 ÷ 105","余数 42"),("105 ÷ 42","余数 21"),("42 ÷ 21","余数 0")]
+for i,(a,b) in enumerate(steps):
+    xx=5.45+i*2.2
+    rounded(s,xx,3.0,1.85,1.1,[MINT,BLUSH,BLUEPALE][i])
+    add_text(s,xx+.05,3.18,1.75,.28,a,13,NAVY,True,PP_ALIGN.CENTER)
+    add_text(s,xx+.05,3.58,1.75,.25,b,13,CORAL,True,PP_ALIGN.CENTER)
+    if i<2: arrow(s,xx+1.88,3.55,xx+2.12,3.55,GREEN,2)
+add_text(s,5.55,4.75,6.3,.6,"规律：a ÷ b 得到余数 r，下一轮计算 b ÷ r。",17,INK,True,PP_ALIGN.CENTER)
+add_text(s,5.55,5.55,6.3,.45,"每一轮，数字都变小；余数为 0 时停止。",15,GREEN,True,PP_ALIGN.CENTER)
+
+# Slide 10 practice
+s=new_slide("现在｜动手练习：让余数继续旅行","两人一组：先算，再说出每一步的新除数","练习 A：求 84 和 30 的最大公因数。",CORAL,bg=CREAM)
+card(s,.75,1.8,5.75,4.75,"练习 A",["84 ÷ 30 = 2 …… ____","30 ÷ ____ = ____ …… ____","____ ÷ ____ = ____ …… 0","最后的非零余数是：____"],GREEN,MINT,18)
+card(s,6.8,1.8,5.75,4.75,"练习 B",["求 96 和 36 的最大公因数。","提示：96 ÷ 36，先找到余数。","每一轮把“旧除数”变成“新被除数”。","挑战：为什么余数为 0 就能停？"],CORAL,BLUSH,17)
+add_text(s,1.1,6.65,11.1,.3,"答案提示：练习 A 的最大公因数是 6；练习 B 的最大公因数是 12。",13,GREY,False,PP_ALIGN.CENTER)
+
+# Slide 11 poem
+s=new_slide("现在｜《登鹳雀楼》：诗里的递归","欲穷千里目，更上一层楼。","王之涣用两句诗，写出了目标与不断向上的行动。",CORAL,bg=BLUEPALE)
+add_text(s,1.0,1.9,5.0,1.25,"白日依山尽，\n黄河入海流。",26,NAVY,True,PP_ALIGN.CENTER)
+add_text(s,1.0,3.45,5.0,1.25,"欲穷千里目，\n更上一层楼。",28,CORAL,True,PP_ALIGN.CENTER)
+card(s,6.5,1.85,5.7,4.7,"把诗句变成递归思维",["基线：先站在这一层，知道自己从哪里开始。","目标：想看得更远，想获得更多信息。","递推：再上一层，再观察，再扩大视野。","注意：这是帮助理解递归的比喻，不是严格的程序定义。"],CORAL,CREAM,16)
+
+# Slide 12 Riemann
+s=new_slide("现在｜数学家黎曼：把复杂问题看出新结构","1826—1866 · 德国数学家 · 39岁的一生","他改变了人们理解空间、面积和素数的方式。",CORAL)
+card(s,.7,1.75,3.8,4.9,"生平时间线",["1826 出生于德国","1851 获博士学位","1854 发表几何基础演讲","1859 发表关于素数的论文，提出黎曼猜想","1866 在意大利去世"],GREEN,MINT,15)
+card(s,4.75,1.75,3.8,4.9,"黎曼几何",["研究弯曲的空间","地球表面不是平面","几何不只研究平直的线和面","后来成为现代几何与物理的重要工具"],SKY,BLUEPALE,15)
+card(s,8.8,1.75,3.8,4.9,"黎曼猜想",["研究黎曼ζ函数的非平凡零点","与素数分布的深层规律有关","1859 年提出","截至今天仍未被证明"],CORAL,BLUSH,15)
+
+# Slide 13 Riemann and recursion relation
+s=new_slide("现在｜黎曼与递归：相似的思考，不是同一个概念","把复杂整体拆成小部分，再逐步理解整体","科学提醒：黎曼猜想本身并不是一个递归公式。",CORAL,bg=CREAM)
+card(s,.7,1.8,3.85,4.65,"黎曼积分的直观",["把曲线下的面积切成小长方形","计算每块面积","把小块加起来，逐步逼近整体"],GREEN,MINT,16)
+card(s,4.75,1.8,3.85,4.65,"递归的结构",["把大问题缩小成同类小问题","用同一规则继续处理","到达基线后逐层返回"],CORAL,BLUSH,16)
+card(s,8.8,1.8,3.85,4.65,"它们的联系",["分割、细化、重复处理","用局部步骤理解整体","递归算法可用于某些数学计算；不能说黎曼猜想靠递归解决"],SKY,BLUEPALE,15)
+
+# Slide 14 space hierarchy
+s=new_slide("未来｜时空漫游：从地球走向宇宙","地球 → 太阳系 → 银河系 → 本星系群","一个对象属于更大的系统；大系统里又包含许多小系统。",SKY,bg=BLUEPALE)
+labels=[("地球","我们生活的家园"),("太阳系","太阳和行星"),("银河系","数千亿颗恒星组成的星系"),("本星系群","银河系、仙女座星系等组成的星系群")]
+for i,(a,b) in enumerate(labels):
+    x=.7+i*3.15
+    rounded(s,x,2.5,2.55,2.0,[MINT,BLUSH,BLUEPALE,CREAM][i])
+    add_text(s,x+.1,2.85,2.35,.45,a,19,[GREEN,CORAL,SKY,NAVY][i],True,PP_ALIGN.CENTER)
+    add_text(s,x+.15,3.48,2.25,.6,b,12,INK,False,PP_ALIGN.CENTER)
+    if i<3: arrow(s,x+2.6,3.5,x+3.05,3.5,SKY,2)
+add_text(s,1.0,5.35,11.2,.65,"递归式观察：先看一个层级，再把它放进更大的层级中。",19,NAVY,True,PP_ALIGN.CENTER)
+
+# Slide 15 racing logic
+s=new_slide("未来｜赛车游戏：规则每一圈都在运行","游戏循环 + 判断 + 计数 = 可玩的赛车逻辑","递归思维帮助我们拆解任务；游戏主循环通常是持续循环，不一定用递归实现。",SKY)
+card(s,.7,1.8,3.85,4.75,"每一帧都做",["游戏循环：读取按键","更新赛车位置","检查是否碰撞","刷新画面"],SKY,BLUEPALE,16)
+card(s,4.75,1.8,3.85,4.75,"事件触发后判断",["撞到单词：加分","通过终点线：圈数 +1","碰撞障碍：减速或结束","检查难度：初级 / 进阶"],CORAL,BLUSH,16)
+card(s,8.8,1.8,3.85,4.75,"可以设计的挑战",["撞到英文单词 CAR：+10 分","连续正确：连击奖励","跑满 3 圈：完成关卡","难度越高，障碍越密集"],GREEN,MINT,16)
+
+# Slide 16 language
+s=new_slide("未来｜语言学习中的递归","句子可以套着句子；词语可以拆成更小的部分","理解结构，就能理解长句；拆解词根词缀，就能扩大词汇量。",SKY,bg=CREAM)
+card(s,.7,1.8,5.75,4.75,"嵌套句子",["我知道 [老师说 [明天会下雨]]。","外层：我知道……","中层：老师说……","内层：明天会下雨。","一层包着一层，像套娃一样。"],CORAL,BLUSH,16)
+card(s,6.8,1.8,5.75,4.75,"拆词练习",["un + help + ful → unhelpful","un：否定","help：帮助","ful：充满……的","把复杂词拆成小部件，再组合理解。"],GREEN,MINT,16)
+
+# Slide 17 applications folders/fractal/github
+s=new_slide("未来｜编程应用：文件夹、分形树、GitHub","递归不只是一个语法，它也是探索复杂结构的方法。",SKY)
+card(s,.7,1.8,3.85,4.75,"文件夹",["文件夹里可以有子文件夹","子文件夹里还有子文件夹","程序可以递归遍历目录树"],GREEN,MINT,16)
+card(s,4.75,1.8,3.85,4.75,"分形树",["树枝长出更小的树枝","每一层重复相似规则","简单规则生成复杂图案"],CORAL,BLUSH,16)
+card(s,8.8,1.8,3.85,4.75,"GitHub / Git",["仓库里有目录和子目录","Git 的 tree 对象可以引用子 tree","递归遍历目录树，列出文件结构"],SKY,BLUEPALE,15)
+
+# Slide 18 final summary
+s=new_slide("带着三个问题离开课堂","递归：先找到出口，再让问题一步步变小。","今天的主线：从生活经验，到数学工具，再到未来应用。",GREEN,bg=PALE)
+card(s,.7,1.8,3.85,4.7,"过去｜从哪来？",["基线是什么？","递推是什么？","函数怎样调用自己？"],GREEN,MINT,17)
+card(s,4.75,1.8,3.85,4.7,"现在｜怎么用？",["如何分而治之？","余数怎样继续成为下一步？","怎样逐层扩大视野？"],CORAL,BLUSH,17)
+card(s,8.8,1.8,3.85,4.7,"未来｜用在哪里？",["宇宙层级、语言结构","赛车游戏、文件夹","分形树、GitHub"],SKY,BLUEPALE,17)
+add_text(s,1.0,6.65,11.2,.32,"一颗种子，长成一棵树；一条规则，通向无限。",20,NAVY,True,PP_ALIGN.CENTER)
+
+# Save
+prs.save(pptx_path)
+
+# 7-minute narration, divided into slide-aligned segments. Approx 7 min at slow Mandarin TTS pace.
+narrations = [
+"同学们好，欢迎来到蒋老师的编程课，第二期第八次课。今天我们要认识一个很有意思的概念，叫作递归。请先想象一片草地，脚边有花，有一头花牛，花牛的尾巴轻轻摇动。我们从脚下的草地出发，经过数学和编程，最后抬头望向天空，想象一个更大的世界。今天的关键词是，一条规则，走向无限的世界。",
+"今天分成过去、现在和未来。过去，我们问递归从哪里来，认识基线、递推和自己调用自己。现在，我们学习递归工具，用汉诺塔和两位数除法理解分而治之与辗转相除，再认识诗人王之涣和数学家黎曼。未来，我们把递归带到宇宙、赛车、语言、文件夹、分形树和GitHub里。",
+"递归有三个关键词。第一个叫基线，也就是最简单的情况，到了这里就可以直接回答，不需要再问下去。第二个叫递推，把一个大问题变成一个更小、结构相同的问题。第三个是自己调用自己，也就是一个函数在执行时，再次调用这个函数。请记住，递归不是没有边界地重复，它必须有一个明确的出口。",
+"生活中有很多像递归的结构。俄罗斯套娃，大娃娃里面还有小娃娃；山里有座庙，庙里有个老和尚，老和尚讲的故事里又有一座庙；两面镜子相对，也会出现一层又一层越来越小的镜像。中文叫递归，日语常说再帰，英语是recursion。套娃可以说入れ子人形，英语是nesting dolls。停止条件就是base case。语言不同，但结构可以相通。",
+"再看一个程序例子，阶乘。五的阶乘就是五乘四乘三乘二乘一。我们把它写成一个规则：n的阶乘，等于n乘以n减一的阶乘。于是fact五会问fact四，fact四再问fact三，一直问到fact一。fact一等于一，这就是基线。然后程序开始往回回答，二乘一等于二，三乘二等于六，四乘六等于二十四，五乘二十四等于一百二十。递归就像先往下问，再往上答。",
+"递归常见有四个错误。第一，没有基线，程序不知道什么时候停止。第二，问题没有变小，例如fact调用fact本身，永远回不到出口。第三，重复计算，同一个小问题被算很多次，浪费时间。第四，调用层数太深，可能发生栈溢出。判断一个递归写得好不好，可以问三件事：有没有出口？每次有没有更接近出口？有没有不必要的重复计算？",
+"现在进入递归工具。第一个工具叫分而治之。汉诺塔有三根柱子，圆盘大小不同，只能一次移动一个，而且大盘不能放在小盘上。要搬动n个圆盘，可以先把上面的n减一个搬到辅助柱，再把最大的圆盘搬到目标柱，最后把n减一个搬到目标柱。所以搬n个，等于搬n减一个，加一次，再搬n减一个。这个结构就是递归。它把大任务拆成两个更小的同类任务。",
+"四年级正在学习除数是两位数的除法。我们来看看余数能不能帮助下一步。用二百五十二除以一百零五，商是二，余数四十二。下一步，用一百零五除以四十二，商是二，余数二十一。再用四十二除以二十一，余数变成零。最后一个非零余数二十一，就是这两个数的最大公因数。这个方法叫辗转相除法。每一步都把余数带进下一轮，数字越来越小，余数为零就停止。",
+"现在请你练习。第一题，八十四和三十的最大公因数是多少？八十四除以三十，商二余二十四；三十除以二十四，余六；二十四除以六，余数为零，所以答案是六。第二题，九十六和三十六。九十六除以三十六，余二十四；三十六除以二十四，余十二；二十四除以十二，余数为零，所以答案是十二。请留意，每一轮的旧除数，会成为下一轮的新被除数。",
+"接下来读王之涣的《登鹳雀楼》。白日依山尽，黄河入海流。欲穷千里目，更上一层楼。欲穷千里目，是我们想达到的目标；更上一层楼，是不断向前的一步。我们可以把它当作递归思维的比喻：站在这一层，想看得更远，就再上一层，再观察，再扩大视野。当然，诗句不是程序定义，但它提醒我们，进步常常来自一个接一个的小步骤。",
+"今天分享的数学家是波恩哈德·黎曼。他出生于一八二六年，是德国数学家，三十九岁时去世。他在一八五四年发表关于几何基础的重要演讲，推动了黎曼几何的发展。黎曼几何研究弯曲空间，让人们知道几何不只研究平坦的纸面。另一项著名贡献是黎曼猜想，它与素数分布的深层规律有关。一八五九年黎曼提出这个猜想，直到今天仍然没有被证明。",
+"黎曼和递归有什么关系？先说清楚，黎曼猜想本身不是一个递归公式，也不是靠递归就能证明的。我们要比较的是一种思考方式。黎曼积分可以把曲线下的面积分成许多小块，计算每块，再把它们加起来，逐步逼近整体。递归则把一个大问题缩小成同类的小问题，重复处理，直到基线。它们都提醒我们，可以用局部、细小、可重复的步骤，去理解复杂的整体。",
+"现在抬头看天空，开始时空漫游。我们住在地球上，地球属于太阳系；太阳系属于银河系；银河系又属于本星系群。一个层级可以放进更大的层级中，而里面还包含许多更小的对象。我们可以一层层放大，也可以一层层缩小。这种嵌套结构很适合用树状图表示，也能帮助计算机整理复杂的信息。",
+"再来设计一辆赛车游戏。游戏运行时，会不断读取按键、更新赛车位置、检查是否碰撞、刷新画面，这叫游戏循环。撞到一个英文单词，比如CAR，就加十分；通过终点线，圈数加一；撞到障碍物，就减速；还可以选择初级或进阶难度。请注意，游戏主循环通常是持续循环，不一定用递归实现。但我们可以用递归思维，把复杂任务拆成清楚的小规则。",
+"语言学习里也有递归。比如，我知道老师说，明天会下雨。外层是我知道，中间是老师说，里面是明天会下雨。句子里包含句子，像一层层套娃。英语单词也可以拆开，例如unhelpful，可以拆成un、help和ful。先认识小部件，再组合成整体。学习长句时，也可以先找到主干，再逐层理解里面的修饰和从句。",
+"最后看看编程中的三个应用。文件夹里可以有子文件夹，子文件夹还可以继续包含文件夹，程序可以递归遍历目录树。分形树让每根树枝长出更小的树枝，重复相似规则，就形成复杂图案。Git和GitHub中的目录结构也可以层层嵌套，Git的tree对象还可以引用子tree。我们可以递归地走访这些目录，列出每一个文件。",
+"今天我们从脚下草地出发，经过花牛尾巴的轻轻摇动，最后来到天空做梦。过去，我们认识了递归的基线、递推和自己调用自己；现在，我们用汉诺塔、辗转相除法、古诗和黎曼理解递归工具；未来，我们把这种思维带到宇宙、赛车、语言和编程项目里。请记住：先找到出口，让问题一步步变小，再用同一条规则继续前进。一颗种子，长成一棵树；一条规则，通向无限。"
+]
+# Save narration script
+with open(script_path,"w",encoding="utf-8") as f:
+    f.write("蒋老师的编程课｜第二期第八次课：递归\n7分钟讲解稿（按PPT顺序）\n\n")
+    for i,t in enumerate(narrations,1):
+        f.write(f"【第{i}段】\n{t}\n\n")
+
+# Render PPTX to PDF, then pages to PNG
+render_dir=os.path.join(OUTDIR,"_recursion_render")
+os.makedirs(render_dir,exist_ok=True)
+subprocess.run(["libreoffice","--headless","--convert-to","pdf","--outdir",render_dir,pptx_path],
+               check=True,stdout=subprocess.PIPE,stderr=subprocess.PIPE)
+pdf_path=os.path.join(render_dir,os.path.basename(pptx_path).replace(".pptx",".pdf"))
+subprocess.run(["pdftoppm","-png","-r","110",pdf_path,os.path.join(render_dir,"slide")],
+               check=True,stdout=subprocess.PIPE,stderr=subprocess.PIPE)
+page_imgs=sorted(glob.glob(os.path.join(render_dir,"slide-*.png")),
+                key=lambda p:int(p.rsplit("-",1)[1].split(".")[0]))
+assert len(page_imgs)==len(narrations),(len(page_imgs),len(narrations))
+
+# Make one narration audio per slide using Mandarin espeak, then assemble clips.
+audio_dir=os.path.join(render_dir,"audio"); os.makedirs(audio_dir,exist_ok=True)
+clip_dir=os.path.join(render_dir,"clips"); os.makedirs(clip_dir,exist_ok=True)
+clip_files=[]
+for i,(imgfile,txt) in enumerate(zip(page_imgs,narrations),1):
+    wav=os.path.join(audio_dir,f"{i:02d}.wav")
+    # Mandarin voice. Moderate pace; espeak's zh voice is clear but synthetic.
+    subprocess.run(["espeak","-v","zh","-s","148","-a","165","-w",wav,txt],
+                   check=True,stdout=subprocess.PIPE,stderr=subprocess.PIPE)
+    clip=os.path.join(clip_dir,f"{i:02d}.mp4")
+    # still slide duration follows the spoken audio; add 0.35s breathing room
+    subprocess.run(["ffmpeg","-y","-loop","1","-i",imgfile,"-i",wav,
+                    "-vf","scale=1280:720:force_original_aspect_ratio=decrease,pad=1280:720:(ow-iw)/2:(oh-ih)/2,format=yuv420p",
+                    "-c:v","libx264","-tune","stillimage","-c:a","aac","-b:a","128k",
+                    "-af","apad=pad_dur=0.35","-shortest","-movflags","+faststart",clip],
+                   check=True,stdout=subprocess.PIPE,stderr=subprocess.PIPE)
+    clip_files.append(clip)
+
+concat_file=os.path.join(render_dir,"concat.txt")
+with open(concat_file,"w") as f:
+    for p in clip_files: f.write("file '"+p.replace("'","'\\''")+"'\n")
+subprocess.run(["ffmpeg","-y","-f","concat","-safe","0","-i",concat_file,"-c","copy",video_path],
+               check=True,stdout=subprocess.PIPE,stderr=subprocess.PIPE)
+
+# Get actual duration
+probe=subprocess.run(["ffprobe","-v","error","-show_entries","format=duration","-of","default=noprint_wrappers=1:nokey=1",video_path],
+                     check=True,capture_output=True,text=True)
+duration=float(probe.stdout.strip())
+print("PPTX:",pptx_path)
+print("VIDEO:",video_path)
+print("SCRIPT:",script_path)
+print("Slides:",len(prs.slides),"Video duration seconds:",round(duration,1))
+
+
+
 ## Z026/11/21(六)
 
 ### Q:编程课，第二期第七次课 逻辑，像下面分三部分，形式像上周一样，列出讲解大纲，这周分享一首歌，《更替的四季》(《めぐる季節》)，列出中日英，讲解めぐる日文语源语义，对应中英文，理解四季变换，地球自转公转，并做ppt
